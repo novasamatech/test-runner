@@ -55,7 +55,7 @@ jobs:
         with:
           disable-animations: true
           profile: Nexus 5X
-          api-level: 29
+          api-level: 28
           script: .github/workflows/networks_test.sh
 
       - name: Rerun tests
@@ -64,7 +64,7 @@ jobs:
         with:
           disable-animations: true
           profile: Nexus 5X
-          api-level: 29
+          api-level: 28
           script: .github/workflows/networks_test.sh
 
       - uses: actions/upload-artifact@v2
