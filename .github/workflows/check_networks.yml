@@ -1,8 +1,8 @@
 name: Networks healthcheck
 
-on: [workflow_dispatch]
-  # schedule:
-  #   - cron: '0 10/5 * * *'
+on:
+  schedule:
+    - cron: '0 4/4 * * *'
 
 env:
   ACALA_PROD_AUTH_TOKEN: 'token'
