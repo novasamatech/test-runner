@@ -51,7 +51,6 @@ jobs:
         run: chmod +x .github/workflows/networks_test.sh
 
       - name: Run tests
-        continue-on-error: true
         id: first-run
         uses: reactivecircus/android-emulator-runner@v2
         with:
@@ -60,7 +59,7 @@ jobs:
           api-level: 29
           script: .github/workflows/networks_test.sh
 
-      - name: Run tests
+      - name: Rerun tests
         if: steps.test.first-run=='failure'
         id: second-run
         uses: reactivecircus/android-emulator-runner@v2
