@@ -23,7 +23,7 @@ jobs:
       - name: Check out
         uses: actions/checkout@master
         with:
-          repository: stepanLav/test-android
+          repository: nova-wallet/nova-wallet-android
           ref: 'balances_integration_test'
           token: ${{ secrets.GITHUB_TOKEN }}
 
