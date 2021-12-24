@@ -51,7 +51,6 @@ jobs:
         run: chmod +x .github/workflows/networks_test.sh
 
       - name: Run tests
-        id: first-run
         uses: reactivecircus/android-emulator-runner@v2
         with:
           disable-animations: true
@@ -60,8 +59,7 @@ jobs:
           script: .github/workflows/networks_test.sh
 
       - name: Rerun tests
-        if: steps.test.first-run=='failure'
-        id: second-run
+        if: ${{ failure() }}
         uses: reactivecircus/android-emulator-runner@v2
         with:
           disable-animations: true
@@ -85,9 +83,6 @@ jobs:
       - uses: actions/download-artifact@v2
         with:
           name: report
-
-      - name: Display structure of downloaded files
-        run: ls -R
 
       - name: Deploy report to Github Pages
         if: always()
