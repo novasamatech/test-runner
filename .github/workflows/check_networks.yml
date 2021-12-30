@@ -2,7 +2,7 @@ name: Networks healthcheck
 
 on:
   schedule:
-    - cron: '0 4/4 * * *'
+    - cron: '0 0/4 * * *'
 
 env:
   ACALA_PROD_AUTH_TOKEN: 'token'
@@ -24,7 +24,7 @@ jobs:
         uses: actions/checkout@master
         with:
           repository: nova-wallet/nova-wallet-android
-          ref: 'balances_integration_test'
+          ref: 'develop'
           token: ${{ secrets.PAT }}
 
       - name: set up JDK 8
