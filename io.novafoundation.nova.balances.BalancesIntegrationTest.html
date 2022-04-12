@@ -28,13 +28,13 @@
 </td>
 <td>
 <div class="infoBox" id="failures">
-<div class="counter">1</div>
+<div class="counter">0</div>
 <p>failures</p>
 </div>
 </td>
 <td>
 <div class="infoBox" id="duration">
-<div class="counter">1m8.17s</div>
+<div class="counter">1m2.19s</div>
 <p>duration</p>
 </div>
 </td>
@@ -43,8 +43,8 @@
 </div>
 </td>
 <td>
-<div class="infoBox failures" id="successRate">
-<div class="percent">96%</div>
+<div class="infoBox success" id="successRate">
+<div class="percent">100%</div>
 <p>successful</p>
 </div>
 </td>
@@ -54,44 +54,10 @@
 <div id="tabs">
 <ul class="tabLinks">
 <li>
-<a href="#tab0">Failed tests</a>
-</li>
-<li>
-<a href="#tab1">Tests</a>
+<a href="#tab0">Tests</a>
 </li>
 </ul>
 <div id="tab0" class="tab">
-<h2>Failed tests</h2>
-<div class="test">
-<a name="testBalancesLoading[Getting balance for Bifrost network]"></a>
-<h3 class="failures">testBalancesLoading[Getting balance for Bifrost network]</h3>
-<span class="code">
-<pre>java.lang.AssertionError: expected:&lt;Success(null)&gt; but was:&lt;Success(io.novafoundation.nova.common.data.network.runtime.binding.AccountInfo@acad88d)&gt;
-at org.junit.Assert.fail(Assert.java:88)
-at org.junit.Assert.failNotEquals(Assert.java:834)
-at org.junit.Assert.assertEquals(Assert.java:118)
-at org.junit.Assert.assertEquals(Assert.java:144)
-at io.novafoundation.nova.balances.BalancesIntegrationTest$testBalancesLoading$1.invokeSuspend(BalancesIntegrationTest.kt:255)
-at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
-at kotlinx.coroutines.internal.ScopeCoroutine.afterResume(Scopes.kt:32)
-at kotlinx.coroutines.AbstractCoroutine.resumeWith(AbstractCoroutine.kt:113)
-at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
-at kotlinx.coroutines.internal.ScopeCoroutine.afterResume(Scopes.kt:32)
-at kotlinx.coroutines.AbstractCoroutine.resumeWith(AbstractCoroutine.kt:113)
-at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
-at kotlinx.coroutines.UndispatchedCoroutine.afterResume(CoroutineContext.kt:142)
-at kotlinx.coroutines.AbstractCoroutine.resumeWith(AbstractCoroutine.kt:113)
-at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:46)
-at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:106)
-at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:571)
-at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:750)
-at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:678)
-at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:665)
-</pre>
-</span>
-</div>
-</div>
-<div id="tab1" class="tab">
 <h2>Tests</h2>
 <table>
 <thead>
@@ -102,134 +68,134 @@ at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineSchedule
 </thead>
 <tr>
 <td>testBalancesLoading[Getting balance for Acala network]</td>
-<td class="success">passed (0.275s)</td>
+<td class="success">passed (0.176s)</td>
 </tr>
 <tr>
 <td>testBalancesLoading[Getting balance for Altair network]</td>
-<td class="success">passed (0.122s)</td>
+<td class="success">passed (0.125s)</td>
 </tr>
 <tr>
 <td>testBalancesLoading[Getting balance for Astar network]</td>
-<td class="success">passed (0.139s)</td>
+<td class="success">passed (0.254s)</td>
 </tr>
 <tr>
 <td>testBalancesLoading[Getting balance for Basilisk network]</td>
-<td class="success">passed (25.163s)</td>
+<td class="success">passed (0.165s)</td>
 </tr>
 <tr>
 <td>testBalancesLoading[Getting balance for Bifrost network]</td>
-<td class="failures">failed (0.087s)</td>
+<td class="success">passed (0.162s)</td>
 </tr>
 <tr>
 <td>testBalancesLoading[Getting balance for Bit. Country network]</td>
-<td class="success">passed (0.086s)</td>
+<td class="success">passed (0.237s)</td>
 </tr>
 <tr>
 <td>testBalancesLoading[Getting balance for Calamari network]</td>
-<td class="success">passed (0.230s)</td>
-</tr>
-<tr>
-<td>testBalancesLoading[Getting balance for Centrifuge Parachain network]</td>
-<td class="success">passed (0.180s)</td>
-</tr>
-<tr>
-<td>testBalancesLoading[Getting balance for Clover network]</td>
-<td class="success">passed (0.168s)</td>
-</tr>
-<tr>
-<td>testBalancesLoading[Getting balance for Edgeware network]</td>
-<td class="success">passed (0.104s)</td>
-</tr>
-<tr>
-<td>testBalancesLoading[Getting balance for Integritee Soloсhain network]</td>
-<td class="success">passed (0.310s)</td>
-</tr>
-<tr>
-<td>testBalancesLoading[Getting balance for KICO network]</td>
-<td class="success">passed (0.250s)</td>
-</tr>
-<tr>
-<td>testBalancesLoading[Getting balance for KILT Spiritnet network]</td>
 <td class="success">passed (0.167s)</td>
 </tr>
 <tr>
+<td>testBalancesLoading[Getting balance for Centrifuge Parachain network]</td>
+<td class="success">passed (0.148s)</td>
+</tr>
+<tr>
+<td>testBalancesLoading[Getting balance for Clover network]</td>
+<td class="success">passed (0.169s)</td>
+</tr>
+<tr>
+<td>testBalancesLoading[Getting balance for Edgeware network]</td>
+<td class="success">passed (0.046s)</td>
+</tr>
+<tr>
+<td>testBalancesLoading[Getting balance for Integritee Soloсhain network]</td>
+<td class="success">passed (0.078s)</td>
+</tr>
+<tr>
+<td>testBalancesLoading[Getting balance for KICO network]</td>
+<td class="success">passed (0.309s)</td>
+</tr>
+<tr>
+<td>testBalancesLoading[Getting balance for KILT Spiritnet network]</td>
+<td class="success">passed (0.109s)</td>
+</tr>
+<tr>
 <td>testBalancesLoading[Getting balance for Karura network]</td>
-<td class="success">passed (0.125s)</td>
+<td class="success">passed (0.183s)</td>
 </tr>
 <tr>
 <td>testBalancesLoading[Getting balance for Khala network]</td>
-<td class="success">passed (0.185s)</td>
+<td class="success">passed (0.252s)</td>
 </tr>
 <tr>
 <td>testBalancesLoading[Getting balance for Kusama network]</td>
-<td class="success">passed (0.532s)</td>
+<td class="success">passed (0.275s)</td>
 </tr>
 <tr>
 <td>testBalancesLoading[Getting balance for Litmus network]</td>
-<td class="success">passed (0.211s)</td>
+<td class="success">passed (0.246s)</td>
 </tr>
 <tr>
 <td>testBalancesLoading[Getting balance for Moonbeam network]</td>
-<td class="success">passed (0.126s)</td>
+<td class="success">passed (0.170s)</td>
 </tr>
 <tr>
 <td>testBalancesLoading[Getting balance for Moonriver network]</td>
-<td class="success">passed (0.164s)</td>
+<td class="success">passed (0s)</td>
 </tr>
 <tr>
 <td>testBalancesLoading[Getting balance for Nodle Solochain network]</td>
-<td class="success">passed (0.088s)</td>
+<td class="success">passed (0.061s)</td>
 </tr>
 <tr>
 <td>testBalancesLoading[Getting balance for Parallel Heiko network]</td>
-<td class="success">passed (0.041s)</td>
+<td class="success">passed (0.077s)</td>
 </tr>
 <tr>
 <td>testBalancesLoading[Getting balance for Parallel network]</td>
-<td class="success">passed (0.027s)</td>
+<td class="success">passed (0.065s)</td>
 </tr>
 <tr>
 <td>testBalancesLoading[Getting balance for Picasso network]</td>
-<td class="success">passed (0.174s)</td>
+<td class="success">passed (0.125s)</td>
 </tr>
 <tr>
 <td>testBalancesLoading[Getting balance for Polkadot network]</td>
-<td class="success">passed (21.324s)</td>
+<td class="success">passed (11.576s)</td>
 </tr>
 <tr>
 <td>testBalancesLoading[Getting balance for QUARTZ network]</td>
-<td class="success">passed (0.215s)</td>
+<td class="success">passed (0.115s)</td>
 </tr>
 <tr>
 <td>testBalancesLoading[Getting balance for Robonomics network]</td>
-<td class="success">passed (0.164s)</td>
+<td class="success">passed (0.124s)</td>
 </tr>
 <tr>
 <td>testBalancesLoading[Getting balance for Shiden network]</td>
-<td class="success">passed (16.873s)</td>
+<td class="success">passed (46.339s)</td>
 </tr>
 <tr>
 <td>testBalancesLoading[Getting balance for Statemine network]</td>
-<td class="success">passed (0.227s)</td>
+<td class="success">passed (0.127s)</td>
 </tr>
 <tr>
 <td>testBalancesLoading[Getting balance for Subsocial Solochain network]</td>
-<td class="success">passed (0.125s)</td>
+<td class="success">passed (0.140s)</td>
 </tr>
 <tr>
 <td>testBalancesLoading[Getting balance for Westend network]</td>
-<td class="success">passed (0.164s)</td>
+<td class="success">passed (0.100s)</td>
 </tr>
 <tr>
 <td>testBalancesLoading[Getting balance for Zeitgeist network]</td>
-<td class="success">passed (0.125s)</td>
+<td class="success">passed (0.074s)</td>
 </tr>
 </table>
 </div>
 </div>
 <div id="footer">
 <p>Generated by 
-<a href="http://www.gradle.org">Gradle 6.1.1</a> at Apr 12, 2022 8:15:21 AM</p>
+<a href="http://www.gradle.org">Gradle 6.1.1</a> at Apr 12, 2022 12:18:56 PM</p>
 </div>
 </div>
 </body>
