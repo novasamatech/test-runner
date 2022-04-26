@@ -71,7 +71,7 @@ jobs:
         if: always()
         with:
           name: report
-          path: /Users/runner/work/test-runner/test-runner/app/allure-results.tar
+          path: ./allure-results.tar
 
   report:
     runs-on: ubuntu-latest
