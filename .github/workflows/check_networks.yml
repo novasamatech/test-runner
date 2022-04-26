@@ -4,6 +4,7 @@ on: pull_request
   # schedule:
   #   - cron: '0 0/4 * * *'
 
+
 env:
   ACALA_PROD_AUTH_TOKEN: 'token'
   ACALA_TEST_AUTH_TOKEN: 'token'
