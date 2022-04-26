@@ -25,7 +25,7 @@ jobs:
         uses: actions/checkout@master
         with:
           repository: nova-wallet/nova-wallet-android
-          ref: 'feature/improve_integrations_test'
+          ref: 'develop'
           token: ${{ secrets.PAT }}
 
       - name: set up JDK 8
