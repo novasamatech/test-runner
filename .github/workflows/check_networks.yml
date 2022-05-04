@@ -115,7 +115,6 @@ jobs:
           PUBLISH_BRANCH: gh-pages
           PUBLISH_DIR: allure-history
 
-
   # alert:
   #   runs-on: ubuntu-latest
   #   needs: report
