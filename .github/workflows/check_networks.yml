@@ -1,8 +1,8 @@
 name: Networks healthcheck
 
-on:
-  schedule:
-    - cron: '0 0/4 * * *'
+on: pull_request
+  # schedule:
+  #   - cron: '0 0/4 * * *'
 
 
 env:
@@ -25,7 +25,7 @@ jobs:
         uses: actions/checkout@master
         with:
           repository: nova-wallet/nova-wallet-android
-          ref: 'develop'
+          ref: 'fix/network_test'
           token: ${{ secrets.PAT }}
 
       - name: set up JDK 8
