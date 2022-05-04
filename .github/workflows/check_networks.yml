@@ -1,6 +1,7 @@
 name: Networks healthcheck
 
 on: pull_request
+
   # schedule:
   #   - cron: '0 0/4 * * *'
 
