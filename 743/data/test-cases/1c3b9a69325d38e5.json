@@ -1,0 +1,94 @@
+{
+  "uid" : "1c3b9a69325d38e5",
+  "name" : "testBalancesLoading[Getting balance for Statemine network]",
+  "fullName" : "io.novafoundation.nova.balances.BalancesIntegrationTest.testBalancesLoading[Getting balance for Statemine network]",
+  "historyId" : "d39ec19fedf736e53c0d156209ca31e0",
+  "time" : {
+    "start" : 1651767659656,
+    "stop" : 1651767659788,
+    "duration" : 132
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "io.novafoundation.nova.balances"
+  }, {
+    "name" : "testClass",
+    "value" : "io.novafoundation.nova.balances.BalancesIntegrationTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testBalancesLoading[Getting balance for Statemine network]"
+  }, {
+    "name" : "suite",
+    "value" : "io.novafoundation.nova.balances.BalancesIntegrationTest"
+  }, {
+    "name" : "host",
+    "value" : "localhost"
+  }, {
+    "name" : "thread",
+    "value" : "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(164)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "kotlin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "1e14943c2bf5ad0",
+        "reportUrl" : "https://nova-wallet.github.io/test-runner/742//#testresult/1e14943c2bf5ad0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651753411614,
+          "stop" : 1651753411782,
+          "duration" : 168
+        }
+      }, {
+        "uid" : "f0609f71414fd24d",
+        "reportUrl" : "https://nova-wallet.github.io/test-runner/741//#testresult/f0609f71414fd24d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651738736549,
+          "stop" : 1651738736648,
+          "duration" : 99
+        }
+      }, {
+        "uid" : "c74ad1065c027c34",
+        "reportUrl" : "https://nova-wallet.github.io/test-runner/740//#testresult/c74ad1065c027c34",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651733485481,
+          "stop" : 1651733485612,
+          "duration" : 131
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "1c3b9a69325d38e5.json",
+  "parameterValues" : [ ]
+}
