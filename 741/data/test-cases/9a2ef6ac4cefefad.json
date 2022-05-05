@@ -1,0 +1,76 @@
+{
+  "uid" : "9a2ef6ac4cefefad",
+  "name" : "testBalancesLoading[Getting balance for Westend network]",
+  "fullName" : "io.novafoundation.nova.balances.BalancesIntegrationTest.testBalancesLoading[Getting balance for Westend network]",
+  "historyId" : "5ee77224bf95ebf8c971923d3bad8df9",
+  "time" : {
+    "start" : 1651738736425,
+    "stop" : 1651738736535,
+    "duration" : 110
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "io.novafoundation.nova.balances"
+  }, {
+    "name" : "testClass",
+    "value" : "io.novafoundation.nova.balances.BalancesIntegrationTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testBalancesLoading[Getting balance for Westend network]"
+  }, {
+    "name" : "suite",
+    "value" : "io.novafoundation.nova.balances.BalancesIntegrationTest"
+  }, {
+    "name" : "host",
+    "value" : "localhost"
+  }, {
+    "name" : "thread",
+    "value" : "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(168)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "kotlin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "6afede4eafbf310c",
+        "reportUrl" : "https://nova-wallet.github.io/test-runner/740//#testresult/6afede4eafbf310c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651733485335,
+          "stop" : 1651733485467,
+          "duration" : 132
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "9a2ef6ac4cefefad.json",
+  "parameterValues" : [ ]
+}

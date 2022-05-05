@@ -1,0 +1,76 @@
+{
+  "uid" : "86cc6b09fb2cc1a8",
+  "name" : "testBalancesLoading[Getting balance for Robonomics network]",
+  "fullName" : "io.novafoundation.nova.balances.BalancesIntegrationTest.testBalancesLoading[Getting balance for Robonomics network]",
+  "historyId" : "8ff3226258ac941cc443d313873f7af9",
+  "time" : {
+    "start" : 1651738740882,
+    "stop" : 1651738741014,
+    "duration" : 132
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "io.novafoundation.nova.balances"
+  }, {
+    "name" : "testClass",
+    "value" : "io.novafoundation.nova.balances.BalancesIntegrationTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testBalancesLoading[Getting balance for Robonomics network]"
+  }, {
+    "name" : "suite",
+    "value" : "io.novafoundation.nova.balances.BalancesIntegrationTest"
+  }, {
+    "name" : "host",
+    "value" : "localhost"
+  }, {
+    "name" : "thread",
+    "value" : "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(168)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "kotlin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "4189ad79342ae95d",
+        "reportUrl" : "https://nova-wallet.github.io/test-runner/740//#testresult/4189ad79342ae95d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651733491480,
+          "stop" : 1651733491606,
+          "duration" : 126
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "86cc6b09fb2cc1a8.json",
+  "parameterValues" : [ ]
+}
