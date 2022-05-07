@@ -1,0 +1,39 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Timed out waiting for 80000 ms",
+      "children" : [ {
+        "name" : "testBalancesLoading[Getting balance for KICO network]",
+        "uid" : "cc26797c5a96e0b6",
+        "parentUid" : "0614ef0b64adf6a6ea133bb951b48ca3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651883440652,
+          "stop" : 1651883520704,
+          "duration" : 80052
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for KILT Peregrine network]",
+        "uid" : "117c065a16d2e4b7",
+        "parentUid" : "0614ef0b64adf6a6ea133bb951b48ca3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1651883521073,
+          "stop" : 1651883601116,
+          "duration" : 80043
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0614ef0b64adf6a6ea133bb951b48ca3"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}
