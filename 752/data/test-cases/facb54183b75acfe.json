@@ -1,0 +1,76 @@
+{
+  "uid" : "facb54183b75acfe",
+  "name" : "testBalancesLoading[Getting balance for Statemine network]",
+  "fullName" : "io.novafoundation.nova.balances.BalancesIntegrationTest.testBalancesLoading[Getting balance for Statemine network]",
+  "historyId" : "d39ec19fedf736e53c0d156209ca31e0",
+  "time" : {
+    "start" : 1651897073386,
+    "stop" : 1651897073526,
+    "duration" : 140
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "io.novafoundation.nova.balances"
+  }, {
+    "name" : "testClass",
+    "value" : "io.novafoundation.nova.balances.BalancesIntegrationTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testBalancesLoading[Getting balance for Statemine network]"
+  }, {
+    "name" : "suite",
+    "value" : "io.novafoundation.nova.balances.BalancesIntegrationTest"
+  }, {
+    "name" : "host",
+    "value" : "localhost"
+  }, {
+    "name" : "thread",
+    "value" : "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(169)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "kotlin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "4bf15ff274bced75",
+        "reportUrl" : "https://nova-wallet.github.io/test-runner/751//#testresult/4bf15ff274bced75",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651883434404,
+          "stop" : 1651883434522,
+          "duration" : 118
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "facb54183b75acfe.json",
+  "parameterValues" : [ ]
+}

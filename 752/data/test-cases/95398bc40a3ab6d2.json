@@ -1,0 +1,76 @@
+{
+  "uid" : "95398bc40a3ab6d2",
+  "name" : "testBalancesLoading[Getting balance for QUARTZ network]",
+  "fullName" : "io.novafoundation.nova.balances.BalancesIntegrationTest.testBalancesLoading[Getting balance for QUARTZ network]",
+  "historyId" : "c2e6399445dc9d45df182166a24e4d",
+  "time" : {
+    "start" : 1651897076222,
+    "stop" : 1651897076342,
+    "duration" : 120
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "io.novafoundation.nova.balances"
+  }, {
+    "name" : "testClass",
+    "value" : "io.novafoundation.nova.balances.BalancesIntegrationTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testBalancesLoading[Getting balance for QUARTZ network]"
+  }, {
+    "name" : "suite",
+    "value" : "io.novafoundation.nova.balances.BalancesIntegrationTest"
+  }, {
+    "name" : "host",
+    "value" : "localhost"
+  }, {
+    "name" : "thread",
+    "value" : "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(169)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "kotlin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "e34eefb418dee444",
+        "reportUrl" : "https://nova-wallet.github.io/test-runner/751//#testresult/e34eefb418dee444",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651883437434,
+          "stop" : 1651883439571,
+          "duration" : 2137
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "95398bc40a3ab6d2.json",
+  "parameterValues" : [ ]
+}
