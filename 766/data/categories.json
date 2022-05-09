@@ -1,0 +1,39 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Timed out waiting for 80000 ms",
+      "children" : [ {
+        "name" : "testBalancesLoading[Getting balance for Zeitgeist network]",
+        "uid" : "6533c62cc9738513",
+        "parentUid" : "0614ef0b64adf6a6ea133bb951b48ca3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1652098786610,
+          "stop" : 1652098866649,
+          "duration" : 80039
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Phala network]",
+        "uid" : "a3cfc54195946804",
+        "parentUid" : "0614ef0b64adf6a6ea133bb951b48ca3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1652098869266,
+          "stop" : 1652098949305,
+          "duration" : 80039
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0614ef0b64adf6a6ea133bb951b48ca3"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}
