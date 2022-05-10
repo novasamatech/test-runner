@@ -1,0 +1,247 @@
+{
+  "uid" : "a274d3d556e731a3",
+  "name" : "testBalancesLoading[Getting balance for Polkadot network]",
+  "fullName" : "io.novafoundation.nova.balances.BalancesIntegrationTest.testBalancesLoading[Getting balance for Polkadot network]",
+  "historyId" : "81b62adc6d9ce46c20ea4e1b94802cdd",
+  "time" : {
+    "start" : 1652199491863,
+    "stop" : 1652199493456,
+    "duration" : 1593
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "io.novafoundation.nova.balances"
+  }, {
+    "name" : "testClass",
+    "value" : "io.novafoundation.nova.balances.BalancesIntegrationTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testBalancesLoading[Getting balance for Polkadot network]"
+  }, {
+    "name" : "suite",
+    "value" : "io.novafoundation.nova.balances.BalancesIntegrationTest"
+  }, {
+    "name" : "host",
+    "value" : "localhost"
+  }, {
+    "name" : "thread",
+    "value" : "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(165)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "kotlin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 23,
+        "unknown" : 0,
+        "total" : 23
+      },
+      "items" : [ {
+        "uid" : "1892648c96d0aad0",
+        "reportUrl" : "https://nova-wallet.github.io/test-runner/772//#testresult/1892648c96d0aad0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652185443849,
+          "stop" : 1652185444083,
+          "duration" : 234
+        }
+      }, {
+        "uid" : "8841338cca04a86",
+        "reportUrl" : "https://nova-wallet.github.io/test-runner/771//#testresult/8841338cca04a86",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652171006085,
+          "stop" : 1652171007085,
+          "duration" : 1000
+        }
+      }, {
+        "uid" : "fd57512133cf7c47",
+        "reportUrl" : "https://nova-wallet.github.io/test-runner/770//#testresult/fd57512133cf7c47",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652156300833,
+          "stop" : 1652156301006,
+          "duration" : 173
+        }
+      }, {
+        "uid" : "46942d99a062e515",
+        "reportUrl" : "https://nova-wallet.github.io/test-runner/769//#testresult/46942d99a062e515",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652143302720,
+          "stop" : 1652143316524,
+          "duration" : 13804
+        }
+      }, {
+        "uid" : "2674677ba7ce0c42",
+        "reportUrl" : "https://nova-wallet.github.io/test-runner/768//#testresult/2674677ba7ce0c42",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652127685378,
+          "stop" : 1652127704873,
+          "duration" : 19495
+        }
+      }, {
+        "uid" : "64250395711f1350",
+        "reportUrl" : "https://nova-wallet.github.io/test-runner/767//#testresult/64250395711f1350",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652113356568,
+          "stop" : 1652113357214,
+          "duration" : 646
+        }
+      }, {
+        "uid" : "73e633b923a1a10f",
+        "reportUrl" : "https://nova-wallet.github.io/test-runner/766//#testresult/73e633b923a1a10f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652098767602,
+          "stop" : 1652098779649,
+          "duration" : 12047
+        }
+      }, {
+        "uid" : "e348314517a19619",
+        "reportUrl" : "https://nova-wallet.github.io/test-runner/765//#testresult/e348314517a19619",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652084360053,
+          "stop" : 1652084367257,
+          "duration" : 7204
+        }
+      }, {
+        "uid" : "d1ab3457f387e8fe",
+        "reportUrl" : "https://nova-wallet.github.io/test-runner/764//#testresult/d1ab3457f387e8fe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652070453353,
+          "stop" : 1652070453553,
+          "duration" : 200
+        }
+      }, {
+        "uid" : "cf1861535b377099",
+        "reportUrl" : "https://nova-wallet.github.io/test-runner/763//#testresult/cf1861535b377099",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652056476544,
+          "stop" : 1652056478892,
+          "duration" : 2348
+        }
+      }, {
+        "uid" : "e4f619bc50c4c5b5",
+        "reportUrl" : "https://nova-wallet.github.io/test-runner/762//#testresult/e4f619bc50c4c5b5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652041146791,
+          "stop" : 1652041153822,
+          "duration" : 7031
+        }
+      }, {
+        "uid" : "2561bdc0c691a1eb",
+        "reportUrl" : "https://nova-wallet.github.io/test-runner/761//#testresult/2561bdc0c691a1eb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652026704612,
+          "stop" : 1652026708818,
+          "duration" : 4206
+        }
+      }, {
+        "uid" : "b5860fcafa0364bf",
+        "reportUrl" : "https://nova-wallet.github.io/test-runner/760//#testresult/b5860fcafa0364bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652012295345,
+          "stop" : 1652012299847,
+          "duration" : 4502
+        }
+      }, {
+        "uid" : "4df522984620e206",
+        "reportUrl" : "https://nova-wallet.github.io/test-runner/759//#testresult/4df522984620e206",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651997918147,
+          "stop" : 1651997921115,
+          "duration" : 2968
+        }
+      }, {
+        "uid" : "16536a80221767c6",
+        "reportUrl" : "https://nova-wallet.github.io/test-runner/758//#testresult/16536a80221767c6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651983601401,
+          "stop" : 1651983601665,
+          "duration" : 264
+        }
+      }, {
+        "uid" : "5ff17b2e259f23e4",
+        "reportUrl" : "https://nova-wallet.github.io/test-runner/757//#testresult/5ff17b2e259f23e4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651970090847,
+          "stop" : 1651970094401,
+          "duration" : 3554
+        }
+      }, {
+        "uid" : "a2760f4739fa264a",
+        "reportUrl" : "https://nova-wallet.github.io/test-runner/756//#testresult/a2760f4739fa264a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651954649726,
+          "stop" : 1651954650130,
+          "duration" : 404
+        }
+      }, {
+        "uid" : "ca6438c06f609157",
+        "reportUrl" : "https://nova-wallet.github.io/test-runner/755//#testresult/ca6438c06f609157",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651940297922,
+          "stop" : 1651940298091,
+          "duration" : 169
+        }
+      }, {
+        "uid" : "538587e0c2cfc51d",
+        "reportUrl" : "https://nova-wallet.github.io/test-runner/754//#testresult/538587e0c2cfc51d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651925952368,
+          "stop" : 1651925967070,
+          "duration" : 14702
+        }
+      }, {
+        "uid" : "bd07ce096e43bc16",
+        "reportUrl" : "https://nova-wallet.github.io/test-runner/753//#testresult/bd07ce096e43bc16",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651911551434,
+          "stop" : 1651911551754,
+          "duration" : 320
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "a274d3d556e731a3.json",
+  "parameterValues" : [ ]
+}
