@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Timed out waiting for 80000 ms",
+      "children" : [ {
+        "name" : "testBalancesLoading[Getting balance for Bit. Country network]",
+        "uid" : "8c6619e913c9693c",
+        "parentUid" : "0614ef0b64adf6a6ea133bb951b48ca3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1652300248537,
+          "stop" : 1652300328633,
+          "duration" : 80096
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0614ef0b64adf6a6ea133bb951b48ca3"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}
