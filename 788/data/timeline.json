@@ -1,0 +1,585 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "localhost",
+    "children" : [ {
+      "name" : "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(164)",
+      "children" : [ {
+        "name" : "testBalancesLoading[Getting balance for Centrifuge Parachain network]",
+        "uid" : "d9d0044ad0a160c",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416628120,
+          "stop" : 1652416628242,
+          "duration" : 122
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Crust Shadow network]",
+        "uid" : "3f1a13ea689a07",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416629930,
+          "stop" : 1652416630159,
+          "duration" : 229
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Bifrost network]",
+        "uid" : "a805f3890e2fa2e7",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416623866,
+          "stop" : 1652416624257,
+          "duration" : 391
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Statemine network]",
+        "uid" : "416231895ae39c67",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416623088,
+          "stop" : 1652416623211,
+          "duration" : 123
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Nodle Solochain network]",
+        "uid" : "cdf5c49a51081198",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416628760,
+          "stop" : 1652416628793,
+          "duration" : 33
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Polkadot network]",
+        "uid" : "c740c0e9798c49b7",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416620454,
+          "stop" : 1652416622618,
+          "duration" : 2164
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Karura network]",
+        "uid" : "af404b8481ef00d1",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416623233,
+          "stop" : 1652416623542,
+          "duration" : 309
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Altair network]",
+        "uid" : "5ed9bb7889127c8f",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416624303,
+          "stop" : 1652416624443,
+          "duration" : 140
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Shiden network]",
+        "uid" : "c3839dcf237d067f",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416584507,
+          "stop" : 1652416619980,
+          "duration" : 35473
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Encointer network]",
+        "uid" : "270f7ef333fa1f84",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416629378,
+          "stop" : 1652416629497,
+          "duration" : 119
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Westmint network]",
+        "uid" : "9c5bc4d9f42abfce",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416628802,
+          "stop" : 1652416628921,
+          "duration" : 119
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Subsocial Solochain network]",
+        "uid" : "ac7533a3519aaa0",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416628250,
+          "stop" : 1652416628390,
+          "duration" : 140
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Moonbeam network]",
+        "uid" : "baffcf31ada78511",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416623563,
+          "stop" : 1652416623714,
+          "duration" : 151
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for KICO network]",
+        "uid" : "69590a6fab5aa4f0",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416628526,
+          "stop" : 1652416628753,
+          "duration" : 227
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Parallel network]",
+        "uid" : "5f8c2335f849a800",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416627364,
+          "stop" : 1652416627592,
+          "duration" : 228
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Nodle Parachain network]",
+        "uid" : "dcde7e4f0ecebdcb",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416630478,
+          "stop" : 1652416630511,
+          "duration" : 33
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for HydraDX network]",
+        "uid" : "602261f8aa38a068",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416630356,
+          "stop" : 1652416630472,
+          "duration" : 116
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Parallel Heiko network]",
+        "uid" : "94737d4fdc2fd534",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416624459,
+          "stop" : 1652416624597,
+          "duration" : 138
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Clover network]",
+        "uid" : "3fa2be5e18b31502",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416625962,
+          "stop" : 1652416626204,
+          "duration" : 242
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Zeitgeist network]",
+        "uid" : "e414d66ef7c690a7",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416628398,
+          "stop" : 1652416628515,
+          "duration" : 117
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Crab network]",
+        "uid" : "f5bb2d9df5054691",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416629507,
+          "stop" : 1652416629783,
+          "duration" : 276
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Acala Mandala network]",
+        "uid" : "1ba8fb8666b82fa",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416629139,
+          "stop" : 1652416629371,
+          "duration" : 232
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Basilisk network]",
+        "uid" : "b9b3f5e5113109ca",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416626214,
+          "stop" : 1652416626402,
+          "duration" : 188
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Phala network]",
+        "uid" : "3c112a630c97dc5d",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416630517,
+          "stop" : 1652416630805,
+          "duration" : 288
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Westend network]",
+        "uid" : "f096c517a4fa5f65",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416622874,
+          "stop" : 1652416623067,
+          "duration" : 193
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Picasso network]",
+        "uid" : "2ee28c2c7a89d7b3",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416627733,
+          "stop" : 1652416627850,
+          "duration" : 117
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Moonbase Alpha network]",
+        "uid" : "8a80490c49b97694",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416628932,
+          "stop" : 1652416628986,
+          "duration" : 54
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Turing network]",
+        "uid" : "5f8c2db54ec7e680",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416630816,
+          "stop" : 1652416631001,
+          "duration" : 185
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Moonriver network]",
+        "uid" : "d6231f1edd65a03c",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416623743,
+          "stop" : 1652416623818,
+          "duration" : 75
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Efinity network]",
+        "uid" : "41ed7b452e9c0f0b",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416630304,
+          "stop" : 1652416630346,
+          "duration" : 42
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Litmus network]",
+        "uid" : "c2433bb052f6140",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416627860,
+          "stop" : 1652416628107,
+          "duration" : 247
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Khala network]",
+        "uid" : "3a2d95357552722e",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416624693,
+          "stop" : 1652416624960,
+          "duration" : 267
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Subsocial Parachain network]",
+        "uid" : "70d39e71fa798b2b",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416629793,
+          "stop" : 1652416629923,
+          "duration" : 130
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Acala network]",
+        "uid" : "66525917faeb7048",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416625253,
+          "stop" : 1652416625499,
+          "duration" : 246
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Robonomics network]",
+        "uid" : "d186e9d58238ec3e",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416627601,
+          "stop" : 1652416627719,
+          "duration" : 118
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Edgeware network]",
+        "uid" : "f5447807d83e78fb",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416624624,
+          "stop" : 1652416624671,
+          "duration" : 47
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for KILT Spiritnet network]",
+        "uid" : "122637d2362ce483",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416624975,
+          "stop" : 1652416625124,
+          "duration" : 149
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for QUARTZ network]",
+        "uid" : "233c7d42adda8263",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416626411,
+          "stop" : 1652416627355,
+          "duration" : 944
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Bit. Country network]",
+        "uid" : "32f599d83197e942",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416625718,
+          "stop" : 1652416625949,
+          "duration" : 231
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for KILT Peregrine network]",
+        "uid" : "fe319994affa87a4",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416628994,
+          "stop" : 1652416629127,
+          "duration" : 133
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Astar network]",
+        "uid" : "120945b97fbf5363",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416625511,
+          "stop" : 1652416625696,
+          "duration" : 185
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Calamari network]",
+        "uid" : "9ec4bea424014638",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416625133,
+          "stop" : 1652416625242,
+          "duration" : 109
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Integritee Parachain network]",
+        "uid" : "4c3a97119c943d7c",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416630171,
+          "stop" : 1652416630293,
+          "duration" : 122
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testBalancesLoading[Getting balance for Kusama network]",
+        "uid" : "89f64ee44a63f6fd",
+        "parentUid" : "1527f8415041724af1b5b1e442973970",
+        "status" : "passed",
+        "time" : {
+          "start" : 1652416622635,
+          "stop" : 1652416622851,
+          "duration" : 216
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1527f8415041724af1b5b1e442973970"
+    } ],
+    "uid" : "be30f600e0434356d35178c8efd2dc81"
+  } ],
+  "name" : "timeline"
+}
