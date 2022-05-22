@@ -1,0 +1,441 @@
+[ {
+  "uid" : "9ad5c6d79b9b2657",
+  "name" : "testBalancesLoading[Getting balance for Karura network]",
+  "time" : {
+    "start" : 1653236384798,
+    "stop" : 1653236385033,
+    "duration" : 235
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b097bfae76eda025",
+  "name" : "testBalancesLoading[Getting balance for Robonomics network]",
+  "time" : {
+    "start" : 1653236389159,
+    "stop" : 1653236389277,
+    "duration" : 118
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "94189b08f7245dc5",
+  "name" : "testBalancesLoading[Getting balance for Crab network]",
+  "time" : {
+    "start" : 1653236391194,
+    "stop" : 1653236391479,
+    "duration" : 285
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a472f9cb777f661",
+  "name" : "testBalancesLoading[Getting balance for Picasso network]",
+  "time" : {
+    "start" : 1653236389284,
+    "stop" : 1653236389403,
+    "duration" : 119
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8c18f5187ac6a77f",
+  "name" : "testBalancesLoading[Getting balance for Zeitgeist network]",
+  "time" : {
+    "start" : 1653236389954,
+    "stop" : 1653236390075,
+    "duration" : 121
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b27b40a171390a",
+  "name" : "testBalancesLoading[Getting balance for Calamari network]",
+  "time" : {
+    "start" : 1653236386070,
+    "stop" : 1653236386175,
+    "duration" : 105
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3207b7a6bcad506d",
+  "name" : "testBalancesLoading[Getting balance for Clover network]",
+  "time" : {
+    "start" : 1653236386878,
+    "stop" : 1653236387135,
+    "duration" : 257
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c0df4d9ac9dbe5e3",
+  "name" : "testBalancesLoading[Getting balance for Khala network]",
+  "time" : {
+    "start" : 1653236385678,
+    "stop" : 1653236385930,
+    "duration" : 252
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4463322c6d645da8",
+  "name" : "testBalancesLoading[Getting balance for Phala network]",
+  "time" : {
+    "start" : 1653236392267,
+    "stop" : 1653236392516,
+    "duration" : 249
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f8ba8642f2380c",
+  "name" : "testBalancesLoading[Getting balance for Moonbase Alpha network]",
+  "time" : {
+    "start" : 1653236390590,
+    "stop" : 1653236390679,
+    "duration" : 89
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6a8e55a0cd543a03",
+  "name" : "testBalancesLoading[Getting balance for Astar network]",
+  "time" : {
+    "start" : 1653236386455,
+    "stop" : 1653236386633,
+    "duration" : 178
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd3d7eb077be6813",
+  "name" : "testBalancesLoading[Getting balance for Integritee Parachain network]",
+  "time" : {
+    "start" : 1653236391883,
+    "stop" : 1653236392016,
+    "duration" : 133
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ceebb8aa5eb7dbdb",
+  "name" : "testBalancesLoading[Getting balance for Westend network]",
+  "time" : {
+    "start" : 1653236384498,
+    "stop" : 1653236384651,
+    "duration" : 153
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "82b1cf5bdb07ecf0",
+  "name" : "testBalancesLoading[Getting balance for Moonriver network]",
+  "time" : {
+    "start" : 1653236385105,
+    "stop" : 1653236385153,
+    "duration" : 48
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3c59c491fb206eb1",
+  "name" : "testBalancesLoading[Getting balance for Centrifuge Parachain network]",
+  "time" : {
+    "start" : 1653236389676,
+    "stop" : 1653236389800,
+    "duration" : 124
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f5093d9bd240e1f1",
+  "name" : "testBalancesLoading[Getting balance for Bit. Country network]",
+  "time" : {
+    "start" : 1653236386642,
+    "stop" : 1653236386866,
+    "duration" : 224
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "624918de58876b1d",
+  "name" : "testBalancesLoading[Getting balance for Basilisk network]",
+  "time" : {
+    "start" : 1653236387144,
+    "stop" : 1653236387332,
+    "duration" : 188
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a038015fc1653f7e",
+  "name" : "testBalancesLoading[Getting balance for Westmint network]",
+  "time" : {
+    "start" : 1653236390459,
+    "stop" : 1653236390580,
+    "duration" : 121
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b4f373ed5a56a25",
+  "name" : "testBalancesLoading[Getting balance for Nodle Parachain network]",
+  "time" : {
+    "start" : 1653236392225,
+    "stop" : 1653236392258,
+    "duration" : 33
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8de9b860f5cd74e6",
+  "name" : "testBalancesLoading[Getting balance for Efinity network]",
+  "time" : {
+    "start" : 1653236392042,
+    "stop" : 1653236392091,
+    "duration" : 49
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aecd3e6680911765",
+  "name" : "testBalancesLoading[Getting balance for Shiden network]",
+  "time" : {
+    "start" : 1653236339285,
+    "stop" : 1653236374428,
+    "duration" : 35143
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3d87a5a88554677c",
+  "name" : "testBalancesLoading[Getting balance for KICO network]",
+  "time" : {
+    "start" : 1653236390096,
+    "stop" : 1653236390307,
+    "duration" : 211
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "18f0ac1b23970e60",
+  "name" : "testBalancesLoading[Getting balance for Bifrost network]",
+  "time" : {
+    "start" : 1653236385163,
+    "stop" : 1653236385355,
+    "duration" : 192
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9ca0e353aa7e9420",
+  "name" : "testBalancesLoading[Getting balance for QUARTZ network]",
+  "time" : {
+    "start" : 1653236387344,
+    "stop" : 1653236388913,
+    "duration" : 1569
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "33b0bf5adf6aed1f",
+  "name" : "testBalancesLoading[Getting balance for Crust Shadow network]",
+  "time" : {
+    "start" : 1653236391633,
+    "stop" : 1653236391875,
+    "duration" : 242
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4e271076175f04dc",
+  "name" : "testBalancesLoading[Getting balance for Altair network]",
+  "time" : {
+    "start" : 1653236385366,
+    "stop" : 1653236385494,
+    "duration" : 128
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9dca61b733bab43a",
+  "name" : "testBalancesLoading[Getting balance for HydraDX network]",
+  "time" : {
+    "start" : 1653236392101,
+    "stop" : 1653236392218,
+    "duration" : 117
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c226c61f2a6aedf4",
+  "name" : "testBalancesLoading[Getting balance for Acala network]",
+  "time" : {
+    "start" : 1653236386192,
+    "stop" : 1653236386442,
+    "duration" : 250
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e29b5c4cdbbae724",
+  "name" : "testBalancesLoading[Getting balance for Subsocial Solochain network]",
+  "time" : {
+    "start" : 1653236389807,
+    "stop" : 1653236389945,
+    "duration" : 138
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2b6834da7f549082",
+  "name" : "testBalancesLoading[Getting balance for Parallel Heiko network]",
+  "time" : {
+    "start" : 1653236385506,
+    "stop" : 1653236385632,
+    "duration" : 126
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c38eb8891d545f85",
+  "name" : "testBalancesLoading[Getting balance for Subsocial Parachain network]",
+  "time" : {
+    "start" : 1653236391488,
+    "stop" : 1653236391624,
+    "duration" : 136
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "20f450c78b8c5799",
+  "name" : "testBalancesLoading[Getting balance for Encointer network]",
+  "time" : {
+    "start" : 1653236391076,
+    "stop" : 1653236391187,
+    "duration" : 111
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8b55c3837cd74173",
+  "name" : "testBalancesLoading[Getting balance for Kusama network]",
+  "time" : {
+    "start" : 1653236384326,
+    "stop" : 1653236384483,
+    "duration" : 157
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fcb6ed7b9f050cc0",
+  "name" : "testBalancesLoading[Getting balance for Polkadot network]",
+  "time" : {
+    "start" : 1653236374512,
+    "stop" : 1653236384313,
+    "duration" : 9801
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8293cff7fda79f9a",
+  "name" : "testBalancesLoading[Getting balance for Edgeware network]",
+  "time" : {
+    "start" : 1653236385648,
+    "stop" : 1653236385669,
+    "duration" : 21
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b5e6fc891ce9c83c",
+  "name" : "testBalancesLoading[Getting balance for Moonbeam network]",
+  "time" : {
+    "start" : 1653236385046,
+    "stop" : 1653236385094,
+    "duration" : 48
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3dd0320256bffd07",
+  "name" : "testBalancesLoading[Getting balance for KILT Spiritnet network]",
+  "time" : {
+    "start" : 1653236385942,
+    "stop" : 1653236386061,
+    "duration" : 119
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "947afb310f235902",
+  "name" : "testBalancesLoading[Getting balance for Statemine network]",
+  "time" : {
+    "start" : 1653236384664,
+    "stop" : 1653236384784,
+    "duration" : 120
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8bb5f9727e277e61",
+  "name" : "testBalancesLoading[Getting balance for Parallel network]",
+  "time" : {
+    "start" : 1653236388925,
+    "stop" : 1653236389145,
+    "duration" : 220
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fe2002ecda9063d6",
+  "name" : "testBalancesLoading[Getting balance for Acala Mandala network]",
+  "time" : {
+    "start" : 1653236390834,
+    "stop" : 1653236391064,
+    "duration" : 230
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bbae9f3a8ecab275",
+  "name" : "testBalancesLoading[Getting balance for Turing network]",
+  "time" : {
+    "start" : 1653236392523,
+    "stop" : 1653236392706,
+    "duration" : 183
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bb60014fc598784a",
+  "name" : "testBalancesLoading[Getting balance for KILT Peregrine network]",
+  "time" : {
+    "start" : 1653236390689,
+    "stop" : 1653236390826,
+    "duration" : 137
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4242239a5ad8f689",
+  "name" : "testBalancesLoading[Getting balance for Litmus network]",
+  "time" : {
+    "start" : 1653236389415,
+    "stop" : 1653236389669,
+    "duration" : 254
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "59b9ce8113b25b19",
+  "name" : "testBalancesLoading[Getting balance for Nodle Solochain network]",
+  "time" : {
+    "start" : 1653236390316,
+    "stop" : 1653236390446,
+    "duration" : 130
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
