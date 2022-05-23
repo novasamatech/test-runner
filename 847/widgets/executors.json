@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://nova-wallet.github.io/test-runner",
+  "buildOrder" : 847,
+  "buildName" : "GitHub Actions Run #2368246399",
+  "buildUrl" : "https://github.com/nova-wallet/test-runner/actions/runs/2368246399",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://nova-wallet.github.io/test-runner/847/"
+} ]
