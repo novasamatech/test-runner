@@ -56,8 +56,6 @@ jobs:
     runs-on: macos-latest
     steps:
       - uses: actions/checkout@master
-        with:
-          ref: ${{ github.event.pull_request.head.sha }}
 
       - name: Download built artifact
         uses: actions/download-artifact@v2
