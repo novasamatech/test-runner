@@ -78,15 +78,6 @@ jobs:
             adb shell am instrument -w -m -e debug false -e class 'io.novafoundation.nova.balances.BalancesIntegrationTest' io.novafoundation.nova.debug.test/io.qameta.allure.android.runners.AllureAndroidJUnitRunner
             adb exec-out run-as io.novafoundation.nova.debug sh -c 'cd /data/data/io.novafoundation.nova.debug/files && tar cf - allure-results' > allure-results.tar
 
-      # - name: Rerun tests
-      #   if: ${{ failure() }}
-      #   uses: reactivecircus/android-emulator-runner@v2
-      #   with:
-      #     disable-animations: true
-      #     profile: Nexus 5X
-      #     api-level: 28
-      #     script: .github/workflows/networks_test.sh
-
       - uses: actions/upload-artifact@v2
         if: always()
         with:
@@ -134,17 +125,17 @@ jobs:
           PUBLISH_BRANCH: gh-pages
           PUBLISH_DIR: allure-history
 
-  # alert:
-  #   runs-on: ubuntu-latest
-  #   needs: report
-  #   if: always() && (needs.test.result == 'failure')
-  #   steps:
-  #     - name: Report
-  #       uses: appleboy/telegram-action@master
-  #       with:
-  #         to: ${{ secrets.TELEGRAM_TO }}
-  #         token: ${{ secrets.TELEGRAM_TOKEN }}
-  #         message: |
-  #           Network tests failed, lets check:
+  alert:
+    runs-on: ubuntu-latest
+    needs: report
+    if: always() && (needs.test.result == 'failure')
+    steps:
+      - name: Report
+        uses: appleboy/telegram-action@master
+        with:
+          to: ${{ secrets.TELEGRAM_TO }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          message: |
+            Network tests failed, lets check:
 
-  #           https://nova-wallet.github.io/test-runner/${{github.run_number}}
+            https://nova-wallet.github.io/test-runner/${{github.run_number}}
