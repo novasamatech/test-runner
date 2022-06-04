@@ -61,6 +61,9 @@ jobs:
           name: apk
           path: app
 
+      - name: Add permissions
+        run: chmod +x .github/workflows/networks_test.sh
+
       - name: Debug
         run: |
           ls -R
@@ -71,12 +74,7 @@ jobs:
           disable-animations: true
           profile: Nexus 5X
           api-level: 28
-          script: |
-            adb devices
-            adb -s emulator-5554 install app/androidTest/debug/app-debug-androidTest.apk
-            adb -s emulator-5554 install app/instrumentialTest/app-instrumentialTest.apk
-            adb shell am instrument -w -m -e debug false -e class 'io.novafoundation.nova.balances.BalancesIntegrationTest' io.novafoundation.nova.debug.test/io.qameta.allure.android.runners.AllureAndroidJUnitRunner
-            adb exec-out run-as io.novafoundation.nova.debug sh -c 'cd /data/data/io.novafoundation.nova.debug/files && tar cf - allure-results' > allure-results.tar
+          script: .github/workflows/networks_test.sh
 
       - uses: actions/upload-artifact@v2
         if: always()
