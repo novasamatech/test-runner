@@ -129,6 +129,8 @@ jobs:
     runs-on: ubuntu-latest
     needs: report
     if: always() && (needs.test.result == 'failure')
+    env:
+      GITHUB_WORKFLOW_URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
     steps:
       - name: Report
         uses: appleboy/telegram-action@master
@@ -138,4 +140,8 @@ jobs:
           message: |
             Network tests failed, lets check:
 
-            https://nova-wallet.github.io/test-runner/${{github.run_number}}
+            Failed run:
+            ${{ env.GITHUB_WORKFLOW_URL }}
+
+            Report:
+            https://nova-wallet.github.io/test-runner/${{ github.run_number }}
