@@ -145,4 +145,3 @@ jobs:
 
             Report:
             https://nova-wallet.github.io/test-runner/${{ github.run_number }}
-
