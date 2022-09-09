@@ -6,28 +6,23 @@ on:
   workflow_dispatch:
   pull_request:
 
+env:
+  ACALA_PROD_AUTH_TOKEN: 'token'
+  ACALA_TEST_AUTH_TOKEN: 'token'
+  MOONBEAM_PROD_AUTH_TOKEN: 'token'
+  MOONBEAM_TEST_AUTH_TOKEN: 'token'
+  MOONPAY_PRODUCTION_SECRET: 'token'
+  MOONPAY_TEST_SECRET: 'token'
+
+  CI_KEYSTORE_PASS: 'token'
+  CI_KEYSTORE_KEY_ALIAS: 'token'
+  CI_KEYSTORE_KEY_PASS: 'token'
 
 jobs:
 
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 30
-    container:
-      image: ghcr.io/nova-wallet/build_tools:pr-3
-      credentials:
-        username: stepanLav
-        password: ${{ secrets.GITHUB_TOKEN }}
-      env:
-        ACALA_PROD_AUTH_TOKEN: 'token'
-        ACALA_TEST_AUTH_TOKEN: 'token'
-        MOONBEAM_PROD_AUTH_TOKEN: 'token'
-        MOONBEAM_TEST_AUTH_TOKEN: 'token'
-        MOONPAY_PRODUCTION_SECRET: 'token'
-        MOONPAY_TEST_SECRET: 'token'
-
-        CI_KEYSTORE_PASS: 'token'
-        CI_KEYSTORE_KEY_ALIAS: 'token'
-        CI_KEYSTORE_KEY_PASS: 'token'
 
     steps:
       - name: Check out
@@ -37,10 +32,17 @@ jobs:
           ref: 'develop'
           token: ${{ secrets.PAT }}
 
-      - name: Build app for testing
+      - name: ☕️ Install Java
+        uses: actions/setup-java@v3
+        with:
+          distribution: 'temurin'
+          java-version: '11'
+          cache: 'gradle'
+
+      - name: 🏗 Build app for testing
         run: ./gradlew :app:assembleDebugAndroidTest
 
-      - name: Build instrumential test
+      - name: 🧪 Build instrumential test
         run: ./gradlew :app:assembleInstrumentialTest
 
       - uses: actions/upload-artifact@v2
