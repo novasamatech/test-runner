@@ -120,7 +120,7 @@ jobs:
         uses: simple-elf/allure-report-action@master
         if: always()
         with:
-          gh_pages: gh-pages/balance-tests-android
+          gh_pages: gh-pages
           allure_results: allure-results
           allure_history: test-result/balance-tests-android
           keep_reports: 30
