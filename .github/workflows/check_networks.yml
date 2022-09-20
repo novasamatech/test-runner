@@ -107,6 +107,11 @@ jobs:
           ref: gh-pages
           path: gh-pages
 
+      - name: Make tests folder
+        run: |
+          mkdir test-result
+          mkdir test-result/balance-tests-android
+
       - name: Debug
         run: |
           ls -R
@@ -115,8 +120,9 @@ jobs:
         uses: simple-elf/allure-report-action@master
         if: always()
         with:
+          gh_pages: gh-pages/balance-tests-android
           allure_results: allure-results
-          allure_history: allure-history
+          allure_history: test-result/balance-tests-android
           keep_reports: 30
 
       - name: Deploy report to Github Pages
@@ -125,25 +131,25 @@ jobs:
         env:
           PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PUBLISH_BRANCH: gh-pages
-          PUBLISH_DIR: allure-history
+          PUBLISH_DIR: test-result
 
-  alert:
-    runs-on: ubuntu-latest
-    needs: report
-    if: always() && (needs.test.result == 'failure')
-    env:
-      GITHUB_WORKFLOW_URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
-    steps:
-      - name: Report
-        uses: appleboy/telegram-action@master
-        with:
-          to: ${{ secrets.TELEGRAM_TO }}
-          token: ${{ secrets.TELEGRAM_TOKEN }}
-          message: |
-            Network tests failed, lets check:
+  # alert:
+  #   runs-on: ubuntu-latest
+  #   needs: report
+  #   if: always() && (needs.test.result == 'failure')
+  #   env:
+  #     GITHUB_WORKFLOW_URL: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+  #   steps:
+  #     - name: Report
+  #       uses: appleboy/telegram-action@master
+  #       with:
+  #         to: ${{ secrets.TELEGRAM_TO }}
+  #         token: ${{ secrets.TELEGRAM_TOKEN }}
+  #         message: |
+  #           Network tests failed, lets check:
 
-            Failed run:
-            ${{ env.GITHUB_WORKFLOW_URL }}
+  #           Failed run:
+  #           ${{ env.GITHUB_WORKFLOW_URL }}
 
-            Report:
-            https://nova-wallet.github.io/test-runner/${{ github.run_number }}
+  #           Report:
+  #           https://nova-wallet.github.io/test-runner/${{ github.run_number }}
