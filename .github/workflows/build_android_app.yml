@@ -113,7 +113,7 @@ jobs:
         with:
           fileName: ${{ inputs.keystore-file-name }}
           fileDir: './app/'
-          encodedString: ${{ inputs.keystore-file-base64 }}
+          encodedString: ${{ secrets.BASE64_GITHUB_KEYSTORE_FILE }}
 
       - name: 🏗 Build app
         if: ${{ !startsWith(inputs.gradlew-command, 'false') }}
