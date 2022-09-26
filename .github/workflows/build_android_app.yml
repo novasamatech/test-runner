@@ -58,6 +58,8 @@ on:
         required: false
       PAT:
         required: false
+      BASE64_GITHUB_KEYSTORE_FILE:
+        required: false
 
 env:
   ACALA_PROD_AUTH_TOKEN: ${{ secrets.ACALA_PROD_AUTH_TOKEN }}
