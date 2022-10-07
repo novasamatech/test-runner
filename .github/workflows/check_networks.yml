@@ -18,6 +18,9 @@ env:
   CI_KEYSTORE_KEY_ALIAS: 'token'
   CI_KEYSTORE_KEY_PASS: 'token'
 
+
+  SUB_FOLDER: android-tests
+
 jobs:
 
   build:
@@ -99,7 +102,7 @@ jobs:
       - name: Unzip results
         run: |
           mkdir results
-          tar -xvf allure-results.tar -C ./results
+          tar -xvf allure-results.tar
 
       - name: Get Allure history
         uses: actions/checkout@v2
@@ -117,10 +120,10 @@ jobs:
         uses: simple-elf/allure-report-action@master
         if: always()
         with:
-          allure_results: results
-          allure_history: allure-history
+          allure_results: allure-results
+          allure_history: ${{ env.SUB_FOLDER }}/allure-history
           keep_reports: 30
-          subfolder: android-tests
+          subfolder: ${{ env.SUB_FOLDER }}
 
       - name: Deploy report to Github Pages
         if: always()
@@ -149,4 +152,4 @@ jobs:
             ${{ env.GITHUB_WORKFLOW_URL }}
 
             Report:
-            https://nova-wallet.github.io/test-runner/${{ github.run_number }}
+            https://nova-wallet.github.io/test-runner/${{ env.SUB_FOLDER }}/${{ github.run_number }}
