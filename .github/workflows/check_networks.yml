@@ -96,7 +96,9 @@ jobs:
           path: ./
 
       - name: Unzip results
-        run: tar -xvf allure-results.tar
+        run: |
+          mkdir results
+          tar -xvf allure-results.tar -C ./results
 
       - name: Get Allure history
         uses: actions/checkout@v2
@@ -114,9 +116,14 @@ jobs:
         uses: simple-elf/allure-report-action@master
         if: always()
         with:
-          allure_results: allure-results
+          allure_results: results
           allure_history: allure-history
           keep_reports: 30
+
+      - name: Put raw results
+        run: |
+          mkdir ./allure-history/raw-results
+          mv -r ./results ./allure-history/raw-results
 
       - name: Deploy report to Github Pages
         if: always()
