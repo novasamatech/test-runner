@@ -123,6 +123,7 @@ jobs:
 
       - name: Put raw results
         run: |
+          chmod 777 ./allure-history
           mkdir ./allure-history/raw-results
           mv -r ./results ./allure-history/raw-results
 
