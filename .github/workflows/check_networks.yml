@@ -120,12 +120,7 @@ jobs:
           allure_results: results
           allure_history: allure-history
           keep_reports: 30
-
-      - name: Put raw results
-        run: |
-          chmod 777 ./allure-history
-          mkdir ./allure-history/raw-results
-          mv -r ./results ./allure-history/raw-results
+          subfolder: android-tests
 
       - name: Deploy report to Github Pages
         if: always()
