@@ -8,6 +8,7 @@ env:
   SUB_FOLDER: utils-tests
   TEST_RE_RUNS: 1
   TEST_RE_RUNS_DELAY: 10
+  POJECT_PATH: nova-utils
 
 jobs:
   test:
@@ -28,19 +29,17 @@ jobs:
         with:
           repository: nova-wallet/nova-utils
           ref: 'master'
-          path: nova-utils
+          path: ${{ env.POJECT_PATH }}
           token: ${{ secrets.PAT }}
 
-      - run: cd ./nova-utils
-
       - name: Set up actual paths
-        uses: ./.github/workflows/setup-path
+        uses: ${{ env.POJECT_PATH }}/.github/workflows/setup-path
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r ${{ env.POJECT_PATH }}/requirements.txt
 
       - name: Run test
-        run: python -m pytest --rootdir . --alluredir=allure-report/ -n auto "${{ matrix.tests }}" --reruns ${{ env.TEST_RE_RUNS }} --reruns-delay ${{ env.TEST_RE_RUNS_DELAY }}
+        run: python -m pytest --rootdir ${{ env.POJECT_PATH }} --alluredir=allure-report/ -n auto "${{ matrix.tests }}" --reruns ${{ env.TEST_RE_RUNS }} --reruns-delay ${{ env.TEST_RE_RUNS_DELAY }}
 
       - name: Tar files
         if: always()
