@@ -1,5 +1,31 @@
 body {
+    box-sizing: content-box;
     margin: 0;
-    background: cadetblue;
-    text-align: left;
+    padding: 0;
+    border: 0;
+    opacity: 1;
+    -webkit-font-smoothing: antialiased;
+    background-color: #000000;
+    overflow: hidden;
+    background-image: url('background.png');
+}
+
+.navMenu {
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.navMenu a {
+    font-family: 'Public Sans',Arial,sans-serif;
+    border-radius: 50px;
+    background-color: grey;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 72px;
 }
