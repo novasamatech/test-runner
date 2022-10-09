@@ -27,7 +27,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           repository: nova-wallet/nova-utils
-          ref: 'master'
+          ref: 'feature/xcm_tests'
           path: nova-utils
           token: ${{ secrets.PAT }}
 
