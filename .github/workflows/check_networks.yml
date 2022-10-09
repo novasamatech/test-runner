@@ -94,44 +94,15 @@ jobs:
     needs: test
     if: always() && (needs.build.result == 'success')
     steps:
-      - uses: actions/download-artifact@v2
+      - uses: actions/checkout@v2
+
+      - uses: ./.github/workflows/report
         with:
-          name: report
-          path: ./
-
-      - name: Unzip results
-        run: |
-          mkdir results
-          tar -xvf allure-results.tar
-
-      - name: Get Allure history
-        uses: actions/checkout@v2
-        if: always()
-        continue-on-error: true
-        with:
-          ref: gh-pages
-          path: gh-pages
-
-      - name: Debug
-        run: |
-          ls -R
-
-      - name: Allure Report action
-        uses: simple-elf/allure-report-action@master
-        if: always()
-        with:
-          allure_results: allure-results
-          allure_history: allure-history
-          keep_reports: 30
-          subfolder: ${{ env.SUB_FOLDER }}
-
-      - name: Deploy report to Github Pages
-        if: always()
-        uses: peaceiris/actions-gh-pages@v2
-        env:
-          PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PUBLISH_BRANCH: gh-pages
-          PUBLISH_DIR: allure-history
+          sub-folder: ${{ env.SUB_FOLDER }}
+          secret-token: ${{ secrets.GITHUB_TOKEN }}
+          keep-reports-history: 30
+          artifact-name: allure
+          artifact-path: nova-utils
 
   # alert:
   #   runs-on: ubuntu-latest

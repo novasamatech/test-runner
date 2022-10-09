@@ -44,13 +44,13 @@ jobs:
 
       - name: Tar files
         if: always()
-        run: tar -cvf allure-report.tar ./allure-report/
+        run: tar -cvf allure-results.tar ./allure-report/
 
       - uses: actions/upload-artifact@v2
         if: always()
         with:
           name: allure
-          path: ./allure-report.tar
+          path: ./allure-results.tar
 
   make-report:
     runs-on: ubuntu-latest
@@ -58,44 +58,11 @@ jobs:
     if: always()
     steps:
       - uses: actions/checkout@v2
-      - name: Download built artifact
-        uses: actions/download-artifact@v2
+
+      - uses: ./.github/workflows/report
         with:
-          name: allure
-          path: ./nova-utils
-
-      - name: Unzip results
-        run: |
-          cd ./nova-utils
-          tar -xvf allure-report.tar
-
-      - name: Get Allure history
-        uses: actions/checkout@v2
-        if: always()
-        continue-on-error: true
-        with:
-          repository: nova-wallet/test-runner
-          ref: gh-pages
-          path: gh-pages
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Debug
-        run: |
-          ls -R
-
-      - name: Allure Report action
-        uses: simple-elf/allure-report-action@master
-        if: always()
-        with:
-          allure_results: allure-results
-          allure_history: allure-history
-          keep_reports: 30
-          subfolder: ${{ env.SUB_FOLDER }}
-
-      - name: Deploy report to Github Pages
-        if: always()
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PUBLISH_BRANCH: gh-pages
-          PUBLISH_DIR: allure-history
+          sub-folder: ${{ env.SUB_FOLDER }}
+          secret-token: ${{ secrets.GITHUB_TOKEN }}
+          keep-reports-history: 30
+          artifact-name: allure
+          artifact-path: nova-utils
