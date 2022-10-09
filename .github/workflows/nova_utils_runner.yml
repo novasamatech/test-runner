@@ -49,13 +49,15 @@ jobs:
 
       - name: Tar files
         if: always()
-        run: tar -cvf allure-results.tar ./nova-utils/allure-results/
+        run: |
+          cd ./nova-utils
+          tar -cvf allure-results.tar allure-results/
 
       - uses: actions/upload-artifact@v2
         if: always()
         with:
           name: allure
-          path: ./allure-results.tar
+          path: ./nova-utils/allure-results.tar
 
   make-report:
     runs-on: ubuntu-latest
