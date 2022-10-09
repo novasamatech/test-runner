@@ -31,8 +31,13 @@ jobs:
           path: nova-utils
           token: ${{ secrets.PAT }}
 
+      - name: Debug
+        run: |
+          ls -R
+        shell: bash
+
       - name: Set up actual paths
-        uses: ./nova-utils/.github/workflows/setup-path
+        uses: .github/workflows/setup-path
 
       - name: Install dependencies
         run: pip install -r nova-utils/requirements.txt
