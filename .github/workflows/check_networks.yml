@@ -86,7 +86,7 @@ jobs:
       - uses: actions/upload-artifact@v2
         if: always()
         with:
-          name: report
+          name: allure
           path: ./allure-results.tar
 
   report:
@@ -102,7 +102,7 @@ jobs:
           secret-token: ${{ secrets.GITHUB_TOKEN }}
           keep-reports-history: 30
           artifact-name: allure
-          artifact-path: nova-utils
+          artifact-path: anroid-artifacts
 
   # alert:
   #   runs-on: ubuntu-latest
