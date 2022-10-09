@@ -5,12 +5,12 @@ on:
   pull_request:
 
 env:
-  SUB_FOLDER: utils-tests
   TEST_RE_RUNS: 1
   TEST_RE_RUNS_DELAY: 10
 
 jobs:
   test:
+    name: ${{ matrix.tests }}
     runs-on: ubuntu-latest
     timeout-minutes: 30
     strategy:
@@ -18,9 +18,9 @@ jobs:
       matrix:
         tests:
           [
-            ./tests/test_nodes_availability.py,
-            ./tests/test_network_parameters.py,
-            ./tests/test_xcm_data.py,
+            test_nodes_availability,
+            test_network_parameters,
+            test_xcm_data,
           ]
     steps:
       - name: Checout to nova-utils
@@ -45,7 +45,7 @@ jobs:
       - name: Run test
         run: |
           cd ./nova-utils
-          python -m pytest --rootdir . --alluredir=allure-results/ -n auto "${{ matrix.tests }}" --reruns ${{ env.TEST_RE_RUNS }} --reruns-delay ${{ env.TEST_RE_RUNS_DELAY }}
+          python -m pytest --rootdir . --alluredir=allure-results/ -n auto "./tests/${{ matrix.tests }}.py" --reruns ${{ env.TEST_RE_RUNS }} --reruns-delay ${{ env.TEST_RE_RUNS_DELAY }}
 
       - name: Tar files
         if: always()
@@ -56,7 +56,7 @@ jobs:
       - uses: actions/upload-artifact@v2
         if: always()
         with:
-          name: allure
+          name: ${{ matrix.tests }}
           path: ./nova-utils/allure-results.tar
 
   make-report:
@@ -65,11 +65,18 @@ jobs:
     if: always()
     steps:
       - uses: actions/checkout@v2
+      - name: Download built artifact
+        uses: actions/download-artifact@v2
+        with:
+          path: nova-utils
+
+      - name: Unzip results
+        run: |
+          tar -xvf nova-utils/test_nodes_availability/allure-results.tar
+          tar -xvf nova-utils/test_network_parameters/allure-results.tar
+          tar -xvf nova-utils/test_xcm_data/allure-results.tar
 
       - uses: ./.github/workflows/report
         with:
-          sub-folder: ${{ env.SUB_FOLDER }}
           secret-token: ${{ secrets.GITHUB_TOKEN }}
           keep-reports-history: 30
-          artifact-name: allure
-          artifact-path: nova-utils

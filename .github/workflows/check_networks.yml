@@ -19,8 +19,6 @@ env:
   CI_KEYSTORE_KEY_PASS: 'token'
 
 
-  SUB_FOLDER: android-tests
-
 jobs:
 
   build:
@@ -95,14 +93,20 @@ jobs:
     if: always() && (needs.build.result == 'success')
     steps:
       - uses: actions/checkout@v2
+      - name: Download built artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: allure
+          path: anroid-artifacts
+
+      - name: Unzip results
+        run: |
+          tar -xvf anroid-artifacts/allure-results.tar
 
       - uses: ./.github/workflows/report
         with:
-          sub-folder: ${{ env.SUB_FOLDER }}
           secret-token: ${{ secrets.GITHUB_TOKEN }}
           keep-reports-history: 30
-          artifact-name: allure
-          artifact-path: anroid-artifacts
 
   # alert:
   #   runs-on: ubuntu-latest
@@ -123,4 +127,4 @@ jobs:
   #           ${{ env.GITHUB_WORKFLOW_URL }}
 
   #           Report:
-  #           https://nova-wallet.github.io/test-runner/${{ env.SUB_FOLDER }}/${{ github.run_number }}
+  #           https://nova-wallet.github.io/test-runner/${{ github.run_number }}
