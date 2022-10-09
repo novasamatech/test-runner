@@ -43,7 +43,9 @@ jobs:
         run: pip install -r nova-utils/requirements.txt
 
       - name: Run test
-        run: python -m pytest --rootdir nova-utils --alluredir=allure-report/ -n auto "${{ matrix.tests }}" --reruns ${{ env.TEST_RE_RUNS }} --reruns-delay ${{ env.TEST_RE_RUNS_DELAY }}
+        run: |
+          cd ./nova-utils
+          python -m pytest --rootdir . --alluredir=allure-report/ -n auto "${{ matrix.tests }}" --reruns ${{ env.TEST_RE_RUNS }} --reruns-delay ${{ env.TEST_RE_RUNS_DELAY }}
 
       - name: Tar files
         if: always()
