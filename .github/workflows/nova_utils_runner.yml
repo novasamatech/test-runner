@@ -45,11 +45,11 @@ jobs:
       - name: Run test
         run: |
           cd ./nova-utils
-          python -m pytest --rootdir . --alluredir=allure-report/ -n auto "${{ matrix.tests }}" --reruns ${{ env.TEST_RE_RUNS }} --reruns-delay ${{ env.TEST_RE_RUNS_DELAY }}
+          python -m pytest --rootdir . --alluredir=allure-results/ -n auto "${{ matrix.tests }}" --reruns ${{ env.TEST_RE_RUNS }} --reruns-delay ${{ env.TEST_RE_RUNS_DELAY }}
 
       - name: Tar files
         if: always()
-        run: tar -cvf allure-results.tar ./nova-utils/allure-report/
+        run: tar -cvf allure-results.tar ./nova-utils/allure-results/
 
       - uses: actions/upload-artifact@v2
         if: always()
