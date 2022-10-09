@@ -121,7 +121,7 @@ jobs:
         if: always()
         with:
           allure_results: allure-results
-          allure_history: ${{ env.SUB_FOLDER }}/allure-history
+          allure_history: allure-history
           keep_reports: 30
           subfolder: ${{ env.SUB_FOLDER }}
 
