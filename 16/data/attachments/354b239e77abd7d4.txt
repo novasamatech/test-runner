@@ -1,0 +1,1 @@
+⚠️ Can't connect by wss://pub.elara.patract.io/polkadot, check it is available?
