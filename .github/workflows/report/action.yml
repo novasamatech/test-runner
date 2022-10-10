@@ -25,10 +25,10 @@ runs:
           ls -R
         shell: bash
 
-      # - name: Copy previous raw results
-      #   run: |
-      #     mv gh-pages/raw-results/allure-results ./allure-results
-      #   shell: bash
+      - name: Copy previous raw results
+        run: |
+          scp -r gh-pages/raw-results/allure-results/ ./allure-results
+        shell: bash
 
       - name: Allure Report action
         uses: simple-elf/allure-report-action@master
