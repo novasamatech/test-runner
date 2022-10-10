@@ -36,14 +36,10 @@ jobs:
           ls -R
         shell: bash
 
-      - name: Set up actual paths
-        uses: ./nova-utils/.github/workflows/setup-path
-
       - name: Install dependencies
         run: pip install -r nova-utils/requirements.txt
 
       - name: Run test
-        continue-on-error: true
         run: |
           cd ./nova-utils
           python -m pytest --rootdir . --alluredir=allure-results/ -n auto "./tests/${{ matrix.tests }}.py" --reruns ${{ env.TEST_RE_RUNS }} --reruns-delay ${{ env.TEST_RE_RUNS_DELAY }}
