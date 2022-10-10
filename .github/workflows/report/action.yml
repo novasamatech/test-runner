@@ -42,8 +42,8 @@ runs:
         run: |
           mkdir results
           mkdir results/raw-results
-          mv ./allure-results results/raw-results/allure-results
-          cp -r ./allure-history results
+          scp -r ./allure-results/ results/raw-results/
+          scp -r ./allure-history/ results
         shell: bash
 
       - name: Deploy report to Github Pages
