@@ -18,6 +18,9 @@ env:
   CI_KEYSTORE_KEY_ALIAS: 'token'
   CI_KEYSTORE_KEY_PASS: 'token'
 
+  TEST_RE_RUNS: 1
+  TEST_RE_RUNS_DELAY: 10
+
 
 jobs:
 
@@ -54,7 +57,7 @@ jobs:
             app/build/outputs/apk/androidTest/debug/
 
 
-  test:
+  android-test:
     needs: build
     runs-on: macos-latest
     steps:
@@ -84,24 +87,74 @@ jobs:
       - uses: actions/upload-artifact@v2
         if: always()
         with:
-          name: allure
+          name: anroid-results
           path: ./allure-results.tar
+
+  utils-test:
+    name: ${{ matrix.tests }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    strategy:
+      fail-fast: false
+      matrix:
+        tests:
+          [
+            test_nodes_availability,
+            test_network_parameters,
+            test_xcm_data,
+          ]
+    steps:
+      - name: Checout to nova-utils
+        uses: actions/checkout@v2
+        with:
+          repository: nova-wallet/nova-utils
+          ref: 'feature/xcm_tests'
+          path: nova-utils
+          token: ${{ secrets.PAT }}
+
+      - name: Debug
+        run: |
+          ls -R
+        shell: bash
+
+      - name: Install dependencies
+        run: pip install -r nova-utils/requirements.txt
+
+      - name: Run test
+        continue-on-error: true
+        run: |
+          cd ./nova-utils
+          python -m pytest --rootdir . --alluredir=allure-results/ -n auto "./tests/${{ matrix.tests }}.py" --reruns ${{ env.TEST_RE_RUNS }} --reruns-delay ${{ env.TEST_RE_RUNS_DELAY }}
+
+      - name: Tar files
+        if: always()
+        run: |
+          cd ./nova-utils
+          tar -cvf allure-results.tar allure-results/
+
+      - uses: actions/upload-artifact@v2
+        if: always()
+        with:
+          name: ${{ matrix.tests }}
+          path: ./nova-utils/allure-results.tar
 
   report:
     runs-on: ubuntu-latest
-    needs: test
+    needs: [android-test, utils-test]
     if: always() && (needs.build.result == 'success')
     steps:
       - uses: actions/checkout@v2
       - name: Download built artifact
         uses: actions/download-artifact@v2
         with:
-          name: allure
-          path: anroid-artifacts
+          path: artifacts
 
       - name: Unzip results
         run: |
-          tar -xvf anroid-artifacts/allure-results.tar
+          tar -xvf artifacts/test_nodes_availability/allure-results.tar
+          tar -xvf artifacts/test_network_parameters/allure-results.tar
+          tar -xvf artifacts/test_xcm_data/allure-results.tar
+          tar -xvf artifacts/anroid-results/allure-results.tar
 
       - uses: ./.github/workflows/report
         with:
