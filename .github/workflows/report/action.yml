@@ -40,10 +40,10 @@ runs:
 
       - name: Add to push raw results
         run: |
-          mkdir results
-          mkdir results/raw-results
+          mkdir -p results
+          mkdir -p results/raw-results
           scp -r ./allure-results/ results/raw-results/
-          scp -r ./allure-history/ results
+          scp -r ./allure-history/* results
         shell: bash
 
       - name: Deploy report to Github Pages
