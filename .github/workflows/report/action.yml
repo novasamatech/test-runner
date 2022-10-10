@@ -43,7 +43,7 @@ runs:
           mkdir results
           mkdir results/raw-results
           mv ./allure-results results/raw-results/allure-results
-          mv ./allure-history results
+          cp ./allure-history results
         shell: bash
 
       - name: Deploy report to Github Pages
