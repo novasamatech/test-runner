@@ -40,9 +40,10 @@ runs:
 
       - name: Add to push raw results
         run: |
-          mkdir allure-history/raw-results/
-          mkdir allure-history/raw-results/allure-results
-          mv ./allure-results allure-history/raw-results/allure-results
+          mkdir results
+          mkdir results/raw-results
+          mv ./allure-results results/raw-results/allure-results
+          mv ./allure-history results
         shell: bash
 
       - name: Deploy report to Github Pages
@@ -51,4 +52,4 @@ runs:
         with:
           PERSONAL_TOKEN: ${{ inputs.secret-token }}
           PUBLISH_BRANCH: gh-pages
-          PUBLISH_DIR: allure-history
+          PUBLISH_DIR: results
