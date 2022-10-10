@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://pub.elara.patract.io/statemine, check it is available?
-⚠️ Can't connect by wss://pub.elara.patract.io/statemine, check it is available?

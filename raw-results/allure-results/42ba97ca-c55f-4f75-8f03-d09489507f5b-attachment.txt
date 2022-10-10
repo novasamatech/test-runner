@@ -1,1 +1,0 @@
-⚠️ Can't connect by wss://pub.elara.patract.io/karura, check it is available?

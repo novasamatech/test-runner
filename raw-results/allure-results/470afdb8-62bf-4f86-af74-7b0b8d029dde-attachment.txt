@@ -1,1 +1,0 @@
-⚠️ Can't connect by wss://pub.elara.patract.io/kusama, check it is available?
