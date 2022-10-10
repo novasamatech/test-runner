@@ -1,0 +1,53 @@
+{
+    "name": "testBalancesLoading[Getting balance for Kylin network]",
+    "start": 1665382095340,
+    "stop": 1665382095446,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "0c26207a-6610-44e6-ad97-58888eb45ea3",
+    "historyId": "64dd65171867c784eaa4f4ffb1219ed9",
+    "fullName": "io.novafoundation.nova.balances.BalancesIntegrationTest.testBalancesLoading[Getting balance for Kylin network]",
+    "labels": [
+        {
+            "name": "package",
+            "value": "io.novafoundation.nova.balances"
+        },
+        {
+            "name": "testClass",
+            "value": "io.novafoundation.nova.balances.BalancesIntegrationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBalancesLoading[Getting balance for Kylin network]"
+        },
+        {
+            "name": "suite",
+            "value": "io.novafoundation.nova.balances.BalancesIntegrationTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(165)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

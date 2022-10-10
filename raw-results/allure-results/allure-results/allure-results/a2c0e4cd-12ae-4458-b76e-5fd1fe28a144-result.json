@@ -1,0 +1,53 @@
+{
+    "name": "testBalancesLoading[Getting balance for Statemint network]",
+    "start": 1665381504583,
+    "stop": 1665381504766,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "a2c0e4cd-12ae-4458-b76e-5fd1fe28a144",
+    "historyId": "fafe22a0e2a5d68a61afd3f49fa55b41",
+    "fullName": "io.novafoundation.nova.balances.BalancesIntegrationTest.testBalancesLoading[Getting balance for Statemint network]",
+    "labels": [
+        {
+            "name": "package",
+            "value": "io.novafoundation.nova.balances"
+        },
+        {
+            "name": "testClass",
+            "value": "io.novafoundation.nova.balances.BalancesIntegrationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBalancesLoading[Getting balance for Statemint network]"
+        },
+        {
+            "name": "suite",
+            "value": "io.novafoundation.nova.balances.BalancesIntegrationTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(161)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

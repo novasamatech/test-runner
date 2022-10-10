@@ -1,0 +1,53 @@
+{
+    "name": "testBalancesLoading[Getting balance for Moonbeam network]",
+    "start": 1665381415951,
+    "stop": 1665381416133,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "65950c00-1d0e-40a4-8c68-3eb98279f1c1",
+    "historyId": "500987c378d6e90c5f14bc11aeb861f1",
+    "fullName": "io.novafoundation.nova.balances.BalancesIntegrationTest.testBalancesLoading[Getting balance for Moonbeam network]",
+    "labels": [
+        {
+            "name": "package",
+            "value": "io.novafoundation.nova.balances"
+        },
+        {
+            "name": "testClass",
+            "value": "io.novafoundation.nova.balances.BalancesIntegrationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBalancesLoading[Getting balance for Moonbeam network]"
+        },
+        {
+            "name": "suite",
+            "value": "io.novafoundation.nova.balances.BalancesIntegrationTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(161)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

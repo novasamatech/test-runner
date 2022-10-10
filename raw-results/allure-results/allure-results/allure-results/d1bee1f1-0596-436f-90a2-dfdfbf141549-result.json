@@ -1,0 +1,53 @@
+{
+    "name": "testBalancesLoading[Getting balance for Amplitude network]",
+    "start": 1665381504778,
+    "stop": 1665381504886,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "d1bee1f1-0596-436f-90a2-dfdfbf141549",
+    "historyId": "177bf85447e9d8df932b497702fe0d3",
+    "fullName": "io.novafoundation.nova.balances.BalancesIntegrationTest.testBalancesLoading[Getting balance for Amplitude network]",
+    "labels": [
+        {
+            "name": "package",
+            "value": "io.novafoundation.nova.balances"
+        },
+        {
+            "name": "testClass",
+            "value": "io.novafoundation.nova.balances.BalancesIntegrationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBalancesLoading[Getting balance for Amplitude network]"
+        },
+        {
+            "name": "suite",
+            "value": "io.novafoundation.nova.balances.BalancesIntegrationTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(161)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}

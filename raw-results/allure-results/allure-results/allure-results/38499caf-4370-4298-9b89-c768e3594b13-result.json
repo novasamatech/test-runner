@@ -1,0 +1,53 @@
+{
+    "name": "testBalancesLoading[Getting balance for Litmus network]",
+    "start": 1665381418784,
+    "stop": 1665381418967,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "38499caf-4370-4298-9b89-c768e3594b13",
+    "historyId": "28018f726795564796125ef4a327726d",
+    "fullName": "io.novafoundation.nova.balances.BalancesIntegrationTest.testBalancesLoading[Getting balance for Litmus network]",
+    "labels": [
+        {
+            "name": "package",
+            "value": "io.novafoundation.nova.balances"
+        },
+        {
+            "name": "testClass",
+            "value": "io.novafoundation.nova.balances.BalancesIntegrationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBalancesLoading[Getting balance for Litmus network]"
+        },
+        {
+            "name": "suite",
+            "value": "io.novafoundation.nova.balances.BalancesIntegrationTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(161)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        }
+    ]
+}
