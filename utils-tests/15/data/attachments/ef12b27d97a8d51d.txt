@@ -1,1 +1,0 @@
-⚠️ Can't connect by wss://falafel.calamari.systems/, check it is available?
