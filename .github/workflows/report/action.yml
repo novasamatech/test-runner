@@ -20,16 +20,6 @@ runs:
           ref: gh-pages
           path: gh-pages
 
-      - name: Debug
-        run: |
-          ls -R
-        shell: bash
-
-      - name: Copy previous raw results
-        run: |
-          scp -r gh-pages/raw-results/allure-results/ ./allure-results
-        shell: bash
-
       - name: Allure Report action
         uses: simple-elf/allure-report-action@master
         if: always()
@@ -38,18 +28,10 @@ runs:
           allure_history: allure-history
           keep_reports: ${{ inputs.keep-reports-history }}
 
-      - name: Add to push raw results
-        run: |
-          mkdir -p results
-          mkdir -p results/raw-results
-          scp -r ./allure-results/ results/raw-results/
-          scp -r ./allure-history/* results
-        shell: bash
-
       - name: Deploy report to Github Pages
         if: always()
         uses: peaceiris/actions-gh-pages@v3
         with:
           PERSONAL_TOKEN: ${{ inputs.secret-token }}
           PUBLISH_BRANCH: gh-pages
-          PUBLISH_DIR: results
+          PUBLISH_DIR: allure-history
