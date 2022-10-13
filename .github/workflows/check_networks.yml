@@ -108,7 +108,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           repository: nova-wallet/nova-utils
-          ref: 'feature/xcm_tests'
+          ref: master
           path: nova-utils
           token: ${{ secrets.PAT }}
 
