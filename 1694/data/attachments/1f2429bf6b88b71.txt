@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://rpc.api.kico.dico.io, check it is available?
-⚠️ Can't connect by wss://rpc.api.kico.dico.io, check it is available?
