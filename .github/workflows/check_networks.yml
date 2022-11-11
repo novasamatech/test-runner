@@ -101,7 +101,6 @@ jobs:
           [
             test_nodes_availability,
             test_network_parameters,
-            test_xcm_data,
           ]
     steps:
       - name: Checout to nova-utils
@@ -153,7 +152,6 @@ jobs:
         run: |
           tar -xvf artifacts/test_nodes_availability/allure-results.tar
           tar -xvf artifacts/test_network_parameters/allure-results.tar
-          tar -xvf artifacts/test_xcm_data/allure-results.tar
           tar -xvf artifacts/anroid-results/allure-results.tar
 
       - uses: ./.github/workflows/report
