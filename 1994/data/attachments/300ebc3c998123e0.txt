@@ -1,0 +1,1 @@
+⚠️ Can't connect by wss://kusama.gmordie.com, check it is available?
