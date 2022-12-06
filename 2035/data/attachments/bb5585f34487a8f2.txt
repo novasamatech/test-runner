@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://rpc.litmus-parachain.litentry.io, check it is available? 
+ Handshake status 502 Bad Gateway
