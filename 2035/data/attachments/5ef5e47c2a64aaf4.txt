@@ -1,9 +1,0 @@
-⚠️ Can't connect by wss://ws.gm.bldnodes.org, check it is available? 
- EOF occurred in violation of protocol (_ssl.c:1131)
-Can't connect to that node
-⚠️ Can't connect by wss://ws-node-gm.terrabiodao.org, check it is available? 
- Handshake status 403 Forbidden
-Can't connect to that node
-⚠️ Can't connect by wss://kusama.gmordie.com, check it is available? 
- [Errno 110] Connection timed out
-Can't connect to that node
