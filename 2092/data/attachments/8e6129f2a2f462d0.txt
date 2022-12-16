@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://zeitgeist-rpc.dwellir.com, check it is available? 
+ Handshake status 503 Service Unavailable
