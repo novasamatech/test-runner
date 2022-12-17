@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://public-rpc.pinknode.io/polkadot, check it is available? 
- Connection to remote host was lost.
