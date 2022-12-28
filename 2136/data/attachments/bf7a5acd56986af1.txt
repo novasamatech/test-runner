@@ -1,3 +1,0 @@
-⚠️ Can't connect by wss://tinker.invarch.network, check it is available? 
- Handshake status 521 Origin Down
-Can't connect to that node
