@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://integritee-ksm-rpc.dwellir.com, check it is available? 
- Handshake status 503 Service Unavailable
-⚠️ Can't connect by wss://integritee-ksm-rpc.dwellir.com, check it is available? 
- Handshake status 503 Service Unavailable
