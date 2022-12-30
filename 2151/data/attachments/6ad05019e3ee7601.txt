@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://tinker.invarch.network, check it is available? 
- Handshake status 522 Origin Connection Time-out
-⚠️ Can't connect by wss://tinker.invarch.network, check it is available? 
- Handshake status 522 Origin Connection Time-out
