@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://polkadot.public.curie.radiumblock.io/ws, check it is available? 
- Handshake status 503 Service Temporarily Unavailable
-⚠️ Can't connect by wss://polkadot.public.curie.radiumblock.io/ws, check it is available? 
- Handshake status 503 Service Temporarily Unavailable
