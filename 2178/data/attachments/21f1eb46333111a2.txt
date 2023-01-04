@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://kusama.public.curie.radiumblock.xyz/ws, check it is available? 
- [Errno -5] No address associated with hostname
