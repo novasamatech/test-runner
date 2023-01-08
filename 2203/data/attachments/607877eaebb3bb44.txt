@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://rpc.parallel.fi, check it is available? 
- Handshake status 502 Bad Gateway
