@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://parachain-rpc.origin-trail.network, check it is available? 
+ Handshake status 429 Too Many Requests
+Can't connect to that node
+Can't connect to all nodes of network OriginTrail Parachain
