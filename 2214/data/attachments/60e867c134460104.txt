@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://pichiu.api.onfinality.io/public-ws, check it is available? 
- Handshake status 200 OK
-⚠️ Can't connect by wss://pichiu.api.onfinality.io/public-ws, check it is available? 
- Handshake status 200 OK
