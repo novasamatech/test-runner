@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://kusama-rpc.polkadot.io, check it is available? 
+ Handshake status 504 Gateway Time-out
