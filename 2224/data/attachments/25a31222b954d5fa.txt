@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://kusama.rpc.ipci.io, check it is available? 
- Handshake status 502 Bad Gateway
-⚠️ Can't connect by wss://kusama.rpc.ipci.io, check it is available? 
- Handshake status 502 Bad Gateway
