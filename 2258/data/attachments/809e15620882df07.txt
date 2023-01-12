@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://rpc.composable.finance, check it is available? 
+ Handshake status 500 Internal Server Error
+⚠️ Can't connect by wss://rpc.composable.finance, check it is available? 
+ TLS/SSL connection has been closed (EOF) (_ssl.c:997)
