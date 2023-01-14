@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://wss.api.moonriver.moonbeam.network, check it is available? 
+ Handshake status 403 Forbidden
