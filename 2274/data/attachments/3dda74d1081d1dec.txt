@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://para.subsocial.network, check it is available? 
+ Handshake status 522 Origin Connection Time-out
+⚠️ Can't connect by wss://para.subsocial.network, check it is available? 
+ Handshake status 522 Origin Connection Time-out
