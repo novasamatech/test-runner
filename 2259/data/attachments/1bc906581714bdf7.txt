@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://ws-node-gm.terrabiodao.org, check it is available? 
- Handshake status 403 Forbidden
-⚠️ Can't connect by wss://ws-node-gm.terrabiodao.org, check it is available? 
- Handshake status 403 Forbidden
