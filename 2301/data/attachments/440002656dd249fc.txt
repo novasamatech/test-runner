@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://para.subsocial.network, check it is available? 
+ Handshake status 403 Forbidden
+⚠️ Can't connect by wss://para.subsocial.network, check it is available? 
+ Handshake status 403 Forbidden
