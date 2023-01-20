@@ -1,0 +1,7 @@
+⚠️ Can't connect by wss://para.f3joule.space, check it is available? 
+ Handshake status 502 Bad Gateway
+Can't connect to that node
+⚠️ Can't connect by wss://para.subsocial.network, check it is available? 
+ Handshake status 504 Gateway Time-out
+Can't connect to that node
+Can't connect to all nodes of network Subsocial
