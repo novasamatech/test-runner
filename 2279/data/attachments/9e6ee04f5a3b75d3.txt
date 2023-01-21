@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://zeitgeist-rpc.dwellir.com, check it is available? 
- Handshake status 504 Gateway Time-out
