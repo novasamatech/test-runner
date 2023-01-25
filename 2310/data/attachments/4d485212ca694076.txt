@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://para.f3joule.space, check it is available? 
- Handshake status 502 Bad Gateway
-⚠️ Can't connect by wss://para.f3joule.space, check it is available? 
- Handshake status 502 Bad Gateway
