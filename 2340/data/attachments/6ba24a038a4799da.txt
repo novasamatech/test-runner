@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://kusama.rpc.ipci.io, check it is available? 
+ Handshake status 429 Too Many Requests
