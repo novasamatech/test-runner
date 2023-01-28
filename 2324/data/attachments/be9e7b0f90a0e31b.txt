@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://para.subsocial.network, check it is available? 
- Handshake status 504 Gateway Time-out
-⚠️ Can't connect by wss://para.subsocial.network, check it is available? 
- Handshake status 504 Gateway Time-out
