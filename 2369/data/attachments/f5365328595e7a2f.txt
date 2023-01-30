@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://eu-ws-quartz.unique.network, check it is available? 
+ Handshake status 502 Bad Gateway
+⚠️ Can't connect by wss://eu-ws-quartz.unique.network, check it is available? 
+ Handshake status 502 Bad Gateway
