@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://rpc.astar.network, check it is available? 
- Handshake status 429 Too Many Requests
