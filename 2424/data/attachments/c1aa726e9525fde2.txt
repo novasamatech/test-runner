@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://leemo.gmordie.com, check it is available? 
+ [Errno -3] Temporary failure in name resolution
+⚠️ Can't connect by wss://leemo.gmordie.com, check it is available? 
+ [Errno -3] Temporary failure in name resolution
