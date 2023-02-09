@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://public-rpc.pinknode.io/moonbeam, check it is available? 
+ Handshake status 429 Too Many Requests
