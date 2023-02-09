@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://zeitgeist.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 200 OK
