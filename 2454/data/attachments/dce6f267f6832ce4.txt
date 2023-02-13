@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://kusama.kylin-node.co.uk, check it is available? 
+ Handshake status 429 Too Many Requests
+⚠️ Can't connect by wss://kusama.kylin-node.co.uk, check it is available? 
+ Handshake status 429 Too Many Requests
