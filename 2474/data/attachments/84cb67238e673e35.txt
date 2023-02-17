@@ -1,0 +1,8 @@
+⚠️ Can't connect by wss://kusama.rpc.ipci.io, check it is available? 
+ Handshake status 429 Too Many Requests
+Can't connect to that node
+Can't connect to all nodes of network DAO IPCI
+⚠️ Can't connect by wss://kusama.rpc.ipci.io, check it is available? 
+ Handshake status 429 Too Many Requests
+Can't connect to that node
+Can't connect to all nodes of network DAO IPCI
