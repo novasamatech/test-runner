@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://karura-rpc-3.aca-api.network/ws, check it is available? 
- Handshake status 503 Service Temporarily Unavailable
-⚠️ Can't connect by wss://karura-rpc-3.aca-api.network/ws, check it is available? 
- Handshake status 503 Service Temporarily Unavailable
