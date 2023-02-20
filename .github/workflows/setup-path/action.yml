@@ -5,8 +5,8 @@ runs:
   steps:
     - name: Setup version to variables
       run: |
-        echo "CHAINS_VERSION=$(bash nova-utils/.github/get_actual_json_path.sh chains)" >> "$GITHUB_ENV"
-        echo "XCM_VERSION=$(bash nova-utils/.github/get_actual_json_path.sh xcm)" >> "$GITHUB_ENV"
+        echo "CHAINS_VERSION=$(bash nova-utils/.github/get_actual_json_path.sh nova-utils/chains)" >> "$GITHUB_ENV"
+        echo "XCM_VERSION=$(bash nova-utils/.github/get_actual_json_path.sh nova-utils/xcm)" >> "$GITHUB_ENV"
       shell: bash
 
     - name: Setup json paths
