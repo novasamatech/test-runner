@@ -105,6 +105,8 @@ jobs:
             test_network_parameters,
           ]
     steps:
+      - uses: actions/checkout@v3
+
       - name: Checout to nova-utils
         uses: actions/checkout@v2
         with:
