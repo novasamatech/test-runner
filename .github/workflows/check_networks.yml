@@ -107,6 +107,8 @@ jobs:
             test_network_parameters,
           ]
     steps:
+      - uses: actions/checkout@v3
+
       - name: Checout to nova-utils
         uses: actions/checkout@v2
         with:
@@ -119,6 +121,9 @@ jobs:
         run: |
           ls -R
         shell: bash
+
+      - name: Set up actual paths
+        uses: ./.github/workflows/setup-path
 
       - name: Install dependencies
         run: pip install -r nova-utils/requirements.txt
