@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://pichiu.api.onfinality.io/public-ws, check it is available? 
- Handshake status 404 Not Found
-⚠️ Can't connect by wss://pichiu.api.onfinality.io/public-ws, check it is available? 
- Handshake status 404 Not Found
