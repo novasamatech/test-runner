@@ -1,1 +1,0 @@
-{"total":2,"items":[{"uid":"e387fa4bb326b54ea8c19c2822aba374","name":"tests","statistic":{"failed":0,"broken":15,"skipped":0,"passed":315,"unknown":0,"total":330}},{"uid":"5b2d42e0a857680774231b52e3cf7d67","name":"io.novafoundation.nova.balances.BalancesIntegrationTest","statistic":{"failed":0,"broken":1,"skipped":0,"passed":67,"unknown":0,"total":68}}]}

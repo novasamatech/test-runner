@@ -1,7 +1,0 @@
-⚠️ Can't connect by wss://rpc.xx.network, check it is available? 
- Handshake status 502 Bad Gateway
-Can't connect to that node
-⚠️ Can't connect by wss://xxnetwork-rpc.dwellir.com, check it is available? 
- [Errno -2] Name or service not known
-Can't connect to that node
-Can't connect to all nodes of network XX network
