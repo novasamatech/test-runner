@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://rpc-shadow.crust.network/, check it is available? 
- [Errno 110] Connection timed out
-⚠️ Can't connect by wss://rpc-shadow.crust.network/, check it is available? 
- [Errno 111] Connection refused
