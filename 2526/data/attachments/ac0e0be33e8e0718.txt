@@ -1,0 +1,7 @@
+⚠️ Can't connect by wss://rpc.xx.network, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to that node
+⚠️ Can't connect by wss://xx.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 429 Too Many Requests
+Can't connect to that node
+Can't connect to all nodes of network XX network
