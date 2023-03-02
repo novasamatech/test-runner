@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://rpc.xx.network, check it is available? 
- [Errno -2] Name or service not known
