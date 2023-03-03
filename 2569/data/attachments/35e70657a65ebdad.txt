@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://mainnet.ternoa.network, check it is available? 
+ Handshake status 503 Service Unavailable
