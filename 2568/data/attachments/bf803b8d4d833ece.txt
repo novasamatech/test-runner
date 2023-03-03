@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://rpc-amplitude.pendulumchain.tech, check it is available? 
+ Handshake status 500 Internal Server Error
