@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://gateway.mainnet.octopus.network/myriad/a4cb0a6e30ff5233a3567eb4e8cb71e0, check it is available? 
- Handshake status 503 Service Unavailable
-⚠️ Can't connect by wss://gateway.mainnet.octopus.network/myriad/a4cb0a6e30ff5233a3567eb4e8cb71e0, check it is available? 
- Handshake status 503 Service Unavailable
