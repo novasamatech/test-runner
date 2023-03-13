@@ -1,8 +1,0 @@
-⚠️ Can't connect by wss://crab-parachain-rpc.darwinia.network/, check it is available? 
- Handshake status 429 Too Many Requests
-Can't connect to that node
-Can't connect to all nodes of network Crab
-⚠️ Can't connect by wss://crab-parachain-rpc.darwinia.network/, check it is available? 
- Handshake status 429 Too Many Requests
-Can't connect to that node
-Can't connect to all nodes of network Crab
