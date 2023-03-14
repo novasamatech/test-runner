@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://crab-parachain-rpc.darwinia.network/, check it is available? 
- Handshake status 429 Too Many Requests
