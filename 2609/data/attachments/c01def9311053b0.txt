@@ -1,3 +1,0 @@
-⚠️ Can't connect by wss://prod-kusama-collator-01.mangatafinance.cloud, check it is available? 
- Handshake status 502 Bad Gateway
-Can't connect to that node
