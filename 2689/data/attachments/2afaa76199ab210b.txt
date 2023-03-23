@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://kusama.kylin-node.co.uk, check it is available? 
+ Handshake status 500 Internal Server Error
