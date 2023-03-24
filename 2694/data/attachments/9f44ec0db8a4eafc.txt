@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://api.phala.network/ws, check it is available? 
+ Handshake status 521 Origin Down
+⚠️ Can't connect by wss://api.phala.network/ws, check it is available? 
+ Handshake status 521 Origin Down
