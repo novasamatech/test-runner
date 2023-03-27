@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://us-ws-quartz.unique.network, check it is available? 
- Handshake status 521 Origin Down
