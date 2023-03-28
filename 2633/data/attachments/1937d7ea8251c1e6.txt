@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://us-ws.unique.network/, check it is available? 
- Handshake status 502 Bad Gateway
