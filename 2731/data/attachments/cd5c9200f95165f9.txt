@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://snow-rpc.icenetwork.io, check it is available? 
+ TLS/SSL connection has been closed (EOF) (_ssl.c:997)
+⚠️ Can't connect by wss://snow-rpc.icenetwork.io, check it is available? 
+ TLS/SSL connection has been closed (EOF) (_ssl.c:997)
