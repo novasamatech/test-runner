@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://mainnet.infura.io/ws/v3/{INFURA_API_KEY}, check it is available? 
- Handshake status 401 Unauthorized
-Can't connect to that node
-Can't connect to all nodes of network Ethereum
