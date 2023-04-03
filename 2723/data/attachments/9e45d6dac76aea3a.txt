@@ -1,7 +1,0 @@
-⚠️ Can't connect by wss://picasso-rpc.composable.finance, check it is available? 
- [Errno -2] Name or service not known
-Can't connect to that node
-⚠️ Can't connect by wss://rpc.composablenodes.tech, check it is available? 
- Handshake status 530 None
-Can't connect to that node
-Can't connect to all nodes of network Picasso
