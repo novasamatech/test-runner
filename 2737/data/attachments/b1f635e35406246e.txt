@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://snow-rpc.icenetwork.io, check it is available? 
- Handshake status 500 Internal Server Error
-Can't connect to that node
-Can't connect to all nodes of network Snow
