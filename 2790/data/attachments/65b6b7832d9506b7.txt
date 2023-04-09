@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://bifrost-rpc.liebi.com/ws, check it is available? 
+ Handshake status 502 Bad Gateway
