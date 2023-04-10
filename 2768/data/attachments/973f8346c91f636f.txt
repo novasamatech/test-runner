@@ -1,8 +1,0 @@
-⚠️ Can't connect by wss://kabocha.jelliedowl.com, check it is available? 
- Handshake status 504 Gateway Time-out
-Can't connect to that node
-Can't connect to all nodes of network Kabocha
-⚠️ Can't connect by wss://kabocha.jelliedowl.com, check it is available? 
- Handshake status 504 Gateway Time-out
-Can't connect to that node
-Can't connect to all nodes of network Kabocha
