@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://ws.calamari.systems/, check it is available? 
+ TLS/SSL connection has been closed (EOF) (_ssl.c:997)
