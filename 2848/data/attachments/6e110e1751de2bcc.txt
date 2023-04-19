@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://mangata-x.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 504 Gateway Time-out
+⚠️ Can't connect by wss://mangata-x.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 200 OK
