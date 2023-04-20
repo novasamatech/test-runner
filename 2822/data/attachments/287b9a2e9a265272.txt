@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://rpc.exosama.com, check it is available? 
- {'code': -32601, 'message': 'Method system_chain is not supported'}
-⚠️ Can't connect by wss://rpc.exosama.com, check it is available? 
- {'code': -32601, 'message': 'Method system_chain is not supported'}

@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://intern.gmordie.com, check it is available? 
- [Errno -3] Temporary failure in name resolution

@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://ws.calamari.systems/, check it is available? 
- Handshake status 500 Internal Server Error
