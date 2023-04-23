@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://fullnode.altair.centrifuge.io, check it is available? 
+ Handshake status 503 Service Temporarily Unavailable
+⚠️ Can't connect by wss://fullnode.altair.centrifuge.io, check it is available? 
+ Handshake status 503 Service Temporarily Unavailable
