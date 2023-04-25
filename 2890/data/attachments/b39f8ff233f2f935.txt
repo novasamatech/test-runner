@@ -1,0 +1,2 @@
+⚠️ Can't connect by https://eth-mainnet.public.blastapi.io, check it is available? 
+ RPC request failed with HTTP status code 400
