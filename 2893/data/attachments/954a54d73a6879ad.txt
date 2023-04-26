@@ -1,0 +1,4 @@
+⚠️ Can't connect by https://rpc.flashbots.net, check it is available? 
+ {'code': -32001, 'message': 'rpc method is not whitelisted'}
+⚠️ Can't connect by https://rpc.flashbots.net, check it is available? 
+ {'code': -32001, 'message': 'rpc method is not whitelisted'}

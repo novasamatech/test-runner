@@ -1,0 +1,4 @@
+⚠️ Can't connect by https://1rpc.io/eth, check it is available? 
+ {'code': -32601, 'message': 'The method system_chain does not exist/is not available', 'data': None}
+⚠️ Can't connect by https://1rpc.io/eth, check it is available? 
+ {'code': -32601, 'message': 'The method system_chain does not exist/is not available', 'data': None}
