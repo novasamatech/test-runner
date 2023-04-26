@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://karura-rpc-0.aca-api.network, check it is available? 
+ Handshake status 500 Internal Server Error
