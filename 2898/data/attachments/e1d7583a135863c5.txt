@@ -1,0 +1,4 @@
+⚠️ Can't connect by https://api.securerpc.com/v1, check it is available? 
+ {'code': -32601, 'message': 'method not found'}
+⚠️ Can't connect by https://api.securerpc.com/v1, check it is available? 
+ {'code': -32601, 'message': 'method not found'}

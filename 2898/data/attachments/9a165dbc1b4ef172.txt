@@ -1,0 +1,4 @@
+⚠️ Can't connect by https://eth.llamarpc.com, check it is available? 
+ {'code': -32601, 'message': 'the method system_chain does not exist/is not available'}
+⚠️ Can't connect by https://eth.llamarpc.com, check it is available? 
+ {'code': -32601, 'message': 'the method system_chain does not exist/is not available'}
