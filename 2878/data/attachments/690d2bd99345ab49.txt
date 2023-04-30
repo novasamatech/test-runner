@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://fullnode.parachain.centrifuge.io, check it is available? 
- Handshake status 503 Service Temporarily Unavailable
