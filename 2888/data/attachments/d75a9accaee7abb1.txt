@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://fullnode.altair.centrifuge.io, check it is available? 
- [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'fullnode.altair.centrifuge.io'. (_ssl.c:997)
-⚠️ Can't connect by wss://fullnode.altair.centrifuge.io, check it is available? 
- [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'fullnode.altair.centrifuge.io'. (_ssl.c:997)
