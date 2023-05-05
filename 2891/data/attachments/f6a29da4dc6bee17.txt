@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://karura-rpc.dwellir.com, check it is available? 
- Handshake status 429 Too Many Requests

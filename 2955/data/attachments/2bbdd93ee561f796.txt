@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://intern.gmordie.com, check it is available? 
+ Handshake status 502 Bad Gateway
