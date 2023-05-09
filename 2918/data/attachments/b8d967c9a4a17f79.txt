@@ -1,6 +1,0 @@
-⚠️ Can't connect by wss://node.pol.equilibrium.io, check it is available? 
- [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)
-Can't connect to that node
-⚠️ Can't connect by wss://node.pol.equilibrium.io, check it is available? 
- [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)
-Can't connect to that node
