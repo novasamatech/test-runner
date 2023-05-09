@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://crab-rpc.darwinia.network/, check it is available? 
+ Handshake status 502 Bad Gateway
