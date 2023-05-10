@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://khala-api.phala.network/ws, check it is available? 
+ Handshake status 502 Bad Gateway
