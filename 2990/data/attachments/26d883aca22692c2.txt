@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://pioneer.api.onfinality.io/public-ws, check it is available? 
- [Errno 110] Connection timed out
