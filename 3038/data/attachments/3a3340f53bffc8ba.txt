@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://rpc.composable.finance, check it is available? 
+ Handshake status 522 Origin Connection Time-out
