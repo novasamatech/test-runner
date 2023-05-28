@@ -100,6 +100,8 @@ jobs:
   utils-test:
     name: ${{ matrix.tests }}
     runs-on: ubuntu-latest
+    env:
+      PARALLEL_THREADS: 10 # Number or auto
     strategy:
       fail-fast: false
       matrix:
@@ -136,7 +138,7 @@ jobs:
         continue-on-error: true
         run: |
           cd ./nova-utils
-          python -m pytest --rootdir . --alluredir=allure-results/ -n auto "./tests/${{ matrix.tests }}.py" --reruns ${{ env.TEST_RE_RUNS }} --reruns-delay ${{ env.TEST_RE_RUNS_DELAY }}
+          python -m pytest --rootdir . --alluredir=allure-results/ -n ${{ env.PARALLEL_THREADS }} "./tests/${{ matrix.tests }}.py" --reruns ${{ env.TEST_RE_RUNS }} --reruns-delay ${{ env.TEST_RE_RUNS_DELAY }}
 
       - name: Tar files
         if: always()
