@@ -98,7 +98,7 @@ jobs:
           path: ./allure-results.tar
 
   utils-test:
-    name: ${{ matrix.tests }}
+    name: ${{ matrix.test_path }}
     runs-on: ubuntu-latest
     env:
       PARALLEL_THREADS: 10 # Number or auto
