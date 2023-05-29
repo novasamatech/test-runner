@@ -108,23 +108,12 @@ jobs:
         test_path:
           [
             "test_nodes_availability.py",
-            "test_network_parameters.py",
+            "test_network_parameters.py-TestPrecision",
+            "test_network_parameters.py-TestChainId",
+            "test_network_parameters.py-TestNetworkPrefix",
             "test_eth_nodes_availability.py",
             "test_check_new_assets.py"
           ]
-        include:
-          - test_path: test_nodes_availability.py
-            test_class: test_can_create_connection
-          - test_path: test_network_parameters.py
-            test_class: TestPrecision
-          - test_path: test_network_parameters.py
-            test_class: TestChainId
-          - test_path: test_network_parameters.py
-            test_class: TestNetworkPrefix
-          - test_path: test_eth_nodes_availability.py
-            test_class: TestETHNodesAvailability
-          - test_path: test_check_new_assets.py
-            test_class: TestAssets
           
 
     steps:
@@ -153,7 +142,7 @@ jobs:
         continue-on-error: true
         run: |
           cd ./nova-utils
-          python -m pytest --rootdir . --alluredir=allure-results/ -n ${{ env.PARALLEL_THREADS }} -v "./tests/${{ matrix.test_path }}::${{ matrix.test_class }}" --reruns ${{ env.TEST_RE_RUNS }} --reruns-delay ${{ env.TEST_RE_RUNS_DELAY }}
+          python -m pytest --rootdir . --alluredir=allure-results/ -n ${{ env.PARALLEL_THREADS }} -v "./tests/$(echo "${{ matrix.test_path }}" | sed 's/-/::/g')" --reruns ${{ env.TEST_RE_RUNS }} --reruns-delay ${{ env.TEST_RE_RUNS_DELAY }}
 
       - name: Tar files
         if: always()
