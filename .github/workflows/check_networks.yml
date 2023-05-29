@@ -107,12 +107,12 @@ jobs:
       matrix:
         tests:
           [
-            test_nodes_availability.py,
-            test_network_parameters.py::TestPrecision,
-            test_network_parameters.py::TestNetworkPrefix,
-            test_network_parameters.py::TestChainId,
-            test_eth_nodes_availability.py,
-            test_check_new_assets.py
+            "test_nodes_availability.py",
+            "test_network_parameters.py::TestPrecision",
+            "test_network_parameters.py::TestNetworkPrefix",
+            "test_network_parameters.py::TestChainId",
+            "test_eth_nodes_availability.py",
+            "test_check_new_assets.py"
           ]
     steps:
       - uses: actions/checkout@v3
