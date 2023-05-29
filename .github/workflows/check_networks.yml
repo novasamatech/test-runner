@@ -108,7 +108,7 @@ jobs:
         test_path:
           [
             "test_nodes_availability.py",
-            "test_network_parameters.py-TestPrecision",
+            "test_network_parameters.py-TestPrecision", # char "-" used to avoid problems with syntax by using "::"
             "test_network_parameters.py-TestChainId",
             "test_network_parameters.py-TestNetworkPrefix",
             "test_eth_nodes_availability.py",
