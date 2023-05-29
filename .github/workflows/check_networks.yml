@@ -25,8 +25,8 @@ env:
   CI_KEYSTORE_KEY_ALIAS: 'token'
   CI_KEYSTORE_KEY_PASS: 'token'
 
-  TEST_RE_RUNS: 1
-  TEST_RE_RUNS_DELAY: 10
+  TEST_RE_RUNS: 2
+  TEST_RE_RUNS_DELAY: 15
 
 
 jobs:
@@ -98,18 +98,24 @@ jobs:
           path: ./allure-results.tar
 
   utils-test:
-    name: ${{ matrix.tests }}
+    name: ${{ matrix.test_path }}
     runs-on: ubuntu-latest
+    env:
+      PARALLEL_THREADS: 10 # Number or auto
     strategy:
       fail-fast: false
       matrix:
-        tests:
+        test_path:
           [
-            test_nodes_availability,
-            test_network_parameters,
-            test_eth_nodes_availability,
-            test_check_new_assets
+            "test_nodes_availability.py",
+            "test_network_parameters.py-TestPrecision", # char "-" used to avoid problems with syntax by using "::"
+            "test_network_parameters.py-TestChainId",
+            "test_network_parameters.py-TestNetworkPrefix",
+            "test_eth_nodes_availability.py",
+            "test_check_new_assets.py"
           ]
+          
+
     steps:
       - uses: actions/checkout@v3
 
@@ -136,7 +142,7 @@ jobs:
         continue-on-error: true
         run: |
           cd ./nova-utils
-          python -m pytest --rootdir . --alluredir=allure-results/ -n auto "./tests/${{ matrix.tests }}.py" --reruns ${{ env.TEST_RE_RUNS }} --reruns-delay ${{ env.TEST_RE_RUNS_DELAY }}
+          python -m pytest --rootdir . --alluredir=allure-results/ -n ${{ env.PARALLEL_THREADS }} -v "./tests/$(echo "${{ matrix.test_path }}" | sed 's/-/::/g')" --reruns ${{ env.TEST_RE_RUNS }} --reruns-delay ${{ env.TEST_RE_RUNS_DELAY }}
 
       - name: Tar files
         if: always()
@@ -147,7 +153,7 @@ jobs:
       - uses: actions/upload-artifact@v2
         if: always()
         with:
-          name: ${{ matrix.tests }}
+          name: ${{ matrix.test_path }}
           path: ./nova-utils/allure-results.tar
 
   report:
@@ -163,11 +169,7 @@ jobs:
 
       - name: Unzip results
         run: |
-          tar -xvf artifacts/test_nodes_availability/allure-results.tar
-          tar -xvf artifacts/test_network_parameters/allure-results.tar
-          tar -xvf artifacts/test_eth_nodes_availability/allure-results.tar
-          tar -xvf artifacts/test_check_new_assets/allure-results.tar
-          tar -xvf artifacts/anroid-results/allure-results.tar
+          find artifacts -name allure-results.tar -exec tar -xvf {} \;
 
       - uses: ./.github/workflows/report
         with:
