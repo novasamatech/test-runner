@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://c2.hashed.network, check it is available? 
- Handshake status 429 Too Many Requests
-⚠️ Can't connect by wss://c2.hashed.network, check it is available? 
- Handshake status 429 Too Many Requests
