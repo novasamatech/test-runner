@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://c1.hashed.network, check it is available? 
- Handshake status 503 Service Temporarily Unavailable
-⚠️ Can't connect by wss://c1.hashed.network, check it is available? 
- Handshake status 503 Service Temporarily Unavailable
