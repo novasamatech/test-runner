@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://acala-rpc-0.aca-api.network, check it is available? 
- Handshake status 500 Internal Server Error -+-+- {'server': 'nginx', 'date': 'Thu, 25 May 2023 16:04:26 GMT', 'content-type': 'text/html', 'content-length': '170', 'connection': 'close', 'strict-transport-security': 'max-age=15724800; includeSubdomains'} -+-+- b'<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n'
