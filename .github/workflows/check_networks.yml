@@ -195,4 +195,4 @@ jobs:
             ${{ env.GITHUB_WORKFLOW_URL }}
 
             Report:
-            https://nova-wallet.github.io/test-runner/${{ github.run_number }}
+            https://novasamatech.github.io/test-runner/${{ github.run_number }}
