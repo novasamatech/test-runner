@@ -1,0 +1,8 @@
+⚠️ Can't connect by wss://imbue-kusama.imbue.network, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Mon, 05 Jun 2023 08:04:58 GMT'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+Can't connect to all nodes of network Imbue
+⚠️ Can't connect by wss://imbue-kusama.imbue.network, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Mon, 05 Jun 2023 08:05:14 GMT'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+Can't connect to all nodes of network Imbue
