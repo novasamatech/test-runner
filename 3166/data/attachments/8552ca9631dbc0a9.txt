@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://westend.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 504 Gateway Time-out -+-+- {'date': 'Wed, 07 Jun 2023 20:10:03 GMT', 'content-type': 'text/plain; charset=utf-8', 'connection': 'keep-alive', 'content-length': '34', 'x-continent': 'SA', 'x-cluster': 'sk', 'x-kong-upstream-latency': '60000', 'x-kong-proxy-latency': '300002', 'via': 'kong/2.5.2'} -+-+- b'The upstream server is timing out\n'
+⚠️ Can't connect by wss://westend.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 200 OK -+-+- {'content-length': '0', 'connection': 'keep-alive', 'date': 'Wed, 07 Jun 2023 20:14:49 GMT', 'x-continent': 'SA', 'x-cluster': 'sk', 'x-kong-upstream-latency': '30048', 'x-kong-proxy-latency': '240001', 'via': 'kong/2.5.2'} -+-+- b''
