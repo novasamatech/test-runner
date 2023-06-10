@@ -1,3 +1,0 @@
-⚠️ Can't connect by wss://rpc.basilisk.cloud, check it is available? 
- 'content-length'
-Can't connect to that node
