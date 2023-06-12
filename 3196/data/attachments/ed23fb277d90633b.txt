@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://imbue-kusama.imbue.network, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Mon, 12 Jun 2023 20:04:03 GMT'} -+-+- b'Too many connections. Please try again later.'
