@@ -1,3 +1,0 @@
-⚠️ Can't connect by wss://rpc.hydradx.cloud, check it is available? 
- Connection to remote host was lost.
-Can't connect to that node
