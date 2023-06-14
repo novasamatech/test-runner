@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://imbue-kusama.imbue.network, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {} -+-+- None
-Can't connect to that node
-Can't connect to all nodes of network Imbue
