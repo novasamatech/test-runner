@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://k-ui.kapex.network, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'server': 'nginx/1.22.0 (Ubuntu)', 'date': 'Thu, 15 Jun 2023 12:05:51 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive'} -+-+- b'Too many connections. Please try again later.'
-Can't connect to that node
-Can't connect to all nodes of network Kapex
