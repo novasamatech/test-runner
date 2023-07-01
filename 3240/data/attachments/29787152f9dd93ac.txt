@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://gateway.mainnet.octopus.network/myriad/a4cb0a6e30ff5233a3567eb4e8cb71e0, check it is available? 
- Handshake status 502 Bad Gateway -+-+- {'content-type': 'text/html; charset=UTF-8', 'referrer-policy': 'no-referrer', 'content-length': '332', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'connection': 'close'} -+-+- b'\n<html><head>\n<meta http-equiv="content-type" content="text/html;charset=utf-8">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n'
-Can't connect to that node
-Can't connect to all nodes of network Myriad
