@@ -1,8 +1,0 @@
-⚠️ Can't connect by wss://calamari.systems, check it is available? 
- Handshake status 504 Gateway Time-out -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Fri, 30 Jun 2023 20:05:12 GMT', 'content-type': 'text/html', 'content-length': '176', 'connection': 'keep-alive'} -+-+- b'<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n<hr><center>nginx/1.18.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n'
-Can't connect to that node
-Can't connect to all nodes of network Calamari
-⚠️ Can't connect by wss://calamari.systems, check it is available? 
- Handshake status 504 Gateway Time-out -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Fri, 30 Jun 2023 20:06:28 GMT', 'content-type': 'text/html', 'content-length': '176', 'connection': 'keep-alive'} -+-+- b'<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n<hr><center>nginx/1.18.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n'
-Can't connect to that node
-Can't connect to all nodes of network Calamari
