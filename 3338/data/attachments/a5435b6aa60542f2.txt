@@ -1,3 +1,0 @@
-⚠️ Can't connect by wss://westend-rpc.polkadot.io, check it is available? 
- Handshake status 503 Service Unavailable -+-+- {'date': 'Thu, 06 Jul 2023 12:05:39 GMT', 'content-type': 'text/plain; charset=utf-8', 'content-length': '19', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=7Fod38C2OlXnoF8ka03X1ALyN%2FP%2Bj8cRBR%2FiceNt2Pf4mVSw8gLKz1W6%2FGs1SCeFaW5FVfWcMtpmA98%2ByimqO%2FzXZ7LWJpc3859hH7Rglnj3CUZ%2BcGruDLqT1gA6%2BowfO06pmwfF1KJh"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '7e27b79a6ecc7fe7-IAD'} -+-+- b'Service Unavailable'
-Can't connect to that node
