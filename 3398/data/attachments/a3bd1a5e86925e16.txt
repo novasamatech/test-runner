@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://acala.polkawallet.io, check it is available? 
- rsv is not implemented, yet
