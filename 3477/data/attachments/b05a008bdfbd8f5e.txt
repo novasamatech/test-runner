@@ -1,0 +1,8 @@
+⚠️ Can't connect by wss://kusama.dorafactory.org, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Sat, 29 Jul 2023 16:04:58 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'set-cookie': 'AWSALBTG=1Wdsy4bxkIMEKiQSUdTUToSl1CL2FCYkMaoNPUmtAeIRyipbHKVH1JJmMeVhZWQiBfW7TWctqYLWgzzcq9wMV1IziTXBGtMWM2gGH8DehKXg5KtqxlImt9a6k89qJDuShhahEj/NxYgIuk2Ao9XPqUR2HFX8DMjvQMq+RhX7nWKwHm3gwnU=; Expires=Sat, 05 Aug 2023 16:04:58 GMT; Path=/; AWSALBTGCORS=1Wdsy4bxkIMEKiQSUdTUToSl1CL2FCYkMaoNPUmtAeIRyipbHKVH1JJmMeVhZWQiBfW7TWctqYLWgzzcq9wMV1IziTXBGtMWM2gGH8DehKXg5KtqxlImt9a6k89qJDuShhahEj/NxYgIuk2Ao9XPqUR2HFX8DMjvQMq+RhX7nWKwHm3gwnU=; Expires=Sat, 05 Aug 2023 16:04:58 GMT; Path=/; SameSite=None; Secure'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Dora Factory (PAUSED)
+⚠️ Can't connect by wss://kusama.dorafactory.org, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Sat, 29 Jul 2023 16:05:14 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'set-cookie': 'AWSALBTG=8Nsa3cgZRm8nL7qyNO4SOqgtflnoidf/ovGNAlGSMrxiRtLATkUhqRt96em7abrhFk7GvFsszuADxNBZAMwc6f0cyL8NVprIKFc5NmDxKj2WGxkQSlFPBl/+ebZtCWO70NZq/pGd1ROe5ef3RRy63pAvKE2nKh5EgIURYfCmgocLJUNUA/s=; Expires=Sat, 05 Aug 2023 16:05:14 GMT; Path=/; AWSALBTGCORS=8Nsa3cgZRm8nL7qyNO4SOqgtflnoidf/ovGNAlGSMrxiRtLATkUhqRt96em7abrhFk7GvFsszuADxNBZAMwc6f0cyL8NVprIKFc5NmDxKj2WGxkQSlFPBl/+ebZtCWO70NZq/pGd1ROe5ef3RRy63pAvKE2nKh5EgIURYfCmgocLJUNUA/s=; Expires=Sat, 05 Aug 2023 16:05:14 GMT; Path=/; SameSite=None; Secure'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Dora Factory (PAUSED)
