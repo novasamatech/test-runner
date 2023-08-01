@@ -1,3 +1,0 @@
-⚠️ Can't connect by wss://para.f3joule.space, check it is available? 
- Handshake status 502 Bad Gateway -+-+- {'date': 'Thu, 27 Jul 2023 12:04:59 GMT', 'content-length': '0', 'connection': 'keep-alive', 'alt-svc': 'h3=":443"; ma=86400', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=0%2FaLiE6ysOo4I9j8yL%2BR%2Bpb0Rz7yJV69Jo4tonETC8PqpdHayu1wlt0wc51SaY0rxOuaaMg9OhMes7%2BGDCqH0P6vEKVj3%2BqyfFHBCeZTMTQH8TzUus%2BrSjoZJm3pfSB98fCGoCU%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '7ed4bf7bbc9a176e-IAD'} -+-+- b''
-Can't connect to that node
