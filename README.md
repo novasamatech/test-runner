@@ -1,4 +1,4 @@
-Test runner
+### Test runner
 
 There is stored tests results for different projects. https://novasamatech.github.io/test-runner/
 
