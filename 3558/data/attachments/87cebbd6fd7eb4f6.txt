@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://us-ws-quartz.unique.network, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Fri, 11 Aug 2023 16:04:12 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '7f51b68a9a07e82b-DFW'} -+-+- None
