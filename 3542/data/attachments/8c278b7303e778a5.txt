@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://para.subsocial.network, check it is available? 
- Connection to remote host was lost.
