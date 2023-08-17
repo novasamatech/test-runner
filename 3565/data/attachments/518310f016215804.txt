@@ -1,8 +1,0 @@
-⚠️ Can't connect by wss://wss-krest.peaq.network, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Sat, 12 Aug 2023 20:04:57 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive'} -+-+- None
-Can't connect to that node
-Can't connect to all nodes of network krest
-⚠️ Can't connect by wss://wss-krest.peaq.network, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Sat, 12 Aug 2023 20:05:13 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive'} -+-+- None
-Can't connect to that node
-Can't connect to all nodes of network krest
