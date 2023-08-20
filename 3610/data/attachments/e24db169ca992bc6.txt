@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://crab-rpc.darwinia.network/, check it is available? 
+ Handshake status 403 Forbidden -+-+- {'date': 'Sun, 20 Aug 2023 08:04:23 GMT', 'content-length': '0', 'connection': 'keep-alive', 'strict-transport-security': 'max-age=15724800; includeSubDomains; preload', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '7f9920046eeb38ac-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b''
