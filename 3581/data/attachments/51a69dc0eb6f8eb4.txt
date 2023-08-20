@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://wss-krest.peaq.network, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Tue, 15 Aug 2023 12:04:53 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive'} -+-+- None
