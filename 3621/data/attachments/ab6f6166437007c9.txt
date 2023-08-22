@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://crab-rpc.darwinia.network/, check it is available? 
+ Handshake status 403 Forbidden -+-+- {'date': 'Tue, 22 Aug 2023 12:01:24 GMT', 'content-length': '0', 'connection': 'keep-alive', 'strict-transport-security': 'max-age=15724800; includeSubDomains; preload', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '7faaf5f69ef8083f-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b''
+⚠️ Can't connect by wss://crab-rpc.darwinia.network/, check it is available? 
+ Handshake status 403 Forbidden -+-+- {'date': 'Tue, 22 Aug 2023 12:01:40 GMT', 'content-length': '0', 'connection': 'keep-alive', 'strict-transport-security': 'max-age=15724800; includeSubDomains; preload', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '7faaf65e0c38083f-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b''
