@@ -1,3 +1,0 @@
-⚠️ Can't connect by wss://polkadot-collectives-rpc.polkadot.io, check it is available? 
- Handshake status 502 Bad Gateway -+-+- {'date': 'Wed, 16 Aug 2023 16:05:21 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=vamqZqhSrujpzEnAaU7KaQtexyVocCDqOEd0i4OmGQhBnfuaRtbB1RNxWB1V8pOVtEa%2Foehl4SWW5sfg2uOLDZn41vYD575OHmikwsS66K8TOc3MVooaBxdPo%2FbmaKtUijuiTjlAFcd2jXoikD2Xo6DlZLsVTQ%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '7f7aeb13f9a67fb8-IAD'} -+-+- None
-Can't connect to that node
