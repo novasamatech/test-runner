@@ -1,3 +1,0 @@
-⚠️ Can't connect by wss://crab-rpc.darwinia.network/, check it is available? 
- Handshake status 502 Bad Gateway -+-+- {'date': 'Fri, 18 Aug 2023 16:05:11 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '7f8b6598dbae58b4-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
-Can't connect to that node
