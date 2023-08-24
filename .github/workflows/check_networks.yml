@@ -124,7 +124,7 @@ jobs:
         with:
           repository: nova-wallet/nova-utils
           ref: feat/adding_git_hooks
-          path: nova-utils
+          path: master
           token: ${{ secrets.PAT }}
 
       - name: Debug
