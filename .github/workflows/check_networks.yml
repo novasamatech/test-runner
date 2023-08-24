@@ -107,12 +107,12 @@ jobs:
       matrix:
         test_path:
           [
-            "test_nodes_availability.py",
-            "test_network_parameters.py-TestPrecision", # char "-" used to avoid problems with syntax by using "::"
-            "test_network_parameters.py-TestChainId",
-            "test_network_parameters.py-TestNetworkPrefix",
-            "test_eth_nodes_availability.py",
-            "test_check_new_assets.py"
+            "test-nodes-availability",
+            "test-networks-precision",
+            "test-network-chain-id",
+            "test-network-prefix",
+            "test-eth-availability",
+            "test-new-assets"
           ]
           
 
@@ -123,8 +123,8 @@ jobs:
         uses: actions/checkout@v2
         with:
           repository: nova-wallet/nova-utils
-          ref: master
-          path: nova-utils
+          ref: feat/adding_git_hooks
+          path: master
           token: ${{ secrets.PAT }}
 
       - name: Debug
@@ -136,13 +136,15 @@ jobs:
         uses: ./.github/workflows/setup-path
 
       - name: Install dependencies
-        run: pip install -r nova-utils/requirements.txt
+        run: |
+          cd ./nova-utils
+          make init
 
       - name: Run test
         continue-on-error: true
         run: |
           cd ./nova-utils
-          python -m pytest --rootdir . --alluredir=allure-results/ -n ${{ env.PARALLEL_THREADS }} -v "./tests/$(echo "${{ matrix.test_path }}" | sed 's/-/::/g')" --reruns ${{ env.TEST_RE_RUNS }} --reruns-delay ${{ env.TEST_RE_RUNS_DELAY }}
+          make ${{ matrix.test_path }}
 
       - name: Tar files
         if: always()
