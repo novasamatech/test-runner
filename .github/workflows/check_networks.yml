@@ -137,7 +137,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          cd .nova-utils
+          cd ./nova-utils
           make init
 
       - name: Run test
