@@ -1,0 +1,8 @@
+⚠️ Can't connect by wss://heiko-rpc.parallel.fi, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Fri, 01 Sep 2023 08:01:41 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'set-cookie': '__cf_bm=7ZZ_71_gbN1sVBhRA.tz2Lb6olO31MyBgVM4GtkQOhM-1693555301-0-AZw7jBuh/h5XD8lOnNL5DzGkhzh6Lb/WX5S/7+C7XAwacLjMlyxUV2x3nfI89hFiDag0pWnYwDii+tbUN0Lkdck=; path=/; expires=Fri, 01-Sep-23 08:31:41 GMT; domain=.parallel.fi; HttpOnly; Secure', 'server': 'cloudflare', 'cf-ray': '7ffbfc98393a3b89-IAD'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Parallel Heiko
+⚠️ Can't connect by wss://heiko-rpc.parallel.fi, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Fri, 01 Sep 2023 08:01:57 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'set-cookie': '__cf_bm=8dRIGQtccYOpk43kexRQfZnDgEXPBu0w7.sziXn2sNE-1693555317-0-AVsLDx9W6U+uL2Jq9fAEH4nJlOZdO/cdz0qH3j3sSeGifKc0VLQ2UjFuNhV/fbyufrcxipXlkJ1lsySqQGWSHLo=; path=/; expires=Fri, 01-Sep-23 08:31:57 GMT; domain=.parallel.fi; HttpOnly; Secure', 'server': 'cloudflare', 'cf-ray': '7ffbfcf9ad843b89-IAD'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Parallel Heiko
