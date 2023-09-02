@@ -1,0 +1,12 @@
+⚠️ Can't connect by wss://heiko-rpc.parallel.fi, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Sat, 02 Sep 2023 00:02:48 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'set-cookie': '__cf_bm=oRDv4HhKJnB1jyeaOuZY9N_lXpU8.2iXYcXUMsMBYMU-1693612968-0-AbWBTvvrr8jU9jVrjz3z5z26/lsPEQvpqB/TM2ohfnD2kXkawzfvsQR1YUzG4yAWZYIvEIB+Tl2osTvyKbbCkTk=; path=/; expires=Sat, 02-Sep-23 00:32:48 GMT; domain=.parallel.fi; HttpOnly; Secure', 'server': 'cloudflare', 'cf-ray': '80017c76bf10c4a0-SEA'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Parallel Heiko
+⚠️ Can't connect by wss://heiko-rpc.parallel.fi, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Sat, 02 Sep 2023 00:03:03 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'set-cookie': '__cf_bm=iwe6fUwmqLXNVH7Q_KM.qplW4cFgKxxOO3pXy3O3l7o-1693612983-0-AT8XcfHjPJnlnwVileeAroj1LM60V4thi169eSg206AHaU6UAv9KNTAsDOuMSC51GO129HhaIbYN0c7aPQRbaUs=; path=/; expires=Sat, 02-Sep-23 00:33:03 GMT; domain=.parallel.fi; HttpOnly; Secure', 'server': 'cloudflare', 'cf-ray': '80017cd9ed30c4a0-SEA'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Parallel Heiko
+⚠️ Can't connect by wss://heiko-rpc.parallel.fi, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Sat, 02 Sep 2023 00:03:19 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'set-cookie': '__cf_bm=g6hiO.e9nvrnH0DO8gOwzvmNy6py67pgG7JH6dKfvwk-1693612999-0-AX+CrgPW0NFrtzxjEZwuBpaepEewfeqORPJA8YuiLbRkVUTGbetW/HCTDvsq/w4KKHENdNve0h8oCGS3Il/OGSc=; path=/; expires=Sat, 02-Sep-23 00:33:19 GMT; domain=.parallel.fi; HttpOnly; Secure', 'server': 'cloudflare', 'cf-ray': '80017d3ceda6c4a0-SEA'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Parallel Heiko
