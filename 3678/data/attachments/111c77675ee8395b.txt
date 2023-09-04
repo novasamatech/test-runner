@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://rpc-shadow.crust.network/, check it is available? 
- Handshake status 502 Bad Gateway -+-+- {'server': 'Caddy', 'date': 'Wed, 30 Aug 2023 20:01:30 GMT', 'content-length': '0'} -+-+- b''
