@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://crab-rpc.darwinia.network/, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'date': 'Tue, 05 Sep 2023 16:02:48 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cache-control': 'no-cache', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '801fb2c5db9107d5-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
