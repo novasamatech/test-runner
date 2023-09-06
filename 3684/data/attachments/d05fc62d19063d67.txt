@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://bifrost-parachain.api.onfinality.io/public-ws, check it is available? 
- [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
