@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://heiko-rpc.parallel.fi, check it is available? 
- Handshake status 502 Bad Gateway -+-+- {'date': 'Sat, 02 Sep 2023 00:02:33 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'set-cookie': '__cf_bm=xIzoso7ncWxPYwtLkfOBmQQTbgo6hs9n.lqBdcPP93A-1693612953-0-AdfdWiWgI637VqeZY8ofUky+4/0tuoXsbFmpFsPLHYaGm4n83cua2KxuuoZSU/e4RIMC2WQsilfUvrF8934XUbU=; path=/; expires=Sat, 02-Sep-23 00:32:33 GMT; domain=.parallel.fi; HttpOnly; Secure', 'server': 'cloudflare', 'cf-ray': '80017c1c9e4f82de-IAD'} -+-+- None
-Can't connect to that node
-Can't connect to all nodes of network Parallel Heiko
