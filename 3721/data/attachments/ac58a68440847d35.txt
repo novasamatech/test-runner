@@ -1,0 +1,12 @@
+⚠️ Can't connect by wss://calamari.systems, check it is available? 
+ [Errno 111] Connection refused
+Can't connect to that node
+Can't connect to all nodes of network Calamari
+⚠️ Can't connect by wss://calamari.systems, check it is available? 
+ [Errno 111] Connection refused
+Can't connect to that node
+Can't connect to all nodes of network Calamari
+⚠️ Can't connect by wss://calamari.systems, check it is available? 
+ [Errno 111] Connection refused
+Can't connect to that node
+Can't connect to all nodes of network Calamari
