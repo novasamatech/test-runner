@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://crab-rpc.darwinia.network/, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'date': 'Fri, 08 Sep 2023 00:02:59 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cache-control': 'no-cache', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '8032ecef8d26826e-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+⚠️ Can't connect by wss://crab-rpc.darwinia.network/, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'date': 'Fri, 08 Sep 2023 00:03:18 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cache-control': 'no-cache', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '8032ed636a380827-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
