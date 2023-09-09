@@ -1,3 +1,0 @@
-⚠️ Can't connect by wss://khala-api.phala.network/ws, check it is available? 
- Handshake status 522 None -+-+- {'date': 'Sun, 03 Sep 2023 20:01:42 GMT', 'content-length': '0', 'connection': 'keep-alive', 'cache-control': 'no-store, no-cache', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=pE8WjkrMgGvDR5bkS59SxHnd%2FXgj%2BhmUDK2N8RouHI2fF5CDVuVcU22HC2TV3j2odpP85lPQhncJzWlLRlc1OgH5Y0ak7oJ2kPE3Z4bRDONrAJk%2Fm6r%2BsfqDd4p%2FGISoIe9W5HJABIKV5A%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '801095502aec05ac-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b''
-Can't connect to that node
