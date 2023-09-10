@@ -1,0 +1,8 @@
+⚠️ Can't connect by wss://k-ui.kapex.network, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'server': 'nginx/1.22.0 (Ubuntu)', 'date': 'Sun, 10 Sep 2023 12:02:21 GMT', 'content-type': 'text/html', 'content-length': '166', 'connection': 'keep-alive'} -+-+- b'<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.22.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n'
+Can't connect to that node
+Can't connect to all nodes of network Kapex
+⚠️ Can't connect by wss://k-ui.kapex.network, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'server': 'nginx/1.22.0 (Ubuntu)', 'date': 'Sun, 10 Sep 2023 12:02:37 GMT', 'content-type': 'text/html', 'content-length': '166', 'connection': 'keep-alive'} -+-+- b'<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.22.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n'
+Can't connect to that node
+Can't connect to all nodes of network Kapex
