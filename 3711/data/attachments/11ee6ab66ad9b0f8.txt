@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://parachain-rpc.darwinia.network, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'date': 'Tue, 05 Sep 2023 08:03:36 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cache-control': 'no-cache', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '801cf4e3edc215d6-SJC', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
