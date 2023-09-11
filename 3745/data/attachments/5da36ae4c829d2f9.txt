@@ -1,0 +1,8 @@
+⚠️ Can't connect by wss://parachain-rpc.darwinia.network, check it is available? 
+ Handshake status 403 Forbidden -+-+- {'date': 'Mon, 11 Sep 2023 00:04:19 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '0', 'connection': 'keep-alive', 'x-ratelimit-remaining-minute': '49980', 'x-ratelimit-limit-minute': '50000', 'ratelimit-remaining': '49980', 'ratelimit-limit': '50000', 'ratelimit-reset': '56', 'access-control-allow-origin': '*', 'access-control-expose-headers': '*', 'vary': 'access-control-request-headers', 'x-continent': 'EU', 'x-cluster': 'gx', 'x-kong-upstream-latency': '15064', 'x-kong-proxy-latency': '1', 'via': 'kong/2.3.3', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '804ba6b73f042e61-DFW', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b''
+Can't connect to that node
+Can't connect to all nodes of network Darwinia
+⚠️ Can't connect by wss://parachain-rpc.darwinia.network, check it is available? 
+ Handshake status 403 Forbidden -+-+- {'date': 'Mon, 11 Sep 2023 00:04:51 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '0', 'connection': 'keep-alive', 'x-ratelimit-remaining-minute': '49832', 'x-ratelimit-limit-minute': '50000', 'ratelimit-remaining': '49832', 'ratelimit-limit': '50000', 'ratelimit-reset': '25', 'access-control-allow-origin': '*', 'access-control-expose-headers': '*', 'vary': 'access-control-request-headers', 'x-continent': 'EU', 'x-cluster': 'gx', 'x-kong-upstream-latency': '15058', 'x-kong-proxy-latency': '1', 'via': 'kong/2.3.3', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '804ba779ad62e922-DFW', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b''
+Can't connect to that node
+Can't connect to all nodes of network Darwinia
