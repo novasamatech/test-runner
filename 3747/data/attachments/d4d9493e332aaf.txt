@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://zeitgeist-rpc.dwellir.com, check it is available? 
+ [Errno 110] Connection timed out
