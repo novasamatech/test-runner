@@ -1,6 +1,0 @@
-⚠️ Can't connect by wss://crab-rpc.darwinia.network/, check it is available? 
- Handshake status 503 Service Unavailable -+-+- {'date': 'Thu, 07 Sep 2023 00:04:17 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cache-control': 'no-cache', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '802ab1708ae9fabe-SJC', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
-Can't connect to that node
-⚠️ Can't connect by wss://darwiniacrab-rpc.dwellir.com, check it is available? 
- Handshake status 503 Service Unavailable -+-+- {'cache-control': 'no-cache', 'content-type': 'text/html'} -+-+- None
-Can't connect to that node
