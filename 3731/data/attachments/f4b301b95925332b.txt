@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://kusama.dorafactory.org, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'date': 'Fri, 08 Sep 2023 16:02:21 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'set-cookie': 'AWSALBTG=/ymUsJ5vkQo+rmO+Oik65ZqmadNypFKL9kGxBc1boauS+qduHwVqyopw4t6uI2Bqc8PxWUWirhwiVLqsIZN+pP3smduon7CnymBW+r/g81vMjH8LCApmbZzPCOkuQkb4r8tbjNVKmr4QdPon+pUwMLI3zsp+5Dvs25dxNhLDCjINtGm6K34=; Expires=Fri, 15 Sep 2023 16:02:21 GMT; Path=/; AWSALBTGCORS=/ymUsJ5vkQo+rmO+Oik65ZqmadNypFKL9kGxBc1boauS+qduHwVqyopw4t6uI2Bqc8PxWUWirhwiVLqsIZN+pP3smduon7CnymBW+r/g81vMjH8LCApmbZzPCOkuQkb4r8tbjNVKmr4QdPon+pUwMLI3zsp+5Dvs25dxNhLDCjINtGm6K34=; Expires=Fri, 15 Sep 2023 16:02:21 GMT; Path=/; SameSite=None; Secure'} -+-+- None
-Can't connect to that node
-Can't connect to all nodes of network Dora Factory (PAUSED)
