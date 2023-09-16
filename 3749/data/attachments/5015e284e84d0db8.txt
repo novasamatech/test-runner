@@ -1,8 +1,0 @@
-⚠️ Can't connect by wss://k-ui.kapex.network, check it is available? 
- [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)
-Can't connect to that node
-Can't connect to all nodes of network Kapex
-⚠️ Can't connect by wss://k-ui.kapex.network, check it is available? 
- [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)
-Can't connect to that node
-Can't connect to all nodes of network Kapex
