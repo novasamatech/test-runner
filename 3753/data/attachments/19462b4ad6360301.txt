@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://parachain-rpc.darwinia.network, check it is available? 
- Handshake status 403 Forbidden -+-+- {'date': 'Tue, 12 Sep 2023 08:03:51 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '0', 'connection': 'keep-alive', 'x-ratelimit-limit-second': '15', 'x-ratelimit-remaining-second': '13', 'x-ratelimit-remaining-minute': '8924', 'ratelimit-limit': '15', 'ratelimit-remaining': '13', 'x-ratelimit-limit-minute': '9000', 'ratelimit-reset': '1', 'access-control-allow-origin': '*', 'access-control-expose-headers': '*', 'vary': 'access-control-request-headers', 'x-continent': 'EU', 'x-cluster': 'gx', 'x-kong-upstream-latency': '15027', 'x-kong-proxy-latency': '18', 'via': 'kong/2.3.3', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '8056a285b87897cd-SJC', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b''
-Can't connect to that node
-Can't connect to all nodes of network Darwinia
