@@ -1,0 +1,15 @@
+⚠️ Can't connect by wss://karura-rpc.dwellir.com, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'cache-control': 'no-cache', 'content-type': 'text/html'} -+-+- None
+Can't connect to that node
+⚠️ Can't connect by wss://karura-rpc-0.aca-api.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'server': 'nginx', 'date': 'Tue, 19 Sep 2023 12:01:21 GMT', 'content-type': 'text/html', 'content-length': '170', 'connection': 'close', 'strict-transport-security': 'max-age=15724800; includeSubdomains'} -+-+- b'<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n'
+Can't connect to that node
+⚠️ Can't connect by wss://karura-rpc.dwellir.com, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'cache-control': 'no-cache', 'content-type': 'text/html'} -+-+- None
+Can't connect to that node
+⚠️ Can't connect by wss://karura-rpc-0.aca-api.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'server': 'nginx', 'date': 'Tue, 19 Sep 2023 12:01:41 GMT', 'content-type': 'text/html', 'content-length': '170', 'connection': 'close', 'strict-transport-security': 'max-age=15724800; includeSubdomains'} -+-+- b'<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n'
+Can't connect to that node
+⚠️ Can't connect by wss://karura-rpc.dwellir.com, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'cache-control': 'no-cache', 'content-type': 'text/html'} -+-+- None
+Can't connect to that node
