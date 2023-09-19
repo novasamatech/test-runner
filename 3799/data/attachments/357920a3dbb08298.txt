@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://node.pol.equilibrium.io, check it is available? 
+ [Errno 110] Connection timed out

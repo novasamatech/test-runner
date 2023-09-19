@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://karura-rpc-3.aca-api.network/ws, check it is available? 
+ Connection to remote host was lost.
