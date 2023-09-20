@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://efinity.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 403 Forbidden -+-+- {'content-type': 'text/plain; charset=UTF-8', 'content-length': '0', 'connection': 'keep-alive', 'access-control-allow-origin': '*', 'access-control-expose-headers': '*', 'date': 'Wed, 20 Sep 2023 00:03:17 GMT', 'vary': 'access-control-request-headers', 'x-continent': 'SA', 'x-cluster': 'sk', 'x-kong-upstream-latency': '16137', 'x-kong-proxy-latency': '0', 'via': 'kong/2.5.2'} -+-+- b''
