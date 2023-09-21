@@ -1,0 +1,20 @@
+⚠️ Can't connect by wss://rpc.efinity.io, check it is available? 
+ [Errno 111] Connection refused
+Can't connect to that node
+⚠️ Can't connect by wss://efinity-rpc.dwellir.com, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to that node
+⚠️ Can't connect by wss://efinity.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 403 Forbidden -+-+- {'content-type': 'text/plain; charset=UTF-8', 'content-length': '0', 'connection': 'keep-alive', 'access-control-allow-origin': '*', 'access-control-expose-headers': '*', 'date': 'Thu, 21 Sep 2023 16:02:16 GMT', 'vary': 'access-control-request-headers', 'x-continent': 'SA', 'x-cluster': 'sk', 'x-kong-upstream-latency': '15015', 'x-kong-proxy-latency': '1', 'via': 'kong/2.5.2'} -+-+- b''
+Can't connect to that node
+Can't connect to all nodes of network Efinity
+⚠️ Can't connect by wss://rpc.efinity.io, check it is available? 
+ [Errno 111] Connection refused
+Can't connect to that node
+⚠️ Can't connect by wss://efinity-rpc.dwellir.com, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to that node
+⚠️ Can't connect by wss://efinity.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 403 Forbidden -+-+- {'content-type': 'text/plain; charset=UTF-8', 'content-length': '0', 'connection': 'keep-alive', 'access-control-allow-origin': '*', 'access-control-expose-headers': '*', 'date': 'Thu, 21 Sep 2023 16:02:48 GMT', 'vary': 'access-control-request-headers', 'x-continent': 'SA', 'x-cluster': 'sk', 'x-kong-upstream-latency': '15015', 'x-kong-proxy-latency': '0', 'via': 'kong/2.5.2'} -+-+- b''
+Can't connect to that node
+Can't connect to all nodes of network Efinity
