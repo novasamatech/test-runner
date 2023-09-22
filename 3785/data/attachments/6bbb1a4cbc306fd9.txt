@@ -1,6 +1,0 @@
-⚠️ Can't connect by wss://efinity.api.onfinality.io/public-ws, check it is available? 
- Handshake status 504 Gateway Time-out -+-+- {'date': 'Sun, 17 Sep 2023 12:08:08 GMT', 'content-type': 'text/plain; charset=utf-8', 'connection': 'keep-alive', 'content-length': '34', 'x-continent': 'SA', 'x-cluster': 'sk', 'x-kong-upstream-latency': '60006', 'x-kong-proxy-latency': '300004', 'via': 'kong/2.5.2'} -+-+- b'The upstream server is timing out\n'
-⚠️ Can't connect by wss://efinity.api.onfinality.io/public-ws, check it is available? 
- Handshake status 504 Gateway Time-out -+-+- {'date': 'Sun, 17 Sep 2023 12:14:24 GMT', 'content-type': 'text/plain; charset=utf-8', 'connection': 'keep-alive', 'content-length': '34', 'x-continent': 'SA', 'x-cluster': 'sk', 'x-kong-upstream-latency': '60002', 'x-kong-proxy-latency': '300001', 'via': 'kong/2.5.2'} -+-+- b'The upstream server is timing out\n'
-⚠️ Can't connect by wss://efinity.api.onfinality.io/public-ws, check it is available? 
- Handshake status 504 Gateway Time-out -+-+- {'date': 'Sun, 17 Sep 2023 12:20:40 GMT', 'content-type': 'text/plain; charset=utf-8', 'connection': 'keep-alive', 'content-length': '34', 'x-continent': 'SA', 'x-cluster': 'sk', 'x-kong-upstream-latency': '60001', 'x-kong-proxy-latency': '300002', 'via': 'kong/2.5.2'} -+-+- b'The upstream server is timing out\n'
