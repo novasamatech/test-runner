@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://jur-archive-mainnet-1.simplystaking.xyz/VX68C07AR4K2/ws, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Sat, 23 Sep 2023 12:02:30 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cache-control': 'no-cache'} -+-+- None
