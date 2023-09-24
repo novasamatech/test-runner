@@ -1,0 +1,14 @@
+⚠️ Can't connect by wss://rpc-parachain.ajuna.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Sun, 24 Sep 2023 16:03:03 GMT', 'content-type': 'text/html', 'content-length': '186', 'connection': 'close'} -+-+- b'<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.18.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n'
+Can't connect to that node
+⚠️ Can't connect by wss://ajuna.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 404 Not Found -+-+- {'date': 'Sun, 24 Sep 2023 16:03:04 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=arym5jJjn3RrqDU2yaVjyLFV43XIEOsbu7o7kmuybQGebiWkTOuhBQwhc5shnbjMB7JIf6as3WwJQ4exDpOnMuzbvC8m5Vf7FFHxWMa2Kt9Z8cnumKqvqyvOeWClcrceg49XYEeIDSXRh20lmqMw7upJtw%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '80bc416198054650-DFW'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Ajuna
+⚠️ Can't connect by wss://rpc-parachain.ajuna.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Sun, 24 Sep 2023 16:03:21 GMT', 'content-type': 'text/html', 'content-length': '186', 'connection': 'close'} -+-+- b'<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.18.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n'
+Can't connect to that node
+⚠️ Can't connect by wss://ajuna.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 404 Not Found -+-+- {'date': 'Sun, 24 Sep 2023 16:03:22 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=Ufl6dUbxyb09Ca54zMOebYEl4%2FqNhFmq0mFxepirnVo6d37a9Xqbanlv217G59fqv%2BaBBkmh87ExG8jjEmBVe04%2BiiL6RZFfnPMDpwRd3cAGQ8yJeEiBYRp5NamVRG%2FwTPnopaZqCfUlUfycAfaWJtVZtg%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '80bc41cedb4fe9ad-DFW'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Ajuna
