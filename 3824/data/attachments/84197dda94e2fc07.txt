@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://jur-archive-mainnet-1.simplystaking.xyz/VX68C07AR4K2/ws, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Sun, 24 Sep 2023 00:03:39 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cache-control': 'no-cache'} -+-+- None
+⚠️ Can't connect by wss://jur-archive-mainnet-1.simplystaking.xyz/VX68C07AR4K2/ws, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Sun, 24 Sep 2023 00:04:39 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cache-control': 'no-cache'} -+-+- None
