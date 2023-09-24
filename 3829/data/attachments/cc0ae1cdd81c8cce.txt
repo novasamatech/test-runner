@@ -1,0 +1,8 @@
+⚠️ Can't connect by wss://kusama.rpc.ipci.io, check it is available? 
+ [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)
+Can't connect to that node
+Can't connect to all nodes of network DAO IPCI
+⚠️ Can't connect by wss://kusama.rpc.ipci.io, check it is available? 
+ [Errno 104] Connection reset by peer
+Can't connect to that node
+Can't connect to all nodes of network DAO IPCI
