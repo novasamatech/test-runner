@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://ws.gm.bldnodes.org, check it is available? 
- Connection to remote host was lost.
