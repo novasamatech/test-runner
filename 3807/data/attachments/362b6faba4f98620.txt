@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://rpc.efinity.io, check it is available? 
- [Errno 111] Connection refused
-⚠️ Can't connect by wss://rpc.efinity.io, check it is available? 
- [Errno 111] Connection refused
