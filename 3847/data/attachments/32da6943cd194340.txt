@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://statemine.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 504 Gateway Time-out -+-+- {'date': 'Wed, 27 Sep 2023 20:07:27 GMT', 'content-type': 'text/plain; charset=utf-8', 'connection': 'keep-alive', 'content-length': '34', 'x-continent': 'SA', 'x-cluster': 'sk', 'x-kong-upstream-latency': '60002', 'x-kong-proxy-latency': '300000', 'via': 'kong/2.5.2'} -+-+- b'The upstream server is timing out\n'
