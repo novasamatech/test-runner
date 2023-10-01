@@ -1,0 +1,10 @@
+⚠️ Can't connect by wss://rpc-parachain.ajuna.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Sun, 01 Oct 2023 16:02:31 GMT', 'content-type': 'text/html', 'content-length': '186', 'connection': 'close'} -+-+- b'<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.18.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n'
+Can't connect to that node
+⚠️ Can't connect by wss://ajuna.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 404 Not Found -+-+- {'date': 'Sun, 01 Oct 2023 16:02:31 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=3eWqJWqpurJcjPJPDwPyhklR87YMofNxfN2pVQUBXdCJ%2FmxhvwkCIgDGOmphkK66PEhVBcEG%2BMQl8o7SFFEsfQrSf708%2F03djpI6wd%2BMhKeVBkSxq4FqaDIC4dpTTHJA2560nHk0GLqxnFv8f2RGy4ns1A%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '80f5ee34981839a4-IAD'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Ajuna
+⚠️ Can't connect by wss://rpc-parachain.ajuna.network, check it is available? 
+ [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)
+Can't connect to that node
