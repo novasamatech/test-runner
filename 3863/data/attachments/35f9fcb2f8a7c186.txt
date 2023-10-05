@@ -1,6 +1,0 @@
-⚠️ Can't connect by wss://statemine.api.onfinality.io/public-ws, check it is available? 
- Connection to remote host was lost.
-⚠️ Can't connect by wss://statemine.api.onfinality.io/public-ws, check it is available? 
- Connection to remote host was lost.
-⚠️ Can't connect by wss://statemine.api.onfinality.io/public-ws, check it is available? 
- Handshake status 200 OK -+-+- {'content-length': '0', 'connection': 'keep-alive', 'date': 'Sat, 30 Sep 2023 12:15:29 GMT', 'x-continent': 'SA', 'x-cluster': 'sk', 'x-kong-upstream-latency': '30047', 'x-kong-proxy-latency': '180001', 'via': 'kong/2.5.2'} -+-+- b''
