@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://kapex-parachain.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 200 OK -+-+- {'content-length': '0', 'connection': 'keep-alive', 'date': 'Fri, 06 Oct 2023 08:02:12 GMT', 'x-continent': 'EU', 'x-cluster': 'gx', 'x-kong-upstream-latency': '20037', 'x-kong-proxy-latency': '1', 'via': 'kong/2.3.3'} -+-+- b''
+⚠️ Can't connect by wss://kapex-parachain.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 200 OK -+-+- {'content-length': '0', 'connection': 'keep-alive', 'date': 'Fri, 06 Oct 2023 08:02:47 GMT', 'x-continent': 'EU', 'x-cluster': 'gx', 'x-kong-upstream-latency': '20046', 'x-kong-proxy-latency': '1', 'via': 'kong/2.3.3'} -+-+- b''
+⚠️ Can't connect by wss://kapex-parachain.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 200 OK -+-+- {'content-length': '0', 'connection': 'keep-alive', 'date': 'Fri, 06 Oct 2023 08:03:23 GMT', 'x-continent': 'EU', 'x-cluster': 'gx', 'x-kong-upstream-latency': '20032', 'x-kong-proxy-latency': '1', 'via': 'kong/2.3.3'} -+-+- b''
