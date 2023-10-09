@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://khala-api.phala.network/ws, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Mon, 09 Oct 2023 20:01:15 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'alt-svc': 'h3=":443"; ma=86400', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=gWc%2B4ho%2BkEW4ThxKZdrVJIOoBtRgv8ZXnf7OeDr2UULQt8jguUEtUc3r0u8ySoCWTDZXMH0tTnoDaL3A9Fukc71Q0KSXyErsn3WO0IK3xGyRFD1LLeGTjTu8MxrEBaenxHFvHByZNZYMsw%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '813936e3af4707e9-IAD'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+⚠️ Can't connect by wss://khala.api.onfinality.io/public-ws, check it is available? 
+ Connection to remote host was lost.
+Can't connect to that node
