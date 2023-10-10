@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://kapex-parachain.api.onfinality.io/public-ws, check it is available? 
- Handshake status 200 OK -+-+- {'content-length': '0', 'connection': 'keep-alive', 'date': 'Thu, 05 Oct 2023 20:02:03 GMT', 'x-continent': 'EU', 'x-cluster': 'gx', 'x-kong-upstream-latency': '22103', 'x-kong-proxy-latency': '1', 'via': 'kong/2.3.3'} -+-+- b''
