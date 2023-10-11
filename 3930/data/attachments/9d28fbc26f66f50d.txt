@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://polkadot.api.onfinality.io/public-ws, check it is available? 
+ Connection to remote host was lost.
+⚠️ Can't connect by wss://polkadot.api.onfinality.io/public-ws, check it is available? 
+ {'code': -32029, 'message': 'Too Many Requests, Please apply an OnFinality API key or contact us to receive a higher rate limit'}
+⚠️ Can't connect by wss://polkadot.api.onfinality.io/public-ws, check it is available? 
+ {'code': -32029, 'message': 'Too Many Requests, Please apply an OnFinality API key or contact us to receive a higher rate limit'}
