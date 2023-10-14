@@ -1,0 +1,12 @@
+⚠️ Can't connect by wss://pioneer.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 504 Gateway Time-out -+-+- {'date': 'Sat, 14 Oct 2023 00:08:22 GMT', 'content-type': 'text/plain; charset=utf-8', 'connection': 'keep-alive', 'content-length': '34', 'x-continent': 'SA', 'x-cluster': 'sk', 'x-kong-upstream-latency': '60019', 'x-kong-proxy-latency': '300001', 'via': 'kong/2.5.2'} -+-+- b'The upstream server is timing out\n'
+Can't connect to that node
+Can't connect to all nodes of network Bit.Country Pioneer
+⚠️ Can't connect by wss://pioneer.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 504 Gateway Time-out -+-+- {'date': 'Sat, 14 Oct 2023 00:14:38 GMT', 'content-type': 'text/plain; charset=utf-8', 'connection': 'keep-alive', 'content-length': '34', 'x-continent': 'SA', 'x-cluster': 'sk', 'x-kong-upstream-latency': '60000', 'x-kong-proxy-latency': '300001', 'via': 'kong/2.5.2'} -+-+- b'The upstream server is timing out\n'
+Can't connect to that node
+Can't connect to all nodes of network Bit.Country Pioneer
+⚠️ Can't connect by wss://pioneer.api.onfinality.io/public-ws, check it is available? 
+ Connection to remote host was lost.
+Can't connect to that node
+Can't connect to all nodes of network Bit.Country Pioneer
