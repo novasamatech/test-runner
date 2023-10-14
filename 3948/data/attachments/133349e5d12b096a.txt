@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://invarch-tinkernet.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 504 Gateway Time-out -+-+- {'server': 'openresty', 'date': 'Sat, 14 Oct 2023 12:07:49 GMT', 'content-type': 'text/plain; charset=utf-8', 'connection': 'keep-alive', 'content-length': '34', 'x-kong-upstream-latency': '60000', 'x-kong-proxy-latency': '308437', 'via': 'kong/2.3.3'} -+-+- b'The upstream server is timing out\n'
+⚠️ Can't connect by wss://invarch-tinkernet.api.onfinality.io/public-ws, check it is available? 
+ Connection to remote host was lost.
