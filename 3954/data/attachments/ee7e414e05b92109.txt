@@ -1,0 +1,12 @@
+⚠️ Can't connect by wss://pioneer.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 200 OK -+-+- {'content-length': '0', 'connection': 'keep-alive', 'date': 'Sun, 15 Oct 2023 12:03:02 GMT', 'x-continent': 'SA', 'x-cluster': 'sk', 'x-kong-upstream-latency': '36063', 'x-kong-proxy-latency': '60001', 'via': 'kong/2.5.2'} -+-+- b''
+Can't connect to that node
+Can't connect to all nodes of network Bit.Country Pioneer
+⚠️ Can't connect by wss://pioneer.api.onfinality.io/public-ws, check it is available? 
+ Connection to remote host was lost.
+Can't connect to that node
+Can't connect to all nodes of network Bit.Country Pioneer
+⚠️ Can't connect by wss://pioneer.api.onfinality.io/public-ws, check it is available? 
+ Connection to remote host was lost.
+Can't connect to that node
+Can't connect to all nodes of network Bit.Country Pioneer
