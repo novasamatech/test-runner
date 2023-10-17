@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://mainnet-rpc.polymesh.network, check it is available? 
- Handshake status 502 Bad Gateway -+-+- {'date': 'Thu, 12 Oct 2023 00:04:47 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=O8PD%2BQbxWAFBpEOSJwyF3M3Or9sj9TUcAQWHizFPJ1tnCq53Z6fu40c2vBDGvJ%2Bscq%2Ft2HE9xoCfbu8Y9FZ9jXNmP%2BlARVaQ6RWS3oXythSIHay0j8aFdzCeCiVcyPCgaUPDz3XZ3GPFrkx97BY%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=63072000; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '814b14deeab8fa05-SJC', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
-Can't connect to that node
-Can't connect to all nodes of network Polymesh
