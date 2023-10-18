@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://crab.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 504 Gateway Time-out -+-+- {'date': 'Wed, 18 Oct 2023 00:08:40 GMT', 'content-type': 'text/plain; charset=utf-8', 'connection': 'keep-alive', 'content-length': '34', 'x-continent': 'NA', 'x-cluster': 'gh', 'x-kong-upstream-latency': '60004', 'x-kong-proxy-latency': '300001', 'via': 'kong/3.3.1'} -+-+- b'The upstream server is timing out\n'
+⚠️ Can't connect by wss://crab.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 504 Gateway Time-out -+-+- {'date': 'Wed, 18 Oct 2023 00:14:56 GMT', 'content-type': 'text/plain; charset=utf-8', 'connection': 'keep-alive', 'content-length': '34', 'x-continent': 'NA', 'x-cluster': 'gh', 'x-kong-upstream-latency': '60003', 'x-kong-proxy-latency': '300002', 'via': 'kong/3.3.1'} -+-+- b'The upstream server is timing out\n'
+⚠️ Can't connect by wss://crab.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 504 Gateway Time-out -+-+- {'date': 'Wed, 18 Oct 2023 00:21:11 GMT', 'content-type': 'text/plain; charset=utf-8', 'connection': 'keep-alive', 'content-length': '34', 'x-continent': 'NA', 'x-cluster': 'gh', 'x-kong-upstream-latency': '60003', 'x-kong-proxy-latency': '300003', 'via': 'kong/3.3.1'} -+-+- b'The upstream server is timing out\n'
