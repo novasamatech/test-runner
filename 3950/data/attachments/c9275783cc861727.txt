@@ -1,8 +1,0 @@
-⚠️ Can't connect by wss://invarch-tinkernet.api.onfinality.io/public-ws, check it is available? 
- Handshake status 200 OK -+-+- {'content-length': '0', 'connection': 'keep-alive', 'date': 'Sat, 14 Oct 2023 20:05:35 GMT', 'x-kong-upstream-latency': '20037', 'x-kong-proxy-latency': '180002', 'via': 'kong/2.3.3'} -+-+- b''
-Can't connect to that node
-Can't connect to all nodes of network Tinkernet
-⚠️ Can't connect by wss://invarch-tinkernet.api.onfinality.io/public-ws, check it is available? 
- Handshake status 502 Bad Gateway -+-+- {'server': 'openresty', 'date': 'Sat, 14 Oct 2023 20:10:04 GMT', 'content-type': 'text/plain; charset=utf-8', 'connection': 'keep-alive', 'content-length': '58', 'x-kong-upstream-latency': '30', 'x-kong-proxy-latency': '253393', 'via': 'kong/2.3.3'} -+-+- b'An invalid response was received from the upstream server\n'
-Can't connect to that node
-Can't connect to all nodes of network Tinkernet
