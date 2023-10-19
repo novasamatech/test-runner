@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://invarch-tinkernet.api.onfinality.io/public-ws, check it is available? 
- Handshake status 200 OK -+-+- {'content-length': '0', 'connection': 'keep-alive', 'date': 'Sat, 14 Oct 2023 12:04:34 GMT', 'x-kong-upstream-latency': '20046', 'x-kong-proxy-latency': '120002', 'via': 'kong/2.3.3'} -+-+- b''
-Can't connect to that node
-Can't connect to all nodes of network Tinkernet
