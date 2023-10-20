@@ -40,7 +40,7 @@ jobs:
         uses: actions/checkout@master
         with:
           repository: nova-wallet/nova-wallet-android
-          ref: 'develop'
+          ref: 'test/onfinality_connection'
           token: ${{ secrets.PAT }}
 
       - name: ☕️ Install Java
