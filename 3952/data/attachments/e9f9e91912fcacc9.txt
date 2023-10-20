@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://pioneer.api.onfinality.io/public-ws, check it is available? 
- Handshake status 504 Gateway Time-out -+-+- {'date': 'Sun, 15 Oct 2023 04:07:40 GMT', 'content-type': 'text/plain; charset=utf-8', 'connection': 'keep-alive', 'content-length': '34', 'x-continent': 'SA', 'x-cluster': 'sk', 'x-kong-upstream-latency': '60000', 'x-kong-proxy-latency': '300007', 'via': 'kong/2.5.2'} -+-+- b'The upstream server is timing out\n'
-Can't connect to that node
-Can't connect to all nodes of network Bit.Country Pioneer
