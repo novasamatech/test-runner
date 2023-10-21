@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://crab.api.onfinality.io/public-ws, check it is available? 
- Handshake status 200 OK -+-+- {'content-length': '0', 'connection': 'keep-alive', 'date': 'Mon, 16 Oct 2023 20:02:07 GMT', 'x-continent': 'NA', 'x-cluster': 'gh', 'x-kong-upstream-latency': '21082', 'x-kong-proxy-latency': '0', 'via': 'kong/3.3.1'} -+-+- b''
-⚠️ Can't connect by wss://crab.api.onfinality.io/public-ws, check it is available? 
- Connection to remote host was lost.
