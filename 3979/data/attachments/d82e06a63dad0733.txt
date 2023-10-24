@@ -1,8 +1,0 @@
-⚠️ Can't connect by wss://rpc2.3dpass.org, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'server': 'nginx/1.14.0 (Ubuntu)', 'date': 'Thu, 19 Oct 2023 16:02:53 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive'} -+-+- None
-Can't connect to that node
-Can't connect to all nodes of network 3DPass
-⚠️ Can't connect by wss://rpc2.3dpass.org, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'server': 'nginx/1.14.0 (Ubuntu)', 'date': 'Thu, 19 Oct 2023 16:03:09 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive'} -+-+- None
-Can't connect to that node
-Can't connect to all nodes of network 3DPass
