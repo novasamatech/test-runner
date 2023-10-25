@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://composable.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 504 Gateway Time-out -+-+- {'date': 'Wed, 25 Oct 2023 04:07:30 GMT', 'content-type': 'text/plain; charset=utf-8', 'connection': 'keep-alive', 'content-length': '34', 'x-continent': 'SA', 'x-cluster': 'sk', 'x-kong-upstream-latency': '59999', 'x-kong-proxy-latency': '300002', 'via': 'kong/2.5.2'} -+-+- b'The upstream server is timing out\n'
