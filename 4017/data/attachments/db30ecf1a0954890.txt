@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://parachain-rpc.darwinia.network, check it is available? 
+ Handshake status 200 OK -+-+- {'date': 'Wed, 25 Oct 2023 20:04:00 GMT', 'content-length': '0', 'connection': 'keep-alive', 'x-ratelimit-remaining-minute': '49996', 'x-ratelimit-limit-minute': '50000', 'ratelimit-remaining': '49996', 'ratelimit-limit': '50000', 'ratelimit-reset': '30', 'x-continent': 'EU', 'x-cluster': 'gx', 'x-kong-upstream-latency': '30228', 'x-kong-proxy-latency': '1', 'via': 'kong/2.3.3', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '81bd102f0d725722-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b''
+Can't connect to that node
+Can't connect to all nodes of network Darwinia
