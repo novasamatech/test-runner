@@ -1,7 +1,0 @@
-⚠️ Can't connect by wss://rpc-parachain.ajuna.network, check it is available? 
- Handshake status 500 Internal Server Error -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Thu, 26 Oct 2023 16:02:31 GMT', 'content-type': 'text/html', 'content-length': '186', 'connection': 'close'} -+-+- b'<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.18.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n'
-Can't connect to that node
-⚠️ Can't connect by wss://ajuna.public.curie.radiumblock.co/ws, check it is available? 
- Handshake status 404 Not Found -+-+- {'date': 'Thu, 26 Oct 2023 16:02:32 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=AYi4yVcTFNJZweQX4w5s0AGfpKkiB64xWxa%2BPnsJCv4ouS1uofv2WG0zAjyM%2BLtn7NTumz0Wj7vKbw0KaITnn8ge%2F7ncEonBfnGMqXHuVtjzfugUdUC2vjVbC8JxPFHR0vNs57mKt0y%2Bi5ga1wxwoP%2FQeg%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '81c3ec984b7b2a97-LAX'} -+-+- None
-Can't connect to that node
-Can't connect to all nodes of network Ajuna
