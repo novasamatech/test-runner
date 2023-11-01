@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://westend.api.onfinality.io/public-ws, check it is available? 
- Handshake status 503 Service Temporarily Unavailable -+-+- {'date': 'Fri, 27 Oct 2023 20:01:46 GMT', 'content-type': 'application/json; charset=utf-8', 'connection': 'keep-alive', 'content-length': '58', 'x-continent': 'SA', 'x-cluster': 'sk', 'x-kong-response-latency': '0', 'server': 'kong/2.5.2'} -+-+- b'{"message":"failure to get a peer from the ring-balancer"}'

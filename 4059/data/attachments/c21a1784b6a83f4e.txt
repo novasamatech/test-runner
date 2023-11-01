@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://astar.api.onfinality.io/public-ws, check it is available? 
+ Connection to remote host was lost.
