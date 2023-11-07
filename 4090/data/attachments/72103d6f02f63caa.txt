@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://us-ws.unique.network/, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Tue, 07 Nov 2023 00:02:14 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '82214e68bdcd3980-IAD'} -+-+- None

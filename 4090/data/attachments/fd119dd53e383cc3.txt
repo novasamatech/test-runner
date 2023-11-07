@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://asia-ws.unique.network/, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Tue, 07 Nov 2023 00:02:45 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '82214f27ff2c20bd-IAD'} -+-+- None
+⚠️ Can't connect by wss://asia-ws.unique.network/, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Tue, 07 Nov 2023 00:03:00 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '82214f86adb93980-IAD'} -+-+- None
