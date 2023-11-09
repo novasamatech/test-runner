@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://moonriver.api.onfinality.io/public-ws, check it is available? 
+ {'code': -32029, 'message': 'Too Many Requests, Please apply an OnFinality API key or contact us to receive a higher rate limit'}
