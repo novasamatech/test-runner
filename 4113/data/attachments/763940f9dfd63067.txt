@@ -1,0 +1,14 @@
+⚠️ Can't connect by wss://kusama.rpc.robonomics.network/, check it is available? 
+ [Errno 110] Connection timed out
+Can't connect to that node
+⚠️ Can't connect by wss://robonomics.0xsamsara.com, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Fri, 10 Nov 2023 20:03:59 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Robonomics
+⚠️ Can't connect by wss://kusama.rpc.robonomics.network/, check it is available? 
+ [Errno 110] Connection timed out
+Can't connect to that node
+⚠️ Can't connect by wss://robonomics.0xsamsara.com, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Fri, 10 Nov 2023 20:06:26 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Robonomics
