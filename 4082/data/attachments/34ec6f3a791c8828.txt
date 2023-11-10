@@ -1,7 +1,0 @@
-⚠️ Can't connect by wss://rpc-parachain.ajuna.network, check it is available? 
- [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)
-Can't connect to that node
-⚠️ Can't connect by wss://ajuna.public.curie.radiumblock.co/ws, check it is available? 
- Handshake status 404 Not Found -+-+- {'date': 'Sun, 05 Nov 2023 16:02:39 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=04oQxwMushQIiEEz%2FpQoT1xsOh%2F%2FYZtP0SEZ0UM8WUzbiDbvgaJZzz50YnCIq%2F%2ByN6Dn09pEOxmm5gPhIQhjO%2BWr27PNjEZkvZhuBc8Gqi5XkT7u6yYrYlnW1J3wLhmhygwbV48cjqHWe%2FrKDRmqBJsrPA%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '8216528519e58f1c-IAD'} -+-+- None
-Can't connect to that node
-Can't connect to all nodes of network Ajuna
