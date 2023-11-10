@@ -1,0 +1,8 @@
+⚠️ Can't connect by wss://rpc.composable.finance, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Fri, 10 Nov 2023 04:02:16 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=JotzU65VwhMLccgQ0UaYph5sETUtd%2FQXcnTLNaGCT8yw7fga%2FOldG3i6za6WNnS6l8qBqh4%2BxfvUny97PVyMwv6o06C%2BDYxJnU8LwOVobkLKI7ofVGzQBMCIgYAWJAjbn%2BQ2EURLpqbU"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '823b6621ff782b7e-LAX', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Composable Finance
+⚠️ Can't connect by wss://rpc.composable.finance, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Fri, 10 Nov 2023 04:02:32 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=CIFixAvCQJxTFTmBUMLBzIf%2Fo0jAF7JNlr0Pbrt2ChEnpkHqNSnRYqdxukhi%2Feq7LPTDK24gihB0FtJnoQCDfP4fEATXerLMTo%2FGkM1hmImAR4fvFDezE%2BRhw74dSVZn%2BBG7Qvfrwe6H"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '823b6684b8092b7e-LAX', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Composable Finance

@@ -1,0 +1,12 @@
+⚠️ Can't connect by wss://rpc.composable.finance, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Fri, 10 Nov 2023 04:02:51 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=7dPwjkpKZ%2FPFmKf%2BnOes6JPy4ohbuR5q746yBlr6W9eLzJNf8H6bHmVUx2vdTsVDZtkpyWE%2BYnEQKDS7ePIV9e6TdawTkF4WPSpNpjBcEL68fWRF7nK6eRz7w9DJPDJnIdFnJDlvOMSi"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '823b66fa1c3f69a0-SJC', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Composable Finance
+⚠️ Can't connect by wss://rpc.composable.finance, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Fri, 10 Nov 2023 04:03:07 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=j1kKllf3jsXvo0%2FnwTrkxp5lFkwOLiaN2Do4R%2B%2BPfdz3EhePV7pRoU4fGkqUu%2FOoOsLJhxOxW8c2MYN4ql73ci7hW0aQwgZjHpU%2Bg5mgaChz6MYbXbuse%2BVNbuV9HoTBkAld3%2FAxL6t9"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '823b675eef0f69a0-SJC', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Composable Finance
+⚠️ Can't connect by wss://rpc.composable.finance, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Fri, 10 Nov 2023 04:03:23 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=oHhgSZz421wO8lMHSSTse3pL4dPG0s3Qaww1jsady2QjugLxPrk6KtBsrPOTqrtKdfV7rHYg3ovd8kLzuWhyIiBk4%2FejM7HGsbivA7RJrM9JGCjn4LBPEdokYl0JTwEa2eF%2F5xFOmSpI"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '823b67c59ea3fa22-SJC', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Composable Finance
