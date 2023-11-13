@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://rpc.shiden.astar.network, check it is available? 
+ Handshake status 504 Gateway Time-out -+-+- {'cache-control': 'no-cache', 'content-type': 'text/html'} -+-+- None
