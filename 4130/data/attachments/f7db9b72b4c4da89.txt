@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://westend.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 200 OK -+-+- {'content-length': '0', 'connection': 'keep-alive', 'date': 'Mon, 13 Nov 2023 16:05:49 GMT', 'x-continent': 'NA', 'x-cluster': 'dc', 'x-kong-upstream-latency': '44602', 'x-kong-proxy-latency': '1', 'via': 'kong/2.5.2'} -+-+- b''

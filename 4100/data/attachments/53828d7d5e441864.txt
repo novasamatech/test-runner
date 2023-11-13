@@ -1,6 +1,0 @@
-⚠️ Can't connect by wss://mainnet.polkadex.trade, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Wed, 08 Nov 2023 16:01:27 GMT'} -+-+- b'Too many connections. Please try again later.'
-⚠️ Can't connect by wss://mainnet.polkadex.trade, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Wed, 08 Nov 2023 16:01:43 GMT'} -+-+- b'Too many connections. Please try again later.'
-⚠️ Can't connect by wss://mainnet.polkadex.trade, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Wed, 08 Nov 2023 16:01:59 GMT'} -+-+- b'Too many connections. Please try again later.'
