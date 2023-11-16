@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://spiritnet.kilt.io/, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'alt-svc': 'h3=":443"; ma=2592000', 'server': 'Caddy', 'date': 'Thu, 16 Nov 2023 12:02:50 GMT', 'content-length': '0'} -+-+- b''
