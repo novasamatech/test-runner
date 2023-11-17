@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://kusama.rpc.robonomics.network/, check it is available? 
- [Errno 110] Connection timed out
-⚠️ Can't connect by wss://kusama.rpc.robonomics.network/, check it is available? 
- [Errno 110] Connection timed out
