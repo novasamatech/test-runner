@@ -1,7 +1,0 @@
-⚠️ Can't connect by wss://picasso-rpc.composable.finance, check it is available? 
- Handshake status 502 Bad Gateway -+-+- {'date': 'Fri, 10 Nov 2023 12:01:57 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=t9NyiweaDd94EREukfbGfCWkumB7P4OgwKiTCdxJvO9yJ%2BbjxEJrm2WohUAfkTxa4WvsvfGYzbW0xZDBGtyMdkp6aPiu%2FRui1kvl8JugZ2hBr1SpbGHWNLhjK04bv8JUAuBDEbrdY1QuGgCGfAaom%2FY%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '823e24caca583b62-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
-Can't connect to that node
-⚠️ Can't connect by wss://rpc.composablenodes.tech, check it is available? 
- Handshake status 502 Bad Gateway -+-+- {'date': 'Fri, 10 Nov 2023 12:01:57 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=%2F8hFimaNr63YX42pccAdAV8G9odiubKmOudcD70zTPm1SP4r8JVJIja0t6hYwbOgKEM7QWjyCtZw2c%2BuXsxh4Mk57rAcFHEm8YgOaWKRO1tcUpyc8mmELSZ8rkmUeFmg%2FEYdpjRePCtu1Zw%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '823e24cebf345b1d-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
-Can't connect to that node
-Can't connect to all nodes of network Picasso

@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://rpc.composable.finance, check it is available? 
- Handshake status 502 Bad Gateway -+-+- {'date': 'Fri, 10 Nov 2023 12:02:07 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=3SrOcKlx3x8zseAbG%2FXOAEf4tsLHG0g2PgeOjhwpuDed6FjXWvM0R5rMW%2Fh%2FgeFFYA5B%2BypvKn6fYbHi12q5TBtWXx3mXNA%2Feee8NfNCyQtn4OXCCJwllwnfyT5D0P6EuEQH2B9OQxyA"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '823e25079ffde157-ORD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
-Can't connect to that node
-Can't connect to all nodes of network Composable Finance
