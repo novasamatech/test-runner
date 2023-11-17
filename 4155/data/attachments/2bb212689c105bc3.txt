@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://robonomics.0xsamsara.com, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Fri, 17 Nov 2023 20:02:50 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive'} -+-+- None
+⚠️ Can't connect by wss://robonomics.0xsamsara.com, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Fri, 17 Nov 2023 20:03:06 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive'} -+-+- None
+⚠️ Can't connect by wss://robonomics.0xsamsara.com, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Fri, 17 Nov 2023 20:03:22 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive'} -+-+- None
