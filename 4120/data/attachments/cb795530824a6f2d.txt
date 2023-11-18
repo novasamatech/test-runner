@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://polkadot.kylin-node.co.uk, check it is available? 
- Handshake status 503 Service Temporarily Unavailable -+-+- {'server': 'awselb/2.0', 'date': 'Sun, 12 Nov 2023 00:03:23 GMT', 'content-type': 'text/html', 'content-length': '162', 'connection': 'keep-alive'} -+-+- b'<html>\r\n<head><title>503 Service Temporarily Unavailable</title></head>\r\n<body>\r\n<center><h1>503 Service Temporarily Unavailable</h1></center>\r\n</body>\r\n</html>\r\n'
-Can't connect to that node
-Can't connect to all nodes of network Kylin
