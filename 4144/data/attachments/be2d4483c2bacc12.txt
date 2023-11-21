@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://moonbeam.public.blastapi.io, check it is available? 
- Connection to remote host was lost.
-⚠️ Can't connect by wss://moonbeam.public.blastapi.io, check it is available? 
- Connection to remote host was lost.
