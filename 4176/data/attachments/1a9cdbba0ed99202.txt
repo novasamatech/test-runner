@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://entrypoint-finney.opentensor.ai:443, check it is available? 
+ Connection to remote host was lost.
