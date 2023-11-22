@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://rpc.turing.oak.tech, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'alt-svc': 'h3=":443"; ma=2592000', 'content-length': '45', 'content-type': 'text/plain', 'date': 'Wed, 22 Nov 2023 20:01:40 GMT', 'server': 'Caddy'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+⚠️ Can't connect by wss://rpc.turing.oak.tech, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'alt-svc': 'h3=":443"; ma=2592000', 'content-length': '45', 'content-type': 'text/plain', 'date': 'Wed, 22 Nov 2023 20:01:45 GMT', 'server': 'Caddy'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
