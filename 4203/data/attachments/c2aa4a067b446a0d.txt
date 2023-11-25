@@ -1,0 +1,14 @@
+⚠️ Can't connect by wss://rpc-parachain.ajuna.network, check it is available? 
+ [Errno 104] Connection reset by peer
+Can't connect to that node
+⚠️ Can't connect by wss://ajuna.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 404 Not Found -+-+- {'date': 'Sat, 25 Nov 2023 20:02:16 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=ZufvdufaC1mVxybHMeeGXh1eIkpdTACEI19pYPETXBiNu8KgtvXPF8krX%2BPxbHGPZr%2FrQUZRCjt5Qha7n2%2FbU1Bq8MtS7hORh3Tx7X5ccnR5Qi9l1kLnLo2RgqIgTjpJKGtSjrOirkyD0GE4ORzEUCg4wQ%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '82bc7d02fc717d03-LAX'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Ajuna
+⚠️ Can't connect by wss://rpc-parachain.ajuna.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Sat, 25 Nov 2023 20:02:32 GMT', 'content-type': 'text/html', 'content-length': '186', 'connection': 'close'} -+-+- b'<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.18.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n'
+Can't connect to that node
+⚠️ Can't connect by wss://ajuna.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 404 Not Found -+-+- {'date': 'Sat, 25 Nov 2023 20:02:33 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=q%2B%2BkTJ9wAzYZcaGzpY39MGqt2xEi0tRMV6W35cviit6MDJC3dktLvNrIJ1dvz549i2zoQCzLEVTUkaBY04ZC1lWm6k3Wg5SSbrru0zvKsuDV4Z56eed%2Fr3qGvGqNqSME3MngUEeEr%2B9hCk8r4jkkqCOn0Q%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '82bc7d6abd187d03-LAX'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Ajuna
