@@ -34,10 +34,8 @@ def run():
   return p.communicate()
 success = re.compile(r'OK \(\d+ tests\)')
 stdout, stderr = run()
-encoding_out = chardet.detect(stdout)['encoding']
-encoding_err = chardet.detect(stderr)['encoding']
-stdout = stdout.decode(encoding_out)
-stderr = stderr.decode(encoding_err)
+stdout = stdout.decode('ISO-8859-1')
+stderr = stderr.decode('ISO-8859-1')
 done = True
 print (stderr)
 print (stdout)
