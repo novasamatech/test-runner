@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://robonomics.0xsamsara.com, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Tue, 21 Nov 2023 04:02:27 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive'} -+-+- None
