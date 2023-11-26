@@ -32,6 +32,8 @@ def run():
   return p.communicate()
 success = re.compile(r'OK \(\d+ tests\)')
 stdout, stderr = run()
+stdout = stdout.decode('utf-8')
+stderr = stderr.decode('utf-8')
 done = True
 print (stderr)
 print (stdout)
