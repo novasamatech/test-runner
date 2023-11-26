@@ -1,0 +1,8 @@
+⚠️ Can't connect by wss://public-rpc.mainnet.aventus.io, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Sun, 26 Nov 2023 21:26:14 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'strict-transport-security': 'max-age=15724800; includeSubDomains'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+Can't connect to all nodes of network Aventus
+⚠️ Can't connect by wss://public-rpc.mainnet.aventus.io, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Sun, 26 Nov 2023 21:26:30 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'strict-transport-security': 'max-age=15724800; includeSubDomains'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+Can't connect to all nodes of network Aventus
