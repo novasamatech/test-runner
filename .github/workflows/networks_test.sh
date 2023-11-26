@@ -16,6 +16,8 @@ import subprocess as sp
 import sys
 import threading
 import time
+import chardet
+
 done = False
 def update():
   # prevent CI from killing the process for inactivity
