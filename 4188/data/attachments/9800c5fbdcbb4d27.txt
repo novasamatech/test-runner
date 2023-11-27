@@ -1,3 +1,0 @@
-⚠️ Can't connect by wss://rpc.turing.oak.tech, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'alt-svc': 'h3=":443"; ma=2592000', 'content-length': '45', 'content-type': 'text/plain', 'date': 'Thu, 23 Nov 2023 08:01:43 GMT', 'server': 'Caddy'} -+-+- b'Too many connections. Please try again later.'
-Can't connect to that node
