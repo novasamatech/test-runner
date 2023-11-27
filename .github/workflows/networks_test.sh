@@ -16,7 +16,6 @@ import subprocess as sp
 import sys
 import threading
 import time
-import chardet
 
 done = False
 def update():
