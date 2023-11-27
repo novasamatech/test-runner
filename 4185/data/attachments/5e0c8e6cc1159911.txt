@@ -1,6 +1,0 @@
-⚠️ Can't connect by wss://rpc.3dpscan.io, check it is available? 
- Handshake status 500 Internal Server Error -+-+- {'date': 'Wed, 22 Nov 2023 20:02:29 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=I4HVnZoA%2FoFZ1LFZXFowsr64Rf4yOIZOPEL6PNX4awnEyv8E9GMktw%2BKShU1bSEabWmPZBylqtB3cJ3zGCxxACMJKYsoj%2Fp956H6mbo7gWUAV%2F2aJ54OPq08NltA0eC0pw%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '82a3c535393a2425-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
-Can't connect to that node
-⚠️ Can't connect by wss://rpc.3dpass.org, check it is available? 
- [Errno 110] Connection timed out
-Can't connect to that node
