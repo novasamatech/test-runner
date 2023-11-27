@@ -16,6 +16,7 @@ import subprocess as sp
 import sys
 import threading
 import time
+
 done = False
 def update():
   # prevent CI from killing the process for inactivity
@@ -32,6 +33,8 @@ def run():
   return p.communicate()
 success = re.compile(r'OK \(\d+ tests\)')
 stdout, stderr = run()
+stdout = stdout.decode('ISO-8859-1')
+stderr = stderr.decode('ISO-8859-1')
 done = True
 print (stderr)
 print (stdout)
