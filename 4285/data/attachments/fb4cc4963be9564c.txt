@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://public-rpc.mainnet.aventus.io, check it is available? 
- [Errno -2] Name or service not known
-Can't connect to that node
-Can't connect to all nodes of network Aventus
