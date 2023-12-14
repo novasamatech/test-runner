@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://0.rpc.frequency.xyz, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Thu, 14 Dec 2023 00:05:44 GMT'} -+-+- b'Too many connections. Please try again later.'
+⚠️ Can't connect by wss://0.rpc.frequency.xyz, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Thu, 14 Dec 2023 00:05:59 GMT'} -+-+- b'Too many connections. Please try again later.'
+⚠️ Can't connect by wss://0.rpc.frequency.xyz, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Thu, 14 Dec 2023 00:06:15 GMT'} -+-+- b'Too many connections. Please try again later.'
