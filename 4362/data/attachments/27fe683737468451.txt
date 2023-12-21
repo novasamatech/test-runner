@@ -1,0 +1,36 @@
+⚠️ Can't connect by wss://polkadot-rpc.dwellir.com, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Thu, 21 Dec 2023 04:01:15 GMT', 'strict-transport-security': 'max-age=16000000; includeSubDomains; preload;'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+⚠️ Can't connect by wss://rpc-polkadot.luckyfriday.io, check it is available? 
+ Handshake status 525 None -+-+- {'date': 'Thu, 21 Dec 2023 04:01:15 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=5065OAwfZ%2BoGVJ0A090X30Z%2BkGEpMeGZo4VG34AGThKjvcw4j4i6cF5poFQfwt65pxeKGHCyeFJwiaYSztBTcTXGVAC21lw3KBgk7BdV2VIlq%2Bc%2BucacuwnuzCc7mhg%2B%2BSVK8zLqKKy5jNGN3A%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '838d39075ae131d9-LAX', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'error code: 525'
+Can't connect to that node
+⚠️ Can't connect by wss://rpc.ibp.network/polkadot, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Thu, 21 Dec 2023 04:01:15 GMT'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+⚠️ Can't connect by wss://rpc.dotters.network/polkadot, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Thu, 21 Dec 2023 04:01:15 GMT'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+⚠️ Can't connect by wss://polkadot-rpc.dwellir.com, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Thu, 21 Dec 2023 04:01:31 GMT', 'strict-transport-security': 'max-age=16000000; includeSubDomains; preload;'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+⚠️ Can't connect by wss://rpc-polkadot.luckyfriday.io, check it is available? 
+ Handshake status 525 None -+-+- {'date': 'Thu, 21 Dec 2023 04:01:32 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=wDUMMWonmSBZXINzUOzKjxwsZye0GLLCBG0axjODPEJN43sySGuugKeuUaaLQicHFuZDFN%2By73kh3SDKEu2n0ko86pNBL9YiW6rk5XFd%2FXToeh%2Fxgrcvo%2F%2Fw0K1QwcT%2FTU8JLPL5j07Rw%2BP2ew%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '838d39717d610ff7-LAX', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'error code: 525'
+Can't connect to that node
+⚠️ Can't connect by wss://rpc.ibp.network/polkadot, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Thu, 21 Dec 2023 04:01:32 GMT'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+⚠️ Can't connect by wss://rpc.dotters.network/polkadot, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Thu, 21 Dec 2023 04:01:32 GMT'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+⚠️ Can't connect by wss://polkadot-rpc.dwellir.com, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Thu, 21 Dec 2023 04:01:54 GMT', 'strict-transport-security': 'max-age=16000000; includeSubDomains; preload;'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+⚠️ Can't connect by wss://rpc-polkadot.luckyfriday.io, check it is available? 
+ Handshake status 525 None -+-+- {'date': 'Thu, 21 Dec 2023 04:01:54 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=iFNCCh7BUobXsrtgIZqvOBOwrurY3EDOrHWOOkA5%2BDrOygzxFs56k0s1PEulo%2BbhNHDnM%2BylZbMXvJukjrqGYPhfQ%2FMiLiZRuywNCXtjy9tBaVPJGASKulYzJCM5LdVwegyXOfX0IpJ%2B4oMP8A%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '838d39fc7c0228fa-LAX', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'error code: 525'
+Can't connect to that node
+⚠️ Can't connect by wss://rpc.ibp.network/polkadot, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Thu, 21 Dec 2023 04:01:54 GMT'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+⚠️ Can't connect by wss://rpc.dotters.network/polkadot, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Thu, 21 Dec 2023 04:01:54 GMT'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node

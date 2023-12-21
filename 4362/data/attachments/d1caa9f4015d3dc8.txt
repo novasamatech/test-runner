@@ -1,0 +1,13 @@
+⚠️ Can't connect by wss://rpc-parachain.ajuna.network, check it is available? 
+ [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)
+Can't connect to that node
+⚠️ Can't connect by wss://rpc-parachain.ajuna.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Thu, 21 Dec 2023 04:04:25 GMT', 'content-type': 'text/html', 'content-length': '186', 'connection': 'close'} -+-+- b'<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.18.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n'
+Can't connect to that node
+⚠️ Can't connect by wss://rpc-parachain.ajuna.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Thu, 21 Dec 2023 04:05:42 GMT', 'content-type': 'text/html', 'content-length': '186', 'connection': 'close'} -+-+- b'<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.18.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n'
+Can't connect to that node
+⚠️ Can't connect by wss://ajuna.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 520 None -+-+- {'date': 'Thu, 21 Dec 2023 04:05:42 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=TwiZ3HspUbrBZKPGyZCkivwMhLw%2F3zaA%2BodNqTIilprYZrEYfNEBDNgro8TdFFtk0TB%2F5q%2BgLNEtZQkkmf7Ittq5cAQEX%2BaYobMR5nzIfhv4ylO%2FEh7LCHb9%2FkAZhpZ80hvwR10LvtdSqxoZkgOWiNw7lg%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '838d3f8dcde00d34-LAX'} -+-+- b'error code: 520'
+Can't connect to that node
+Can't connect to all nodes of network Ajuna
