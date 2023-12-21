@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://rpc-parachain.bajun.network, check it is available? 
+ [Errno 101] Network is unreachable
+Can't connect to that node
+⚠️ Can't connect by wss://bajun.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 520 None -+-+- {'date': 'Thu, 21 Dec 2023 16:29:42 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=v7a5VQYylP0GuEgLDrzKib7xb2lGaEL9mC0KE24RdLi1583XGkvX8eLp8zsoyKiHfOiP4wKuFY%2BJtEBORCvVZCTD8gbo3uT4mqdav2zqcl56qFFcwPSqr9Iiblahkp0rRz1rer5wblNgKvGhzimcb0RpUg%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '83918164a914177f-IAD'} -+-+- b'error code: 520'
+Can't connect to that node

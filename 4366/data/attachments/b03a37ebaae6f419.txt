@@ -1,0 +1,9 @@
+⚠️ Can't connect by wss://mainnet.polkadex.trade, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Thu, 21 Dec 2023 16:29:23 GMT'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+⚠️ Can't connect by wss://mainnet.polkadex.trade, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Thu, 21 Dec 2023 16:30:39 GMT'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+⚠️ Can't connect by wss://polkadex.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Thu, 21 Dec 2023 16:30:41 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=O8oxWBVZ4nekUBUVA2CkTw5zEYw19Xtstjm9RGTkzBnGLMOsRm78bNwkTUtr0Od1asi5wIO7I8voCwt0w9%2Fkkw%2FFUOE2xVItvHWGY1WOGvTAPSXnr5%2BrJzBteboZlW3Pmb9wwRx4jLf%2FMd0AHtl4BVyw13VaOA%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '839182d0fb24110e-ORD'} -+-+- b'error code: 502'
+Can't connect to that node

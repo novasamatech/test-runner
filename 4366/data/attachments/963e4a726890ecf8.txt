@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://acala-polkadot.api.onfinality.io/public-ws, check it is available? 
+ [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
+⚠️ Can't connect by wss://acala-polkadot.api.onfinality.io/public-ws, check it is available? 
+ [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007)
+⚠️ Can't connect by wss://acala-polkadot.api.onfinality.io/public-ws, check it is available? 
+ [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1007)
