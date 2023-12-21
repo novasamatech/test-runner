@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://rpc.ibp.network/polkadot, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'content-length': '107', 'cache-control': 'no-cache', 'content-type': 'text/html'} -+-+- b'<html><body><h1>503 Service Unavailable</h1>\nNo server is available to handle this request.\n</body></html>\n'
+⚠️ Can't connect by wss://rpc.ibp.network/polkadot, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'content-length': '107', 'cache-control': 'no-cache', 'content-type': 'text/html'} -+-+- b'<html><body><h1>503 Service Unavailable</h1>\nNo server is available to handle this request.\n</body></html>\n'
+⚠️ Can't connect by wss://rpc.ibp.network/polkadot, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'content-length': '107', 'cache-control': 'no-cache', 'content-type': 'text/html'} -+-+- b'<html><body><h1>503 Service Unavailable</h1>\nNo server is available to handle this request.\n</body></html>\n'

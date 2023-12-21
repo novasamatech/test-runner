@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://kabocha.jelliedowl.com, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Thu, 21 Dec 2023 08:05:49 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive'} -+-+- None
+⚠️ Can't connect by wss://kabocha.jelliedowl.com, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Thu, 21 Dec 2023 08:06:05 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive'} -+-+- None
+⚠️ Can't connect by wss://kabocha.jelliedowl.com, check it is available? 
+ Handshake status 504 Gateway Time-out -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Thu, 21 Dec 2023 08:07:21 GMT', 'content-type': 'text/html', 'content-length': '176', 'connection': 'keep-alive'} -+-+- b'<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body>\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n<hr><center>nginx/1.18.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n'

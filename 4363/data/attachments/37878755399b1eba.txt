@@ -1,0 +1,10 @@
+⚠️ Can't connect by wss://rpc.litentry-parachain.litentry.io, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'server': 'awselb/2.0', 'date': 'Thu, 21 Dec 2023 08:02:35 GMT', 'content-type': 'text/html', 'content-length': '122', 'connection': 'keep-alive'} -+-+- b'<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n</body>\r\n</html>\r\n'
+Can't connect to that node
+⚠️ Can't connect by wss://litentry-rpc.dwellir.com, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Thu, 21 Dec 2023 08:02:35 GMT', 'strict-transport-security': 'max-age=16000000; includeSubDomains; preload;'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+Can't connect to all nodes of network Litentry
+⚠️ Can't connect by wss://rpc.litentry-parachain.litentry.io, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'server': 'awselb/2.0', 'date': 'Thu, 21 Dec 2023 08:02:58 GMT', 'content-type': 'text/html', 'content-length': '122', 'connection': 'keep-alive'} -+-+- b'<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n</body>\r\n</html>\r\n'
+Can't connect to that node

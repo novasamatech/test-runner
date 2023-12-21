@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://kusama.rpc.robonomics.network/, check it is available? 
+ Connection to remote host was lost.
