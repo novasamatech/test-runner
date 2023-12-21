@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://rpc-parachain.bajun.network, check it is available? 
+ [Errno 104] Connection reset by peer
+Can't connect to that node
+⚠️ Can't connect by wss://bajun.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Thu, 21 Dec 2023 16:03:20 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=5EddGAHmubeDpSHH33%2F0wPK79kiur5huzvR%2BZNrg5%2Ba8tsQt5qZnu%2Buc%2BL9w%2F9KsqtQ6qctBucfwOpme5SiTuzWO4x9B6XCph7unHRUW0LUzLOhq272%2Buk2quINnMIYOJJb0EU0zYDlW%2FlnAqzLTlBiJ%2Fw%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '83915ac5ec7c2c7c-ORD'} -+-+- None
+Can't connect to that node

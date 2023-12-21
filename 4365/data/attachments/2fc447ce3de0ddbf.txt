@@ -1,0 +1,12 @@
+⚠️ Can't connect by wss://mainnet.polkadex.trade, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Thu, 21 Dec 2023 16:02:11 GMT'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+⚠️ Can't connect by wss://polkadex.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Thu, 21 Dec 2023 16:02:12 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=%2BON0L5XO1ZuZG3F0BCvK0EsYTCj9gz6f1gjtz3t%2FWjEnkJiauZMyiCifqgCiIPGGNa5FJqCOtyvau614tCqsCK1%2B7QYiGaNvjA3lrqQkDd38BjYrl1hHA0Xdl4DjZ3IYf3aeRu8xiuskKosUfbfj23CJtB4BiQ%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '8391591d4a3d081e-IAD'} -+-+- b'error code: 502'
+Can't connect to that node
+⚠️ Can't connect by wss://mainnet.polkadex.trade, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Thu, 21 Dec 2023 16:02:21 GMT'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+⚠️ Can't connect by wss://polkadex.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Thu, 21 Dec 2023 16:02:22 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=kPh%2FcMVOFRluQ%2F8i539jSZtI4bK3bBsbYcIvdJvui10yDPNeriDmR5z9rGTytmT7Rs70udIqWMkzBJUn57Xk9mCIsvrSldLm7SXuai44r3%2Fu%2Ffqv%2BYGVhWiusU3vZDMyRfRTBo8ouW0mNRPvVjcQxeAhVTcxLw%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '83915955eb1582c8-IAD'} -+-+- None
+Can't connect to that node

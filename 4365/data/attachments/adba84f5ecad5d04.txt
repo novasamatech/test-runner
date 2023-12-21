@@ -1,0 +1,19 @@
+⚠️ Can't connect by wss://mainnet.polkadex.trade, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Thu, 21 Dec 2023 16:02:09 GMT'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+⚠️ Can't connect by wss://mainnet.polkadex.trade, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Thu, 21 Dec 2023 16:03:26 GMT'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+⚠️ Can't connect by wss://polkadex.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Thu, 21 Dec 2023 16:03:27 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=vW%2BCG5g4nx%2B2F9YRqtLIudCHaBKyN5gIqXqBgiBPdsKkz5HyNEoSy4kzVRO8mwIiUAdwgqqCqEsZP0LmNVLG9ZSlvY3unjNyMUmYOBg8WWW1g7E0rK5Iy6MqhxcfOOLgmE3Hl%2B17mHTDhNRBjjt6Dfx%2FAdHj%2Bg%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '83915aefdc2f226d-ORD'} -+-+- b'error code: 502'
+Can't connect to that node
+⚠️ Can't connect by wss://polkadex.api.onfinality.io/public-ws, check it is available? 
+ [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007)
+Can't connect to that node
+Can't connect to all nodes of network Polkadex
+⚠️ Can't connect by wss://mainnet.polkadex.trade, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Thu, 21 Dec 2023 16:04:43 GMT'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+⚠️ Can't connect by wss://polkadex.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Thu, 21 Dec 2023 16:04:45 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=bMMPUJvvqM0QHj68h7P2FVW2U1%2FeLnfpxZz%2FxMLXa4DgfvN6b%2FYB70pHGw2QZH%2Ftv%2FbK2D6P7jRzLWNGBw1Od1W8htyMRWDveQu51OjFVxuyBX%2FVePq%2BAvjl15lGXDXMmt7PW8pbV41jIqEXvqtB8zqinrWC5A%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '83915cd3ff046185-ORD'} -+-+- b'error code: 502'
+Can't connect to that node

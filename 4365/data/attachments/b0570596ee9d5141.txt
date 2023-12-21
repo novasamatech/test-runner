@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://rpc-parachain.bajun.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Thu, 21 Dec 2023 16:02:52 GMT', 'content-type': 'text/html', 'content-length': '186', 'connection': 'close'} -+-+- b'<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.18.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n'
+Can't connect to that node
+⚠️ Can't connect by wss://bajun.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Thu, 21 Dec 2023 16:02:52 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=Qr8rTq%2BvBiPTeYt3KUATD9aRfqjVslva%2BScRJD9YaE89ClP7gVWYuiWUpe4BF4PuzZf0B%2Bz44HQvoKRSXLeYH77j9dPX19sulbh8W%2FO78zDkcUJP7iwg1UAxa%2BMstCURQ2%2FAwJ4z%2FeTYxhq3lJmZKQOyeA%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '83915a15bfdd7c43-LAX'} -+-+- None
+Can't connect to that node

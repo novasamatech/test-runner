@@ -1,0 +1,14 @@
+⚠️ Can't connect by wss://rpc-parachain.ajuna.network, check it is available? 
+ [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)
+Can't connect to that node
+⚠️ Can't connect by wss://ajuna.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Thu, 21 Dec 2023 16:04:17 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=DNiWFi50oAFJl%2BluiZpXT4kVBCfj%2BlYVg%2BSaFvQ1kdJac0Rv1dwdsT%2F1iLb7%2FGMOdmpjVEN0zPyJv4eHT3CxMA2K%2Bdqh1FAUJuKU1yBM7Sha9ViokgpoDlAwtCmlE7KShuEECqATmw%2FGpB%2FebOh8TuRRLQ%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '83915c292c72311f-LAX'} -+-+- b'error code: 502'
+Can't connect to that node
+Can't connect to all nodes of network Ajuna
+⚠️ Can't connect by wss://rpc-parachain.ajuna.network, check it is available? 
+ [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)
+Can't connect to that node
+⚠️ Can't connect by wss://ajuna.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Thu, 21 Dec 2023 16:04:33 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=2z%2Fktxc3Sgv6c%2FmoCcvIdEhVzvLh0Nt9%2FqLLUqLb2cOd3Yy403s%2F%2FAHEvGYCkMRIPfGVNHNHq4leQCx7cMRDUXdXEBiC5Pipvz94ZWu%2BqCxJvN5BzLmqcNmjT%2Bk7PZj6zwjuV3onrZz63u9A3ryeSGUwxg%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '83915c8f7b082a8b-LAX'} -+-+- b'error code: 502'
+Can't connect to that node
+Can't connect to all nodes of network Ajuna
