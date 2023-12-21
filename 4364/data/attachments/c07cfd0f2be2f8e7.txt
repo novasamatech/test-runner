@@ -1,0 +1,17 @@
+⚠️ Can't connect by wss://rpc-parachain.ajuna.network, check it is available? 
+ [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)
+Can't connect to that node
+⚠️ Can't connect by wss://rpc-parachain.ajuna.network, check it is available? 
+ [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)
+Can't connect to that node
+⚠️ Can't connect by wss://ajuna.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 520 None -+-+- {'date': 'Thu, 21 Dec 2023 12:04:59 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=8M6phZIsYzOu1aQPhZF6ookwXWy4G%2BN5LtwoW%2B2gjkjadsVEiAcX8fPxeuxOSj1UDjxzUTfbIUvV3eyPATxIRq%2FFhNrR%2FS%2B3L86hCnsUqBZFY4nSpaxfr6lcHlQJhghYrxpkkSctISGMqGu3Ewg4mqqHwQ%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '838ffd9fe9996892-SJC'} -+-+- b'error code: 520'
+Can't connect to that node
+Can't connect to all nodes of network Ajuna
+⚠️ Can't connect by wss://rpc-parachain.ajuna.network, check it is available? 
+ [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)
+Can't connect to that node
+⚠️ Can't connect by wss://ajuna.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Thu, 21 Dec 2023 12:06:15 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=ysSHGm3EjpwIfNDBAb8SjuQrUmbiKBu9yVnJp9cFlFDULpM%2BD5yFCoVyIMj%2B28zsXslhoESl9uHXZyOcTWWPjW7GXUx0HhI2dq3uEl%2FH859Qfvm%2BC69U3mPDwKELYVpzik0VrrbOOWMx1eujbG9Bva7ZIQ%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '838fff7b4d516422-SJC'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Ajuna

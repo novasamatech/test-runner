@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://mainnet.polkadex.trade, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Thu, 21 Dec 2023 12:02:04 GMT'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+⚠️ Can't connect by wss://polkadex.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Thu, 21 Dec 2023 12:02:05 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=EooPwGreX3fR%2F0lLaoWD51sIL1rFw5bmDHBbhlWqeBzlGjU0OplPUMMV%2BC7hcyHHUpUMGB9wyuFUqvxmdH4ptrF9ZqBxrpPMbUkIoPraS2spxTrotQH8DwEXrr9wfKglmc5IjcnxFoxsRGm4JK6KRFR5tp7OYQ%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '838ff95e6e03312b-LAX'} -+-+- None
+Can't connect to that node
