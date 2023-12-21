@@ -1,0 +1,12 @@
+⚠️ Can't connect by wss://c2.hashed.network, check it is available? 
+ Handshake status 503 Service Temporarily Unavailable -+-+- {'date': 'Thu, 21 Dec 2023 20:03:52 GMT', 'content-type': 'text/html', 'content-length': '190', 'connection': 'keep-alive', 'strict-transport-security': 'max-age=15724800; includeSubDomains'} -+-+- b'<html>\r\n<head><title>503 Service Temporarily Unavailable</title></head>\r\n<body>\r\n<center><h1>503 Service Temporarily Unavailable</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n'
+Can't connect to that node
+Can't connect to all nodes of network Hashed Network
+⚠️ Can't connect by wss://c2.hashed.network, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Thu, 21 Dec 2023 20:04:08 GMT', 'content-type': 'text/html', 'content-length': '150', 'connection': 'keep-alive', 'strict-transport-security': 'max-age=15724800; includeSubDomains'} -+-+- b'<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n'
+Can't connect to that node
+Can't connect to all nodes of network Hashed Network
+⚠️ Can't connect by wss://c2.hashed.network, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Thu, 21 Dec 2023 20:04:23 GMT', 'content-type': 'text/html', 'content-length': '150', 'connection': 'keep-alive', 'strict-transport-security': 'max-age=15724800; includeSubDomains'} -+-+- b'<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n'
+Can't connect to that node
+Can't connect to all nodes of network Hashed Network
