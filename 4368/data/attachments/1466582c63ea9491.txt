@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://jur-mainnet-archive-rpc-1.icebergnodes.io, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Fri, 22 Dec 2023 00:10:16 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive'} -+-+- b'Too many connections. Please try again later.'
+⚠️ Can't connect by wss://jur-mainnet-archive-rpc-1.icebergnodes.io, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Fri, 22 Dec 2023 00:10:32 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive'} -+-+- b'Too many connections. Please try again later.'
+⚠️ Can't connect by wss://jur-mainnet-archive-rpc-1.icebergnodes.io, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Fri, 22 Dec 2023 00:10:48 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive'} -+-+- b'Too many connections. Please try again later.'
