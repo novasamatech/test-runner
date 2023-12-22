@@ -1,0 +1,7 @@
+⚠️ Can't connect by wss://rpc.3dpscan.io, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 22 Dec 2023 16:03:15 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=WMfQwWnFLhqR881zfa%2BqK7QzNrcD7Dd4W3sC92EUdX2UV53zhhYQUAX9SW%2BF%2Bs07pQs9vEcfqfr5kX27Ml7AECOeVwjCOJBDomnTXZP4TgPR8Ab9uWI9en96toEoUFeSuw%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '83999801ae830fc7-LAX', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to that node
+⚠️ Can't connect by wss://rpc2.3dpass.org, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'server': 'nginx/1.14.0 (Ubuntu)', 'date': 'Fri, 22 Dec 2023 16:03:15 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network 3DPass
