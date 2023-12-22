@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://rpc.shiden.astar.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Fri, 22 Dec 2023 08:01:25 GMT', 'content-type': 'text/html', 'content-length': '186', 'set-cookie': 'sdnevm=shiden-public-02-nch; path=/'} -+-+- b'<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.18.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n'

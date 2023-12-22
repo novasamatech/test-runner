@@ -1,3 +1,0 @@
-⚠️ Can't connect by wss://rpc.3dpscan.io, check it is available? 
- Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 15 Dec 2023 00:04:02 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=SP5vzVM%2F5I5kNZnlaBkaY8zmPPEazDuWP6UilL1BwoXbX471Sq%2BxS8RD3G5lxk24vYMIelc7R6P4qRUuvnhMk5O8DUyUwbegrqwfWvk07%2FwirbV%2BU%2FkE0F6PxDgkjqKL%2FQ%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '835a6d48bcda67d3-SJC', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
-Can't connect to that node
