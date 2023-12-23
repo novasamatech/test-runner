@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://hk.p.bifrost-rpc.liebi.com/ws, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'server': 'nginx/1.22.1', 'date': 'Sat, 23 Dec 2023 20:03:59 GMT', 'content-type': 'text/html', 'content-length': '177', 'connection': 'close'} -+-+- b'<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.22.1</center>\r\n</body>\r\n</html>\r\n'
+⚠️ Can't connect by wss://hk.p.bifrost-rpc.liebi.com/ws, check it is available? 
+ [Errno 104] Connection reset by peer
