@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://rpc.joystream.org, check it is available? 
- Handshake status 503 Service Unavailable -+-+- {'alt-svc': 'h3=":443"; ma=2592000', 'server': 'Caddy', 'date': 'Wed, 20 Dec 2023 16:08:20 GMT', 'content-length': '0'} -+-+- b''
