@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://c2.hashed.network, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'date': 'Wed, 20 Dec 2023 20:05:55 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'strict-transport-security': 'max-age=15724800; includeSubDomains'} -+-+- b'Too many connections. Please try again later.'

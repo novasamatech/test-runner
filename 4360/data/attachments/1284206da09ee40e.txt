@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://centrifuge-parachain.api.onfinality.io/public-ws, check it is available? 
- Handshake status 200 OK -+-+- {'content-length': '0', 'connection': 'keep-alive', 'date': 'Wed, 20 Dec 2023 20:03:59 GMT', 'x-continent': 'SA', 'x-cluster': 'sk', 'x-kong-upstream-latency': '20024', 'x-kong-proxy-latency': '1', 'via': 'kong/2.5.2'} -+-+- b''
