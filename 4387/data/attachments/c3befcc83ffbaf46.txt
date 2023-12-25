@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://rpc2-shadow.crust.network/, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'alt-svc': 'h3=":443"; ma=2592000', 'server': 'Caddy', 'date': 'Mon, 25 Dec 2023 04:03:19 GMT', 'content-length': '0'} -+-+- b''
+⚠️ Can't connect by wss://rpc2-shadow.crust.network/, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'alt-svc': 'h3=":443"; ma=2592000', 'server': 'Caddy', 'date': 'Mon, 25 Dec 2023 04:03:35 GMT', 'content-length': '0'} -+-+- b''
+⚠️ Can't connect by wss://rpc2-shadow.crust.network/, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'alt-svc': 'h3=":443"; ma=2592000', 'server': 'Caddy', 'date': 'Mon, 25 Dec 2023 04:03:51 GMT', 'content-length': '0'} -+-+- b''
