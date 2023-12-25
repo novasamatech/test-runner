@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://hk.p.bifrost-rpc.liebi.com/ws, check it is available? 
+ [Errno 104] Connection reset by peer
