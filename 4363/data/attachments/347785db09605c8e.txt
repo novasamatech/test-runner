@@ -1,6 +1,0 @@
-⚠️ Can't connect by wss://mainnet.polkadex.trade, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Thu, 21 Dec 2023 08:02:06 GMT'} -+-+- b'Too many connections. Please try again later.'
-Can't connect to that node
-⚠️ Can't connect by wss://polkadex.public.curie.radiumblock.co/ws, check it is available? 
- Handshake status 520 None -+-+- {'date': 'Thu, 21 Dec 2023 08:02:07 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=UhOmopwKDr%2BcDr7R6R6ykDT3KyLA7IjI7%2By5UoUJhbCfy28QaPqoBV1VdLCkmPSxdi875ptFt3kVj9gPinpz5MFLuYgT4lWdQT6j0GzbgZd06UbLtGHE8OuxM3x2i7ryD%2Bj6GsgtxUjrwRBGyJTinNdalmqitA%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '838e99da6e5b37f9-IAD'} -+-+- b'error code: 520'
-Can't connect to that node

@@ -1,7 +1,0 @@
-⚠️ Can't connect by wss://rpc-parachain.ajuna.network, check it is available? 
- [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)
-Can't connect to that node
-⚠️ Can't connect by wss://ajuna.public.curie.radiumblock.co/ws, check it is available? 
- Handshake status 520 None -+-+- {'date': 'Thu, 21 Dec 2023 08:04:02 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=gNHFCQkuZpBQuWDhT%2BBb%2BdvnQBVldVzvxQul7xw4FUTBfwKo0XBzbMcmwhO3hEJoqTOow73Gl1GUDmOuOzFK2KRZkVt05lMKxT0WW1ZXiM4orFdK3c%2Fn1S552H8%2Fv8qdv49XXA%2BJXCg%2FKBy8qT0gRKoenw%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '838e9ca90f18232a-ORD'} -+-+- b'error code: 520'
-Can't connect to that node
-Can't connect to all nodes of network Ajuna

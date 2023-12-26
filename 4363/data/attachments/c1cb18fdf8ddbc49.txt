@@ -1,9 +1,0 @@
-⚠️ Can't connect by wss://khala-api.phala.network/ws, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'date': 'Thu, 21 Dec 2023 08:01:07 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'alt-svc': 'h3=":443"; ma=86400', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=ATrofuVaeJ6BKieIt8Yj%2FI56V2SiC7ovJ2qwyxuTJh982z6dz1uW0CysTOef7%2FGnGOGIKPRKgQK0%2BdQJza4g%2FBVzrThyi75qzq%2FerQFHTQsDOf9P%2F0k9UoSClhZb90BSAcybYso4OAQ9ww%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '838e9860d9cb091d-LAX'} -+-+- b'Too many connections. Please try again later.'
-Can't connect to that node
-⚠️ Can't connect by wss://khala-api.phala.network/ws, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'date': 'Thu, 21 Dec 2023 08:01:16 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'alt-svc': 'h3=":443"; ma=86400', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=VexLMDPrcS1ryTmOwDqsLUEaT9P4xX3baJXT0%2B0sS%2FIapxuge5jVFsrajWkpEJ63skH9eAlAF7iid%2B5Wfz092Ic99ovd%2FfewiDGBsXHYRHL5sKxuegQwx7pkx%2FPU6GP4Inw68jrKuGVC0A%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '838e989cfc532b73-LAX'} -+-+- b'Too many connections. Please try again later.'
-Can't connect to that node
-⚠️ Can't connect by wss://khala-rpc.dwellir.com, check it is available? 
- Handshake status 503 Service Unavailable -+-+- {'cache-control': 'no-cache', 'content-type': 'text/html'} -+-+- None
-Can't connect to that node
