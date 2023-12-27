@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://kabocha.jelliedowl.com, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Fri, 22 Dec 2023 08:02:11 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive'} -+-+- None
-Can't connect to that node
-Can't connect to all nodes of network Kabocha
