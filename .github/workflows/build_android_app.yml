@@ -10,7 +10,7 @@ on:
       gradlew-command:
         required: false
         type: string
-        default: false
+        default: "false"
       run-tests:
         required: false
         type: boolean
@@ -18,10 +18,11 @@ on:
       keystore-file-name:
         required: false
         type: string
-        default: false
+        default: "false"
       keystore-file-base64:
         required: false
         type: string
+        default: "false"
     secrets:
       ACALA_PROD_AUTH_TOKEN:
         required: true
@@ -34,6 +35,18 @@ on:
       MOONPAY_PRODUCTION_SECRET:
         required: true
       MOONPAY_TEST_SECRET:
+        required: true
+      EHTERSCAN_API_KEY_MOONBEAM:
+        required: true
+      EHTERSCAN_API_KEY_MOONRIVER:
+        required: true
+      EHTERSCAN_API_KEY_ETHEREUM:
+        required: true
+      INFURA_API_KEY:
+        required: true
+      DWELLIR_API_KEY:
+        required: true
+      WALLET_CONNECT_PROJECT_ID:
         required: true
       # Special secrets for signing:
       CI_MARKET_KEYSTORE_PASS:
@@ -56,18 +69,6 @@ on:
         required: false
       CI_GITHUB_KEYSTORE_KEY_PASS:
         required: false
-      PAT:
-        required: false
-      BASE64_GITHUB_KEYSTORE_FILE:
-        required: false
-      EHTERSCAN_API_KEY_MOONBEAM:
-        required: false
-      EHTERSCAN_API_KEY_MOONRIVER:
-        required: false
-      EHTERSCAN_API_KEY_ETHEREUM:
-        required: false
-      INFURA_API_KEY:
-        required: false
 
 env:
   ACALA_PROD_AUTH_TOKEN: ${{ secrets.ACALA_PROD_AUTH_TOKEN }}
@@ -82,6 +83,7 @@ env:
   EHTERSCAN_API_KEY_MOONRIVER: ${{ secrets.EHTERSCAN_API_KEY_MOONRIVER }}
   EHTERSCAN_API_KEY_ETHEREUM: ${{ secrets.EHTERSCAN_API_KEY_ETHEREUM }}
   INFURA_API_KEY: ${{ secrets.INFURA_API_KEY }}
+  DWELLIR_API_KEY: ${{ secrets.DWELLIR_API_KEY }}
   WALLET_CONNECT_PROJECT_ID: ${{ secrets.WALLET_CONNECT_PROJECT_ID }}
 
   CI_MARKET_KEYSTORE_PASS: ${{ secrets.CI_MARKET_KEYSTORE_PASS }}
@@ -96,6 +98,7 @@ env:
   CI_GITHUB_KEYSTORE_PASS: ${{ secrets.CI_GITHUB_KEYSTORE_PASS }}
   CI_GITHUB_KEYSTORE_KEY_ALIAS: ${{ secrets.CI_GITHUB_KEYSTORE_KEY_ALIAS }}
   CI_GITHUB_KEYSTORE_KEY_PASS: ${{ secrets.CI_GITHUB_KEYSTORE_KEY_PASS }}
+  CI_GITHUB_KEYSTORE_KEY_FILE: ${{ secrets.BASE64_GITHUB_KEYSTORE_FILE }}
 
 jobs:
   build-app:
