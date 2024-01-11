@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://rpc-para.clover.finance, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'alt-svc': 'h3=":443"; ma=2592000', 'server': 'Caddy', 'date': 'Thu, 11 Jan 2024 00:02:08 GMT', 'content-length': '0'} -+-+- b''
+Can't connect to that node
+Can't connect to all nodes of network CLV Parachain
