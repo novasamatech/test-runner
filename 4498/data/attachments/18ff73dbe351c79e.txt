@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://rpc.litmus-parachain.litentry.io, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 12 Jan 2024 08:03:21 GMT', 'content-type': 'text/html', 'content-length': '177', 'connection': 'keep-alive', 'server': 'nginx/1.20.1'} -+-+- b'<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.20.1</center>\r\n</body>\r\n</html>\r\n'
