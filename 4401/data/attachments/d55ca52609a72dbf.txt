@@ -1,6 +1,0 @@
-⚠️ Can't connect by wss://equilibrium-rpc.dwellir.com, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'strict-transport-security': 'max-age=16000000; includeSubDomains; preload;', 'connection': 'close'} -+-+- None
-⚠️ Can't connect by wss://equilibrium-rpc.dwellir.com, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'strict-transport-security': 'max-age=16000000; includeSubDomains; preload;', 'connection': 'close'} -+-+- None
-⚠️ Can't connect by wss://equilibrium-rpc.dwellir.com, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'strict-transport-security': 'max-age=16000000; includeSubDomains; preload;', 'connection': 'close'} -+-+- None
