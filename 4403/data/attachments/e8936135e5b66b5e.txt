@@ -1,6 +1,0 @@
-⚠️ Can't connect by wss://1rpc.io/ksm, check it is available? 
- Connection to remote host was lost.
-⚠️ Can't connect by wss://1rpc.io/ksm, check it is available? 
- Connection to remote host was lost.
-⚠️ Can't connect by wss://1rpc.io/ksm, check it is available? 
- Connection to remote host was lost.

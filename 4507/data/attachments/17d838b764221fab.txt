@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://public-rpc.mainnet.aventus.io, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Sat, 13 Jan 2024 20:06:10 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'strict-transport-security': 'max-age=15724800; includeSubDomains'} -+-+- b'Too many connections. Please try again later.'
