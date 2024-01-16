@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://kabocha.jelliedowl.com, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Tue, 16 Jan 2024 12:05:11 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive'} -+-+- None
+⚠️ Can't connect by wss://kabocha.jelliedowl.com, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Tue, 16 Jan 2024 12:05:26 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive'} -+-+- None

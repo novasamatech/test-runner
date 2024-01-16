@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://zeitgeist-rpc.dwellir.com, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Tue, 16 Jan 2024 12:03:46 GMT', 'strict-transport-security': 'max-age=16000000; includeSubDomains; preload;'} -+-+- b'Too many connections. Please try again later.'
+⚠️ Can't connect by wss://zeitgeist-rpc.dwellir.com, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Tue, 16 Jan 2024 12:04:02 GMT', 'strict-transport-security': 'max-age=16000000; includeSubDomains; preload;'} -+-+- b'Too many connections. Please try again later.'

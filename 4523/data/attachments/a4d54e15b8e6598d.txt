@@ -1,0 +1,14 @@
+⚠️ Can't connect by wss://parallel-rpc.dwellir.com, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Tue, 16 Jan 2024 12:01:29 GMT', 'strict-transport-security': 'max-age=16000000; includeSubDomains; preload;'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+⚠️ Can't connect by wss://rpc.parallel.fi, check it is available? 
+ {'code': -32601, 'message': 'the method system_chain does not exist/is not available'}
+Can't connect to that node
+Can't connect to all nodes of network Parallel
+⚠️ Can't connect by wss://parallel-rpc.dwellir.com, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Tue, 16 Jan 2024 12:01:45 GMT', 'strict-transport-security': 'max-age=16000000; includeSubDomains; preload;'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+⚠️ Can't connect by wss://rpc.parallel.fi, check it is available? 
+ {'code': -32601, 'message': 'the method system_chain does not exist/is not available'}
+Can't connect to that node
+Can't connect to all nodes of network Parallel
