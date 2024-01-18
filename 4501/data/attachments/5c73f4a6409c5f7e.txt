@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://rpc2.3dpass.org, check it is available? 
- Connection to remote host was lost.
