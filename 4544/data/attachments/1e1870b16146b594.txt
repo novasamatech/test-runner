@@ -1,0 +1,14 @@
+⚠️ Can't connect by wss://polkadot-parallel-rpc.parallel.fi, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Fri, 19 Jan 2024 20:01:14 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'set-cookie': '__cf_bm=GwWBZeYm_rF0us1T.0uYTTGswIDsa_Q9_t7B_jCeEvQ-1705694474-1-AXsdiSnrLJwGMZMugopsK47a/Cuk+7nyC7xTzv+06EU1CWUzGYLxY7aq2iP0VRQuheX/rpfRnZdH/9V05eDQhlo=; path=/; expires=Fri, 19-Jan-24 20:31:14 GMT; domain=.parallel.fi; HttpOnly; Secure', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=XQz1adOmtTvRou9CP%2FsKgsnY8gVlCc6X%2Flu1cC6CzhoOSecEs06r5PPjEMDzGL4Xbm3Ph9Xd2651A8rTsV6i9hHrEJsGJ9xTfMpp0wukARNU%2BAEOvelArCnSgGSVwIFMev%2BMHHOcIlfH4Vjsy7U5s%2BnCQQ%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '8481ab20eaa5829e-IAD'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+⚠️ Can't connect by wss://parallel-rpc.dwellir.com, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'cache-control': 'no-cache', 'content-type': 'text/html'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Parallel
+⚠️ Can't connect by wss://polkadot-parallel-rpc.parallel.fi, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Fri, 19 Jan 2024 20:01:23 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'set-cookie': '__cf_bm=gX.FhHikEXKBJEvaBay3ejlvrLRVsm5QW1yvQprQTYM-1705694483-1-AS7mT8zAKmZwZcxWwOc7Ih7xB5Ns+YTdYv+QYWGG61AIFFcCDUQ3L/NBoHF6Rf80kgSha7p1aL17RlczVBpoVM8=; path=/; expires=Fri, 19-Jan-24 20:31:23 GMT; domain=.parallel.fi; HttpOnly; Secure', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=g%2FxFW6Ut2r0n7iVjGeN3UeidoAdm7KpMbdogsyOtawVTsQx8ije4hf4hnVMzdHVQzfz5Z5IvfvwpHgHKu9umrOVBhptQ7RNCi4o2Pusvq00QoUD5vTb1K9BX6R2o%2FssxLhkati27pjje5t4%2F%2F%2BdMDdb3PA%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '8481ab59df82829e-IAD'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+⚠️ Can't connect by wss://parallel-rpc.dwellir.com, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'cache-control': 'no-cache', 'content-type': 'text/html'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Parallel
