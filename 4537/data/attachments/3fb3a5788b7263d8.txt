@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://rpc.shiden.astar.network, check it is available? 
+ [Errno 110] Connection timed out
