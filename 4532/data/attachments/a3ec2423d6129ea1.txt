@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://parallel-rpc.dwellir.com, check it is available? 
- Handshake status 503 Service Unavailable -+-+- {'cache-control': 'no-cache', 'content-type': 'text/html'} -+-+- None
-⚠️ Can't connect by wss://parallel-rpc.dwellir.com, check it is available? 
- Handshake status 503 Service Unavailable -+-+- {'cache-control': 'no-cache', 'content-type': 'text/html'} -+-+- None
