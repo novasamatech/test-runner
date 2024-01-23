@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://xxnetwork-rpc.dwellir.com, check it is available? 
+ Connection to remote host was lost.

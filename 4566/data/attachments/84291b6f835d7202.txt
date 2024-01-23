@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://phala-rpc.dwellir.com, check it is available? 
+ Connection to remote host was lost.
