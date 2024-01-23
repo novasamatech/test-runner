@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://rpc.joystream.org, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'server': 'Caddy', 'date': 'Tue, 23 Jan 2024 04:04:18 GMT', 'content-length': '0'} -+-+- b''
+⚠️ Can't connect by wss://rpc.joystream.org, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'server': 'Caddy', 'date': 'Tue, 23 Jan 2024 04:04:25 GMT', 'content-length': '0'} -+-+- b''
+⚠️ Can't connect by wss://rpc.joystream.org, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'server': 'Caddy', 'date': 'Tue, 23 Jan 2024 04:04:32 GMT', 'content-length': '0'} -+-+- b''
