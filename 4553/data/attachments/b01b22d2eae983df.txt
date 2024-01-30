@@ -1,7 +1,0 @@
-⚠️ Can't connect by wss://zeitgeist-rpc.dwellir.com, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Sun, 21 Jan 2024 08:01:26 GMT', 'strict-transport-security': 'max-age=16000000; includeSubDomains; preload;'} -+-+- b'Too many connections. Please try again later.'
-Can't connect to that node
-⚠️ Can't connect by wss://zeitgeist.api.onfinality.io/public-ws, check it is available? 
- [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007)
-Can't connect to that node
-Can't connect to all nodes of network Zeitgeist
