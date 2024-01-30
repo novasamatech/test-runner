@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://rpc-pendulum.prd.pendulumchain.tech, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Tue, 30 Jan 2024 16:02:19 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'server': 'nginx/1.18.0 (Ubuntu)'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+Can't connect to all nodes of network Pendulum
