@@ -1,0 +1,8 @@
+⚠️ Can't connect by wss://rpc.joystream.org, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'server': 'Caddy', 'date': 'Wed, 31 Jan 2024 20:02:38 GMT', 'content-length': '0'} -+-+- b''
+Can't connect to that node
+Can't connect to all nodes of network Joystream
+⚠️ Can't connect by wss://rpc.joystream.org, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'server': 'Caddy', 'date': 'Wed, 31 Jan 2024 20:02:46 GMT', 'content-length': '0'} -+-+- b''
+Can't connect to that node
+Can't connect to all nodes of network Joystream
