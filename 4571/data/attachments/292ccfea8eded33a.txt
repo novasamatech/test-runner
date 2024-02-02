@@ -1,3 +1,0 @@
-⚠️ Can't connect by wss://hydradx-rpc.dwellir.com, check it is available? 
- Handshake status 503 Service Unavailable -+-+- {'cache-control': 'no-cache', 'content-type': 'text/html'} -+-+- None
-Can't connect to that node
