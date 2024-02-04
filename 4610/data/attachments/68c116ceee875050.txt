@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://rpc.shiden.astar.network, check it is available? 
- Handshake status 502 Bad Gateway -+-+- {'cache-control': 'no-cache', 'content-type': 'text/html'} -+-+- None
-⚠️ Can't connect by wss://rpc.shiden.astar.network, check it is available? 
- Handshake status 502 Bad Gateway -+-+- {'cache-control': 'no-cache', 'content-type': 'text/html'} -+-+- None
