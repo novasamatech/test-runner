@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://pioneer-rpc-3.bit.country/wss, check it is available? 
+ [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'pioneer-rpc-3.bit.country'. (_ssl.c:1007)
