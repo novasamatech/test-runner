@@ -1,5 +1,0 @@
-Can't connect to that node
-⚠️ Can't connect by wss://0.rpc.frequency.xyz, check it is available? 
- Connection to remote host was lost.
-Can't connect to that node
-Can't connect to that node
