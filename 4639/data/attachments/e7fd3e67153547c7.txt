@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://rpc-pendulum.prd.pendulumchain.tech, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'date': 'Sun, 04 Feb 2024 16:02:59 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'server': 'nginx/1.18.0 (Ubuntu)'} -+-+- b'Too many connections. Please try again later.'
