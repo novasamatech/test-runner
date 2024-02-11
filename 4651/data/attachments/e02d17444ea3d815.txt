@@ -1,6 +1,0 @@
-Can't connect to that node
-Can't connect to all nodes of network Bit.Country Pioneer
-⚠️ Can't connect by wss://pioneer-rpc-3.bit.country/wss, check it is available? 
- Handshake status 502 Bad Gateway -+-+- {'server': 'nginx/1.25.2', 'date': 'Tue, 06 Feb 2024 16:01:56 GMT', 'content-type': 'text/html', 'content-length': '157', 'via': '1.1 google', 'sec-websocket-accept': '7x+joMvHyGr0c5taNf42Dq0tgy0=', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'connection': 'close'} -+-+- b'<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.25.2</center>\r\n</body>\r\n</html>\r\n'
-Can't connect to that node
-Can't connect to all nodes of network Bit.Country Pioneer
