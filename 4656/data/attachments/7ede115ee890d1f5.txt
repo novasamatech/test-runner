@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://rpc2.3dpass.org, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'server': 'nginx/1.14.0 (Ubuntu)', 'date': 'Wed, 07 Feb 2024 12:03:25 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive'} -+-+- None
