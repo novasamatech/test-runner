@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://xxnetwork-rpc.dwellir.com, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Mon, 12 Feb 2024 20:03:01 GMT', 'strict-transport-security': 'max-age=16000000; includeSubDomains; preload;'} -+-+- b'Too many connections. Please try again later.'
+⚠️ Can't connect by wss://xxnetwork-rpc.dwellir.com, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Mon, 12 Feb 2024 20:03:06 GMT', 'strict-transport-security': 'max-age=16000000; includeSubDomains; preload;'} -+-+- b'Too many connections. Please try again later.'
