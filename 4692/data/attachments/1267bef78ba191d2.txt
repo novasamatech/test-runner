@@ -1,0 +1,10 @@
+⚠️ Can't connect by wss://rpc-parachain.ajuna.network, check it is available? 
+ [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)
+Can't connect to that node
+⚠️ Can't connect by wss://rpc-parachain.ajuna.network, check it is available? 
+ [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)
+Can't connect to that node
+⚠️ Can't connect by wss://ajuna.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Tue, 13 Feb 2024 12:02:38 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=TxWrU%2BpXG7Pr3bOoo%2Bpb3jd56WAbxGbAHpPNq3H%2FVR9eg1bslotIYU8ATPXRQHUv3iGnXKdcpEt63HFRRpKqq5yNcGwz3klgqca%2BEfxuyPVtiGvRtQ2zN5boAOzqYGJWmpkpMfdzDNJmToSS3MD4mxzp5Q%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '854cec6b9e2f67e9-SJC'} -+-+- b'error code: 502'
+Can't connect to that node
+Can't connect to all nodes of network Ajuna
