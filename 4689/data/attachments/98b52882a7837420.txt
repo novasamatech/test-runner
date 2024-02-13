@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://rpc-shadow.crust.network/, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'server': 'Caddy', 'date': 'Tue, 13 Feb 2024 00:02:51 GMT', 'content-length': '0'} -+-+- b''
+⚠️ Can't connect by wss://rpc-shadow.crust.network/, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'server': 'Caddy', 'date': 'Tue, 13 Feb 2024 00:02:57 GMT', 'content-length': '0'} -+-+- b''
+⚠️ Can't connect by wss://rpc-shadow.crust.network/, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'server': 'Caddy', 'date': 'Tue, 13 Feb 2024 00:03:03 GMT', 'content-length': '0'} -+-+- b''
