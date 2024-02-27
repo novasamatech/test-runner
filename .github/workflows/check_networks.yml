@@ -44,12 +44,15 @@ jobs:
           ref: 'develop'
           token: ${{ secrets.PAT }}
 
-      - name: ☕️ Install Java
-        uses: actions/setup-java@v3
+      - name: 🔧 Install dependencies
+        uses: ./.github/workflows/install/
+
+      - name: 📂 Set up Google Services
+        uses: davidSchuppa/base64Secret-toFile-action@v3
         with:
-          distribution: 'temurin'
-          java-version: '11'
-          cache: 'gradle'
+            secret: ${{ secrets.CI_INSTRUMENTAL_GOOGLE_SERVICES }}
+            filename: google-services.json
+            destination-path: app/src/instrumentialTest/
 
       - name: 🏗 Build app for testing
         run: ./gradlew :app:assembleDebugAndroidTest
