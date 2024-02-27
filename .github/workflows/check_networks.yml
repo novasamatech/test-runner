@@ -44,12 +44,8 @@ jobs:
           ref: 'develop'
           token: ${{ secrets.PAT }}
 
-      - name: ☕️ Install Java
-        uses: actions/setup-java@v3
-        with:
-          distribution: 'temurin'
-          java-version: '11'
-          cache: 'gradle'
+      - name: 🔧 Install dependencies
+        uses: ./.github/workflows/install/
 
       - name: 🏗 Build app for testing
         run: ./gradlew :app:assembleDebugAndroidTest
