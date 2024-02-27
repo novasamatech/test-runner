@@ -47,6 +47,13 @@ jobs:
       - name: 🔧 Install dependencies
         uses: ./.github/workflows/install/
 
+      - name: 📂 Set up Google Services
+        uses: davidSchuppa/base64Secret-toFile-action@v3
+        with:
+            secret: ${{ secrets.CI_INSTRUMENTAL_GOOGLE_SERVICES }}
+            filename: google-services.json
+            destination-path: app/src/instrumentialTest/
+
       - name: 🏗 Build app for testing
         run: ./gradlew :app:assembleDebugAndroidTest
 
