@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://rpc-parachain.ajuna.network, check it is available? 
- [Errno 104] Connection reset by peer
-⚠️ Can't connect by wss://rpc-parachain.ajuna.network, check it is available? 
- [Errno 104] Connection reset by peer
