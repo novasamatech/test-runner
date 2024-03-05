@@ -1,3 +1,0 @@
-⚠️ Can't connect by wss://crab-rpc.darwinia.network/, check it is available? 
- Handshake status 503 Service Unavailable -+-+- {'date': 'Wed, 28 Feb 2024 12:02:23 GMT', 'content-type': 'text/plain', 'content-length': '91', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'alt-svc': 'h3=":443"; ma=86400', 'server': 'cloudflare', 'cf-ray': '85c884960ac73919-IAD'} -+-+- b'upstream connect error or disconnect/reset before headers. reset reason: connection timeout'
-Can't connect to that node
