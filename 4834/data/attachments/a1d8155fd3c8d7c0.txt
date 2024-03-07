@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://sys.dotters.network/encointer-kusama, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Thu, 07 Mar 2024 16:02:28 GMT'} -+-+- b'Too many connections. Please try again later.'
