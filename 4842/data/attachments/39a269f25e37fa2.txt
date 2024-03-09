@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://sys.ibp.network/encointer-kusama, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Sat, 09 Mar 2024 00:02:15 GMT'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+⚠️ Can't connect by wss://sys.dotters.network/encointer-kusama, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Sat, 09 Mar 2024 00:02:15 GMT'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
