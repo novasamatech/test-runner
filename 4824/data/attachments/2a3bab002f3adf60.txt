@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://parachain-rpc.darwinia.network, check it is available? 
- Handshake status 503 Service Unavailable -+-+- {'date': 'Wed, 06 Mar 2024 00:02:59 GMT', 'content-type': 'text/plain', 'content-length': '91', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'alt-svc': 'h3=":443"; ma=86400', 'server': 'cloudflare', 'cf-ray': '85fe143e5b157fd5-IAD'} -+-+- b'upstream connect error or disconnect/reset before headers. reset reason: connection timeout'
-Can't connect to that node
-Can't connect to all nodes of network Darwinia
