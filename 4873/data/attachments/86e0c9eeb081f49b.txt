@@ -1,0 +1,8 @@
+⚠️ Can't connect by wss://entrypoint-finney.opentensor.ai:443, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'server': 'nginx/1.24.0', 'date': 'Thu, 14 Mar 2024 04:02:24 GMT', 'content-type': 'text/html', 'content-length': '177', 'connection': 'close'} -+-+- b'<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0</center>\r\n</body>\r\n</html>\r\n'
+Can't connect to that node
+Can't connect to all nodes of network Bittensor
+⚠️ Can't connect by wss://entrypoint-finney.opentensor.ai:443, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'server': 'nginx/1.24.0', 'date': 'Thu, 14 Mar 2024 04:02:30 GMT', 'content-type': 'text/html', 'content-length': '177', 'connection': 'close'} -+-+- b'<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.24.0</center>\r\n</body>\r\n</html>\r\n'
+Can't connect to that node
+Can't connect to all nodes of network Bittensor
