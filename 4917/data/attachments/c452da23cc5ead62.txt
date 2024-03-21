@@ -1,0 +1,8 @@
+⚠️ Can't connect by wss://rpc-amplitude.pendulumchain.tech, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Thu, 21 Mar 2024 12:01:54 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'server': 'nginx/1.18.0 (Ubuntu)'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+Can't connect to all nodes of network Amplitude
+⚠️ Can't connect by wss://rpc-amplitude.pendulumchain.tech, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Thu, 21 Mar 2024 12:01:59 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'server': 'nginx/1.18.0 (Ubuntu)'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+Can't connect to all nodes of network Amplitude
