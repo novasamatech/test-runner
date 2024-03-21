@@ -1,6 +1,0 @@
-⚠️ Can't connect by wss://rpc2.3dpass.org, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'server': 'nginx/1.14.0 (Ubuntu)', 'date': 'Sat, 16 Mar 2024 20:03:33 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive'} -+-+- None
-⚠️ Can't connect by wss://rpc2.3dpass.org, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'server': 'nginx/1.14.0 (Ubuntu)', 'date': 'Sat, 16 Mar 2024 20:03:39 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive'} -+-+- None
-⚠️ Can't connect by wss://rpc2.3dpass.org, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'server': 'nginx/1.14.0 (Ubuntu)', 'date': 'Sat, 16 Mar 2024 20:03:44 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive'} -+-+- None
