@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://rpc.joystream.org, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-length': '45', 'content-type': 'text/plain', 'date': 'Wed, 27 Mar 2024 08:02:07 GMT', 'server': 'Caddy'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+Can't connect to all nodes of network Joystream
