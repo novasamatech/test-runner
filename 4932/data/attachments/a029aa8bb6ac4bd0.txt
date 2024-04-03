@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://jur-archive-mainnet-1.simplystaking.xyz/VX68C07AR4K2/ws, check it is available? 
- [Errno -2] Name or service not known
