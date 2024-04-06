@@ -1,7 +1,0 @@
-⚠️ Can't connect by wss://rpc-parachain.ajuna.network, check it is available? 
- [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'rpc-parachain.ajuna.network'. (_ssl.c:1007)
-Can't connect to that node
-⚠️ Can't connect by wss://ajuna.public.curie.radiumblock.co/ws, check it is available? 
- Handshake status 521 None -+-+- {'date': 'Tue, 26 Mar 2024 20:02:02 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=vaSqIATTxv3nqaVmUOB0wZGn%2B1vQru4MY0CwQ%2FbYywYR57B9D%2Fx5VnZ%2FG4NnVGBmZ2WL0I3K8HhxYAj3j6cyuPxTQfmXXIWbgHWl93fFE9F7inezBrASC6iVS9vlIEypSZF2APFgCPjSj3hsesQ17Y5xzQ%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '86a9bc6fc9662c60-ORD'} -+-+- b'error code: 521'
-Can't connect to that node
-Can't connect to all nodes of network Ajuna

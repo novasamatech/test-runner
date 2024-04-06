@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://khala-api.phala.network/ws, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Sat, 06 Apr 2024 16:01:17 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'alt-svc': 'h3=":443"; ma=86400', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=7ns%2FOPZesSB5d2hkLJIL%2Fj1viz6IReWHyU8cnoJrt80sbjVFUKjzM8PvnerIMUj20hmbOI%2Fl%2B2sXlG4mK1mmeyltpp0EPjW3rg5dZZW2cmfMeopsdGfs0w6NHTYT9j4ER4IVMP3UDT3l7Q%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '8702fee01e662a6c-ORD'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+⚠️ Can't connect by wss://khala-rpc.dwellir.com, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'cache-control': 'no-cache', 'content-type': 'text/html'} -+-+- None
+Can't connect to that node
