@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://spiritnet.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 503 Service Temporarily Unavailable -+-+- {'date': 'Mon, 08 Apr 2024 08:02:42 GMT', 'content-type': 'application/json; charset=utf-8', 'connection': 'keep-alive', 'content-length': '58', 'x-continent': 'NA', 'x-cluster': 'dc', 'x-kong-response-latency': '0', 'server': 'kong/2.5.2'} -+-+- b'{"message":"failure to get a peer from the ring-balancer"}'
+⚠️ Can't connect by wss://spiritnet.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 503 Service Temporarily Unavailable -+-+- {'date': 'Mon, 08 Apr 2024 08:02:47 GMT', 'content-type': 'application/json; charset=utf-8', 'connection': 'keep-alive', 'content-length': '58', 'x-continent': 'NA', 'x-cluster': 'dc', 'x-kong-response-latency': '2', 'server': 'kong/2.5.2'} -+-+- b'{"message":"failure to get a peer from the ring-balancer"}'
+⚠️ Can't connect by wss://spiritnet.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 503 Service Temporarily Unavailable -+-+- {'date': 'Mon, 08 Apr 2024 08:02:54 GMT', 'content-type': 'application/json; charset=utf-8', 'connection': 'keep-alive', 'content-length': '58', 'x-continent': 'NA', 'x-cluster': 'dc', 'x-kong-response-latency': '1', 'server': 'kong/2.5.2'} -+-+- b'{"message":"failure to get a peer from the ring-balancer"}'
