@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://statemint-rpc.dwellir.com, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'access-control-allow-origin': '*', 'vary': 'access-control-request-headers', 'access-control-expose-headers': '*', 'content-length': '45', 'date': 'Mon, 08 Apr 2024 12:01:56 GMT', 'strict-transport-security': 'max-age=16000000; includeSubDomains; preload;'} -+-+- b'Too many connections. Please try again later.'
