@@ -1,0 +1,1 @@
+Timeout 15 when getting properties: wss://para.f3joule.space
