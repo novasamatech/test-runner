@@ -1,0 +1,1 @@
+Timeout 15 when getting properties: wss://integritee-kusama.api.onfinality.io/public-ws
