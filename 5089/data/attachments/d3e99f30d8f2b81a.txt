@@ -1,0 +1,1 @@
+Timeout 15 when getting properties: wss://zeitgeist.api.onfinality.io/public-ws
