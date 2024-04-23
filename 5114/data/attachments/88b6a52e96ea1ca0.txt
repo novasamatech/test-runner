@@ -1,0 +1,12 @@
+⚠️ Can't connect by wss://mainnet-node.dock.io, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Tue, 23 Apr 2024 00:03:05 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=yAOezBgw%2Fjb3OHd6QItHB2ZGTA4ws8lrDwK9ecwcX1pl%2FhMaijJrBxxPYNFKQMKUXYaTR6aYi2FUmmVFnixXGsB0Xeg8MVAeLEKtLlLNkEi2UojwLbCHdgBiLLFw2DGOx4rcfijpeA%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '878996a36f0e59e0-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Dock
+⚠️ Can't connect by wss://mainnet-node.dock.io, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Tue, 23 Apr 2024 00:03:11 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=gCoGvUYYkEv7lAf5v1qI6e0hjSlbJBnLcbMlZkC7LPBP4kkFhS7gNSqUmrhWFvVLvyiB7mN6%2BqRj8bmUMIiaZ12n3nMtVg%2BjzctBmucDRfZwSVeZVdO7DT78O2DK7y4u3mgRixgS7Q%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '878996c8cce828c8-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Dock
+⚠️ Can't connect by wss://mainnet-node.dock.io, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Tue, 23 Apr 2024 00:03:16 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=td74LzlovvAeGtITh1mG82ieZMYSQQsWhtos0%2F3%2BQ11CuvljMSqKYI8QchD6E38FK7z94s1sPYlY04MPryqwMclgWu60scj6RnIKQ8gHy1ygsQxBRcLDT3YV%2BlNDetnCW6gVYMo4Vw%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '878996ecfb8c59e0-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Dock
