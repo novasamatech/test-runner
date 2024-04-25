@@ -1,0 +1,12 @@
+⚠️ Can't connect by wss://parachain-rpc.darwinia.network, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Thu, 25 Apr 2024 12:02:36 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '879e2f61686f061b-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Darwinia
+⚠️ Can't connect by wss://parachain-rpc.darwinia.network, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Thu, 25 Apr 2024 12:02:42 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '879e2f875d2e5b22-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Darwinia
+⚠️ Can't connect by wss://parachain-rpc.darwinia.network, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Thu, 25 Apr 2024 12:02:48 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '879e2faca9a91728-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Darwinia
