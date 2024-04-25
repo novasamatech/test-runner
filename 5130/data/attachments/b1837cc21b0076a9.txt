@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://parachain-rpc.darwinia.network, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'date': 'Thu, 25 Apr 2024 16:04:18 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cache-control': 'no-cache', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '879f915a996e0a0f-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+⚠️ Can't connect by wss://parachain-rpc.darwinia.network, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'date': 'Thu, 25 Apr 2024 16:04:27 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cache-control': 'no-cache', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '879f91918b908233-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+⚠️ Can't connect by wss://parachain-rpc.darwinia.network, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'date': 'Thu, 25 Apr 2024 16:04:36 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cache-control': 'no-cache', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '879f91c8099e6fd1-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None

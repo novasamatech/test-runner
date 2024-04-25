@@ -1,0 +1,8 @@
+⚠️ Can't connect by wss://rpc-pendulum.prd.pendulumchain.tech, check it is available? 
+ [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'rpc-pendulum.prd.pendulumchain.tech'. (_ssl.c:1007)
+Can't connect to that node
+Can't connect to all nodes of network Pendulum
+⚠️ Can't connect by wss://rpc-pendulum.prd.pendulumchain.tech, check it is available? 
+ [Errno 111] Connection refused
+Can't connect to that node
+Can't connect to all nodes of network Pendulum
