@@ -77,7 +77,7 @@ jobs:
 
   android-test:
     needs: build
-    runs-on: macos-latest
+    runs-on: macos-13
     steps:
       - uses: actions/checkout@master
 
@@ -98,8 +98,8 @@ jobs:
         uses: reactivecircus/android-emulator-runner@v2
         with:
           disable-animations: true
-          profile: Nexus 5X
-          api-level: 28
+          profile: Nexus 6
+          api-level: 29
           script: .github/workflows/networks_test.sh
 
       - uses: actions/upload-artifact@v2
