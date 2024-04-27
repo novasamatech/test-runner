@@ -1,8 +1,0 @@
-⚠️ Can't connect by wss://mainnet-node.dock.io, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'date': 'Tue, 23 Apr 2024 00:03:15 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=PzPAUeRTJrdFvDiATpQwdYrhw75G2JUFh%2FJznMY2dgFLutziICP6CiudpFrexmEIZClJSLW2QcGW%2BbdSyfVWT8QeizikxlRmEAbg%2FXFzUHjFJgoHg7VgywJ0J4MFKciXBU7P7m82MA%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '878996e39dfe13ce-ORD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
-Can't connect to that node
-Can't connect to all nodes of network Dock
-⚠️ Can't connect by wss://mainnet-node.dock.io, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'date': 'Tue, 23 Apr 2024 00:03:21 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=kAmjvlNR%2BQ4TRCeshKp20xyeab4ho%2Btibqcobl3Oq8XKPcdb8%2FbWTDotEmGoKFQHRKlSgDQcsEdEweD0fQu%2Fbm0KAudsh7VUcnWnQinBYU%2FIb9KUtlGeab%2FWEkM3O4kMOjNRHO8OnA%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '8789970a2f6e13ce-ORD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
-Can't connect to that node
-Can't connect to all nodes of network Dock
