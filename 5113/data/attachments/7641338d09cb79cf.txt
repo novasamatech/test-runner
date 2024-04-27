@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://mainnet-node.dock.io, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'date': 'Mon, 22 Apr 2024 20:02:09 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=TXMUDqnTny03195v7NXRFEYkVInrV%2Fj6R1ixDjqzC4pPrnaMaQMpRIffrLSp3WHWg%2BsUAQ66AOJ3cGb3h3ZntiySAGkd4q5%2FGnbIzKa0TYEB4c0sn5Zzh1t5YcJaOlAcsQbF5XKCmA%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '878835b83c593b14-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
-Can't connect to that node
-Can't connect to all nodes of network Dock

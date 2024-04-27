@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://rpc-acala.luckyfriday.io, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Sat, 27 Apr 2024 07:41:04 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=B8TEIZtHv38voAhFZUauSnWbeWnU9T8hdlu8rdtSd7CVLVWt6Kc6LMC6PpXuLV4DqEjQNj3RNWt50neFHmTHAfNfbqy45Z52%2FpeDZl7DkDALxFbi8nwbq9xYtZsDK0G5GcNOjf5VIH6Fcw%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '87ad2b0499a1cf2d-SJC', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+⚠️ Can't connect by wss://acala-polkadot.api.onfinality.io/public-ws, check it is available? 
+ [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007)
+Can't connect to that node
