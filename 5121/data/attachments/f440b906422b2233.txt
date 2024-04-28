@@ -1,6 +1,0 @@
-⚠️ Can't connect by wss://eden-rpc.dwellir.com, check it is available? 
- [Errno -2] Name or service not known
-Can't connect to that node
-⚠️ Can't connect by wss://eden-rpc.dwellir.com, check it is available? 
- [Errno -2] Name or service not known
-Can't connect to that node

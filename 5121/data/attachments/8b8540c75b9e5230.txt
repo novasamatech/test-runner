@@ -1,1 +1,0 @@
-Timeout 15 when creating connection: wss://centrifuge-parachain.api.onfinality.io/public-ws
