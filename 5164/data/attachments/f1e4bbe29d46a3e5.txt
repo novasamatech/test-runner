@@ -1,0 +1,14 @@
+⚠️ Can't connect by wss://rpc.3dpscan.io, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Tue, 30 Apr 2024 20:01:53 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=SLsFhxhj1BwHHlFv%2F4Wu7EILMOBMj1uInHs2Jv%2F7rJSt7lIOdX7Y76S5JyCL%2B77EcqN4Cdz9%2Bx8hsZT08%2FwvWxoqbxFgtOA2HGY6xf8ETxtyToImeHFtojYgB1h9PFh0EQ%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '87ca20538e9c2099-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to that node
+⚠️ Can't connect by wss://rpc2.3dpass.org, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'server': 'nginx/1.14.0 (Ubuntu)', 'date': 'Tue, 30 Apr 2024 20:01:54 GMT', 'content-type': 'text/html', 'content-length': '182', 'connection': 'keep-alive'} -+-+- b'<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body bgcolor="white">\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.14.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n'
+Can't connect to that node
+Can't connect to all nodes of network 3DPass
+⚠️ Can't connect by wss://rpc.3dpscan.io, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Tue, 30 Apr 2024 20:02:00 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=vlGYTJIHWUkVFY9srdX8Qp6Hovbsx66QxkVJP015piEZdFriWmSUYfhlVurzyG9khTG5Gp2Jy58AR8Obfcf%2BIwFs8fliYOp%2Bgy7Y8PYUnf22stwBH9LXwqDVKFhNIB6wag%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '87ca207cca8e207e-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to that node
+⚠️ Can't connect by wss://rpc2.3dpass.org, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'server': 'nginx/1.14.0 (Ubuntu)', 'date': 'Tue, 30 Apr 2024 20:02:00 GMT', 'content-type': 'text/html', 'content-length': '182', 'connection': 'keep-alive'} -+-+- b'<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body bgcolor="white">\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.14.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n'
+Can't connect to that node
+Can't connect to all nodes of network 3DPass
