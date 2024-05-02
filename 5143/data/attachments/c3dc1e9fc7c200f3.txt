@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://spiritnet.api.onfinality.io/public-ws, check it is available? 
- [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007)
-⚠️ Can't connect by wss://spiritnet.api.onfinality.io/public-ws, check it is available? 
- [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007)
