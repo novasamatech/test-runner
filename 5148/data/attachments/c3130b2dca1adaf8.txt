@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://gateway.mainnet.octopus.network/myriad/a4cb0a6e30ff5233a3567eb4e8cb71e0, check it is available? 
- Handshake status 503 Service Unavailable -+-+- {'content-type': 'text/plain; charset=utf-8', 'x-content-type-options': 'nosniff', 'date': 'Sun, 28 Apr 2024 04:02:29 GMT', 'content-length': '20', 'via': '1.1 google', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'connection': 'close'} -+-+- b'Service Unavailable\n'
-Can't connect to that node
-Can't connect to all nodes of network Myriad
