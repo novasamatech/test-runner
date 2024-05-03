@@ -1,3 +1,0 @@
-⚠️ Can't connect by wss://bifrost-rpc.liebi.com/ws, check it is available? 
- Handshake status 502 Bad Gateway -+-+- {'server': 'nginx', 'date': 'Sun, 28 Apr 2024 16:01:16 GMT', 'content-type': 'text/html', 'content-length': '150', 'connection': 'keep-alive'} -+-+- b'<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n'
-Can't connect to that node
