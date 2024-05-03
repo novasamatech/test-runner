@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://1.rpc.frequency.xyz, check it is available? 
+ Connection to remote host was lost.
+⚠️ Can't connect by wss://1.rpc.frequency.xyz, check it is available? 
+ Connection to remote host was lost.
+⚠️ Can't connect by wss://1.rpc.frequency.xyz, check it is available? 
+ Connection to remote host was lost.
