@@ -1,6 +1,0 @@
-⚠️ Can't connect by wss://sys.ibp.network/bridgehub-kusama, check it is available? 
- [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)
-Can't connect to that node
-⚠️ Can't connect by wss://sys.dotters.network/bridgehub-kusama, check it is available? 
- [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)
-Can't connect to that node
