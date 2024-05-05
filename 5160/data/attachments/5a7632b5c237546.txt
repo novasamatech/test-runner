@@ -1,6 +1,0 @@
-⚠️ Can't connect by wss://hydradx-rpc.dwellir.com, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Tue, 30 Apr 2024 04:02:25 GMT', 'strict-transport-security': 'max-age=16000000; includeSubDomains; preload;'} -+-+- b'Too many connections. Please try again later.'
-⚠️ Can't connect by wss://hydradx-rpc.dwellir.com, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Tue, 30 Apr 2024 04:02:31 GMT', 'strict-transport-security': 'max-age=16000000; includeSubDomains; preload;'} -+-+- b'Too many connections. Please try again later.'
-⚠️ Can't connect by wss://hydradx-rpc.dwellir.com, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Tue, 30 Apr 2024 04:02:36 GMT', 'strict-transport-security': 'max-age=16000000; includeSubDomains; preload;'} -+-+- b'Too many connections. Please try again later.'
