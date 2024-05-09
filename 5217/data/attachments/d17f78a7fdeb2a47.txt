@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://crab-rpc.darwiniacommunitydao.xyz, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'date': 'Thu, 09 May 2024 16:04:28 GMT', 'content-type': 'text/plain', 'content-length': '175', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '8812ec97c8ff810e-ORD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'upstream connect error or disconnect/reset before headers. retried and the latest reset reason: remote connection failure, transport failure reason: delayed connect error: 113'
