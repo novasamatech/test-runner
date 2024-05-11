@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://1rpc.io/glmr, check it is available? 
+ {'message': 'the method system_chain does not exist/is not available', 'code': 32601}
+⚠️ Can't connect by wss://1rpc.io/glmr, check it is available? 
+ {'message': 'the method system_chain does not exist/is not available', 'code': 32601}
