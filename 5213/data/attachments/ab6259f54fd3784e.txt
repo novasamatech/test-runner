@@ -1,8 +1,0 @@
-⚠️ Can't connect by wss://parachain-rpc.darwinia.network, check it is available? 
- Handshake status 404 Not Found -+-+- {'date': 'Thu, 09 May 2024 00:02:53 GMT', 'content-length': '0', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '880d6c596e11cef5-SJC', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b''
-Can't connect to that node
-Can't connect to all nodes of network Darwinia
-⚠️ Can't connect by wss://parachain-rpc.darwinia.network, check it is available? 
- Handshake status 404 Not Found -+-+- {'date': 'Thu, 09 May 2024 00:02:59 GMT', 'content-length': '0', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '880d6c7f3e5ff9f1-SJC', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b''
-Can't connect to that node
-Can't connect to all nodes of network Darwinia
