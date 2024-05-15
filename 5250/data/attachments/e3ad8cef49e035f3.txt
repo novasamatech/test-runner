@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://rpc.astar.network, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'cache-control': 'no-cache', 'content-type': 'text/html'} -+-+- None
