@@ -1,6 +1,0 @@
-⚠️ Can't connect by wss://parachain-rpc.darwinia.network, check it is available? 
- Handshake status 404 Not Found -+-+- {'date': 'Mon, 13 May 2024 00:04:41 GMT', 'content-length': '0', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '882e647b1cd02998-ORD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b''
-⚠️ Can't connect by wss://parachain-rpc.darwinia.network, check it is available? 
- Handshake status 404 Not Found -+-+- {'date': 'Mon, 13 May 2024 00:04:46 GMT', 'content-length': '0', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '882e649e6e3a8f4c-ORD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b''
-⚠️ Can't connect by wss://parachain-rpc.darwinia.network, check it is available? 
- Handshake status 404 Not Found -+-+- {'date': 'Mon, 13 May 2024 00:04:52 GMT', 'content-length': '0', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '882e64c17d061257-ORD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b''
