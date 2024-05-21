@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://nodle-parachain.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'content-type': 'text/plain; charset=utf-8', 'content-length': '3', 'connection': 'keep-alive', 'date': 'Tue, 21 May 2024 16:03:43 GMT', 'x-continent': 'NA', 'x-cluster': 'dc', 'x-kong-upstream-latency': '0', 'x-kong-proxy-latency': '2', 'via': 'kong/2.5.2'} -+-+- b'500'
