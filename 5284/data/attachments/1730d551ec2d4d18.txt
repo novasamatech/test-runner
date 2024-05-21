@@ -1,0 +1,12 @@
+⚠️ Can't connect by wss://parachain-rpc.darwinia.network, check it is available? 
+ Handshake status 404 Not Found -+-+- {'date': 'Mon, 20 May 2024 20:02:02 GMT', 'content-length': '0', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '886eec087b7eb480-ORD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b''
+Can't connect to that node
+Can't connect to all nodes of network Darwinia
+⚠️ Can't connect by wss://parachain-rpc.darwinia.network, check it is available? 
+ Handshake status 404 Not Found -+-+- {'date': 'Mon, 20 May 2024 20:02:08 GMT', 'content-length': '0', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '886eec2f08e92aa8-ORD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b''
+Can't connect to that node
+Can't connect to all nodes of network Darwinia
+⚠️ Can't connect by wss://parachain-rpc.darwinia.network, check it is available? 
+ Handshake status 404 Not Found -+-+- {'date': 'Mon, 20 May 2024 20:02:14 GMT', 'content-length': '0', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '886eec536fd0810b-ORD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b''
+Can't connect to that node
+Can't connect to all nodes of network Darwinia
