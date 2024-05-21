@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://parachain-rpc.origin-trail.network, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'cache-control': 'no-cache', 'content-length': '104', 'content-type': 'text/html', 'date': 'Tue, 21 May 2024 12:03:15 GMT', 'connection': 'close'} -+-+- b'<html><body><h1>503 Service Unavailable</h1>No server is available to handle this request.</body></html>'
