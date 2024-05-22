@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://1rpc.io/glmr, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'server': 'AutomataGeode/0.1.0', 'content-length': '24', 'date': 'Fri, 17 May 2024 08:01:38 GMT'} -+-+- b'Exceeded the quota usage'

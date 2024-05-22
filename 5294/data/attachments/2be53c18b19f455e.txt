@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://1rpc.io/dot, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'server': 'AutomataGeode/0.1.0', 'content-length': '24', 'date': 'Wed, 22 May 2024 12:01:34 GMT'} -+-+- b'Exceeded the quota usage'
