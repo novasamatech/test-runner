@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://rpc-acala.luckyfriday.io, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Wed, 22 May 2024 04:01:15 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=Vs%2Bk3no0H%2BwYlNvH8U8nVOVfCfxTL12HZxqvcWOHpy3Jtq0R%2B8KnmO2q2AmlJgCBX4cz5mnNiKY9HJG58VS%2FPvL1cQp%2F2CqkkWHAPHGiO9sXlWiwqgcnDn%2B1%2BE7qYyozdKdOlNSC%2FK7qAQ%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '8879e76998bf56b6-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+⚠️ Can't connect by wss://acala-polkadot.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'content-type': 'text/plain; charset=utf-8', 'content-length': '3', 'connection': 'keep-alive', 'date': 'Wed, 22 May 2024 04:01:16 GMT', 'x-continent': 'NA', 'x-cluster': 'dc', 'x-kong-upstream-latency': '1', 'x-kong-proxy-latency': '0', 'via': 'kong/2.5.2'} -+-+- b'500'
+Can't connect to that node
