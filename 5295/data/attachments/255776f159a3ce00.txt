@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://spiritnet.kilt.io/, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'alt-svc': 'h3=":443"; ma=2592000', 'content-length': '45', 'content-type': 'text/plain', 'date': 'Wed, 22 May 2024 16:02:41 GMT', 'server': 'Caddy'} -+-+- b'Too many connections. Please try again later.'
