@@ -1,8 +1,0 @@
-⚠️ Can't connect by wss://continuum-rpc-1.metaverse.network/wss, check it is available? 
- [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)
-Can't connect to that node
-Can't connect to all nodes of network Continuum
-⚠️ Can't connect by wss://continuum-rpc-1.metaverse.network/wss, check it is available? 
- [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)
-Can't connect to that node
-Can't connect to all nodes of network Continuum
