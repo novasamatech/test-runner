@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://spiritnet.kilt.io/, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'alt-svc': 'h3=":443"; ma=2592000', 'content-length': '45', 'content-type': 'text/plain', 'date': 'Thu, 23 May 2024 12:02:49 GMT', 'server': 'Caddy'} -+-+- b'Too many connections. Please try again later.'
+⚠️ Can't connect by wss://spiritnet.kilt.io/, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'alt-svc': 'h3=":443"; ma=2592000', 'content-length': '45', 'content-type': 'text/plain', 'date': 'Thu, 23 May 2024 12:02:55 GMT', 'server': 'Caddy'} -+-+- b'Too many connections. Please try again later.'
+⚠️ Can't connect by wss://spiritnet.kilt.io/, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'alt-svc': 'h3=":443"; ma=2592000', 'content-length': '45', 'content-type': 'text/plain', 'date': 'Thu, 23 May 2024 12:03:01 GMT', 'server': 'Caddy'} -+-+- b'Too many connections. Please try again later.'
