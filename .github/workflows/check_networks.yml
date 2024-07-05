@@ -56,7 +56,6 @@ jobs:
           make init
 
       - name: Run test
-        continue-on-error: true
         run: |
           cd ./nova-utils
           make ${{ matrix.test_path }}
