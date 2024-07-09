@@ -1,0 +1,3 @@
+⚠️ Can't connect by wss://rpc-acala.luckyfriday.io, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Tue, 09 Jul 2024 13:53:45 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=fe0kKkNRCFgPy8zNBzcYY4whdcaSfpOhTGJp05%2BGV8Yi0iNbwT%2BCLELz0qt7HPgM6G4Ii09LKFg92jY8PRLmiZfm7QK3FvliA2UYTExWbCFahGNxbsylvmQueejoCgrBMwErj5tK%2BrtHaQ%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '8a08cd55a9470619-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to that node
