@@ -10,6 +10,8 @@ env:
   TEST_RE_RUNS: 2
   TEST_RE_RUNS_DELAY: 15
 
+permissions:
+  contents: write
 
 jobs:
   utils-test:
