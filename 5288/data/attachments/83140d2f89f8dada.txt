@@ -1,3 +1,0 @@
-⚠️ Can't connect by wss://polkadex.api.onfinality.io/public-ws, check it is available? 
- Handshake status 500 Internal Server Error -+-+- {'content-type': 'text/plain; charset=utf-8', 'content-length': '3', 'connection': 'keep-alive', 'date': 'Tue, 21 May 2024 12:01:40 GMT', 'x-continent': 'NA', 'x-cluster': 'dc', 'x-kong-upstream-latency': '1', 'x-kong-proxy-latency': '0', 'via': 'kong/2.5.2'} -+-+- b'500'
-Can't connect to that node
