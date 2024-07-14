@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://parachain-rpc.darwinia.network, check it is available? 
- Handshake status 404 Not Found -+-+- {'date': 'Wed, 22 May 2024 12:04:01 GMT', 'content-length': '0', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '887caa94f855cfa8-SJC', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b''
