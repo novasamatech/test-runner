@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://1rpc.io/dot, check it is available? 
- [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)
