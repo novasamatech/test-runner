@@ -1,6 +1,0 @@
-⚠️ Can't connect by wss://api-polkadot-full.dwellir.com/{DWELLIR_API_KEY}, check it is available? 
- Handshake status 403 Forbidden -+-+- {'cache-control': 'no-cache', 'content-type': 'text/html'} -+-+- None
-⚠️ Can't connect by wss://api-polkadot-full.dwellir.com/{DWELLIR_API_KEY}, check it is available? 
- Handshake status 403 Forbidden -+-+- {'cache-control': 'no-cache', 'content-type': 'text/html'} -+-+- None
-⚠️ Can't connect by wss://api-polkadot-full.dwellir.com/{DWELLIR_API_KEY}, check it is available? 
- Handshake status 403 Forbidden -+-+- {'cache-control': 'no-cache', 'content-type': 'text/html'} -+-+- None

@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://krest.api.onfinality.io/public-ws, check it is available? 
- Handshake status 500 Internal Server Error -+-+- {'content-type': 'text/plain; charset=utf-8', 'content-length': '3', 'connection': 'keep-alive', 'date': 'Fri, 24 May 2024 00:02:58 GMT', 'x-continent': 'NA', 'x-cluster': 'dc', 'x-kong-upstream-latency': '0', 'x-kong-proxy-latency': '1', 'via': 'kong/2.5.2'} -+-+- b'500'
-Can't connect to that node
-Can't connect to all nodes of network krest
