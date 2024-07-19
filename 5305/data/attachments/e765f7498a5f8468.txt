@@ -1,6 +1,0 @@
-Can't connect to that node
-Can't connect to all nodes of network krest
-⚠️ Can't connect by wss://krest.api.onfinality.io/public-ws, check it is available? 
- Connection to remote host was lost.
-Can't connect to that node
-Can't connect to all nodes of network krest
