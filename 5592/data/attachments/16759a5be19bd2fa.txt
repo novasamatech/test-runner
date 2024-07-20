@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://api-kusama.interlay.io/parachain, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'date': 'Sat, 20 Jul 2024 09:04:48 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cache-control': 'no-cache', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=RWem%2Bmh9i9zoyKpPY72SLQQgNxi9Mc14YvWhbISTlTkEEDSzONCKkgnzWnFgKOJi4XoHNAogkIQ6unxyRawCz9PrIQ7u9lUxq1Srt1aSw6IuAPS2w4%2FAnu2H%2FPZ9vkS41KJzP%2F1O3UA%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '8a61c92b7f95c5ae-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Kintsugi
