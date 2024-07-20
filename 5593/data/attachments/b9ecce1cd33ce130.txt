@@ -1,0 +1,12 @@
+⚠️ Can't connect by wss://api-kusama.interlay.io/parachain, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'date': 'Sat, 20 Jul 2024 15:04:40 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cache-control': 'no-cache', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=pnLfd%2F2r1m2lP5g%2BedWTVTyXMSwR40tAKpxQtXFWUvUQN59XLzcvnjNJ8WwwRh1rZOqfsnBzH0uUqTQiTJ2w54zkMRWfA7GJ9Xw5dgEx5SgLU7XoR4Nl6nvvW8mV80A1FagZlZ9Q3MQ%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '8a63d853eda682e4-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Kintsugi
+⚠️ Can't connect by wss://api-kusama.interlay.io/parachain, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'date': 'Sat, 20 Jul 2024 15:04:46 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cache-control': 'no-cache', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=KhprJNpbbBVjC%2BL3AppxwYoVmuUMmqoL4g%2FbsgPLDqXDmqyeloGuPTnq2L2jImduhJMBAEPZ6Alpa%2FmHc4nwCqq2QUcVlipT6BTNVDSG8mlOmCHQnV9hSxCDJgh%2FTDRKo09ld4ZCNx8%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '8a63d8785902177f-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Kintsugi
+⚠️ Can't connect by wss://api-kusama.interlay.io/parachain, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'date': 'Sat, 20 Jul 2024 15:04:52 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cache-control': 'no-cache', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=PAb6fG2jXvwJBMWGIB1jzf216uwc86huVMzGeilBbId7Uq3U2zXELjL9gAB%2FY5JaCcXdzPWHMjBsAVEV5bB%2FRrqnACoP3JuuxK%2FVzkMWgkHN%2BwD0THe%2FU%2F58hX84ZevFmZylKUfZkB4%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '8a63d89bad4d8224-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to that node
+Can't connect to all nodes of network Kintsugi
