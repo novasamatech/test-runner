@@ -1,0 +1,9 @@
+⚠️ Can't connect by wss://xxnetwork-rpc.dwellir.com, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'cache-control': 'no-cache', 'content-type': 'text/html'} -+-+- None
+Can't connect to that node
+⚠️ Can't connect by wss://rpc.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Thu, 25 Jul 2024 15:05:14 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=vdU9fxNjTeI%2BfnLdg51W8zZQLmge7XGfAtetU4xtdte%2FOhXaHaBH5a01qqhv8FUelUl8yv7OhuMDK8b1Mx4VNKnqTwpPGqdR066PkyzQFXcNUVSZd5hMZm4rpYihnkpPyw%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '8a8d0c048f605796-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to that node
+⚠️ Can't connect by wss://rpc-hetzner.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Thu, 25 Jul 2024 15:05:15 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=XnqCIFavwmgEihGTOrvA43p%2BFbz7D3J5vqABmiU4NqmXVE5O81qu9HnMszYXZzn9Fhq1kCVSWQdCMXlNgel5okIEpHM9HLlogFOm%2FQrSL4stDX9htQZ5Eu%2B2oH8R8NdnNxwyCy6dvLGh"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '8a8d0c0bfa6529bb-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to that node
