@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://rpc-acala.luckyfriday.io, check it is available? 
+ Handshake status 525 None -+-+- {'date': 'Fri, 26 Jul 2024 15:04:47 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=KBxyToubsF9Py2qCjxo2G1lCwBcWAer%2BHCrONNsG7NX%2B%2Fk7hmcVwHOuAvpoFWpro8Kj4v11NRjdIP7o80qooY2qFS9S0RNDSdNj%2BVRp5Tl2WSgCkPHQjnUKfXrSIr%2BwBzoigcj4raJwTaw%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '8a9548bfcb255313-LAX', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'error code: 525'
+Can't connect to that node
+⚠️ Can't connect by wss://acala-polkadot.api.onfinality.io/public-ws, check it is available? 
+ [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1007)
+Can't connect to that node
