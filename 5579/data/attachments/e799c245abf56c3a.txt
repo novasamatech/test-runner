@@ -1,6 +1,0 @@
-⚠️ Can't connect by wss://xxnetwork-rpc.dwellir.com, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Sat, 13 Jul 2024 15:05:13 GMT', 'strict-transport-security': 'max-age=16000000; includeSubDomains; preload;'} -+-+- b'Too many connections. Please try again later.'
-Can't connect to that node
-⚠️ Can't connect by wss://rpc.xx.network, check it is available? 
- Handshake status 500 Internal Server Error -+-+- {'date': 'Sat, 13 Jul 2024 15:05:14 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=8MB9PYu%2BOQdSbYXYhsNtqFqqEPpLVzf4lOECId6lFIKD0YJieEVcOID9T1WOOO5Q%2FzGdxbZ8MvIXwZDBX2Oe7AMI1%2Byp8nIiCjcBUp%2BYsTwCy4OaY2TU2TcJLOxzDWiZcQ%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '8a2a2b89b88d8248-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
-Can't connect to that node
