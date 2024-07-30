@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://zeitgeist-rpc.dwellir.com, check it is available? 
+ [Errno -2] Name or service not known
+⚠️ Can't connect by wss://zeitgeist-rpc.dwellir.com, check it is available? 
+ [Errno -2] Name or service not known

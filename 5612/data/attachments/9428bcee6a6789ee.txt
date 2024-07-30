@@ -1,0 +1,8 @@
+⚠️ Can't connect by wss://rpc-amplitude.pendulumchain.tech, check it is available? 
+ [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)
+Can't connect to that node
+Can't connect to all nodes of network Amplitude
+⚠️ Can't connect by wss://rpc-amplitude.pendulumchain.tech, check it is available? 
+ [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)
+Can't connect to that node
+Can't connect to all nodes of network Amplitude
