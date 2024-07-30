@@ -1,6 +1,0 @@
-⚠️ Can't connect by wss://rpc.litmus-parachain.litentry.io, check it is available? 
- Handshake status 502 Bad Gateway -+-+- {'date': 'Mon, 15 Jul 2024 15:07:28 GMT', 'content-type': 'text/html', 'content-length': '157', 'connection': 'keep-alive', 'server': 'nginx/1.20.1'} -+-+- b'<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.20.1</center>\r\n</body>\r\n</html>\r\n'
-⚠️ Can't connect by wss://rpc.litmus-parachain.litentry.io, check it is available? 
- Handshake status 502 Bad Gateway -+-+- {'date': 'Mon, 15 Jul 2024 15:07:34 GMT', 'content-type': 'text/html', 'content-length': '157', 'connection': 'keep-alive', 'server': 'nginx/1.20.1'} -+-+- b'<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.20.1</center>\r\n</body>\r\n</html>\r\n'
-⚠️ Can't connect by wss://rpc.litmus-parachain.litentry.io, check it is available? 
- Handshake status 502 Bad Gateway -+-+- {'date': 'Mon, 15 Jul 2024 15:07:40 GMT', 'content-type': 'text/html', 'content-length': '157', 'connection': 'keep-alive', 'server': 'nginx/1.20.1'} -+-+- b'<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.20.1</center>\r\n</body>\r\n</html>\r\n'
