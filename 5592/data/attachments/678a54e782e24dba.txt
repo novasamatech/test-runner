@@ -1,8 +1,0 @@
-⚠️ Can't connect by wss://api-kusama.interlay.io/parachain, check it is available? 
- Handshake status 503 Service Unavailable -+-+- {'date': 'Sat, 20 Jul 2024 09:04:46 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cache-control': 'no-cache', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=LIYEG0K3OcuVyUusVZ%2BfIN7vBkhztL9AfkgH7nBr5k1HrAfiwA4Qdawe5iZ%2B6U4vij5Tl54eTVyfD7VJ6vnK1sUz0MTIyu0tl7D6vo%2FGEE%2FUWdIVpuHLNLu4QlF%2F9DBy%2Fb3o8gHht0g%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '8a61c91f18b55b16-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
-Can't connect to that node
-Can't connect to all nodes of network Kintsugi
-⚠️ Can't connect by wss://api-kusama.interlay.io/parachain, check it is available? 
- Handshake status 503 Service Unavailable -+-+- {'date': 'Sat, 20 Jul 2024 09:04:51 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cache-control': 'no-cache', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=PuRBfbVYs4hoDb7ov4Y64ewf1ofqnn9zR6etAsLYKhedar%2Bib5HVbK1zZkl58sB1nFbjhQopwzeluaZKlovtobmGlVBMbrV4OWoFwwaXcsMpeFtgklZyKpxn7f6DIXOMjgjAJIszFa8%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '8a61c942ae959c16-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
-Can't connect to that node
-Can't connect to all nodes of network Kintsugi
