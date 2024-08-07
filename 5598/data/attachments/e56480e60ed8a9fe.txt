@@ -1,8 +1,0 @@
-⚠️ Can't connect by wss://rpc-anchor-1-giant-mainnet-ue1.giantprotocol.org:443, check it is available? 
- [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)
-Can't connect to that node
-Can't connect to all nodes of network GIANT
-⚠️ Can't connect by wss://rpc-anchor-1-giant-mainnet-ue1.giantprotocol.org:443, check it is available? 
- [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)
-Can't connect to that node
-Can't connect to all nodes of network GIANT
