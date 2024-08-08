@@ -1,1 +1,0 @@
-Timeout 15 when creating connection: wss://acurast-canarynet-ws.prod.gke.papers.tech
