@@ -1,0 +1,1 @@
+Timeout 15 when creating connection: wss://krest.api.onfinality.io/public-ws
