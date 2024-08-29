@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://watr-rpc.watr-api.network, check it is available? 
+ [Errno -5] No address associated with hostname
