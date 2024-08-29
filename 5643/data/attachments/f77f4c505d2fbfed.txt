@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://hyperbridge-nexus-rpc.blockops.network, check it is available? 
- Handshake status 503 Service Temporarily Unavailable -+-+- {'date': 'Wed, 14 Aug 2024 15:09:47 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'strict-transport-security': 'max-age=15724800; includeSubDomains', 'cf-cache-status': 'DYNAMIC', 'server': 'cloudflare', 'cf-ray': '8b31de342be53b3e-IAD'} -+-+- None
