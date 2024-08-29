@@ -29,7 +29,8 @@ jobs:
             "test-network-chain-id",
             "test-network-prefix",
             "test-eth-availability",
-            "test-new-assets"
+            "test-new-assets",
+            "test-nodes-synced"
           ]
           
 
