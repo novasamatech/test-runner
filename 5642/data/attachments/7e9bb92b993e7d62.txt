@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://rpc.ibp.network/polkadot, check it is available? 
- [Errno -3] Temporary failure in name resolution
