@@ -1,6 +1,0 @@
-⚠️ Can't connect by wss://xxnetwork-rpc.dwellir.com, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Sat, 17 Aug 2024 15:05:06 GMT', 'strict-transport-security': 'max-age=16000000; includeSubDomains; preload;'} -+-+- b'Too many connections. Please try again later.'
-Can't connect to that node
-⚠️ Can't connect by wss://rpc.xx.network, check it is available? 
- Handshake status 503 Service Unavailable -+-+- {'date': 'Sat, 17 Aug 2024 15:05:07 GMT', 'content-length': '0', 'connection': 'keep-alive', 'cache-control': 'private, no-store', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=tlPaafIuZyrmwyt%2B8TOoQ9HiAU%2B9rrGRzz5ranZfRZym65kHvo%2BQbSuvWLSDiEbkGK5InU5Tj4BGnDyCqeGNIMVq3IKZ0k74Q2DC7yqU9kIklFmmfxyxlz%2FB8aHBQGOJiA%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '8b4a8f79f9d107f4-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b''
-Can't connect to that node
