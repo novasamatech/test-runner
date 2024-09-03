@@ -30,7 +30,8 @@ jobs:
             "test-network-prefix",
             "test-eth-availability",
             "test-new-assets",
-            "test-nodes-synced"
+            "test-nodes-synced",
+            "test-calls-availability"
           ]
           
 
