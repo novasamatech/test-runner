@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://centrifuge-parachain.api.onfinality.io/public-ws, check it is available? 
- [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1007)
