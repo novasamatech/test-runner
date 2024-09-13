@@ -1,0 +1,12 @@
+⚠️ Can't connect by wss://rpc.litmus-parachain.litentry.io, check it is available? 
+ Handshake status 404 Not Found -+-+- {'content-type': 'text/plain; charset=utf-8', 'x-content-type-options': 'nosniff', 'date': 'Fri, 13 Sep 2024 15:04:48 GMT', 'content-length': '19'} -+-+- b'404 page not found\n'
+Can't connect to that node
+Can't connect to all nodes of network Litmus
+⚠️ Can't connect by wss://rpc.litmus-parachain.litentry.io, check it is available? 
+ Handshake status 404 Not Found -+-+- {'content-type': 'text/plain; charset=utf-8', 'x-content-type-options': 'nosniff', 'date': 'Fri, 13 Sep 2024 15:04:54 GMT', 'content-length': '19'} -+-+- b'404 page not found\n'
+Can't connect to that node
+Can't connect to all nodes of network Litmus
+⚠️ Can't connect by wss://rpc.litmus-parachain.litentry.io, check it is available? 
+ Handshake status 404 Not Found -+-+- {'content-type': 'text/plain; charset=utf-8', 'x-content-type-options': 'nosniff', 'date': 'Fri, 13 Sep 2024 15:04:59 GMT', 'content-length': '19'} -+-+- b'404 page not found\n'
+Can't connect to that node
+Can't connect to all nodes of network Litmus
