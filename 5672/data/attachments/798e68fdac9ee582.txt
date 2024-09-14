@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://1rpc.io/ksm, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'server': 'AutomataGeode/0.1.0', 'content-length': '24', 'date': 'Thu, 29 Aug 2024 09:04:36 GMT'} -+-+- b'Exceeded the quota usage'
