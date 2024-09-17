@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://spiritnet.kilt.io/, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'alt-svc': 'h3=":443"; ma=2592000', 'server': 'Caddy', 'date': 'Tue, 17 Sep 2024 09:05:46 GMT', 'content-length': '0'} -+-+- b''
+⚠️ Can't connect by wss://spiritnet.kilt.io/, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'alt-svc': 'h3=":443"; ma=2592000', 'server': 'Caddy', 'date': 'Tue, 17 Sep 2024 09:05:52 GMT', 'content-length': '0'} -+-+- b''
+⚠️ Can't connect by wss://spiritnet.kilt.io/, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'alt-svc': 'h3=":443"; ma=2592000', 'server': 'Caddy', 'date': 'Tue, 17 Sep 2024 09:05:58 GMT', 'content-length': '0'} -+-+- b''
