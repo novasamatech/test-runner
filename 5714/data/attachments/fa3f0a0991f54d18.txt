@@ -1,0 +1,1 @@
+Timeout 15 when getting properties: wss://apps-kusama-rpc.polkadot.io
