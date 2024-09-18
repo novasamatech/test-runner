@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://rpc-pendulum.prd.pendulumchain.tech, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'server': 'nginx', 'date': 'Wed, 18 Sep 2024 15:05:44 GMT', 'content-type': 'text/html', 'content-length': '170', 'connection': 'keep-alive', 'x-frame-options': 'SAMEORIGIN', 'x-xss-protection': '1; mode=block', 'x-content-type-options': 'nosniff', 'referrer-policy': 'no-referrer-when-downgrade', 'content-security-policy': "default-src 'self' https:; script-src 'self' 'unsafe-inline' https:; object-src 'none';", 'strict-transport-security': 'max-age=63072000; includeSubDomains; preload'} -+-+- b'<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n'
+Can't connect to that node
+Can't connect to all nodes of network Pendulum
