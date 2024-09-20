@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://c3.hashed.network, check it is available? 
+ Handshake status 404 Not Found -+-+- {'date': 'Fri, 20 Sep 2024 09:08:21 GMT', 'content-type': 'text/html', 'content-length': '146', 'connection': 'keep-alive', 'strict-transport-security': 'max-age=15724800; includeSubDomains'} -+-+- b'<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n'
+⚠️ Can't connect by wss://c3.hashed.network, check it is available? 
+ Handshake status 404 Not Found -+-+- {'date': 'Fri, 20 Sep 2024 09:08:26 GMT', 'content-type': 'text/html', 'content-length': '146', 'connection': 'keep-alive', 'strict-transport-security': 'max-age=15724800; includeSubDomains'} -+-+- b'<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n'
