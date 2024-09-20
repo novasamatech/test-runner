@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://spiritnet.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 404 Not Found -+-+- {'content-type': 'text/plain; charset=utf-8', 'content-length': '3', 'connection': 'keep-alive', 'access-control-allow-origin': 'https://spiritnet.api.onfinality.io', 'date': 'Fri, 20 Sep 2024 15:06:25 GMT', 'x-continent': 'NA', 'x-cluster': 'dc', 'x-kong-upstream-latency': '1', 'x-kong-proxy-latency': '2', 'via': 'kong/2.5.2'} -+-+- b'404'
