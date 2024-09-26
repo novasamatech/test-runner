@@ -1,5 +1,0 @@
-Can't connect to that node
-⚠️ Can't connect by wss://watr-rpc.watr-api.network, check it is available? 
- [Errno -3] Temporary failure in name resolution
-Can't connect to that node
-Can't connect to all nodes of network Watr
