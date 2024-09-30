@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://rpc.litentry-parachain.litentry.io, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-length': '45', 'content-type': 'text/plain', 'date': 'Mon, 30 Sep 2024 09:07:35 GMT', 'server': 'nginx/1.27.0'} -+-+- b'Too many connections. Please try again later.'
+⚠️ Can't connect by wss://rpc.litentry-parachain.litentry.io, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-length': '45', 'content-type': 'text/plain', 'date': 'Mon, 30 Sep 2024 09:07:41 GMT', 'server': 'nginx/1.27.0'} -+-+- b'Too many connections. Please try again later.'
