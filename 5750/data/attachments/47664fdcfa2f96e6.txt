@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://rpc.turing.oak.tech, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'alt-svc': 'h3=":443"; ma=2592000', 'server': 'Caddy', 'date': 'Sat, 05 Oct 2024 15:07:00 GMT', 'content-length': '0'} -+-+- b''

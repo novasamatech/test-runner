@@ -1,8 +1,0 @@
-⚠️ Can't connect by wss://rpc.3dpscan.io, check it is available? 
- Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 20 Sep 2024 09:06:26 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=oCrbh4bigdQZp7WTfLMll%2BsVeS9W5bC0lT39yL6ZWYvNrICHgWs3Ic1PVr5ie%2Fb6HyJFUBre8ud8ASsrGaKe6mruilrR2P32p3WWmjNoQm3%2BEKio31kqexOwpV1AmOqlVg%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'speculation-rules': '"/cdn-cgi/speculation"', 'server': 'cloudflare', 'cf-ray': '8c60a8d3fafc3b78-IAD'} -+-+- None
-Can't connect to that node
-Can't connect to all nodes of network 3DPass
-⚠️ Can't connect by wss://rpc.3dpscan.io, check it is available? 
- Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 20 Sep 2024 09:06:32 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=cKR3P1mjUDd9JfBK2fvmHh%2Fs5bONAX07keJWm29aOTB7AhRU5uFqIw6bYc%2Fa3kgfeN4o17sVCe%2FKNUC31%2BU7vmVe2dSLycRUeuNdLrg4i0XJa1GyEVv9BlCbt5SbNfLcog%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'speculation-rules': '"/cdn-cgi/speculation"', 'server': 'cloudflare', 'cf-ray': '8c60a8f828c93b78-IAD'} -+-+- None
-Can't connect to that node
-Can't connect to all nodes of network 3DPass
