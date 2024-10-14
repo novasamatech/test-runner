@@ -31,7 +31,8 @@ jobs:
             "test-eth-availability",
             "test-new-assets",
             "test-nodes-synced",
-            "test-calls-availability"
+            "test-calls-availability",
+            "test-subquery-synced"
           ]
           
 
