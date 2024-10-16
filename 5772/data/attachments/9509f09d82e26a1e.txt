@@ -1,0 +1,21 @@
+⚠️ Can't connect by wss://polkadot-parallel-rpc.parallel.fi, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Wed, 16 Oct 2024 09:05:45 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'set-cookie': '__cf_bm=HPdQ8S.ncOLYNhpKfn_d8kMuWn8vGnvQdZspBRe.KZA-1729069545-1.0.1.1-1xoq0BrliJ3CUq6jo6QhTK9aCGNbPayncSnGNes3v3.yFlZomwwnzz4RJE2IK9p6ho2SzJSENSuUwQbIfOBHtw; path=/; expires=Wed, 16-Oct-24 09:35:45 GMT; domain=.parallel.fi; HttpOnly; Secure', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=8qLKVF%2Fw8wldFbOixiOwSmYZEvAo9DBab%2BQ%2Bd8Blop4wRe%2F%2FoMPFVBGjg0OZ5FFofhzXzFEBJV7s6nKsXtmLgt8%2BtztGOdr4h0px%2FmEMMKy8wNt1rGCh3Z%2BYBWAqYawqgVbCeyhPef5goECTw5R6g3A4vg%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '8d36e3903cc7cb8a-LAX'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+⚠️ Can't connect by wss://parallel-rpc.dwellir.com, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to that node
+Can't connect to all nodes of network Parallel
+⚠️ Can't connect by wss://polkadot-parallel-rpc.parallel.fi, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Wed, 16 Oct 2024 09:05:51 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'set-cookie': '__cf_bm=Hh52d2H1T5VZ290GqYXI.QD0mZBz_FMGe7JXygCd6Lo-1729069551-1.0.1.1-hcF4VxMcN6l_aa1yhEjIZXsUxa_pZP_SUkbNNLYmf4tCJAFtXbf1MdR.wCpUO4IxfWUPjer2_J.KGgNYlUGxRQ; path=/; expires=Wed, 16-Oct-24 09:35:51 GMT; domain=.parallel.fi; HttpOnly; Secure', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=%2B6Du3U9SU0vIdH1PuIjH515z58HdpegfKbzcVMaeqtuB5hBApV4sFImSMqQ4O6s%2BJPWjfRLKz0YV5OogOeByasBqJ%2FHa1TNMGkhFl4gnPjyo3bIwYraTaSPgbz4mmYzu%2B8dJgWHAOfyyK0qpxsEFLwoRkg%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '8d36e3b55d1d0fca-LAX'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+⚠️ Can't connect by wss://parallel-rpc.dwellir.com, check it is available? 
+ [Errno -5] No address associated with hostname
+Can't connect to that node
+Can't connect to all nodes of network Parallel
+⚠️ Can't connect by wss://polkadot-parallel-rpc.parallel.fi, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Wed, 16 Oct 2024 09:05:57 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'set-cookie': '__cf_bm=4ax4SpPBrMjftpsePZPmMrSDdv8eAkf.u777me72VY0-1729069557-1.0.1.1-0pVJ38mOVWfhxqEb4KP9hM0KVTV_a_3D7xvaMPoJNJEF9HY8hoAK4L4_CiABh6CpXaolZDni5Lk536Bl.gjwtg; path=/; expires=Wed, 16-Oct-24 09:35:57 GMT; domain=.parallel.fi; HttpOnly; Secure', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=8hdtCWBDL7AcPdTs66RZvoosiWXG0QUpsY1aNRXR48bUxp3p0u5cA3HW3488kMDxMjtqP3NPi3ZPawUEsPAvuo%2Bqgds9%2F5Rw8sw6J6JBBnXi093Iy2ktzwbksbV%2FAo%2BknMPU6D63D6A1zCwvJcKBq%2FAG6Q%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '8d36e3d9f8aa2eb5-LAX'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+⚠️ Can't connect by wss://parallel-rpc.dwellir.com, check it is available? 
+ [Errno -5] No address associated with hostname
+Can't connect to that node
+Can't connect to all nodes of network Parallel
