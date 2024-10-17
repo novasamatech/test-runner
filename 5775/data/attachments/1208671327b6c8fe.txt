@@ -1,0 +1,21 @@
+⚠️ Can't connect by wss://polkadot-parallel-rpc.parallel.fi, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Thu, 17 Oct 2024 15:04:28 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=mlyWliwZ%2F02LUY4waa%2FyCK60mGCt4b1Up%2FjeaXVT27ktTp1XsOYscCB4iewZ7oCxSF67WlEwa%2FrTYS%2FsXDmegmnJUSgwEJxsVeFPbDcreaFxD1gDx4ylTAX8V4RVbRdeiBKDNdird2jWgrvN2oGfGGTGVw%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '8d412e692e06c981-IAD'} -+-+- b'error code: 502'
+Can't connect to that node
+⚠️ Can't connect by wss://parallel-rpc.dwellir.com, check it is available? 
+ [Errno -5] No address associated with hostname
+Can't connect to that node
+Can't connect to all nodes of network Parallel
+⚠️ Can't connect by wss://polkadot-parallel-rpc.parallel.fi, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Thu, 17 Oct 2024 15:04:35 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=sbO63lFApobc5BGlDzY9LeSdwOm5i2Hr8uYoSCJ0Z3jcbtoUsj1BIr1j%2FhSStQLUynkjTC%2FyQnuUt6Mvzf4na5BAYwVe6sfL8wDbyjf3ErkMDtWFe5PT4p7fV5L8iKD7farwe3pFoq94IGzZo5p%2B0%2FDhTw%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '8d412e8fbca95968-IAD'} -+-+- b'error code: 502'
+Can't connect to that node
+⚠️ Can't connect by wss://parallel-rpc.dwellir.com, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to that node
+Can't connect to all nodes of network Parallel
+⚠️ Can't connect by wss://polkadot-parallel-rpc.parallel.fi, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Thu, 17 Oct 2024 15:04:41 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=mpmU0koRAV64a1cMdFpfpOH2py4hkBctsWdIzsoyvaUHwahlXyqv5VeUc%2BMRaYxXz4Lyu6%2Bzzjbof6hbsLwi%2FiozRxH%2B6b%2Fqy96gUQnNF%2BD5exfHyDbrni2mnGqXWcYEjCNss0pCoyyBnj8L0v3Zay0lpA%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '8d412eb658b3c981-IAD'} -+-+- b'error code: 502'
+Can't connect to that node
+⚠️ Can't connect by wss://parallel-rpc.dwellir.com, check it is available? 
+ [Errno -5] No address associated with hostname
+Can't connect to that node
+Can't connect to all nodes of network Parallel

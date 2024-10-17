@@ -1,0 +1,14 @@
+⚠️ Can't connect by wss://polkadot-parallel-rpc.parallel.fi, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Thu, 17 Oct 2024 15:04:28 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=uHwUDIKFm%2FBkGSB4UBJslcd%2FXz2W9u57bM%2Fy%2BCUtJR4vgu0yDEEIQbsykJqZjKr5DVyeZ9Lz7q210wKw%2BfNeyHrjcn6BDvEI0DnvDwtpEEhbZBihX4NfNdu8pEQCCvE0JBkOv0dKskVOlctUyFvhKBUzYg%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '8d412e67fad87fb2-IAD'} -+-+- b'error code: 502'
+Can't connect to that node
+⚠️ Can't connect by wss://parallel-rpc.dwellir.com, check it is available? 
+ [Errno -5] No address associated with hostname
+Can't connect to that node
+Can't connect to all nodes of network Parallel
+⚠️ Can't connect by wss://polkadot-parallel-rpc.parallel.fi, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Thu, 17 Oct 2024 15:04:35 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=8FWv4uS92rU%2BeDuWvisaxwkxQhOJG8kiq5CnWaSxLwSMCShdCRhA6xCPtKisRmLXglJPbsHW1Ycw2izn%2FXFUVnD1dl0qS4r8KJkPHUjF9BS1wxy9ntjzZAg6gQNdhsRaHLwIUp0KGFLztuihp%2Bw6X5LJWg%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '8d412e8efa395998-IAD'} -+-+- b'error code: 502'
+Can't connect to that node
+⚠️ Can't connect by wss://parallel-rpc.dwellir.com, check it is available? 
+ [Errno -5] No address associated with hostname
+Can't connect to that node
+Can't connect to all nodes of network Parallel
