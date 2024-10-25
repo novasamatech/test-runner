@@ -1,0 +1,7 @@
+⚠️ Can't connect by wss://polkadot-parallel-rpc.parallel.fi, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Fri, 25 Oct 2024 15:05:14 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=zgg0hJPircAzkIIHuTNPfV0o87M5hrA9z4kaBfNQICKQYpoTFZNfvSVnclvZNSO92mCISSKugdrYCao1fJPQyz3Ma0RzzMKxjxafAksCzLex7nY%2FiqjT3gK3iVYkJtkPxDX01pOpIsj7ZS7a8XVS%2BdgNmg%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '8d831a84bb5281f1-IAD'} -+-+- b'error code: 502'
+Can't connect to that node
+⚠️ Can't connect by wss://parallel-rpc.dwellir.com, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to that node
+Can't connect to all nodes of network Parallel
