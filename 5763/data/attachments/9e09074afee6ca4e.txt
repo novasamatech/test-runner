@@ -1,7 +1,0 @@
-⚠️ Can't connect by wss://polkadot-parallel-rpc.parallel.fi, check it is available? 
- Handshake status 502 Bad Gateway -+-+- {'date': 'Sat, 12 Oct 2024 09:05:29 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=q9VcA9E6lupE7YLr%2FtM1wV6Lwb2VfX73iW8%2BdgslutGl4O603JcHBtOB%2BhHdmQRxaeFPvlZBfyb4X%2FPJS0uodD461xE3%2Fu9TbYaWxEwmNt2pE5CDO2LULZSVEiqn4IH9U3TtOkMBOZMs5t3%2FsdqmSD1jRA%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '8d15edab9d643b4e-IAD'} -+-+- b'error code: 502'
-Can't connect to that node
-⚠️ Can't connect by wss://parallel-rpc.dwellir.com, check it is available? 
- [Errno -5] No address associated with hostname
-Can't connect to that node
-Can't connect to all nodes of network Parallel
