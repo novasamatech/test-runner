@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://pioneer-rpc-3.bit.country/wss, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'content-length': '19', 'content-type': 'text/plain', 'via': '1.1 google', 'date': 'Sun, 27 Oct 2024 09:05:48 GMT', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'connection': 'close'} -+-+- b'no healthy upstream'
+Can't connect to that node
+Can't connect to all nodes of network Bit.Country Pioneer

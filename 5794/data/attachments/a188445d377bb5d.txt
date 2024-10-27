@@ -1,0 +1,8 @@
+Can't connect to that node
+⚠️ Can't connect by wss://rpc-acala.luckyfriday.io, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Sun, 27 Oct 2024 09:05:41 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=i6r9EvlF119wrZyPzQUffRMrktj84%2BQQHDkN5PTik29m61qI0aDKirWQgXu5yoa%2Fy4KZ41%2BHqmAd6gqaOWCFqB7Zie31pik%2BUZa1Idjp%2B%2FkydAfnqSnk8Cg5uc7inzuFl3hdzGFPENVo%2Fw%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '8d918697a982d680-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to that node
+⚠️ Can't connect by wss://pioneer-rpc-3.bit.country/wss, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'content-length': '19', 'content-type': 'text/plain', 'via': '1.1 google', 'date': 'Sun, 27 Oct 2024 09:05:41 GMT', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'connection': 'close'} -+-+- b'no healthy upstream'
+Can't connect to that node
+Can't connect to all nodes of network Bit.Country Pioneer
