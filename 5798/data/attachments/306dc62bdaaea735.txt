@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://avail.rpc.bountyblok.io, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'access-control-allow-origin': '*', 'vary': 'access-control-request-headers', 'access-control-expose-headers': '*', 'content-length': '45', 'date': 'Tue, 29 Oct 2024 09:08:33 GMT'} -+-+- b'Too many connections. Please try again later.'

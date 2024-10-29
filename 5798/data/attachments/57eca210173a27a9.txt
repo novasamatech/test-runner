@@ -1,0 +1,1 @@
+Timeout 15 when creating connection: wss://moonriver.public.curie.radiumblock.co/ws
