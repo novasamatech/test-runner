@@ -1,7 +1,0 @@
-⚠️ Can't connect by wss://polkadot-parallel-rpc.parallel.fi, check it is available? 
- Connection to remote host was lost.
-Can't connect to that node
-⚠️ Can't connect by wss://parallel-rpc.dwellir.com, check it is available? 
- [Errno -5] No address associated with hostname
-Can't connect to that node
-Can't connect to all nodes of network Parallel
