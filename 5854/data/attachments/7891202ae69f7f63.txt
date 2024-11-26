@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://krest.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain; charset=utf-8', 'content-length': '110', 'connection': 'keep-alive', 'access-control-allow-origin': 'https://krest.api.onfinality.io', 'date': 'Tue, 26 Nov 2024 09:06:33 GMT', 'x-continent': 'NA', 'x-cluster': 'nv', 'x-kong-upstream-latency': '6', 'x-kong-proxy-latency': '0', 'x-kong-request-id': '3a15cb1d5345aa1d22dcf16ff188c574'} -+-+- b'{"jsonrpc":"2.0","error":{"code":-32029,"message":"Too many websocket connections."},"id":1861335725421625344}'
+Can't connect to that node
+Can't connect to all nodes of network krest
