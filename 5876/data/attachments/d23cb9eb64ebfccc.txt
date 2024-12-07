@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://rpc.turing.oak.tech, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'alt-svc': 'h3=":443"; ma=2592000', 'server': 'Caddy', 'date': 'Sat, 07 Dec 2024 09:06:19 GMT', 'content-length': '0'} -+-+- b''
+⚠️ Can't connect by wss://rpc.turing.oak.tech, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'alt-svc': 'h3=":443"; ma=2592000', 'server': 'Caddy', 'date': 'Sat, 07 Dec 2024 09:06:24 GMT', 'content-length': '0'} -+-+- b''
+⚠️ Can't connect by wss://rpc.turing.oak.tech, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'alt-svc': 'h3=":443"; ma=2592000', 'server': 'Caddy', 'date': 'Sat, 07 Dec 2024 09:06:29 GMT', 'content-length': '0'} -+-+- b''

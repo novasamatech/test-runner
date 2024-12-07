@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://rpc-parachain.bajun.network, check it is available? 
+ [Errno 101] Network is unreachable
+Can't connect to that node
+⚠️ Can't connect by wss://bajun.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Sat, 07 Dec 2024 09:04:55 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=2FuQ81RyH0%2BbS7QFCRdA4S9%2FNzpwGzB2zcayMnlIAxYaVFNTj2p%2B%2FtLptXddPLRSz1GI%2BpHSXnMnqNQvAW1kaKRz9hGoGXTQCSuSJv9T%2FV%2FXFYQtVWrc9xFhl3%2BaonrG4whhzfr8%2FYhz2qZliyzW%2FQFx%2FA%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '8ee359d8ed73d6b7-IAD', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=1076&min_rtt=953&rtt_var=373&sent=5&recv=6&lost=0&retrans=0&sent_bytes=2565&recv_bytes=864&delivery_rate=2996852&cwnd=252&unsent_bytes=0&cid=6882eb813817c368&ts=381&x=0"'} -+-+- b'error code: 502'
+Can't connect to that node
