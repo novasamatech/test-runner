@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://heiko-rpc.parallel.fi, check it is available? 
+ Connection to remote host was lost.
