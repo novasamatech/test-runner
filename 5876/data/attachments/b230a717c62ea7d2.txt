@@ -1,3 +1,0 @@
-⚠️ Can't connect by wss://rpc-parachain.bajun.network, check it is available? 
- [Errno 101] Network is unreachable
-Can't connect to that node
