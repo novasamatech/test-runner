@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://kusama.api.integritee.network, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'date': 'Tue, 10 Dec 2024 15:06:42 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'access-control-allow-origin': '*', 'vary': 'access-control-request-headers', 'access-control-expose-headers': '*', 'strict-transport-security': 'max-age=15724800; includeSubDomains'} -+-+- b'Too many connections. Please try again later.'
-⚠️ Can't connect by wss://kusama.api.integritee.network, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'date': 'Tue, 10 Dec 2024 15:06:48 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'access-control-allow-origin': '*', 'vary': 'access-control-request-headers', 'access-control-expose-headers': '*', 'strict-transport-security': 'max-age=15724800; includeSubDomains'} -+-+- b'Too many connections. Please try again later.'
