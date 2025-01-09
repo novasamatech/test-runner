@@ -18,7 +18,6 @@ on:
 env:
   TEST_RE_RUNS: 2
   TEST_RE_RUNS_DELAY: 15
-  CI: true
   ALLURE_ENDPOINT: https://nova.testops.cloud/
   ALLURE_PROJECT_ID: 136
   ALLURE_TOKEN: ${{ secrets.ALLURE_TOKEN }}
