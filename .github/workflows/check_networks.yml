@@ -4,11 +4,25 @@ on:
   schedule:
     - cron: '0 9,15 * * *'  # Run at 09:00 and 15:00 every day
   workflow_dispatch:
+    inputs:
+      ALLURE_JOB_RUN_ID:
+        type: string
+        description: ALLURE_JOB_RUN_ID service parameter. Leave blank.
+        required: false
+      ALLURE_USERNAME:
+        type: string
+        description: ALLURE_USERNAME service parameter. Leave blank.
+        required: false
   pull_request:
 
 env:
   TEST_RE_RUNS: 2
   TEST_RE_RUNS_DELAY: 15
+  ALLURE_ENDPOINT: https://nova.testops.cloud/
+  ALLURE_PROJECT_ID: 136
+  ALLURE_TOKEN: ${{ secrets.ALLURE_TOKEN }}
+  ALLURE_JOB_RUN_ID: ${{ github.event.inputs.ALLURE_JOB_RUN_ID }}
+  ALLURE_RESULTS: allure-results
 
 permissions:
   contents: write
@@ -34,7 +48,7 @@ jobs:
             "test-calls-availability",
             "test-subquery-synced"
           ]
-          
+
 
     steps:
       - uses: actions/checkout@v4
@@ -60,10 +74,13 @@ jobs:
           cd ./nova-utils
           make init
 
+      - name: Install allurectl
+        uses: allure-framework/setup-allurectl@v1
+
       - name: Run test
         run: |
           cd ./nova-utils
-          make ${{ matrix.test_path }}
+          allurectl watch -- make ${{ matrix.test_path }}
 
       - name: Tar files
         if: always()
