@@ -1,0 +1,1 @@
+Timeout 15 when creating connection: wss://bajun.api.onfinality.io/public-ws
