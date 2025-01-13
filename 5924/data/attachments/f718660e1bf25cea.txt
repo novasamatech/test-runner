@@ -1,6 +1,0 @@
-⚠️ Can't connect by wss://main.rpc.zeitgeist.pm/ws, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'date': 'Mon, 30 Dec 2024 09:07:09 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'strict-transport-security': 'max-age=15724800; includeSubDomains'} -+-+- b'Too many connections. Please try again later.'
-⚠️ Can't connect by wss://main.rpc.zeitgeist.pm/ws, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'date': 'Mon, 30 Dec 2024 09:07:14 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'strict-transport-security': 'max-age=15724800; includeSubDomains'} -+-+- b'Too many connections. Please try again later.'
-⚠️ Can't connect by wss://main.rpc.zeitgeist.pm/ws, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'date': 'Mon, 30 Dec 2024 09:07:20 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'strict-transport-security': 'max-age=15724800; includeSubDomains'} -+-+- b'Too many connections. Please try again later.'
