@@ -1,0 +1,16 @@
+⚠️ Can't connect by wss://rpc-parachain.bajun.network, check it is available? 
+ [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'rpc-parachain.bajun.network'. (_ssl.c:1000)
+Can't connect to that node
+⚠️ Can't connect by wss://rpc-parachain.bajun.network, check it is available? 
+ [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'rpc-parachain.bajun.network'. (_ssl.c:1000)
+Can't connect to that node
+⚠️ Can't connect by wss://bajun.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Tue, 14 Jan 2025 09:06:29 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=cAhHrW8IlNFGGdXsWXidHE68VbpaGEiU01kIvRZCWGXhoetyE8YEyRziVhSQBXjCKBwdXeE0tZ%2FAzBK79ahhaGGrVm%2FAf8XpNujSMxo0hhTb6FvvJU%2FT6usz0VEmys4ltjVc6qTyQKS61VS1YC%2BJhFKn2w%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '901c7866acc0d684-IAD', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=1534&min_rtt=1433&rtt_var=470&sent=5&recv=6&lost=0&retrans=0&sent_bytes=2559&recv_bytes=848&delivery_rate=1993021&cwnd=252&unsent_bytes=0&cid=f71b0aaffd1aa7d0&ts=198&x=0"'} -+-+- b'error code: 502'
+Can't connect to that node
+⚠️ Can't connect by wss://rpc-parachain.bajun.network, check it is available? 
+ [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'rpc-parachain.bajun.network'. (_ssl.c:1000)
+Can't connect to that node
+⚠️ Can't connect by wss://bajun.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Tue, 14 Jan 2025 09:06:49 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=AXxL1gf1G7ap1fBW6odifT8cpaLZ2KDYVVTvzwhcDphaZYyzRFi1rKXQg3uhTFNiL6OYKUQf7YfC3Nw57B4m9ieXk1GW3qfQVq0kcTL9W0VA7JU6nqHmYCgg0iqdxA4JEokLEg3yPtKJkPRpT5jdSobasg%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '901c78e43996d684-IAD', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=1611&min_rtt=1461&rtt_var=502&sent=5&recv=6&lost=0&retrans=0&sent_bytes=2560&recv_bytes=848&delivery_rate=1954825&cwnd=252&unsent_bytes=0&cid=4f91f0812ca9b54e&ts=104&x=0"'} -+-+- b'error code: 502'
+Can't connect to that node
+Can't connect to that node
