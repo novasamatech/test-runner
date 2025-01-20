@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://mainnet-node.dock.io, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Mon, 20 Jan 2025 09:10:36 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'server': 'nginx/1.18.0 (Ubuntu)'} -+-+- None
