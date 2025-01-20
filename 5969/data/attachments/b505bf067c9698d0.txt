@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://mainnet-node.dock.io, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Mon, 20 Jan 2025 15:09:55 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'server': 'nginx/1.18.0 (Ubuntu)'} -+-+- None
+⚠️ Can't connect by wss://mainnet-node.dock.io, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Mon, 20 Jan 2025 15:10:00 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'server': 'nginx/1.18.0 (Ubuntu)'} -+-+- None
+⚠️ Can't connect by wss://mainnet-node.dock.io, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Mon, 20 Jan 2025 15:10:05 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'server': 'nginx/1.18.0 (Ubuntu)'} -+-+- None
