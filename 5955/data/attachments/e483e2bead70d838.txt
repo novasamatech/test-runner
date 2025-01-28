@@ -1,9 +1,0 @@
-⚠️ Can't connect by wss://rpc-parachain.bajun.network, check it is available? 
- [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'rpc-parachain.bajun.network'. (_ssl.c:1000)
-Can't connect to that node
-⚠️ Can't connect by wss://bajun.public.curie.radiumblock.co/ws, check it is available? 
- Handshake status 502 Bad Gateway -+-+- {'date': 'Mon, 13 Jan 2025 15:06:16 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=bpi1xpKs%2FQ2H7lXe5%2F0SfKH1xuLu8u75OhbKtVdqPXlgp8PDJtErhr0mz9jothn4l8DDNKzh2AlAFgOTDfaOLsu9leeKc1MTjBGAFqhsqWYVNxrrBYFBNmfSrkNjGTxOkNwNuXnP2AGnA1DNNI1Grx%2BG2A%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '90164a092f52f859-ORD', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=1754&min_rtt=1722&rtt_var=508&sent=5&recv=6&lost=0&retrans=0&sent_bytes=2560&recv_bytes=848&delivery_rate=1658536&cwnd=252&unsent_bytes=0&cid=bccb00def4a50166&ts=209&x=0"'} -+-+- b'error code: 502'
-Can't connect to that node
-⚠️ Can't connect by wss://rpc-parachain.bajun.network, check it is available? 
- [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'rpc-parachain.bajun.network'. (_ssl.c:1000)
-Can't connect to that node
