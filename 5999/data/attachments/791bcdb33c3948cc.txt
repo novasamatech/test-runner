@@ -1,0 +1,1 @@
+Timeout 15 when creating connection: wss://para.f3joule.space
