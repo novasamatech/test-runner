@@ -1,0 +1,13 @@
+⚠️ Can't connect by wss://parachain-rpc.origin-trail.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Mon, 17 Feb 2025 09:08:08 GMT', 'content-type': 'text/html', 'content-length': '186', 'connection': 'close'} -+-+- b'<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>nginx/1.18.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n'
+Can't connect to that node
+Can't connect to that node
+Can't connect to that node
+Can't connect to that nodeCan't connect to that node
+
+⚠️ Can't connect by wss://polkadex-mainnet-rpc.dwellir.com, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'content-length': '45', 'date': 'Mon, 17 Feb 2025 09:08:13 GMT', 'strict-transport-security': 'max-age=16000000; includeSubDomains; preload;'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to that node
+Can't connect to that node
+Can't connect to all nodes of network Can't connect to that node
+Polkadex
