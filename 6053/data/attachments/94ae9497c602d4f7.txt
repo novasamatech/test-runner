@@ -1,3 +1,0 @@
-⚠️ Can't connect by wss://quartz.unique.network, check it is available? 
- Handshake status 500 Internal Server Error -+-+- {'date': 'Mon, 03 Mar 2025 15:06:16 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '91aa096a68ac2379-SJC'} -+-+- None
-Can't connect to that node
