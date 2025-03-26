@@ -1,0 +1,12 @@
+Connecting to  wss://c1.hashed.network
+⚠️ Can't connect by wss://c1.hashed.network, check it is available? 
+ [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1000)
+Can't connect to wss://c1.hashed.network
+Connecting to  wss://c1.hashed.network
+⚠️ Can't connect by wss://c1.hashed.network, check it is available? 
+ [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1000)
+Can't connect to wss://c1.hashed.network
+Connecting to  wss://c1.hashed.network
+⚠️ Can't connect by wss://c1.hashed.network, check it is available? 
+ [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1000)
+Can't connect to wss://c1.hashed.network
