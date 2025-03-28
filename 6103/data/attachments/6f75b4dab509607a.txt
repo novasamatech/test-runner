@@ -1,0 +1,2 @@
+Connecting to  wss://kusama-rpc.mangata.online
+Connected to  wss://kusama-rpc.mangata.online
