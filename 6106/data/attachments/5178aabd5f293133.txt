@@ -1,0 +1,5 @@
+Connecting to  wss://zeref-api.slowops.xyz/ws
+Connected to  wss://zeref-api.slowops.xyz/ws
+Can't connect to wss://kreivo.io/
+Connecting to  wss://kreivo.kippu.rocks/
+Can't connect to wss://kreivo.kippu.rocks/
