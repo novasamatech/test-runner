@@ -1,0 +1,2 @@
+Connecting to  wss://pioneer-rpc-1.bit.country/wss
+Connected to  wss://pioneer-rpc-1.bit.country/wss
