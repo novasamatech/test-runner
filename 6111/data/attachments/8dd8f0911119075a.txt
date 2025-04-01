@@ -1,0 +1,3 @@
+Connecting to  wss://subsocial-rpc.dwellir.com
+Connecting to  wss://subsocial-rpc.dwellir.com
+Connected to  wss://subsocial-rpc.dwellir.com
