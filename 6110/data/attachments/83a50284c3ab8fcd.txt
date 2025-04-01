@@ -1,0 +1,2 @@
+Connecting to  wss://xxnetwork-rpc.dwellir.com
+Connected to  wss://xxnetwork-rpc.dwellir.com
