@@ -1,0 +1,7 @@
+Connecting to  wss://krest.api.onfinality.io/public-ws
+Can't connect to wss://polkadex.public.curie.radiumblock.co/ws
+Connecting to  wss://polkadex-mainnet-rpc.dwellir.com
+Can't connect to wss://polkadex-mainnet-rpc.dwellir.com
+Connecting to  wss://polkadex.api.onfinality.io/public-ws
+Connected to  wss://krest.api.onfinality.io/public-ws
+Connected to  wss://polkadex.api.onfinality.io/public-ws
