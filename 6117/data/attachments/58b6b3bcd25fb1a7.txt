@@ -1,0 +1,2 @@
+Connecting to  wss://quartz.unique.network
+Connected to  wss://quartz.unique.network
