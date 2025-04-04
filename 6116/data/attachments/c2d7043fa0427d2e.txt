@@ -1,0 +1,3 @@
+Connecting to  wss://phala-rpc.dwellir.com
+Can't connect to wss://phala-rpc.dwellir.com
+Connecting to  wss://rpc.helikon.io/phala

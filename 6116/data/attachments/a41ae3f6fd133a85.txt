@@ -1,0 +1,2 @@
+Connecting to  wss://acurast-canarynet-ws.prod.gke.papers.tech
+Connected to  wss://acurast-canarynet-ws.prod.gke.papers.tech

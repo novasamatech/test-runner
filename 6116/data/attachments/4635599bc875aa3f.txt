@@ -1,0 +1,6 @@
+Connecting to  wss://subsocial-rpc.dwellir.com
+Connecting to  wss://subsocial-rpc.dwellir.com
+Can't connect to wss://subsocial-rpc.dwellir.com
+Connecting to  wss://para.f3joule.space
+Connected to  wss://subsocial-rpc.dwellir.com
+Connected to  wss://para.f3joule.space
