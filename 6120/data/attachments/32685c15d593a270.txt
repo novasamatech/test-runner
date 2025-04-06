@@ -1,0 +1,2 @@
+Connecting to  wss://bifrost-polkadot.ibp.network
+Connected to  wss://bifrost-polkadot.ibp.network
