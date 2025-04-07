@@ -1,0 +1,2 @@
+Connecting to  wss://rpc-kusama-1.novasama-tech.org
+Connected to  wss://rpc-kusama-1.novasama-tech.org
