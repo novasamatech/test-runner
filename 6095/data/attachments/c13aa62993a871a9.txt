@@ -1,1 +1,0 @@
-Timeout 15 when creating connection: wss://rpc-anchor-2-mainnet-az-ue1.giantprotocol.org:443
