@@ -1,2 +1,0 @@
-Connecting to  wss://rpc.3dpscan.io
-Connected to  wss://rpc.3dpscan.io

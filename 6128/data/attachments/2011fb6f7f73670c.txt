@@ -1,0 +1,6 @@
+Connecting to  wss://rpc-para.bajun.network
+⚠️ Can't connect by wss://rpc-para.bajun.network, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'server': 'nginx/1.24.0 (Ubuntu)', 'date': 'Thu, 10 Apr 2025 09:20:46 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'access-control-allow-origin': '*', 'vary': 'access-control-request-headers', 'access-control-expose-headers': '*'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to wss://rpc-para.bajun.network
+Connecting to  wss://rpc-para.bajun.network
+Connected to  wss://rpc-para.bajun.network

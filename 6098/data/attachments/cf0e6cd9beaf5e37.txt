@@ -1,2 +1,0 @@
-Connecting to  wss://kabocha.jelliedowl.com
-Connected to  wss://kabocha.jelliedowl.com
