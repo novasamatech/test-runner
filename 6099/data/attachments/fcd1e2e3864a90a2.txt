@@ -1,2 +1,0 @@
-Connecting to  wss://karura.api.onfinality.io/public-ws
-Connected to  wss://karura.api.onfinality.io/public-ws
