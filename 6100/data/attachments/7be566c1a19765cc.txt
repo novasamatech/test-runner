@@ -1,2 +1,0 @@
-Connecting to  wss://mainnet-node.dock.io
-Connected to  wss://mainnet-node.dock.io
