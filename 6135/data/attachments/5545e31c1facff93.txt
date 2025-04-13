@@ -1,0 +1,3 @@
+Connecting to  wss://rpc.dentnet.io/ws
+Can't connect to wss://rpc-para.bajun.network
+Connected to  wss://rpc.dentnet.io/ws
