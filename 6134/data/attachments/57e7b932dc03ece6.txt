@@ -1,0 +1,3 @@
+Connecting to  wss://rpc.laos.laosfoundation.io
+Connected to  wss://rpc.laos.laosfoundation.io
+Can't connect to wss://rpc-para.bajun.network
