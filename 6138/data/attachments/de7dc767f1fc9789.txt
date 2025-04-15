@@ -1,0 +1,6 @@
+Connecting to  wss://quartz.unique.network
+⚠️ Can't connect by wss://quartz.unique.network, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Tue, 15 Apr 2025 09:06:46 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '930a49f14ae53b02-IAD'} -+-+- b'error code: 502'
+Can't connect to wss://quartz.unique.network
+Connecting to  wss://eu-ws-quartz.unique.network
+Connected to  wss://eu-ws-quartz.unique.network
