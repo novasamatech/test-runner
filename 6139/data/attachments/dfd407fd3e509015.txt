@@ -1,0 +1,2 @@
+Connecting to  wss://rpc.3dpass.org
+Connected to  wss://rpc.3dpass.org

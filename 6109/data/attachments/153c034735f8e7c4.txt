@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://moonriver-rpc.dwellir.com, check it is available? 
- Handshake status 403 Forbidden -+-+- {'content-length': '93', 'cache-control': 'no-cache', 'content-type': 'text/html'} -+-+- b'<html><body><h1>403 Forbidden</h1>\nRequest forbidden by administrative rules.\n</body></html>\n'
-⚠️ Can't connect by wss://moonriver-rpc.dwellir.com, check it is available? 
- Handshake status 403 Forbidden -+-+- {'content-length': '93', 'cache-control': 'no-cache', 'content-type': 'text/html'} -+-+- b'<html><body><h1>403 Forbidden</h1>\nRequest forbidden by administrative rules.\n</body></html>\n'
