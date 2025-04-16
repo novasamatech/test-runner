@@ -1,2 +1,0 @@
-Connecting to  wss://turing-rpc.dwellir.com
-Can't connect to wss://turing-rpc.dwellir.com

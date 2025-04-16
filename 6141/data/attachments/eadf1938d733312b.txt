@@ -1,0 +1,5 @@
+Connecting to  wss://rpc.jamton.network
+Can't connect to wss://rpc-assethub.novasama-tech.org
+Connecting to  wss://sys.ibp.network/asset-hub-polkadot
+Connected to  wss://sys.ibp.network/asset-hub-polkadot
+Connected to  wss://rpc.jamton.network
