@@ -1,6 +1,0 @@
-Connecting to  wss://rpc-para.clover.finance
-⚠️ Can't connect by wss://rpc-para.clover.finance, check it is available? 
- Handshake status 503 Service Unavailable -+-+- {'alt-svc': 'h3=":443"; ma=2592000', 'server': 'Caddy', 'date': 'Wed, 02 Apr 2025 15:20:22 GMT', 'content-length': '0'} -+-+- b''
-Can't connect to wss://rpc-para.clover.finance
-Connecting to  wss://rpc-para.clover.finance
-Connected to  wss://rpc-para.clover.finance

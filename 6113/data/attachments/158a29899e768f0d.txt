@@ -1,6 +1,0 @@
-Connecting to  wss://polkadex.public.curie.radiumblock.co/ws
-⚠️ Can't connect by wss://polkadex.public.curie.radiumblock.co/ws, check it is available? 
- Handshake status 521 None -+-+- {'date': 'Wed, 02 Apr 2025 15:20:37 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=RzdwpasNgDwqZ5asiw6PJiA5mzYEzwgIPJmsXzIKogOFAUOxoiGnIi6hpo0S4ufTkjrPNNN91H5QsrnIdWz7EB5ANQba1XrQYT1et6NYspw9Rs%2ByywwCJuyUDD1en6d1kBLL2SMOcJkUeZX0wghwzPN3y1MsqQ%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '92a14fae18d339a9-IAD', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=5417&min_rtt=5360&rtt_var=1588&sent=5&recv=6&lost=0&retrans=0&sent_bytes=2558&recv_bytes=854&delivery_rate=532835&cwnd=252&unsent_bytes=0&cid=3b605be64c3d2d3f&ts=390&x=0"'} -+-+- b'error code: 521'
-Can't connect to wss://polkadex.public.curie.radiumblock.co/ws
-Connecting to  wss://polkadex-mainnet-rpc.dwellir.com
-Connected to  wss://polkadex-mainnet-rpc.dwellir.com
