@@ -1,2 +1,0 @@
-Connecting to  wss://public-rpc.mainnet.aventus.network
-Connected to  wss://public-rpc.mainnet.aventus.network
