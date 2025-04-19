@@ -1,4 +1,0 @@
-Connecting to  wss://turing-rpc.dwellir.com
-Connected to  wss://turing-rpc.dwellir.com
-Connecting to  wss://turing-rpc.dwellir.com
-Connected to  wss://turing-rpc.dwellir.com
