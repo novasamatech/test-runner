@@ -1,0 +1,3 @@
+Connecting to  wss://archive.parachain.curioinvest.com
+Connected to  wss://rpc.ibp.network/polkadot
+Connected to  wss://archive.parachain.curioinvest.com
