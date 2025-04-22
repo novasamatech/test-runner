@@ -1,0 +1,5 @@
+Connecting to  wss://rpc-amplitude.pendulumchain.tech
+Connected to  wss://rpc-amplitude.pendulumchain.tech
+Can't connect to wss://rpc-kusama-1.novasama-tech.org
+Connecting to  wss://rpc-kusama-2.novasama-tech.org
+Connected to  wss://rpc-kusama-2.novasama-tech.org

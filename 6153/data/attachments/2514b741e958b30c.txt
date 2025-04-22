@@ -1,0 +1,5 @@
+Connecting to  wss://peaq.api.onfinality.io/public
+Connected to  wss://peaq.api.onfinality.io/public
+Can't connect to wss://rpc-para.bajun.network
+Connecting to  wss://peaq.api.onfinality.io/public
+Connected to  wss://peaq.api.onfinality.io/public
