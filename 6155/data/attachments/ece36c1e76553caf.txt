@@ -1,0 +1,8 @@
+Connecting to  wss://zeitgeist.api.onfinality.io/public-ws
+⚠️ Can't connect by wss://zeitgeist.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain; charset=utf-8', 'content-length': '162', 'connection': 'keep-alive', 'access-control-allow-origin': 'https://zeitgeist.api.onfinality.io', 'date': 'Wed, 23 Apr 2025 15:07:06 GMT', 'x-continent': 'NA', 'x-cluster': 'nv', 'x-kong-upstream-latency': '17', 'x-kong-proxy-latency': '0', 'x-kong-request-id': '491ece114dbec86aaf84a656993fc260'} -+-+- b'{"jsonrpc":"2.0","error":{"code":-32029,"message":"Too Many Requests, Please apply an OnFinality API key or contact us to receive a higher rate limit"},"id":null}'
+Can't connect to wss://zeitgeist.api.onfinality.io/public-ws
+Connecting to  wss://zeitgeist.api.onfinality.io/public-ws
+⚠️ Can't connect by wss://zeitgeist.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain; charset=utf-8', 'content-length': '162', 'connection': 'keep-alive', 'access-control-allow-origin': 'https://zeitgeist.api.onfinality.io', 'date': 'Wed, 23 Apr 2025 15:07:12 GMT', 'x-continent': 'NA', 'x-cluster': 'nv', 'x-kong-upstream-latency': '5', 'x-kong-proxy-latency': '1', 'x-kong-request-id': '5656df2639416310eb3d76649caac63d'} -+-+- b'{"jsonrpc":"2.0","error":{"code":-32029,"message":"Too Many Requests, Please apply an OnFinality API key or contact us to receive a higher rate limit"},"id":null}'
+Can't connect to wss://zeitgeist.api.onfinality.io/public-ws

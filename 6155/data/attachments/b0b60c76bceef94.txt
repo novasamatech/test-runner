@@ -1,0 +1,2 @@
+Connecting to  wss://rpc.composablenodes.tech
+Connected to  wss://rpc.composablenodes.tech
