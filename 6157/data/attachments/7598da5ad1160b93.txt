@@ -1,0 +1,3 @@
+Connecting to  wss://rpc-kr.xode.net
+Connected to  wss://rpc-kr.xode.net
+Can't connect to wss://rpc-para.bajun.network
