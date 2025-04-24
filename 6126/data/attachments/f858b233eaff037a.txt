@@ -1,6 +1,0 @@
-Connecting to  wss://rpc-kusama-1.novasama-tech.org
-⚠️ Can't connect by wss://rpc-kusama-1.novasama-tech.org, check it is available? 
- Handshake status 503 Service Unavailable -+-+- {'date': 'Wed, 09 Apr 2025 09:20:30 GMT', 'content-type': 'text/plain; charset=utf-8', 'content-length': '20', 'connection': 'keep-alive', 'x-content-type-options': 'nosniff', 'cf-cache-status': 'BYPASS', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=QGFwwpqtRgf9mT7uTrlalvOUNKc3FcQ0mnA2gCXiKVEIohQcM5ORGNmgJA%2FzrubxdqBq20ArW6ZtVWgM6CQyCG6AZzJDgS8VYJ%2BRf0JAGJEe%2F7SQsNIpx9a48v73xy0JyR9h%2FOcpiLKWeG9QRzXZCQ%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '92d8edcc0c3ce623-IAD', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=834&min_rtt=829&rtt_var=321&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2842&recv_bytes=836&delivery_rate=3278989&cwnd=251&unsent_bytes=0&cid=6cd199729d4c83ba&ts=247&x=0"'} -+-+- b'no available server\n'
-Can't connect to wss://rpc-kusama-1.novasama-tech.org
-Connecting to  wss://rpc-kusama-2.novasama-tech.org
-Connected to  wss://rpc-kusama-2.novasama-tech.org
