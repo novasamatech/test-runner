@@ -1,0 +1,16 @@
+Connecting to  wss://centrifuge-rpc.dwellir.com
+⚠️ Can't connect by wss://centrifuge-rpc.dwellir.com, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://centrifuge-rpc.dwellir.com
+Connecting to  wss://centrifuge-parachain.api.onfinality.io/public-ws
+⚠️ Can't connect by wss://centrifuge-parachain.api.onfinality.io/public-ws, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain; charset=utf-8', 'content-length': '162', 'connection': 'keep-alive', 'access-control-allow-origin': 'https://centrifuge-parachain.api.onfinality.io', 'date': 'Fri, 25 Apr 2025 09:06:52 GMT', 'x-continent': 'NA', 'x-cluster': 'nv', 'x-kong-upstream-latency': '1', 'x-kong-proxy-latency': '0', 'x-kong-request-id': 'e50874055245b61c6998c66ffc5d5e5e'} -+-+- b'{"jsonrpc":"2.0","error":{"code":-32029,"message":"Too Many Requests, Please apply an OnFinality API key or contact us to receive a higher rate limit"},"id":null}'
+Can't connect to wss://centrifuge-parachain.api.onfinality.io/public-ws
+Connecting to  wss://centrifuge-rpc.dwellir.com
+⚠️ Can't connect by wss://centrifuge-rpc.dwellir.com, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://centrifuge-rpc.dwellir.com
+Connecting to  wss://centrifuge-parachain.api.onfinality.io/public-ws
+⚠️ Can't connect by wss://centrifuge-parachain.api.onfinality.io/public-ws, check it is available? 
+ {'code': -32029, 'message': 'Too Many Requests, Please apply an OnFinality API key or contact us to receive a higher rate limit'}
+Can't connect to wss://centrifuge-parachain.api.onfinality.io/public-ws
