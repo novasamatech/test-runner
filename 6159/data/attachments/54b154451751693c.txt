@@ -1,0 +1,7 @@
+Connecting to  wss://rpc.tangle.tools
+Connecting to  wss://rpc.tangle.tools
+⚠️ Can't connect by wss://rpc.tangle.tools, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Fri, 25 Apr 2025 15:07:54 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=aaGsATFqMdQWIXlkaE3TAxmZahRj8O5NX3ZNDCLgqT%2F2WY%2F7DXHxnU0nvlXjBiJxGTaHcEnQyHSeh61y%2FV1WZxqS7TUdN9EmSu7VEkmTesHdSMo4htq3fkSuXmaacl%2FcDc4%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'expect-ct': 'max-age=86400, enforce', 'referrer-policy': 'same-origin', 'x-content-type-options': 'nosniff', 'x-frame-options': 'SAMEORIGIN', 'x-xss-protection': '1; mode=block', 'server': 'cloudflare', 'cf-ray': '935ec0b13bebd638-IAD', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=2614&min_rtt=1131&rtt_var=3391&sent=5&recv=7&lost=0&retrans=1&sent_bytes=4226&recv_bytes=808&delivery_rate=207860&cwnd=251&unsent_bytes=0&cid=7169605c5c23aa4b&ts=329&x=0"'} -+-+- b'error code: 502'
+Can't connect to wss://rpc.tangle.tools
+Connecting to  wss://tangle-mainnet-rpc.dwellir.com
+Connected to  wss://tangle-mainnet-rpc.dwellir.com

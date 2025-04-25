@@ -1,2 +1,0 @@
-Connecting to  wss://rpc.tangle.tools
-Can't connect to wss://rpc-para.bajun.network
