@@ -1,0 +1,24 @@
+Connecting to  wss://centrifuge-rpc.dwellir.com
+⚠️ Can't connect by wss://centrifuge-rpc.dwellir.com, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://centrifuge-rpc.dwellir.com
+Connecting to  wss://centrifuge-parachain.api.onfinality.io/public-ws
+⚠️ Can't connect by wss://centrifuge-parachain.api.onfinality.io/public-ws, check it is available? 
+ {'code': -32029, 'message': 'Too Many Requests, Please apply an OnFinality API key or contact us to receive a higher rate limit'}
+Can't connect to wss://centrifuge-parachain.api.onfinality.io/public-ws
+Connecting to  wss://centrifuge-rpc.dwellir.com
+⚠️ Can't connect by wss://centrifuge-rpc.dwellir.com, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://centrifuge-rpc.dwellir.com
+Connecting to  wss://centrifuge-parachain.api.onfinality.io/public-ws
+⚠️ Can't connect by wss://centrifuge-parachain.api.onfinality.io/public-ws, check it is available? 
+ {'code': -32029, 'message': 'Too Many Requests, Please apply an OnFinality API key or contact us to receive a higher rate limit'}
+Can't connect to wss://centrifuge-parachain.api.onfinality.io/public-ws
+Connecting to  wss://centrifuge-rpc.dwellir.com
+⚠️ Can't connect by wss://centrifuge-rpc.dwellir.com, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://centrifuge-rpc.dwellir.com
+Connecting to  wss://centrifuge-parachain.api.onfinality.io/public-ws
+⚠️ Can't connect by wss://centrifuge-parachain.api.onfinality.io/public-ws, check it is available? 
+ {'code': -32029, 'message': 'Too Many Requests, Please apply an OnFinality API key or contact us to receive a higher rate limit'}
+Can't connect to wss://centrifuge-parachain.api.onfinality.io/public-ws
