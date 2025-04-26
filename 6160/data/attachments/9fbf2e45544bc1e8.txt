@@ -1,0 +1,12 @@
+Connecting to  wss://zeitgeist.api.onfinality.io/public-ws
+⚠️ Can't connect by wss://zeitgeist.api.onfinality.io/public-ws, check it is available? 
+ {'code': -32029, 'message': 'Too Many Requests, Please apply an OnFinality API key or contact us to receive a higher rate limit'}
+Can't connect to wss://zeitgeist.api.onfinality.io/public-ws
+Connecting to  wss://zeitgeist.api.onfinality.io/public-ws
+⚠️ Can't connect by wss://zeitgeist.api.onfinality.io/public-ws, check it is available? 
+ {'code': -32029, 'message': 'Too Many Requests, Please apply an OnFinality API key or contact us to receive a higher rate limit'}
+Can't connect to wss://zeitgeist.api.onfinality.io/public-ws
+Connecting to  wss://zeitgeist.api.onfinality.io/public-ws
+⚠️ Can't connect by wss://zeitgeist.api.onfinality.io/public-ws, check it is available? 
+ {'code': -32029, 'message': 'Too Many Requests, Please apply an OnFinality API key or contact us to receive a higher rate limit'}
+Can't connect to wss://zeitgeist.api.onfinality.io/public-ws

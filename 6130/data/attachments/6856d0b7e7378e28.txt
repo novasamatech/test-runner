@@ -1,6 +1,0 @@
-Connecting to  wss://rpc.tangle.tools
-⚠️ Can't connect by wss://rpc.tangle.tools, check it is available? 
- Handshake status 403 Forbidden -+-+- {'date': 'Fri, 11 Apr 2025 09:21:26 GMT', 'content-type': 'text/html; charset=UTF-8', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cache-control': 'max-age=15', 'expires': 'Fri, 11 Apr 2025 09:21:41 GMT', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=D5TMrTCZeblm0VPn3%2BR%2BQ9SfijOWyKBnDB5pn0EStG6jiqOmQqC3UwUKlbvk2V1Qhf0WnRWikcb1aJE8TMALlV39M4AlS7KsraTOeC355l1PNs8xbZHFN8SYG0pR2QvyV6c%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'expect-ct': 'max-age=86400, enforce', 'referrer-policy': 'same-origin', 'x-content-type-options': 'nosniff', 'x-frame-options': 'SAMEORIGIN', 'x-xss-protection': '1; mode=block', 'server': 'cloudflare', 'cf-ray': '92e969ec2d3e9c82-IAD', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=1022&min_rtt=998&rtt_var=391&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2825&recv_bytes=808&delivery_rate=2861723&cwnd=251&unsent_bytes=0&cid=b774424d842f04f4&ts=22&x=0"'} -+-+- None
-Can't connect to wss://rpc.tangle.tools
-Connecting to  wss://tangle-mainnet-rpc.dwellir.com
-Connected to  wss://tangle-mainnet-rpc.dwellir.com
