@@ -1,8 +1,0 @@
-Connecting to  wss://rpc.basilisk.cloud
-Connected to  wss://rpc.basilisk.cloud
-Connecting to  wss://rpc.basilisk.cloud
-⚠️ Can't connect by wss://rpc.basilisk.cloud, check it is available? 
- Handshake status 502 Bad Gateway -+-+- {'date': 'Sat, 12 Apr 2025 09:19:10 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=82vE%2F%2BjO611pdf41P9HtjLj3NdPHTq3WkD7B5oZyl9rMyovyEJjomZ49zRmf%2FEgeFiNOAQj1GPXcNErBcPlO1EhhVhQ%2F9wfW34SI9zdflyBjgbfxxq%2FnxOt%2Boytj%2FXbD1C1SkA%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'set-cookie': '__cflb=02DiuF7ssEqunvqVe8SoXtgbum6WJvT4D5QKFZruvmweU; SameSite=None; Secure; path=/; expires=Sun, 13-Apr-25 08:19:10 GMT; HttpOnly', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '92f1a3f7e89782e6-IAD', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=5222&min_rtt=5191&rtt_var=2009&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2835&recv_bytes=812&delivery_rate=524903&cwnd=248&unsent_bytes=0&cid=36a2efb136293246&ts=344&x=0"'} -+-+- b'error code: 502'
-Can't connect to wss://rpc.basilisk.cloud
-Connecting to  wss://basilisk-rpc.dwellir.com
-Connected to  wss://basilisk-rpc.dwellir.com
