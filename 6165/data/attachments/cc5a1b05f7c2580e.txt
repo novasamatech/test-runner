@@ -1,0 +1,8 @@
+Connecting to  wss://mainnet.creditcoin.network/ws
+⚠️ Can't connect by wss://mainnet.creditcoin.network/ws, check it is available? 
+ [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+Can't connect to wss://mainnet.creditcoin.network/ws
+Connecting to  wss://mainnet.creditcoin.network/ws
+⚠️ Can't connect by wss://mainnet.creditcoin.network/ws, check it is available? 
+ [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+Can't connect to wss://mainnet.creditcoin.network/ws
