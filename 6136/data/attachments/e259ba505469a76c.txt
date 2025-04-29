@@ -1,4 +1,0 @@
-Connecting to  wss://rpc-assethub.novasama-tech.org
-Connecting to  wss://rpc-assethub.novasama-tech.org
-Connected to  wss://sys.ibp.network/asset-hub-polkadot
-Connected to  wss://rpc-assethub.novasama-tech.org
