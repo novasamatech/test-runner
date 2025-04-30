@@ -1,0 +1,8 @@
+Connecting to  wss://kabocha.jelliedowl.com
+⚠️ Can't connect by wss://kabocha.jelliedowl.com, check it is available? 
+ [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+Can't connect to wss://kabocha.jelliedowl.com
+Connecting to  wss://kabocha.jelliedowl.com
+⚠️ Can't connect by wss://kabocha.jelliedowl.com, check it is available? 
+ [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)
+Can't connect to wss://kabocha.jelliedowl.com
