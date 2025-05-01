@@ -1,2 +1,0 @@
-Connecting to  wss://centrifuge-rpc.dwellir.com
-Connected to  wss://centrifuge-rpc.dwellir.com
