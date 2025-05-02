@@ -1,4 +1,0 @@
-Connecting to  wss://public-rpc.mainnet.aventus.network
-⚠️ Can't connect by wss://public-rpc.mainnet.aventus.network, check it is available? 
- [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'public-rpc.mainnet.aventus.network'. (_ssl.c:1000)
-Can't connect to wss://public-rpc.mainnet.aventus.network
