@@ -1,0 +1,4 @@
+Connecting to  wss://kreivo.io/
+Connecting to  wss://kreivo.io/
+Connecting to  wss://kreivo.io/
+Can't connect to wss://kreivo.kippu.rocks/

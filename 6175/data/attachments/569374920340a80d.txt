@@ -1,0 +1,5 @@
+Connecting to  wss://kreivo.io/
+Can't connect to wss://rpc-para.bajun.network
+Connecting to  wss://kreivo.io/
+Can't connect to wss://rpc-para.bajun.network
+Connecting to  wss://kreivo.io/
