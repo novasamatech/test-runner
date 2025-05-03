@@ -1,0 +1,5 @@
+Connecting to  wss://rpc.mainnet.cere.network/ws
+Connected to  wss://rpc.mainnet.cere.network/ws
+Can't connect to wss://kreivo.io/
+Connecting to  wss://kreivo.kippu.rocks/
+Connected to  wss://kreivo.kippu.rocks/
