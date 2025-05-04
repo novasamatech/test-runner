@@ -1,0 +1,7 @@
+Connecting to  wss://rpc.tangle.tools
+Connecting to  wss://rpc.tangle.tools
+⚠️ Can't connect by wss://rpc.tangle.tools, check it is available? 
+ Handshake status 523 None -+-+- {'date': 'Sun, 04 May 2025 09:20:12 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=Q%2Bxum721r03yyYR9nIHo0X6YfkqZFHBfFpzTTzK7O1tWPy1e2b0BH4TZGsQ8%2F5hCEQYuFUYpj%2FwOkYcXjWFAOTLztoWeNtfx1E9PrIopXAu7CFzPPZLeiGrOyZETbDJ9Yss%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'expect-ct': 'max-age=86400, enforce', 'referrer-policy': 'same-origin', 'x-content-type-options': 'nosniff', 'x-frame-options': 'SAMEORIGIN', 'x-xss-protection': '1; mode=block', 'server': 'cloudflare', 'cf-ray': '93a6eba48c922e75-DFW', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=8893&min_rtt=8829&rtt_var=3357&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2827&recv_bytes=808&delivery_rate=323479&cwnd=251&unsent_bytes=0&cid=8410a2aa864f4a12&ts=4158&x=0"'} -+-+- b'error code: 523'
+Can't connect to wss://rpc.tangle.tools
+Connecting to  wss://tangle-mainnet-rpc.dwellir.com
+Connected to  wss://tangle-mainnet-rpc.dwellir.com
