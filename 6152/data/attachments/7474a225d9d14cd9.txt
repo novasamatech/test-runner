@@ -1,4 +1,0 @@
-Connecting to  wss://peaq.api.onfinality.io/public
-Connected to  wss://peaq.api.onfinality.io/public
-Connecting to  wss://peaq.api.onfinality.io/public
-Connected to  wss://peaq.api.onfinality.io/public
