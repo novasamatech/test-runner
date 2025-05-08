@@ -1,5 +1,0 @@
-Connecting to  wss://explorer-rpc-ws.mainnet.stages.humanode.io
-Can't connect to wss://asset-hub-polkadot.dotters.network
-Connecting to  wss://asset-hub-polkadot-rpc.dwellir.com
-Connected to  wss://asset-hub-polkadot-rpc.dwellir.com
-Connected to  wss://explorer-rpc-ws.mainnet.stages.humanode.io
