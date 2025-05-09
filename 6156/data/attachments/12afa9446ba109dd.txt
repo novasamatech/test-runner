@@ -1,4 +1,0 @@
-Connecting to  wss://rpc.dentnet.io/ws
-Connected to  wss://rpc.dentnet.io/ws
-Can't connect to wss://kreivo.io/
-Connecting to  wss://kreivo.kippu.rocks/

@@ -1,6 +1,0 @@
-⚠️ Can't connect by wss://phala.api.onfinality.io/public-ws, check it is available? 
- {'code': -32029, 'message': 'Too Many Requests, Please apply an OnFinality API key or contact us to receive a higher rate limit'}
-⚠️ Can't connect by wss://phala.api.onfinality.io/public-ws, check it is available? 
- {'code': -32029, 'message': 'Too Many Requests, Please apply an OnFinality API key or contact us to receive a higher rate limit'}
-⚠️ Can't connect by wss://phala.api.onfinality.io/public-ws, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain; charset=utf-8', 'content-length': '162', 'connection': 'keep-alive', 'access-control-allow-origin': 'https://phala.api.onfinality.io', 'date': 'Thu, 24 Apr 2025 09:08:20 GMT', 'x-continent': 'NA', 'x-cluster': 'nv', 'x-kong-upstream-latency': '3', 'x-kong-proxy-latency': '0', 'x-kong-request-id': '450631262a5b97387cb7de7d433f2a15'} -+-+- b'{"jsonrpc":"2.0","error":{"code":-32029,"message":"Too Many Requests, Please apply an OnFinality API key or contact us to receive a higher rate limit"},"id":null}'
