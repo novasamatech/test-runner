@@ -1,8 +1,0 @@
-Connecting to  wss://altair.api.onfinality.io/public-ws
-⚠️ Can't connect by wss://altair.api.onfinality.io/public-ws, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain; charset=utf-8', 'content-length': '162', 'connection': 'keep-alive', 'access-control-allow-origin': 'https://altair.api.onfinality.io', 'date': 'Fri, 25 Apr 2025 15:06:10 GMT', 'x-continent': 'NA', 'x-cluster': 'nv', 'x-kong-upstream-latency': '3', 'x-kong-proxy-latency': '0', 'x-kong-request-id': 'd1fea86a1fb859523c551d44e16a5770'} -+-+- b'{"jsonrpc":"2.0","error":{"code":-32029,"message":"Too Many Requests, Please apply an OnFinality API key or contact us to receive a higher rate limit"},"id":null}'
-Can't connect to wss://altair.api.onfinality.io/public-ws
-Connecting to  wss://altair.api.onfinality.io/public-ws
-⚠️ Can't connect by wss://altair.api.onfinality.io/public-ws, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain; charset=utf-8', 'content-length': '162', 'connection': 'keep-alive', 'access-control-allow-origin': 'https://altair.api.onfinality.io', 'date': 'Fri, 25 Apr 2025 15:06:15 GMT', 'x-continent': 'NA', 'x-cluster': 'nv', 'x-kong-upstream-latency': '2', 'x-kong-proxy-latency': '1', 'x-kong-request-id': '9352c34b9751534b28264e0c6f1a8e08'} -+-+- b'{"jsonrpc":"2.0","error":{"code":-32029,"message":"Too Many Requests, Please apply an OnFinality API key or contact us to receive a higher rate limit"},"id":null}'
-Can't connect to wss://altair.api.onfinality.io/public-ws
