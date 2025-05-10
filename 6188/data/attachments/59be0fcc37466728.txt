@@ -1,0 +1,8 @@
+Connecting to  wss://parallel.gatotech.network
+⚠️ Can't connect by wss://parallel.gatotech.network, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'cache-control': 'no-cache', 'content-type': 'text/html'} -+-+- None
+Can't connect to wss://parallel.gatotech.network
+Connecting to  wss://parallel.gatotech.network
+⚠️ Can't connect by wss://parallel.gatotech.network, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'cache-control': 'no-cache', 'content-type': 'text/html'} -+-+- None
+Can't connect to wss://parallel.gatotech.network
