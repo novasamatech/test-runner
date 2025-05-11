@@ -1,2 +1,0 @@
-Connecting to  wss://acala-polkadot.api.onfinality.io/public-ws
-Connected to  wss://acala-polkadot.api.onfinality.io/public-ws
