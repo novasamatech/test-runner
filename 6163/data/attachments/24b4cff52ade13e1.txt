@@ -1,3 +1,0 @@
-Connecting to  wss://nexus.ibp.network
-Connected to  wss://nexus.ibp.network
-Can't connect to wss://rpc-para.bajun.network
