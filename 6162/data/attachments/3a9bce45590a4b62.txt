@@ -1,2 +1,0 @@
-Connecting to  wss://continuum-rpc-1.metaverse.network/wss
-Connected to  wss://continuum-rpc-1.metaverse.network/wss
