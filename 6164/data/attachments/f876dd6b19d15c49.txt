@@ -1,2 +1,0 @@
-Connecting to  wss://nodle-parachain.api.onfinality.io/public-ws
-Connected to  wss://nodle-parachain.api.onfinality.io/public-ws
