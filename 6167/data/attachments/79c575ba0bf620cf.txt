@@ -1,8 +1,0 @@
-Connecting to  wss://continuum-rpc-1.metaverse.network/wss
-⚠️ Can't connect by wss://continuum-rpc-1.metaverse.network/wss, check it is available? 
- Handshake status 503 Service Unavailable -+-+- {'content-length': '27', 'content-type': 'text/plain', 'via': '1.1 google', 'date': 'Tue, 29 Apr 2025 15:21:44 GMT', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'connection': 'close'} -+-+- b'unconditional drop overload'
-Can't connect to wss://continuum-rpc-1.metaverse.network/wss
-Connecting to  wss://continuum-rpc-1.metaverse.network/wss
-⚠️ Can't connect by wss://continuum-rpc-1.metaverse.network/wss, check it is available? 
- Handshake status 503 Service Unavailable -+-+- {'content-length': '27', 'content-type': 'text/plain', 'via': '1.1 google', 'date': 'Tue, 29 Apr 2025 15:21:50 GMT', 'alt-svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'connection': 'close'} -+-+- b'unconditional drop overload'
-Can't connect to wss://continuum-rpc-1.metaverse.network/wss
