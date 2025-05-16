@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://karura-rpc-2.aca-api.network/ws, check it is available? 
+ Handshake status 404 Not Found -+-+- {'server': 'awselb/2.0', 'date': 'Fri, 16 May 2025 09:06:28 GMT', 'content-type': 'text/plain; charset=utf-8', 'content-length': '13', 'connection': 'keep-alive'} -+-+- b'404 Not Found'

@@ -1,0 +1,18 @@
+Connecting to  wss://acala-rpc-0.aca-api.network
+⚠️ Can't connect by wss://acala-rpc-0.aca-api.network, check it is available? 
+ Handshake status 404 Not Found -+-+- {'server': 'awselb/2.0', 'date': 'Fri, 16 May 2025 09:06:26 GMT', 'content-type': 'text/plain; charset=utf-8', 'content-length': '13', 'connection': 'keep-alive'} -+-+- b'404 Not Found'
+Can't connect to wss://acala-rpc-0.aca-api.network
+Connecting to  wss://acala-rpc-1.aca-api.network
+⚠️ Can't connect by wss://acala-rpc-1.aca-api.network, check it is available? 
+ Handshake status 404 Not Found -+-+- {'server': 'awselb/2.0', 'date': 'Fri, 16 May 2025 09:06:26 GMT', 'content-type': 'text/plain; charset=utf-8', 'content-length': '13', 'connection': 'keep-alive'} -+-+- b'404 Not Found'
+Can't connect to wss://acala-rpc-1.aca-api.network
+Connecting to  wss://acala-rpc-2.aca-api.network/ws
+⚠️ Can't connect by wss://acala-rpc-2.aca-api.network/ws, check it is available? 
+ Handshake status 404 Not Found -+-+- {'server': 'awselb/2.0', 'date': 'Fri, 16 May 2025 09:06:26 GMT', 'content-type': 'text/plain; charset=utf-8', 'content-length': '13', 'connection': 'keep-alive'} -+-+- b'404 Not Found'
+Can't connect to wss://acala-rpc-2.aca-api.network/ws
+Connecting to  wss://acala-rpc-3.aca-api.network/ws
+⚠️ Can't connect by wss://acala-rpc-3.aca-api.network/ws, check it is available? 
+ Handshake status 404 Not Found -+-+- {'server': 'awselb/2.0', 'date': 'Fri, 16 May 2025 09:06:27 GMT', 'content-type': 'text/plain; charset=utf-8', 'content-length': '13', 'connection': 'keep-alive'} -+-+- b'404 Not Found'
+Can't connect to wss://acala-rpc-3.aca-api.network/ws
+Connecting to  wss://acala-rpc.dwellir.com
+Connected to  wss://acala-rpc.dwellir.com

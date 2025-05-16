@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://acala-rpc-0.aca-api.network, check it is available? 
+ Handshake status 404 Not Found -+-+- {'server': 'awselb/2.0', 'date': 'Fri, 16 May 2025 09:07:55 GMT', 'content-type': 'text/plain; charset=utf-8', 'content-length': '13', 'connection': 'keep-alive'} -+-+- b'404 Not Found'
