@@ -1,2 +1,0 @@
-Connecting to  wss://fullnode.altair.centrifuge.io
-Connected to  wss://fullnode.altair.centrifuge.io
