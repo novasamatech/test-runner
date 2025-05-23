@@ -1,0 +1,5 @@
+Connecting to  wss://rpc2-shadow.crust.network/
+Connected to  wss://rpc2-shadow.crust.network/
+Can't connect to wss://para.f3joule.space
+Connecting to  wss://para.subsocial.network
+Can't connect to wss://para.subsocial.network

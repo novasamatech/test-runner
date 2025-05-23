@@ -1,0 +1,3 @@
+Connecting to  wss://fullnode.centrifuge.io
+Connected to  wss://fullnode.centrifuge.io
+Can't connect to wss://para.subsocial.network
