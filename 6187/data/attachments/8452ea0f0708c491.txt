@@ -1,2 +1,0 @@
-Connecting to  wss://kreivo.io/
-Connected to  wss://kreivo.io/
