@@ -1,0 +1,5 @@
+Connecting to  wss://sys.ibp.network/coretime-polkadot
+Can't connect to wss://para.subsocial.network
+Connected to  wss://sys.ibp.network/coretime-polkadot
+Can't connect to wss://para.f3joule.space
+Connecting to  wss://para.subsocial.network
