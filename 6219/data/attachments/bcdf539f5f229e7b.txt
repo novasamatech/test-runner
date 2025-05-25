@@ -1,0 +1,3 @@
+Connecting to  wss://rpc.polimec.org
+Connected to  wss://rpc.polimec.org
+Connecting to  wss://rpc.polimec.org

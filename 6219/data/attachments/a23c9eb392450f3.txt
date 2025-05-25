@@ -1,0 +1,6 @@
+Connecting to  wss://para.f3joule.space
+Connecting to  wss://para.f3joule.space
+Connecting to  wss://para.f3joule.space
+Can't connect to wss://para.f3joule.space
+Connecting to  wss://para.subsocial.network
+Can't connect to wss://para.subsocial.network
