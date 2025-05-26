@@ -1,0 +1,8 @@
+Connecting to  wss://rpc.tangle.tools
+Can't connect to wss://para.subsocial.network
+Can't connect to wss://para.f3joule.space
+Connecting to  wss://para.subsocial.network
+Can't connect to wss://para.subsocial.network
+Connecting to  wss://rpc.tangle.tools
+Connected to  wss://rpc.tangle.tools
+Can't connect to wss://para.subsocial.network
