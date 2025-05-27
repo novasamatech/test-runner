@@ -1,0 +1,3 @@
+Connecting to  wss://coretime-kusama-rpc.dwellir.com
+Connected to  wss://coretime-kusama-rpc.dwellir.com
+Can't connect toCan't connect to wss://para.subsocial.network
