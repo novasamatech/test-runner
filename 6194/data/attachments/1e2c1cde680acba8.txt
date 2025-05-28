@@ -1,8 +1,0 @@
-Connecting to  wss://mainnet.ternoa.network
-⚠️ Can't connect by wss://mainnet.ternoa.network, check it is available? 
- Handshake status 503 Service Unavailable -+-+- {'cache-control': 'no-cache', 'content-type': 'text/html'} -+-+- None
-Can't connect to wss://mainnet.ternoa.network
-Connecting to  wss://mainnet.ternoa.network
-⚠️ Can't connect by wss://mainnet.ternoa.network, check it is available? 
- Handshake status 503 Service Unavailable -+-+- {'cache-control': 'no-cache', 'content-type': 'text/html'} -+-+- None
-Can't connect to wss://mainnet.ternoa.network

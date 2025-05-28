@@ -1,0 +1,8 @@
+Connecting to  wss://rpc-sha-subscan.crustnetwork.xyz
+Can't connect to wss://para.f3joule.space
+Connecting to  wss://para.subsocial.network
+Connected to  wss://rpc-sha-subscan.crustnetwork.xyz
+Connecting to  wss://rpc-sha-subscan.crustnetwork.xyz
+Can't connect to wss://para.subsocial.network
+Connecting to  wss://rpc-sha-subscan.crustnetwork.xyz
+Connected to  wss://rpc-sha-subscan.crustnetwork.xyz
