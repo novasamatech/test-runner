@@ -1,6 +1,0 @@
-⚠️ Can't connect by wss://karura-rpc-3.aca-api.network/ws, check it is available? 
- Handshake status 404 Not Found -+-+- {'server': 'awselb/2.0', 'date': 'Fri, 16 May 2025 09:06:42 GMT', 'content-type': 'text/plain; charset=utf-8', 'content-length': '13', 'connection': 'keep-alive'} -+-+- b'404 Not Found'
-⚠️ Can't connect by wss://karura-rpc-3.aca-api.network/ws, check it is available? 
- Handshake status 404 Not Found -+-+- {'server': 'awselb/2.0', 'date': 'Fri, 16 May 2025 09:06:48 GMT', 'content-type': 'text/plain; charset=utf-8', 'content-length': '13', 'connection': 'keep-alive'} -+-+- b'404 Not Found'
-⚠️ Can't connect by wss://karura-rpc-3.aca-api.network/ws, check it is available? 
- Handshake status 404 Not Found -+-+- {'server': 'awselb/2.0', 'date': 'Fri, 16 May 2025 09:06:53 GMT', 'content-type': 'text/plain; charset=utf-8', 'content-length': '13', 'connection': 'keep-alive'} -+-+- b'404 Not Found'
