@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://xxnetwork-rpc.dwellir.com, check it is available? 
+ Handshake status 403 Forbidden -+-+- {'content-type': 'text/plain', 'access-control-allow-origin': '*', 'vary': 'access-control-request-headers', 'access-control-expose-headers': '*', 'content-length': '0', 'date': 'Sat, 31 May 2025 09:07:48 GMT', 'strict-transport-security': 'max-age=16000000; includeSubDomains; preload;'} -+-+- b''
+⚠️ Can't connect by wss://xxnetwork-rpc.dwellir.com, check it is available? 
+ Handshake status 403 Forbidden -+-+- {'content-type': 'text/plain', 'access-control-allow-origin': '*', 'vary': 'access-control-request-headers', 'access-control-expose-headers': '*', 'content-length': '0', 'date': 'Sat, 31 May 2025 09:07:53 GMT', 'strict-transport-security': 'max-age=16000000; includeSubDomains; preload;'} -+-+- b''
+⚠️ Can't connect by wss://xxnetwork-rpc.dwellir.com, check it is available? 
+ Handshake status 403 Forbidden -+-+- {'content-type': 'text/plain', 'access-control-allow-origin': '*', 'vary': 'access-control-request-headers', 'access-control-expose-headers': '*', 'content-length': '0', 'date': 'Sat, 31 May 2025 09:07:59 GMT', 'strict-transport-security': 'max-age=16000000; includeSubDomains; preload;'} -+-+- b''
