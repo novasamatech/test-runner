@@ -1,2 +1,0 @@
-Connecting to  wss://para.f3joule.space
-Connected to  wss://para.f3joule.space

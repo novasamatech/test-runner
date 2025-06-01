@@ -1,0 +1,6 @@
+Connecting to  wss://xxnetwork-rpc.dwellir.com
+⚠️ Can't connect by wss://xxnetwork-rpc.dwellir.com, check it is available? 
+ Handshake status 403 Forbidden -+-+- {'content-type': 'text/plain', 'access-control-allow-origin': '*', 'vary': 'access-control-request-headers', 'access-control-expose-headers': '*', 'content-length': '0', 'date': 'Sun, 01 Jun 2025 15:05:52 GMT', 'strict-transport-security': 'max-age=16000000; includeSubDomains; preload;'} -+-+- b''
+Can't connect to wss://xxnetwork-rpc.dwellir.com
+Connecting to  wss://rpc.xx.network
+Connected to  wss://rpc.xx.network
