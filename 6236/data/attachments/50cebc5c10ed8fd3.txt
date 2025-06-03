@@ -1,0 +1,6 @@
+Connecting to  wss://rpc.joystream.org
+⚠️ Can't connect by wss://rpc.joystream.org, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Tue, 03 Jun 2025 15:07:30 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=2E3YideTA1wff5YF9eZaqUrir0%2Ff3EoxG%2FFyfoNFTPpGXFTLBj7SHq9HcY1Ad72ajfv0kQDdg8Zoy%2B%2FneB6j5LwttGWHTqxopxSgqUFfPnGkkbIS2t1duqoDhh7TxjB6Zizz"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '94a019b93faeae7d-IAD', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=7201&min_rtt=5436&rtt_var=3299&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2830&recv_bytes=810&delivery_rate=525386&cwnd=251&unsent_bytes=0&cid=862c3447b5d0f92c&ts=140&x=0"'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to wss://rpc.joystream.org
+Connecting to  wss://rpc.joystream.org
+Connected to  wss://rpc.joystream.org
