@@ -1,0 +1,10 @@
+Connecting to  wss://rpc.joystream.org
+⚠️ Can't connect by wss://rpc.joystream.org, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Wed, 04 Jun 2025 09:07:41 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=%2FUZbvz6QjptaEsJfQbV4%2FJzy4Bf5wjVi%2BnIunpqLvLn3Sd1%2FPlW%2FyUe%2BRSLYxK50iLKK4Uf3eUYgbsEg13KEGgvTpcOsiGS3RKI45ZdK%2BjzXZ6enV9emlJ2JM4RaJRrH0ylE"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '94a648084c8e52fb-LAX', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=8779&min_rtt=8718&rtt_var=3313&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2832&recv_bytes=810&delivery_rate=327598&cwnd=251&unsent_bytes=0&cid=7f256316b55e56d5&ts=179&x=0"'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to wss://rpc.joystream.org
+Connecting to  wss://rpc.joystream.org
+⚠️ Can't connect by wss://rpc.joystream.org, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Wed, 04 Jun 2025 09:07:47 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=WRliGwpx3uTX631JKpUmRgZgHj9OfFLYZoXVmI9wAjDQTe%2BGdgGGaHbqmWa9hLA%2BBgDXrSjuoT7kKUxCXM%2Bp7QXLhrLDVj1ANK3imjv6a57Q22A3QaO2hJSufcTzU2dn0Izb"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '94a6482c8f6c7c1d-LAX', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=8845&min_rtt=8754&rtt_var=3347&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2831&recv_bytes=810&delivery_rate=326250&cwnd=251&unsent_bytes=0&cid=7f48a62684488ac8&ts=185&x=0"'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to wss://rpc.joystream.org
+Connecting to  wss://rpc.joystream.org
+Connected to  wss://rpc.joystream.org
