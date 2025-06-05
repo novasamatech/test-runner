@@ -1,0 +1,4 @@
+Connecting to  wss://info.dbcwallet.io
+Can't connect to wss://para.subsocial.network
+Connected to  wss://info.dbcwallet.io
+Can't connect to wss://para.subsocial.network
