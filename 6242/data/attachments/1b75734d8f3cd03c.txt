@@ -1,0 +1,6 @@
+Connecting to  wss://peaq-rpc.publicnode.com
+Connected to  wss://peaq-rpc.publicnode.com
+Can't connect to wss://para.subsocial.network
+Can't connect to wss://para.f3joule.space
+Connecting to  wss://para.subsocial.network
+Can't connect to wss://para.subsocial.network
