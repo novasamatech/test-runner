@@ -1,0 +1,4 @@
+Connecting to  wss://crust-parachain.crustapps.net
+Connecting to  wss://crust-parachain.crustapps.net
+Can't connect to wss://crust-parachain.crustapps.net
+Connected to  wss://crust-parachain.crustapps.net
