@@ -1,0 +1,5 @@
+Connecting to  wss://rpc.tangle.tools
+Connecting to  wss://rpc.tangle.tools
+Connected to  wss://rpc.tangle.tools
+Can't connect to wss://rpc.tangle.tools
+Connecting to  wss://tangle-mainnet-rpc.dwellir.com
