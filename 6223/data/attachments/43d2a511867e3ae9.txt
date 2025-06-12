@@ -1,4 +1,0 @@
-Connecting to  wss://kusama.api.integritee.network
-Connected to  wss://kusama.api.integritee.network
-Connecting to  wss://kusama.api.integritee.network
-Connected to  wss://kusama.api.integritee.network
