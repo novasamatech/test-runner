@@ -1,5 +1,0 @@
-Connecting to  wss://archive.parachain.curioinvest.com
-Connected to  wss://archive.parachain.curioinvest.com
-Can't connect to wss://para.subsocial.network
-Can't connect to wss://para.f3joule.space
-Connecting to  wss://para.subsocial.network

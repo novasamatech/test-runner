@@ -1,3 +1,0 @@
-Connecting to  wss://polkadot-mythos-rpc.polkadot.io
-Can't connect to wss://para.subsocial.network
-Connected to  wss://polkadot-mythos-rpc.polkadot.io

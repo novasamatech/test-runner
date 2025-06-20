@@ -1,7 +1,0 @@
-Connecting to  wss://para.f3joule.space
-Connecting to  wss://para.f3joule.space
-Connecting to  wss://para.f3joule.space
-⚠️ Can't connect by wss://para.f3joule.space, check it is available? 
- Handshake status 502 Bad Gateway -+-+- {'server': 'cloudflare', 'date': 'Thu, 05 Jun 2025 15:07:31 GMT', 'content-type': 'text/html', 'content-length': '155', 'connection': 'keep-alive', 'cf-ray': '94b09444e89222ab-CDG'} -+-+- b'<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n'
-Can't connect to wss://para.f3joule.space
-Connecting to  wss://para.subsocial.network
