@@ -1,0 +1,2 @@
+Connecting to  wss://nodle-rpc.dwellir.com
+Connected to  wss://nodle-rpc.dwellir.com
