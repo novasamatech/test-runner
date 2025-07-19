@@ -1,0 +1,3 @@
+Connecting to  wss://peaq-rpc.publicnode.com
+Can't connect to wss://rpc-do.xx.network
+Connected to  wss://peaq-rpc.publicnode.com
