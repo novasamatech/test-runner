@@ -1,0 +1,25 @@
+Connecting to  wss://xxnetwork-rpc.dwellir.com
+⚠️ Can't connect by wss://xxnetwork-rpc.dwellir.com, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://xxnetwork-rpc.dwellir.com
+Connecting to  wss://rpc.xx.network
+Connecting to  wss://xxnetwork-rpc.dwellir.com
+⚠️ Can't connect by wss://xxnetwork-rpc.dwellir.com, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://xxnetwork-rpc.dwellir.com
+Connecting to  wss://rpc.xx.network
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+Can't connect to wss://rpc-hetzner.xx.network
+Connecting to  wss://rpc-do.xx.network
+Connecting to  wss://xxnetwork-rpc.dwellir.com
+⚠️ Can't connect by wss://xxnetwork-rpc.dwellir.com, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://xxnetwork-rpc.dwellir.com
+Connecting to  wss://rpc.xx.network
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+⚠️ Can't connect by wss://rpc-hetzner.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Mon, 21 Jul 2025 15:08:33 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=87A4nEymtoGl0t6KQMjK0JZVt7peJp5L2N%2BSMH2itvLRjg0BgJMzTyZPvtK7s1w7yGHFmEq3BN6IyRkREEGdT07CiHCKEsqSWioEBMcI0nMi2Y1SzWmEP5YmTo0cQKS3DdS4%2FS5ZxcJ9"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '962b9d436db8478c-DFW', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=13868&min_rtt=13800&rtt_var=5223&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2820&recv_bytes=820&delivery_rate=206956&cwnd=251&unsent_bytes=0&cid=885d71a49bd5eece&ts=538&x=0"'} -+-+- None
+Can't connect to wss://rpc-hetzner.xx.network
+Connecting to  wss://rpc-do.xx.network
