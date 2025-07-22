@@ -1,0 +1,26 @@
+Connecting to  wss://xxnetwork-rpc.dwellir.com
+⚠️ Can't connect by wss://xxnetwork-rpc.dwellir.com, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://xxnetwork-rpc.dwellir.com
+Connecting to  wss://rpc.xx.network
+⚠️ Can't connect by wss://rpc.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Tue, 22 Jul 2025 09:09:44 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=YxP2T9fxJkO2oEeMHAq7d8UROW7Mqr6fET4Dpno30vTBICrOahe8uSFQ40icq6Ie%2BCAWe1VFmy3pTcbmhyoCudn4H5YC42RHObVcWhS2OdFtOvgExUFHxbZmYdIDQ1mVhw%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '9631ccfd5a572e22-DFW', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=14087&min_rtt=14005&rtt_var=5310&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2818&recv_bytes=804&delivery_rate=203927&cwnd=252&unsent_bytes=0&cid=549fcb76b72c0403&ts=1548&x=0"'} -+-+- None
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+⚠️ Can't connect by wss://rpc-hetzner.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Tue, 22 Jul 2025 09:09:45 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=tPAfPA1TqhMQOfDsPwONguenWLxeIKTBdSc2%2FHOnQMq5Q56Ky9Zst9dHbccrGoqwUNeNmUfB7YInm9EZqHpLZfsl2KV3VaBBgzKmfk%2BP21HZvCE%2FVLaTb18EJmcGnwnvXzVSd3Xljw8o"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '9631cd09b83a45fc-DFW', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=13982&min_rtt=13982&rtt_var=5244&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2818&recv_bytes=820&delivery_rate=204262&cwnd=252&unsent_bytes=0&cid=d9fb07f149cfc5ab&ts=512&x=0"'} -+-+- None
+Can't connect to wss://rpc-hetzner.xx.network
+Connecting to  wss://rpc-do.xx.network
+Connecting to  wss://xxnetwork-rpc.dwellir.com
+⚠️ Can't connect by wss://xxnetwork-rpc.dwellir.com, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://xxnetwork-rpc.dwellir.com
+Connecting to  wss://rpc.xx.network
+⚠️ Can't connect by wss://rpc.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Tue, 22 Jul 2025 09:10:03 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=fcZQH%2BTJfLZx7HK796KMZEiRjDwiXy7aa5oKT9CqNqlLyc0UqbVSNiK%2Fa5ysqYtXaemHJEG1Pp10dn7ZBikhvdGsKtD64A56qhHEhF%2BV15be%2BblnMSOV26J24qc09Mxp5A%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '9631cd7cb9de6b6b-DFW', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=14506&min_rtt=14392&rtt_var=5479&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2820&recv_bytes=804&delivery_rate=198443&cwnd=251&unsent_bytes=0&cid=e18bb43141795aed&ts=545&x=0"'} -+-+- None
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+⚠️ Can't connect by wss://rpc-hetzner.xx.network, check it is available? 
+ Handshake status 525 None -+-+- {'date': 'Tue, 22 Jul 2025 09:10:04 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=VUh8tBi4PNEEuiTGPjaq0RirfwBgfTnCFEb%2F1pxSzx%2BCBRllsTmIqCCe76%2BbhTI9Lud6FAiFW%2F5GUSfAAnpd9v106aMDKHmGgoxNLqMvMVve0mcNBdl0Hqerqa2SYH%2FvK8adHGX4d76q"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '9631cd825d912e22-DFW', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=14092&min_rtt=14085&rtt_var=5287&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2820&recv_bytes=820&delivery_rate=202768&cwnd=252&unsent_bytes=0&cid=9ecc509c6c543634&ts=361&x=0"'} -+-+- b'error code: 525'
+Can't connect to wss://rpc-hetzner.xx.network
+Connecting to  wss://rpc-do.xx.network
