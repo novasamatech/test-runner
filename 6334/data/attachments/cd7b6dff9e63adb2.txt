@@ -1,0 +1,23 @@
+Connecting to  wss://xxnetwork-rpc.dwellir.com
+⚠️ Can't connect by wss://xxnetwork-rpc.dwellir.com, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://xxnetwork-rpc.dwellir.com
+Connecting to  wss://rpc.xx.network
+⚠️ Can't connect by wss://rpc.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Tue, 22 Jul 2025 15:07:22 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=fXJ01m2jfiBDxSfjudeBymCUODcYTIG6wd%2Beza%2B5DesDIrZzdDnwyayy%2FDolt2OxfH%2B3RjCgzxPUnw67HfflX3eyGLQ15z6tmh2bKh2jpk02L%2BBMJ3zDpQ0A%2B6RCwJR9zQ%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '9633d8e68b742af3-LAX', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=11429&min_rtt=9662&rtt_var=4292&sent=4&recv=7&lost=0&retrans=0&sent_bytes=2820&recv_bytes=804&delivery_rate=294584&cwnd=251&unsent_bytes=0&cid=242038e96455dacb&ts=559&x=0"'} -+-+- None
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+⚠️ Can't connect by wss://rpc-hetzner.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Tue, 22 Jul 2025 15:07:23 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=v8FsyifD5Vl50nO%2BtFTomqcHmz5kV6JPh1awD08WaIo8ufoSI7s06I6VP9TgA4pKAmMvQxDsYu%2F8N%2Fh59S%2FSR%2FMGKpDEad9ZqaWOy7KC70QpeqP82d%2FbDyNiJzCFCLddJ04QxISHH3Tn"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '9633d8ed89482b58-LAX', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=9462&min_rtt=9240&rtt_var=3623&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2819&recv_bytes=820&delivery_rate=309090&cwnd=251&unsent_bytes=0&cid=828d306c41ca3096&ts=537&x=0"'} -+-+- None
+Can't connect to wss://rpc-hetzner.xx.network
+Connecting to  wss://rpc-do.xx.network
+Connecting to  wss://xxnetwork-rpc.dwellir.com
+⚠️ Can't connect by wss://xxnetwork-rpc.dwellir.com, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://xxnetwork-rpc.dwellir.com
+Connecting to  wss://rpc.xx.network
+⚠️ Can't connect by wss://rpc.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Tue, 22 Jul 2025 15:07:42 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=h8%2FFZiakC%2B1ExXpAVr%2Fz6wq7KuWmW31vgtgKeavmiN23WoaiGQULJbVvp5Z1cyqJZLMMIpKGDtv0lqui8GtdN6eNe4wIq3FHIzpxooju1srLfcjVENaNydrX%2BKjm0eVYiQ%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '9633d963586b2af3-LAX', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=12039&min_rtt=9649&rtt_var=5326&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2819&recv_bytes=804&delivery_rate=295989&cwnd=251&unsent_bytes=0&cid=5bc7bdd36df77b9d&ts=549&x=0"'} -+-+- None
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+Connected to  wss://rpc-hetzner.xx.network

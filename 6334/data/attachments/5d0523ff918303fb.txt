@@ -1,0 +1,13 @@
+Connecting to  wss://xxnetwork-rpc.dwellir.com
+⚠️ Can't connect by wss://xxnetwork-rpc.dwellir.com, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://xxnetwork-rpc.dwellir.com
+Connecting to  wss://rpc.xx.network
+⚠️ Can't connect by wss://rpc.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Tue, 22 Jul 2025 15:06:53 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=8Y%2BmhdaXNs%2FD3ykxfggA6XgTWIPxIaf2VKH7ZgcwUcFXQeJZyOW0P3wygn45ZzBIwNp0xYAs9T%2FJlZlQV0NDydBLp6yrsx%2Bt8TBicvP8%2BKesBCGDWx1FfWED87Mksv74yw%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '9633d8340ca02f5c-LAX', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=11355&min_rtt=9941&rtt_var=4738&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2819&recv_bytes=804&delivery_rate=287295&cwnd=252&unsent_bytes=0&cid=69c00e96230756c8&ts=540&x=0"'} -+-+- None
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+⚠️ Can't connect by wss://rpc-hetzner.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Tue, 22 Jul 2025 15:06:54 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=bOgxalyTzNNwiq94BNn7qPgBxdLP%2FBrZi5y72zTc12KHKe8u8PgH0mNFIXq6vP5UvFxvzAGTjokWvrDqpmeyGLsGjfNZCZd4DeKHkZVVy%2BaPY9qwoVuTSyjZK7bSCKNG7AYDxRaALcFt"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '9633d839ced52b75-LAX', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=10149&min_rtt=10051&rtt_var=3965&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2819&recv_bytes=820&delivery_rate=263590&cwnd=252&unsent_bytes=0&cid=56bbc20e25996f58&ts=536&x=0"'} -+-+- None
+Can't connect to wss://rpc-hetzner.xx.network
+Connecting to  wss://rpc-do.xx.network
