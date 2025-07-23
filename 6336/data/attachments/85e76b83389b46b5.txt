@@ -1,0 +1,10 @@
+Connecting to  wss://xxnetwork-rpc.dwellir.com
+⚠️ Can't connect by wss://xxnetwork-rpc.dwellir.com, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://xxnetwork-rpc.dwellir.com
+Connecting to  wss://rpc.xx.network
+⚠️ Can't connect by wss://rpc.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Wed, 23 Jul 2025 15:07:28 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=7AUueNRE%2BVskHrQYPdqYGwNjHEakJHrDxEWHt1y%2BLODQlS1AIT0o4sE7zuKSR%2Ffn8hug5Y5MQ870h%2F3VFB8WbYmVvkH9l66kADwZpy0KKKYECWo0DfB21qi6bJ1rVxA%2B0g%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '963c166f082190ac-IAD', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=5151&min_rtt=5151&rtt_var=1932&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2819&recv_bytes=804&delivery_rate=554240&cwnd=251&unsent_bytes=0&cid=9a9b2d127349aa72&ts=368&x=0"'} -+-+- None
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+Connected to  wss://rpc-hetzner.xx.network
