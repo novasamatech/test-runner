@@ -1,1 +1,0 @@
-Connecting to  wss://mainnet-rpc.avail.so/ws

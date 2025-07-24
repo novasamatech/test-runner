@@ -1,4 +1,0 @@
-Connecting to  wss://mainnet-rpc.avail.so/ws
-Connecting to  wss://mainnet-rpc.avail.so/ws
-Connected to  wss://avail-mainnet.public.blastapi.io/
-Connected to  wss://mainnet-rpc.avail.so/ws
