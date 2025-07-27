@@ -1,8 +1,0 @@
-Connecting to  wss://entrypoint-finney.opentensor.ai:443
-⚠️ Can't connect by wss://entrypoint-finney.opentensor.ai:443, check it is available? 
- [Errno -3] Temporary failure in name resolution
-Can't connect to wss://entrypoint-finney.opentensor.ai:443
-Connecting to  wss://entrypoint-finney.opentensor.ai:443
-⚠️ Can't connect by wss://entrypoint-finney.opentensor.ai:443, check it is available? 
- [Errno -3] Temporary failure in name resolution
-Can't connect to wss://entrypoint-finney.opentensor.ai:443

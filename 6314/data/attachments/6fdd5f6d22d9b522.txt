@@ -1,6 +1,0 @@
-Connecting to  wss://rpc-para.ajuna.network
-⚠️ Can't connect by wss://rpc-para.ajuna.network, check it is available? 
- [Errno -3] Temporary failure in name resolution
-Can't connect to wss://rpc-para.ajuna.network
-Connecting to  wss://ajuna.ibp.network
-Connected to  wss://ajuna.ibp.network
