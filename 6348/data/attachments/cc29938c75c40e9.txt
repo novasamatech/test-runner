@@ -1,0 +1,7 @@
+Connecting to  wss://rpc-kr.xode.net
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+Connected to  wss://rpc-kr.xode.net
+⚠️ Can't connect by wss://rpc-hetzner.xx.network, check it is available? 
+ Handshake status 525 None -+-+- {'date': 'Tue, 29 Jul 2025 15:09:35 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=MTT%2BzPzS37MTXMc1jMnjRicE%2FxVYA7lhVmbO8pVu0YgMlwGOew4amWflrWunNF0LjYpTdJQzCdpou9VfAPuyp63%2BWTTCwI%2FDNkuuWesfVJKnW4rPnQwCKGyadPaA5SnytOql78V4%2FDV%2B"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '966d89c8a9822af3-LAX', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=8936&min_rtt=8798&rtt_var=3398&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2819&recv_bytes=820&delivery_rate=324619&cwnd=230&unsent_bytes=0&cid=d427094f3087348a&ts=402&x=0"'} -+-+- b'error code: 525'
+Can't connect to wss://rpc-hetzner.xx.network
