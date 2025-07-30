@@ -1,0 +1,13 @@
+Connecting to  wss://rpc.xx.network
+Connecting to  wss://rpc.xx.network
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+Can't connect to wss://rpc-hetzner.xx.network
+Connecting to  wss://rpc.xx.network
+⚠️ Can't connect by wss://rpc.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Wed, 30 Jul 2025 15:07:33 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=ais1fBAzcHyMr7MIuPz%2FwOUh0Yf48GVOLOgojf8Lyiqn08jqocGwgXnJT3nkc1u4HFFTQ5yHG4Mq7Xb1iPa%2FA5Ajft%2BIgmj1zgxr%2Fbx9dPeGUfTqTZeHChctDfprDzSP8w%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '9675c42bebc71972-IAD', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=1246&min_rtt=1242&rtt_var=474&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2818&recv_bytes=804&delivery_rate=2238244&cwnd=251&unsent_bytes=0&cid=59b1b3ed3ff52786&ts=432&x=0"'} -+-+- None
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+⚠️ Can't connect by wss://rpc-hetzner.xx.network, check it is available? 
+ Handshake status 525 None -+-+- {'date': 'Wed, 30 Jul 2025 15:07:34 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=%2BRVi1uUQvNTgwy5UKxlZ%2FhkciFVfvHybgZYmFQbMsMsBD0OfNsbVOOpRmumr7HVmm4wWS%2BcUjGLpBVdbpYCt8ovPZWlKnwNh1%2FdK3eFFISRKmzFKAH5jr0dowO%2B5w3wgTU9bWPvVHGT8"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '9675c4311f3f8009-IAD', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=1146&min_rtt=1090&rtt_var=449&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2820&recv_bytes=820&delivery_rate=2620183&cwnd=251&unsent_bytes=0&cid=4f3d9421817ccf82&ts=312&x=0"'} -+-+- b'error code: 525'
+Can't connect to wss://rpc-hetzner.xx.network
