@@ -1,0 +1,13 @@
+Connecting to  wss://rpc.xx.network
+Connecting to  wss://rpc.xx.network
+⚠️ Can't connect by wss://rpc.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 01 Aug 2025 15:07:29 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=mJzMBWv55gQT4NLCTW1jn4%2BZbyM8sORPjvf2HUeM5v7ksj10rwSMoA9zu3Ab2CnZYBvQgrb%2F6LSDtJwYbOMCFa0SQYtCEi7DIdJU4Ws3rC09ToXlwVoLwiAc5FDP70VpuQ%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '96863ecfcb68d679-IAD', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=5523&min_rtt=5289&rtt_var=2151&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2824&recv_bytes=804&delivery_rate=539988&cwnd=251&unsent_bytes=0&cid=aa32e2ddbb275cc3&ts=432&x=0"'} -+-+- None
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+⚠️ Can't connect by wss://rpc-hetzner.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 01 Aug 2025 15:07:29 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=LbWHbp68oJCk5gnkJ7d%2F48bjQVkAV5jILrNDCzKQJT6B%2FeiDW%2FWjUiKtvF8mZvSRP0pAz668Zhz2CaxgHEltB9FUhg0I091Qmgp2NtmnUpDE2%2F4CZdGvpBH%2BjaV4%2BQD4Dr1jS7AAkoBX"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '96863ed538318015-IAD', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=5343&min_rtt=5331&rtt_var=2025&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2823&recv_bytes=820&delivery_rate=525579&cwnd=252&unsent_bytes=0&cid=437d018adcaf3825&ts=434&x=0"'} -+-+- None
+Can't connect to wss://rpc-hetzner.xx.network
+Connecting to  wss://rpc.xx.network
+Connected to  wss://rpc.xx.network
