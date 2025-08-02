@@ -1,3 +1,0 @@
-Connecting to  wss://explorer-rpc-ws.mainnet.stages.humanode.io
-Connecting to  wss://explorer-rpc-ws.mainnet.stages.humanode.io
-Connected to  wss://explorer-rpc-ws.mainnet.stages.humanode.io
