@@ -1,0 +1,6 @@
+Connecting to  wss://rpc-assethub.novasama-tech.org
+⚠️ Can't connect by wss://rpc-assethub.novasama-tech.org, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'date': 'Sun, 03 Aug 2025 09:06:23 GMT', 'content-type': 'text/plain; charset=utf-8', 'content-length': '20', 'connection': 'keep-alive', 'x-content-type-options': 'nosniff', 'cf-cache-status': 'BYPASS', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=R41BirnC6A%2FF6CqrbeTnD61QP6SjNXs8UvujBzuR29U9FgDy5DzwlwaEZglkEX6z0Lx%2BxkgoKTk9QwvZaZga%2BkOR3IQSIRA7UX3f28i%2F4DjEvaOYAnZpW99EZhVdXjMCrIcKZXS%2FyC8LHdx4j%2Fjdlw%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '9694a8a11ecbaa17-IAD', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=1824&min_rtt=1553&rtt_var=776&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2843&recv_bytes=836&delivery_rate=1839021&cwnd=251&unsent_bytes=0&cid=f799b90f536b7253&ts=128&x=0"'} -+-+- b'no available server\n'
+Can't connect to wss://rpc-assethub.novasama-tech.org
+Connecting to  wss://sys.ibp.network/asset-hub-polkadot
+Connected to  wss://sys.ibp.network/asset-hub-polkadot
