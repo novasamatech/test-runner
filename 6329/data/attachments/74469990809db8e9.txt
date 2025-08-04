@@ -1,3 +1,0 @@
-Connecting to  wss://mainnet3.creditcoin.network
-Connected to  wss://mainnet3.creditcoin.network
-Can't connect to wss://rpc-do.xx.network

@@ -1,3 +1,0 @@
-Connecting to  wss://public-rpc.canary.acurast.com
-Connected to  wss://public-rpc.canary.acurast.com
-Can't connect to wss://rpc-do.xx.network
