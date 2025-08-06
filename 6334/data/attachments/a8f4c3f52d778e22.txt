@@ -1,6 +1,0 @@
-⚠️ Can't connect by wss://westend.dotters.network, check it is available? 
- [Errno -2] Name or service not known
-⚠️ Can't connect by wss://westend.dotters.network, check it is available? 
- [Errno -2] Name or service not known
-⚠️ Can't connect by wss://westend.dotters.network, check it is available? 
- [Errno -2] Name or service not known
