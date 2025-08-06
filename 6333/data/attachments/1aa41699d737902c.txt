@@ -1,6 +1,0 @@
-Connecting to  wss://rpc.jamton.network
-Can't connect to wss://rpc.xx.network
-Connecting to  wss://rpc-hetzner.xx.network
-Connected to  wss://rpc.jamton.network
-Can't connect to wss://rpc-hetzner.xx.network
-Connecting to  wss://rpc-do.xx.network
