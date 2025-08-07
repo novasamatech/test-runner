@@ -1,3 +1,0 @@
-Connecting to  wss://explorer-rpc-ws.mainnet.stages.humanode.io
-Can't connect to wss://rpc-do.xx.network
-Connected to  wss://explorer-rpc-ws.mainnet.stages.humanode.io
