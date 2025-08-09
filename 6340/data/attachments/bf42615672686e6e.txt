@@ -1,4 +1,0 @@
-Connecting to  wss://altair.api.onfinality.io/public-ws
-Connected to  wss://altair.api.onfinality.io/public-ws
-Connecting to  wss://altair.api.onfinality.io/public-ws
-Connected to  wss://altair.api.onfinality.io/public-ws

@@ -1,4 +1,0 @@
-Connecting to  wss://wss.api.moonriver.moonbeam.network
-Connected to  wss://wss.api.moonriver.moonbeam.network
-Connecting to  wss://wss.api.moonriver.moonbeam.network
-Connected to  wss://wss.api.moonriver.moonbeam.network
