@@ -1,5 +1,0 @@
-Connecting to  wss://tanssi.tanssi-mainnet.network
-Connected to  wss://tanssi.tanssi-mainnet.network
-Can't connect to wss://rpc.tangle.tools
-Connecting to  wss://tangle-mainnet-rpc.dwellir.com
-Can't connect to wss://tangle-mainnet-rpc.dwellir.com
