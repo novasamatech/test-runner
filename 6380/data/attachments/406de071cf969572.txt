@@ -1,0 +1,7 @@
+Connecting to  wss://rpc.xx.network
+Connecting to  wss://rpc.xx.network
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+⚠️ Can't connect by wss://rpc-hetzner.xx.network, check it is available? 
+ Handshake status 520 None -+-+- {'date': 'Thu, 14 Aug 2025 15:07:30 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=IyoJxGGj9Im%2FeCnKYoSx47IDmLXrlAxJAYA%2FK4e6q8oSwtfJmg%2FuZTkonJS9Ngu9SaKRWSZNG%2B92VVbIrvdyj30EDwx5O3BrMZhmWSlzJf14d6vU6%2FhPKyFSaaPBqP%2F88rspIHkNgXZH"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '96f15cb7bd466cc7-IAD', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=4986&min_rtt=4979&rtt_var=1883&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2823&recv_bytes=820&delivery_rate=566441&cwnd=249&unsent_bytes=0&cid=6743b70fb6ba852f&ts=465&x=0"'} -+-+- b'error code: 520'
+Can't connect to wss://rpc-hetzner.xx.network
