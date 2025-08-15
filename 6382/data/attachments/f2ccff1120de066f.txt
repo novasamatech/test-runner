@@ -1,0 +1,5 @@
+Connecting to  wss://mainnet3.creditcoin.network
+Connected to  wss://mainnet3.creditcoin.network
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+Can't connect to wss://rpc-hetzner.xx.network
