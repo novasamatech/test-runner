@@ -1,0 +1,3 @@
+Connecting to  wss://0.rpc.frequency.xyz
+Connecting to  wss://0.rpc.frequency.xyz
+Connected to  wss://0.rpc.frequency.xyz

@@ -1,0 +1,1 @@
+Connecting to  wss://0.rpc.frequency.xyz

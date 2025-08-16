@@ -1,4 +1,0 @@
-Connecting to  wss://rpc.dentnet.io/ws
-⚠️ Can't connect by wss://rpc.dentnet.io/ws, check it is available? 
- Connection to remote host was lost.
-Can't connect to wss://rpc.dentnet.io/ws
