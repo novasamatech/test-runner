@@ -1,6 +1,0 @@
-Connecting to  wss://fullnode.centrifuge.io
-⚠️ Can't connect by wss://fullnode.centrifuge.io, check it is available? 
- Handshake status 503 Service Temporarily Unavailable -+-+- {'date': 'Sat, 02 Aug 2025 09:07:22 GMT', 'content-type': 'text/html', 'content-length': '190', 'connection': 'keep-alive', 'strict-transport-security': 'max-age=15724800; includeSubDomains'} -+-+- b'<html>\r\n<head><title>503 Service Temporarily Unavailable</title></head>\r\n<body>\r\n<center><h1>503 Service Temporarily Unavailable</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n'
-Can't connect to wss://fullnode.centrifuge.io
-Connecting to  wss://rpc-centrifuge.luckyfriday.io
-Connected to  wss://rpc-centrifuge.luckyfriday.io
