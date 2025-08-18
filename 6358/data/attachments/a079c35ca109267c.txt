@@ -1,5 +1,0 @@
-Connecting to  wss://coretime-kusama-rpc.dwellir.com
-Connected to  wss://coretime-kusama-rpc.dwellir.com
-Can't connect to wss://rpc.xx.network
-Connecting to  wss://rpc-hetzner.xx.network
-Can't connect to wss://rpc-hetzner.xx.network

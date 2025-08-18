@@ -1,0 +1,13 @@
+Connecting to  wss://rpc.xx.network
+Connecting to  wss://rpc.xx.network
+⚠️ Can't connect by wss://rpc.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Mon, 18 Aug 2025 15:07:32 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=C29An2Eaus0UkTD4z%2BQp1Lbu%2FO838XiGgBBp3z1EFaEKzjyFZg6GMyiUHvXGmp0vzwT8Ifr7VyZZCdqJAlEz%2FxHqMNY%2BwAvrkiboQDXJJJS9jUPqY77Lz5FwR%2F1ffEtEfQ%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '97125242dee8310c-IAD', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=1937&min_rtt=1934&rtt_var=731&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2822&recv_bytes=804&delivery_rate=1457142&cwnd=251&unsent_bytes=0&cid=2a079c9469de2d8e&ts=389&x=0"'} -+-+- None
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+⚠️ Can't connect by wss://rpc-hetzner.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Mon, 18 Aug 2025 15:07:32 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=v3XVAd5As542jn5zjzPCKfJOd4c7x206EvxA1476iWun0V%2BJCnX1BUgZc4Ow7qUoiGJmnEXLQan%2FU40yVzS4wJwfpofd2vaa2JQWMqY%2BFMaca1KZuG5fNTAc4w9P7llDX5AvGRwDCEgE"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '971252494e8fd9d2-FRA', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=95242&min_rtt=95129&rtt_var=35754&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2824&recv_bytes=820&delivery_rate=30022&cwnd=32&unsent_bytes=0&cid=2062df9267eb04a3&ts=182&x=0"'} -+-+- None
+Can't connect to wss://rpc-hetzner.xx.network
+Connecting to  wss://rpc.xx.network
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+Can't connect to wss://rpc-hetzner.xx.network
