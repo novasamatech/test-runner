@@ -1,5 +1,0 @@
-Connecting to  wss://rpc.laos.laosfoundation.io
-Connected to  wss://rpc.laos.laosfoundation.io
-Can't connect to wss://rpc.xx.network
-Connecting to  wss://rpc-hetzner.xx.network
-Can't connect to wss://rpc-hetzner.xx.network
