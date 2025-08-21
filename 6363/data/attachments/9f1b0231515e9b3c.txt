@@ -1,7 +1,0 @@
-Connecting to  wss://info.dbcwallet.io
-Can't connect to wss://rpc.xx.network
-Connecting to  wss://rpc-hetzner.xx.network
-Connected to  wss://info.dbcwallet.io
-⚠️ Can't connect by wss://rpc-hetzner.xx.network, check it is available? 
- Handshake status 500 Internal Server Error -+-+- {'date': 'Wed, 06 Aug 2025 09:11:36 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=gGDO%2B9XzFbZyioep3FdKVSeErNGVWEzFGEsDAPXH9kawv0LRdzcFo%2Fhy2LqDS2c596%2FlQApvVVvIUsjfniE0sT9NM0wgRGCPYwt9Wv%2FkgVOM8zo3jXu7YDiSJsh%2BxINAz4hFD%2Fik10uM"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '96ad68642b322009-IAD', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=7349&min_rtt=5507&rtt_var=3381&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2822&recv_bytes=820&delivery_rate=518612&cwnd=251&unsent_bytes=0&cid=899217f78534b1ca&ts=417&x=0"'} -+-+- None
-Can't connect to wss://rpc-hetzner.xx.network
