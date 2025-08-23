@@ -1,4 +1,0 @@
-Connecting to  wss://fullnode.centrifuge.io
-Connected to  wss://fullnode.centrifuge.io
-Connecting to  wss://fullnode.centrifuge.io
-Connected to  wss://fullnode.centrifuge.io
