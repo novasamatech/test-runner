@@ -1,0 +1,10 @@
+Connecting to  wss://rpc.tangle.tools
+Connecting to  wss://rpc.tangle.tools
+⚠️ Can't connect by wss://rpc.tangle.tools, check it is available? 
+ Handshake status 523 None -+-+- {'date': 'Sat, 23 Aug 2025 09:07:22 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=StW%2BIfTCDv6T%2F%2F4ZJx22RMr9k2egGmJAxZJgOV64h97KU36ybpmrN1TJ2gqSH%2FKrh%2FoIV%2By7H9p39UsEvJCy4ZwoFJJpHWf7xZLR8woiQgbjQkKdCaC6BIh%2FyOJ7xih2150%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'speculation-rules': '"/cdn-cgi/speculation"', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'expect-ct': 'max-age=86400, enforce', 'referrer-policy': 'same-origin', 'x-content-type-options': 'nosniff', 'x-frame-options': 'SAMEORIGIN', 'x-xss-protection': '1; mode=block', 'server': 'cloudflare', 'cf-ray': '9739758019e2c5ce-IAD', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=1360&min_rtt=1161&rtt_var=578&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2830&recv_bytes=808&delivery_rate=2459948&cwnd=241&unsent_bytes=0&cid=2004adc07d14db4b&ts=2480&x=0"'} -+-+- b'error code: 523'
+Can't connect to wss://rpc.tangle.tools
+Connecting to  wss://tangle-mainnet-rpc.dwellir.com
+Connected to  wss://tangle-mainnet-rpc.dwellir.com
+Can't connect to wss://rpc.tangle.tools
+Connecting to  wss://tangle-mainnet-rpc.dwellir.com
+Can't connect to wss://tangle-mainnet-rpc.dwellir.com
