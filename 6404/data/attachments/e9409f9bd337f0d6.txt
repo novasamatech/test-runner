@@ -1,0 +1,1 @@
+Timeout 15 when creating connection: wss://rpcnodea01.xode.net/n7yoxCmcIrCF6VziCcDmYTwL8R03a/rpc
