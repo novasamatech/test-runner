@@ -1,0 +1,4 @@
+Connecting to  wss://rpc.joystream.org
+⚠️ Can't connect by wss://rpc.joystream.org, check it is available? 
+ [Errno 104] Connection reset by peer
+Can't connect to wss://rpc.joystream.org
