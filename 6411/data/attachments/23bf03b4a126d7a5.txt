@@ -1,0 +1,7 @@
+Connecting to  wss://archive.parachain.curioinvest.com
+Connecting to  wss://archive.parachain.curioinvest.com
+Connecting to  wss://archive.parachain.curioinvest.com
+⚠️ Can't connect by wss://archive.parachain.curioinvest.com, check it is available? 
+ Handshake status 523 None -+-+- {'date': 'Sat, 30 Aug 2025 09:07:32 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=EGea8k%2ByKluJGOKRTaWAL%2FJNsYTqdW8H3unkGdCtNC373IZQcC608JIS28C8Pm2iTTk3mHoOXU1Iv%2BymKeChA84fZJOQjixN6ynthEK7BD%2BNkbA9cGXEXX77zTeAlyKFj4Cj%2BpF4COc6KL88wPkYICRTow%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '9773233e2b6aeb25-SJC', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=1333&min_rtt=1251&rtt_var=528&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2853&recv_bytes=842&delivery_rate=2282973&cwnd=246&unsent_bytes=0&cid=a676c1b80bc3d064&ts=7662&x=0"'} -+-+- b'error code: 523'
+Can't connect to wss://archive.parachain.curioinvest.com
+Connecting to  wss://parachain.curioinvest.com/
