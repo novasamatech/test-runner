@@ -1,0 +1,4 @@
+Connecting to  wss://rpc.mainnet.cere.network/ws
+Can't connect to wss://archive.parachain.curioinvest.com
+Connecting to  wss://parachain.curioinvest.com/
+Connected to  wss://rpc.mainnet.cere.network/ws
