@@ -1,0 +1,6 @@
+Connecting to  wss://rpc.darwinia.network
+⚠️ Can't connect by wss://rpc.darwinia.network, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Thu, 04 Sep 2025 15:06:41 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=uw31ufqQWnqLkODEj%2BPABvp5ZOHl2ZJuYdto4CSIyxqImS8C%2FmnR526O4yce3g%2F%2Fw4whfKMD%2BxcT1cLvANHxrojxDMPf8Yed1pJVvwv6O2JVM1wRrSYbEO3d3FrDpD8wPjf2ra1h3w%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '979e64642efc0373-CDG', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=85651&min_rtt=85638&rtt_var=24109&sent=5&recv=7&lost=0&retrans=0&sent_bytes=2891&recv_bytes=816&delivery_rate=49989&cwnd=33&unsent_bytes=0&cid=88409b2a4981d2d5&ts=628&x=0"'} -+-+- None
+Can't connect to wss://rpc.darwinia.network
+Connecting to  wss://rpc.darwinia.network
+Connected to  wss://rpc.darwinia.network
