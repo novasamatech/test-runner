@@ -1,6 +1,0 @@
-Connecting to  wss://api.interlay.io/parachain
-⚠️ Can't connect by wss://api.interlay.io/parachain, check it is available? 
- Connection to remote host was lost.
-Can't connect to wss://api.interlay.io/parachain
-Connecting to  wss://rpc-interlay.luckyfriday.io/
-Connected to  wss://rpc-interlay.luckyfriday.io/
