@@ -1,0 +1,6 @@
+Connecting to  wss://rpc.basilisk.cloud
+Connecting to  wss://rpc.basilisk.cloud
+Connecting to  wss://rpc.basilisk.cloud
+Can't connect to wss://rpc.basilisk.cloud
+Connecting to  wss://basilisk-rpc.dwellir.com
+Connected to  wss://basilisk-rpc.dwellir.com

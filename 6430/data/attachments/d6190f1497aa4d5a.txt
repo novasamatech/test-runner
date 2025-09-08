@@ -1,0 +1,5 @@
+Connecting to  wss://wss-krest.peaq.network/
+Can't connect to wss://rpc.basilisk.cloud
+Connecting to  wss://basilisk-rpc.dwellir.com
+Connected to  wss://wss-krest.peaq.network/
+Connected to  wss://basilisk-rpc.dwellir.com
