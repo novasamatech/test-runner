@@ -1,1 +1,0 @@
-Connecting to  wss://polkadot-people-rpc.polkadot.io
