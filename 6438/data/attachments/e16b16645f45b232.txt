@@ -1,0 +1,3 @@
+Connecting to  wss://rpc.devolvedai.com
+Connecting to  wss://rpc.devolvedai.com
+Connecting to  wss://rpc.devolvedai.com
