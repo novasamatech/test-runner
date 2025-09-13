@@ -1,0 +1,3 @@
+Connecting to  wss://info.dbcwallet.io
+Connected to  wss://rpc-hetzner.xx.network
+Connected to  wss://info.dbcwallet.io

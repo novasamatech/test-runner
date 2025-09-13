@@ -1,3 +1,0 @@
-Connecting to  wss://archive.parachain.curioinvest.com
-Connecting to  wss://archive.parachain.curioinvest.com
-Connecting to  wss://archive.parachain.curioinvest.com
