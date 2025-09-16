@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://rpc-kr.xode.net, check it is available? 
- [Errno 111] Connection refused
