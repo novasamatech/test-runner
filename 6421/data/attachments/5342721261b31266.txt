@@ -1,2 +1,0 @@
-Connecting to  wss://kilt.ibp.network
-Connected to  wss://kilt.ibp.network

@@ -1,2 +1,0 @@
-Connecting to  wss://acala-rpc-0.aca-api.network
-Connected to  wss://acala-rpc-0.aca-api.network
