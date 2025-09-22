@@ -1,6 +1,0 @@
-Connecting to  wss://wss-krest.peaq.network/
-⚠️ Can't connect by wss://wss-krest.peaq.network/, check it is available? 
- Handshake status 525 None -+-+- {'date': 'Sun, 07 Sep 2025 15:06:22 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=ccev4JEKx7oeEPOnqXy3iQ7N4KhGCf3%2BeV0%2F5D8MlgjFFm18kmniY5PCl7aa09%2FeYY%2BUtjgdVn5%2Fn74jkvjLZdc1WS98R6FEv8uVLrXanK8UmWmC%2B%2F2fwqJ0Q0k0bBKgudCzDzv7PFs%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '97b71c133e5610bb-ORD', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=2028&min_rtt=2003&rtt_var=609&sent=4&recv=7&lost=0&retrans=0&sent_bytes=2828&recv_bytes=820&delivery_rate=1333956&cwnd=251&unsent_bytes=0&cid=805fc71c1028918f&ts=280&x=0"'} -+-+- b'error code: 525'
-Can't connect to wss://wss-krest.peaq.network/
-Connecting to  wss://wss-krest.peaq.network/
-Connected to  wss://wss-krest.peaq.network/
