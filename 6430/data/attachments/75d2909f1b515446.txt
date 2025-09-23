@@ -1,5 +1,0 @@
-Connecting to  wss://altair.api.onfinality.io/public-ws
-Can't connect to wss://rpc.basilisk.cloud
-Connecting to  wss://basilisk-rpc.dwellir.com
-Connected to  wss://altair.api.onfinality.io/public-ws
-Connected to  wss://basilisk-rpc.dwellir.com
