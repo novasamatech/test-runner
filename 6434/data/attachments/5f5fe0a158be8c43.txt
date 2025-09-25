@@ -1,6 +1,0 @@
-Connecting to  wss://crust-parachain.crustapps.net
-⚠️ Can't connect by wss://crust-parachain.crustapps.net, check it is available? 
- Connection to remote host was lost.
-Can't connect to wss://crust-parachain.crustapps.net
-Connecting to  wss://crust-parachain.crustapps.net
-Connected to  wss://crust-parachain.crustapps.net
