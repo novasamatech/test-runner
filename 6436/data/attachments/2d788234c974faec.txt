@@ -1,6 +1,0 @@
-Connecting to  wss://rpc.darwinia.network
-Connected to  wss://rpc.darwinia.network
-Connecting to  wss://rpc.darwinia.network
-⚠️ Can't connect by wss://rpc.darwinia.network, check it is available? 
- Connection to remote host was lost.
-Can't connect to wss://rpc.darwinia.network
