@@ -1,8 +1,7 @@
 name: Networks healthcheck
 
 on:
-  schedule:
-    - cron: '0 9,15 * * *'  # Run at 09:00 and 15:00 every day
+  pull_request:
   workflow_dispatch:
     inputs:
       ALLURE_JOB_RUN_ID:
@@ -13,7 +12,6 @@ on:
         type: string
         description: ALLURE_USERNAME service parameter. Leave blank.
         required: false
-  pull_request:
 
 env:
   TEST_RE_RUNS: 2
@@ -68,6 +66,11 @@ jobs:
 
       - name: Set up actual paths
         uses: ./.github/workflows/setup-path
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
 
       - name: Install dependencies
         run: |
