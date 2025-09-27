@@ -1,6 +1,0 @@
-Connecting to  wss://rpc-kr.xode.net
-⚠️ Can't connect by wss://rpc-kr.xode.net, check it is available? 
- [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)
-Can't connect to wss://rpc-kr.xode.net
-Connecting to  wss://rpc-kr.xode.net
-Connected to  wss://rpc-kr.xode.net
