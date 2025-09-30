@@ -1,0 +1,5 @@
+Connecting to  wss://kreivo.kippu.rocks/
+Connected to  wss://kreivo.kippu.rocks/
+Can't connect to wss://archive.parachain.curioinvest.com
+Connecting to  wss://parachain.curioinvest.com/
+Can't connect to wss://parachain.curioinvest.com/
