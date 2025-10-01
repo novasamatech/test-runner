@@ -1,0 +1,3 @@
+Connecting to  wss://coretime-kusama-rpc.dwellir.com
+Connected to  wss://coretime-kusama-rpc.dwellir.com
+Can't connect to wss://crust-parachain.crustapps.net
