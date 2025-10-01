@@ -1,0 +1,3 @@
+Connecting to  wss://entrypoint-finney.opentensor.ai:443
+Connected to  wss://entrypoint-finney.opentensor.ai:443
+Can't connect to wss://crust-parachain.crustapps.net
