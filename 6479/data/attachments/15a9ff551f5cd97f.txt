@@ -1,0 +1,7 @@
+Connecting to  wss://rpc.darwinia.network
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+Connected to  wss://rpc.darwinia.network
+⚠️ Can't connect by wss://rpc-hetzner.xx.network, check it is available? 
+ Handshake status 525 None -+-+- {'date': 'Thu, 02 Oct 2025 09:06:57 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=ZpDBVVAOeAWiBQl8GSDnF%2FZax0QkVt9Dp7D3XhxptuvIbWXWsrPU78XcNNrtJqfunMSjTZDauXxFxLjxFphTfOH%2ByCqbfSM6aAWoBVf17d51Br8gnBgd8OhVtHYhQt6vlXe0XSLIb%2FRd"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '98830bf269ca69e2-DFW', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=17367&min_rtt=17276&rtt_var=6544&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2822&recv_bytes=820&delivery_rate=165316&cwnd=251&unsent_bytes=0&cid=e5d1dbf9adb1b8a1&ts=334&x=0"'} -+-+- b'error code: 525'
+Can't connect to wss://rpc-hetzner.xx.network
