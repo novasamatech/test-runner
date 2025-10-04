@@ -1,0 +1,3 @@
+Connecting to  wss://rpc.xx.network
+Connecting to  wss://rpc.xx.network
+Connected to  wss://rpc.xx.network

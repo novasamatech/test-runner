@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://astar-rpc.dwellir.com, check it is available? 
+ Handshake status 410 Gone -+-+- {'content-length': '114', 'content-type': 'text/plain'} -+-+- b'This endpoint has been retired. Please migrate to the upgraded service at https://dashboard.dwellir.com/endpoints\n'
+⚠️ Can't connect by wss://astar-rpc.dwellir.com, check it is available? 
+ Handshake status 410 Gone -+-+- {'content-length': '114', 'content-type': 'text/plain'} -+-+- b'This endpoint has been retired. Please migrate to the upgraded service at https://dashboard.dwellir.com/endpoints\n'

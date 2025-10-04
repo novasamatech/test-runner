@@ -1,0 +1,7 @@
+Connecting to  wss://explorer-rpc-ws.mainnet.stages.humanode.io
+Connected to  wss://explorer-rpc-ws.mainnet.stages.humanode.io
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+⚠️ Can't connect by wss://rpc-hetzner.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Sat, 04 Oct 2025 15:06:13 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=DeXk1tfdn7J0aoACvQB4mcn33Ao9HDli50gs%2BmUSpZ7BMaSifBuro1m7uhCCV1eL6VdmAaFuQs%2Bh9A5bVAE%2FI1tx2yjIdygoz9JijiiV7pSWnfupVQSV1hEwEb1AtX5sOvxezQLIpZux"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '989594f74e5b462e-ORD', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=1840&min_rtt=1757&rtt_var=567&sent=4&recv=7&lost=0&retrans=0&sent_bytes=2821&recv_bytes=820&delivery_rate=1620885&cwnd=251&unsent_bytes=0&cid=5cc4fbde320ffc45&ts=401&x=0"'} -+-+- None
+Can't connect to wss://rpc-hetzner.xx.network

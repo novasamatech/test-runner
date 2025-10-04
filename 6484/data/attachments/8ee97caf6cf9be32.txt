@@ -1,0 +1,2 @@
+Connecting to  wss://rpc-sha-subscan.crustnetwork.xyz
+Connected to  wss://rpc-sha-subscan.crustnetwork.xyz
