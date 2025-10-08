@@ -1,0 +1,2 @@
+Connecting to  wss://sys.ibp.network/bridgehub-kusama
+Connected to  wss://sys.ibp.network/bridgehub-kusama
