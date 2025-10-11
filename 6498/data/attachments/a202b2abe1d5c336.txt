@@ -1,0 +1,3 @@
+Connecting to  wss://kreivo.kippu.rocks/
+Connected to  wss://kreivo.kippu.rocks/
+Can't connect to wss://public-rpc.canary.acurast.com
