@@ -1,0 +1,6 @@
+Connecting to  wss://polkadot-people-rpc.polkadot.io
+⚠️ Can't connect by wss://polkadot-people-rpc.polkadot.io, check it is available? 
+ EOF occurred in violation of protocol (_ssl.c:2436)
+Can't connect to wss://polkadot-people-rpc.polkadot.io
+Connecting to  wss://sys.ibp.network/people-polkadot
+Connected to  wss://sys.ibp.network/people-polkadot
