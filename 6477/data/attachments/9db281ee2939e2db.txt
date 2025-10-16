@@ -1,4 +1,0 @@
-Connecting to  wss://nexus.ibp.network
-Connected to  wss://nexus.ibp.network
-Can't connect to wss://rpc.xx.network
-Connecting to  wss://rpc-hetzner.xx.network

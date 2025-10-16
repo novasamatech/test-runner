@@ -1,3 +1,0 @@
-Connecting to  wss://mainnet-rpc.avail.so/ws
-Connected to  wss://rpc-hetzner.xx.network
-Connected to  wss://mainnet-rpc.avail.so/ws
