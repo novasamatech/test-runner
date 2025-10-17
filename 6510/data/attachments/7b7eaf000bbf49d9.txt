@@ -1,0 +1,5 @@
+Connecting to  wss://rpc.3dpass.org
+⚠️ Can't connect by wss://rpc-hetzner.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 17 Oct 2025 15:06:43 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=u7onIVbMEJMsWRUxLm0fbOLyf%2FVxqFVY0HYdSVXSpvyQrDV7qyAU%2F8UaBZR51RNA0qZeKAXDRQtpK%2BeVRFZOBL6lpKJtgMVKBQeXeweFSKTN4KLziqN96HHOeMXNm5pwk7QfNxo8NuUp"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '9900b3926e9de5b6-IAD', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=17295&min_rtt=17285&rtt_var=6502&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2820&recv_bytes=820&delivery_rate=164449&cwnd=251&unsent_bytes=0&cid=c6df5f37de1f8ca7&ts=414&x=0"'} -+-+- None
+Can't connect to wss://rpc-hetzner.xx.network
+Connected to  wss://rpc.3dpass.org
