@@ -1,6 +1,0 @@
-⚠️ Can't connect by wss://ipci.rpc.robonomics.network, check it is available? 
- Handshake status 404 Not Found -+-+- {'server': 'nginx/1.29.1', 'date': 'Thu, 02 Oct 2025 09:07:41 GMT', 'content-type': 'text/html', 'content-length': '153', 'connection': 'keep-alive'} -+-+- b'<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx/1.29.1</center>\r\n</body>\r\n</html>\r\n'
-⚠️ Can't connect by wss://ipci.rpc.robonomics.network, check it is available? 
- Handshake status 404 Not Found -+-+- {'server': 'nginx/1.29.1', 'date': 'Thu, 02 Oct 2025 09:07:47 GMT', 'content-type': 'text/html', 'content-length': '153', 'connection': 'keep-alive'} -+-+- b'<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx/1.29.1</center>\r\n</body>\r\n</html>\r\n'
-⚠️ Can't connect by wss://ipci.rpc.robonomics.network, check it is available? 
- Handshake status 404 Not Found -+-+- {'server': 'nginx/1.29.1', 'date': 'Thu, 02 Oct 2025 09:07:53 GMT', 'content-type': 'text/html', 'content-length': '153', 'connection': 'keep-alive'} -+-+- b'<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx/1.29.1</center>\r\n</body>\r\n</html>\r\n'
