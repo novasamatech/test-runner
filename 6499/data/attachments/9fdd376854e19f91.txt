@@ -1,3 +1,0 @@
-Connecting to  wss://mainnet-rpc.avail.so/ws
-Connected to  wss://mainnet-rpc.avail.so/ws
-Can't connect to wss://public-rpc.canary.acurast.com

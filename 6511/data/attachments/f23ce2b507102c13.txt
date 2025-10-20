@@ -1,2 +1,0 @@
-Connecting to  wss://polkadex.public.curie.radiumblock.co/ws
-Connected to  wss://polkadex.public.curie.radiumblock.co/ws

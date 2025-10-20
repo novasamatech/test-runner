@@ -1,2 +1,0 @@
-Connecting to  wss://ipci.rpc.robonomics.network
-Connected to  wss://ipci.rpc.robonomics.network
