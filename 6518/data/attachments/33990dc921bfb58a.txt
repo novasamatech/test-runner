@@ -1,0 +1,6 @@
+Connecting to  wss://rpc.joystream.org
+Connected to  wss://rpc.joystream.org
+Connecting to  wss://rpc.joystream.org
+Connected to  wss://rpc.joystream.org
+Connecting to  wss://rpc.joystream.org
+Connected to  wss://rpc.joystream.org

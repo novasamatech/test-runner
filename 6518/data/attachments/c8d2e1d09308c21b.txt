@@ -1,0 +1,4 @@
+Connecting to  wss://polkadot-mythos-rpc.polkadot.io
+Connected to  wss://polkadot-mythos-rpc.polkadot.io
+Connecting to  wss://polkadot-mythos-rpc.polkadot.io
+Connected to  wss://polkadot-mythos-rpc.polkadot.io

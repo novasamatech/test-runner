@@ -1,0 +1,5 @@
+Connecting to  wss://kreivo.kippu.rocks/
+Can't connect to wss://mythos.ibp.network
+Connecting to  wss://mythos.dotters.network
+Connected to  wss://mythos.dotters.network
+Connected to  wss://kreivo.kippu.rocks/
