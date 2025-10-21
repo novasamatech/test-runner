@@ -1,0 +1,2 @@
+Connecting to  wss://westend-rpc.dwellir.com
+Connected to  wss://westend-rpc.dwellir.com
