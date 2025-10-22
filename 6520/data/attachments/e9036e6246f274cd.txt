@@ -1,0 +1,2 @@
+Connecting to  wss://rpc.basilisk.cloud
+Connected to  wss://rpc.basilisk.cloud
