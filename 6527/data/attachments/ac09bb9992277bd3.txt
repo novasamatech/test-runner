@@ -1,0 +1,2 @@
+Connecting to  wss://sys.ibp.network/collectives-polkadot
+Connected to  wss://sys.ibp.network/collectives-polkadot
