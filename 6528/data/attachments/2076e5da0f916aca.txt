@@ -1,0 +1,2 @@
+Connecting to  wss://bifrost-rpc.liebi.com/ws
+Connected to  wss://bifrost-rpc.liebi.com/ws
