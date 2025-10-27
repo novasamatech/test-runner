@@ -1,0 +1,2 @@
+Connecting to  wss://phala-rpc.n.dwellir.com
+Connected to  wss://phala-rpc.n.dwellir.com
