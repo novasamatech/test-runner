@@ -1,0 +1,18 @@
+Connecting to  wss://rpc.xx.network
+Connecting to  wss://rpc.xx.network
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+Connected to  wss://rpc-hetzner.xx.network
+Connecting to  wss://rpc.xx.network
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+⚠️ Can't connect by wss://rpc.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Wed, 29 Oct 2025 15:07:39 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=GW9Zz2OmviRUnOZRpgkblyY6iOfHu%2FlZjQ0ia1A91kIw5AofsIpe9NZPhPxr4ebaAjtAnL%2FZXOjpr3OOOg%2Biu%2BwSFdI1e6ymrM0sKTLAbuvozBgtN7WwF5yt39g74eBKGw%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '9963957399d5acc6-IAD', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=16641&min_rtt=16514&rtt_var=6284&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2820&recv_bytes=804&delivery_rate=172944&cwnd=251&unsent_bytes=0&cid=321d837ee3c9bc73&ts=393&x=0"'} -+-+- None
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+⚠️ Can't connect by wss://rpc-hetzner.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Wed, 29 Oct 2025 15:07:41 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=uK5MFDmbfX8NX2XsFUXjkTFuL6ffLxDKVROk5NXx7ofi47lUrgzkHfaL6ajmcNBl%2BH9BYj99vso2AOhLJP%2BqONQVkODI2rx%2FsPT%2BFsKKUvKsagxJLeWH%2FLFqkVeO3Jx28IN%2F3s%2BY1LN5"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '9963957c5b7da56c-MIA', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=37123&min_rtt=37087&rtt_var=10461&sent=4&recv=7&lost=0&retrans=0&sent_bytes=2822&recv_bytes=820&delivery_rate=76993&cwnd=252&unsent_bytes=0&cid=790ad651dc09f100&ts=517&x=0"'} -+-+- None
+Can't connect to wss://rpc-hetzner.xx.network
+⚠️ Can't connect by wss://rpc-hetzner.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Wed, 29 Oct 2025 15:07:41 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=fAw4ARPX%2BTklE6cTZbqherOeDh8iGB%2FQIUztfowGPoWrntrP%2BsbU8AhpIBN4zWm%2FlALL%2B5fL2mZnE6oEyayrTIO2bVZ1HHUIt2KW8xJfStQdv7WAhTDC%2F4m8NeyGyVoE%2FEDhgmntvhrT"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '9963957d8bc30e9a-MIA', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=37519&min_rtt=37154&rtt_var=14194&sent=5&recv=6&lost=0&retrans=0&sent_bytes=2821&recv_bytes=820&delivery_rate=76869&cwnd=252&unsent_bytes=0&cid=8853965b804b8779&ts=736&x=0"'} -+-+- None
+Can't connect to wss://rpc-hetzner.xx.network
