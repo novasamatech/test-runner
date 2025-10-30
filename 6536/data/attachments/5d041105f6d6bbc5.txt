@@ -1,0 +1,2 @@
+Connecting to  wss://kreivo.kippu.rocks/
+Connected to  wss://kreivo.kippu.rocks/
