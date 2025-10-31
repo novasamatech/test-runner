@@ -1,0 +1,3 @@
+Connecting to  wss://karura-rpc-0.aca-api.network
+Connecting to  wss://karura-rpc-0.aca-api.network
+Connected to  wss://karura-rpc-0.aca-api.network
