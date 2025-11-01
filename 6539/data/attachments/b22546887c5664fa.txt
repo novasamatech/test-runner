@@ -1,0 +1,2 @@
+Connecting to  wss://api-kusama.interlay.io/parachain
+Connected to  wss://api-kusama.interlay.io/parachain
