@@ -1,0 +1,3 @@
+Connecting to  wss://public-rpc.mainnet.aventus.io
+Can't connect to wss://rpc-hetzner.xx.network
+Connected to  wss://public-rpc.mainnet.aventus.io
