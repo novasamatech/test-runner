@@ -1,0 +1,8 @@
+Connecting to  wss://nodle-rpc.dwellir.com
+⚠️ Can't connect by wss://nodle-rpc.dwellir.com, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://nodle-rpc.dwellir.com
+Connecting to  wss://nodle-rpc.dwellir.com
+⚠️ Can't connect by wss://nodle-rpc.dwellir.com, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://nodle-rpc.dwellir.com
