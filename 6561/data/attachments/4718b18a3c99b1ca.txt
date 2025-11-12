@@ -1,0 +1,16 @@
+Connecting to  wss://rpc.tangle.tools
+⚠️ Can't connect by wss://rpc.tangle.tools, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Wed, 12 Nov 2025 09:08:06 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=KVQkW9BURgMnqZyVAbBp7%2FIovCrPkqIMAURr4ZdOTy3ZK0NyR8fUqmry1eDleK1TK0hug3JtsNW4r9HAds2DfKZy%2B4dVBrT0%2B2u1Zv3dc85WmKwRBYIMXl2tzGfSEIYM0U0%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'speculation-rules': '"/cdn-cgi/speculation"', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'expect-ct': 'max-age=86400, enforce', 'referrer-policy': 'same-origin', 'x-content-type-options': 'nosniff', 'x-frame-options': 'SAMEORIGIN', 'x-xss-protection': '1; mode=block', 'server': 'cloudflare', 'cf-ray': '99d4e20088250fe7-LAX', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=8567&min_rtt=8492&rtt_var=3238&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2828&recv_bytes=808&delivery_rate=336316&cwnd=240&unsent_bytes=0&cid=974e7963bbff865a&ts=531&x=0"'} -+-+- b'error code: 502'
+Can't connect to wss://rpc.tangle.tools
+Connecting to  wss://tangle-mainnet-rpc.dwellir.com
+⚠️ Can't connect by wss://tangle-mainnet-rpc.dwellir.com, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://tangle-mainnet-rpc.dwellir.com
+Connecting to  wss://rpc.tangle.tools
+⚠️ Can't connect by wss://rpc.tangle.tools, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Wed, 12 Nov 2025 09:08:13 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=kSlbuVbpmjw2Ln5g%2BuwELlH2KDtuIENxYlV0FFUGsmkq56N4%2FQ8tz1rjt88fgBC9l4oSbeCbXN%2FnjvgU6oG4xqdgQtirQUIRASgQYZr5esCMpsb%2FrzS8JJVEwNPWWUZpIm0%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'speculation-rules': '"/cdn-cgi/speculation"', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'expect-ct': 'max-age=86400, enforce', 'referrer-policy': 'same-origin', 'x-content-type-options': 'nosniff', 'x-frame-options': 'SAMEORIGIN', 'x-xss-protection': '1; mode=block', 'server': 'cloudflare', 'cf-ray': '99d4e23148310fe7-LAX', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=8575&min_rtt=8556&rtt_var=3247&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2826&recv_bytes=808&delivery_rate=327786&cwnd=240&unsent_bytes=0&cid=e3e0aec61fff7efc&ts=212&x=0"'} -+-+- b'error code: 502'
+Can't connect to wss://rpc.tangle.tools
+Connecting to  wss://tangle-mainnet-rpc.dwellir.com
+⚠️ Can't connect by wss://tangle-mainnet-rpc.dwellir.com, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://tangle-mainnet-rpc.dwellir.com
