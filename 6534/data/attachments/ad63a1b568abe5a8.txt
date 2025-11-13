@@ -1,7 +1,0 @@
-Connecting to  wss://crust-parachain.crustapps.net
-Connected to  wss://crust-parachain.crustapps.net
-Can't connect to wss://rpc.xx.network
-Connecting to  wss://rpc-hetzner.xx.network
-⚠️ Can't connect by wss://rpc-hetzner.xx.network, check it is available? 
- Handshake status 500 Internal Server Error -+-+- {'date': 'Wed, 29 Oct 2025 15:07:39 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=2Rf18SLYwBmxhZMOsKU8rv6TKSi4hfg9OptDGsgK0Jfww2%2BaVzP%2F2niQpWSqblpQSJ5nLKis9YB4uJ3rn4rYD7FhG9hXx2Ey0qFZZcEd927h2D2TmXBxJXDuneAL5KOPxxNeVubivf8g"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '99639571ba582f14-LAX', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=10519&min_rtt=10383&rtt_var=3991&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2822&recv_bytes=820&delivery_rate=275065&cwnd=252&unsent_bytes=0&cid=5ced4d548eacecd6&ts=554&x=0"'} -+-+- None
-Can't connect to wss://rpc-hetzner.xx.network
