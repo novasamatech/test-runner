@@ -1,4 +1,0 @@
-Connecting to  wss://quartz.unique.network
-Connecting to  wss://quartz.unique.network
-Connected to  wss://eu-ws-quartz.unique.network
-Connected to  wss://quartz.unique.network
