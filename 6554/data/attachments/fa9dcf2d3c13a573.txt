@@ -1,2 +1,0 @@
-Connecting to  wss://wss-krest.peaq.network/
-Connected to  wss://wss-krest.peaq.network/
