@@ -1,0 +1,3 @@
+Connecting to  wss://entrypoint-finney.opentensor.ai:443
+Can't connect to wss://rpc-hetzner.xx.network
+Connected to  wss://entrypoint-finney.opentensor.ai:443
