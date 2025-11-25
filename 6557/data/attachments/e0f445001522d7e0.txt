@@ -1,6 +1,0 @@
-Connecting to  wss://rpc.xx.network
-⚠️ Can't connect by wss://rpc.xx.network, check it is available? 
- Handshake status 500 Internal Server Error -+-+- {'date': 'Mon, 10 Nov 2025 09:07:32 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=h8Pg9E7EXRDm0Mzr%2BtY%2BX5q0Dgtoqi5RhUTfuTSDbm1IUBvfg1XjHHJrOgKukmsYV1QYeh0N8xX%2FiaKMevF3ot7yV62ijFotxwVQtdq6Oca9l8wJgH01WOWERZawBidVWQ%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '99c4666c3847fad2-SJC', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=1645&min_rtt=1437&rtt_var=687&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2821&recv_bytes=804&delivery_rate=1987473&cwnd=251&unsent_bytes=0&cid=f3ac5a024b11127a&ts=601&x=0"'} -+-+- None
-Can't connect to wss://rpc.xx.network
-Connecting to  wss://rpc-hetzner.xx.network
-Connected to  wss://rpc-hetzner.xx.network
