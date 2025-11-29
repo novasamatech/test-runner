@@ -1,4 +1,0 @@
-Connecting to  wss://api-kusama.interlay.io/parachain
-Connected to  wss://api-kusama.interlay.io/parachain
-Can't connect to wss://rpc.shiden.astar.network
-Connecting to  wss://shiden-rpc.n.dwellir.com
