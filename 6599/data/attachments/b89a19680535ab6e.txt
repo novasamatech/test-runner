@@ -1,0 +1,6 @@
+Connecting to  wss://fullnode.centrifuge.io
+⚠️ Can't connect by wss://fullnode.centrifuge.io, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Mon, 01 Dec 2025 09:09:12 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'strict-transport-security': 'max-age=15724800; includeSubDomains'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to wss://fullnode.centrifuge.io
+Connecting to  wss://rpc-centrifuge.luckyfriday.io
+Connected to  wss://rpc-centrifuge.luckyfriday.io
