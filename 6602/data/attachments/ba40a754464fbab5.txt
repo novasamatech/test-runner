@@ -1,0 +1,4 @@
+Connecting to  wss://rpc.3dpass.org
+⚠️ Can't connect by wss://rpc.3dpass.org, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Tue, 02 Dec 2025 15:06:55 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=n8Pl7dwbZvLmHxDMXaOEDeZq%2F03NyeqnPFyJ9PzSnAJH%2B0%2Bes7VkFbnf1qoLu9rWr3ASgubfQPDc8XNVbfalUz%2By%2BLgJiCB2a2GuSbueySwGVVfqAKdzwVH6g1nYlldl"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '9a7bbb1c78385655-SJC', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=2100&min_rtt=1456&rtt_var=1006&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2819&recv_bytes=804&delivery_rate=1961538&cwnd=251&unsent_bytes=0&cid=14422cc35f2a20fc&ts=689&x=0"'} -+-+- None
+Can't connect to wss://rpc.3dpass.org
