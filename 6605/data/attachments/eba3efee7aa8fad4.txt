@@ -1,0 +1,3 @@
+Connecting to  wss://explorer-rpc-ws.mainnet.stages.humanode.io
+Can't connect to wss://avail.rpc.bountyblok.io
+Connected to  wss://explorer-rpc-ws.mainnet.stages.humanode.io
