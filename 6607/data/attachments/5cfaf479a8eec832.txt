@@ -1,0 +1,8 @@
+Connecting to  wss://archive.parachain.curioinvest.com
+⚠️ Can't connect by wss://archive.parachain.curioinvest.com, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 05 Dec 2025 09:07:41 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=xWxNzpyr6NN4FcBbPfskKnKn0wEe5C51X3RDl%2BV2S4UlVCrAylElbUT0P%2BmZFz36%2Bjh358UAj9AzzCI2z4an9ZJHCdUYzwx6OIScY5V1A04gZPugTG3qoxqDw0CNyvWYsFew9cykTJ9ERu%2BKkIr128PAng%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '9a92650a9b0a8c94-DFW'} -+-+- None
+Can't connect to wss://archive.parachain.curioinvest.com
+Connecting to  wss://parachain.curioinvest.com/
+⚠️ Can't connect by wss://parachain.curioinvest.com/, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 05 Dec 2025 09:07:42 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=Kim8mwXjKn69KwBEcCv25hvBhA%2BfJ57RykncEWTYBRyns8K0CyiKy2Upjdkd8InRG55CTHvs405ePbQ9QsnC1E40ir27t6UC8kvGnDf9w9DBDiuOwRC%2BAfE5FR637lqIMlN%2BCx9xGIG3lhE%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '9a92650e9b42acae-ORD'} -+-+- None
+Can't connect to wss://parachain.curioinvest.com/

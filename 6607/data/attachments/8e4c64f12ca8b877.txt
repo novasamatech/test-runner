@@ -1,0 +1,8 @@
+Connecting to  wss://rpc.3dpass.org
+⚠️ Can't connect by wss://rpc.3dpass.org, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 05 Dec 2025 09:07:19 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=oOju8Kex7Ka%2BKgnFeqb7XsG9Qq82rpuvjm4z%2FQAQE39%2BogR%2BItxD8mRF%2FQDaXny7NEm%2BNjzEORnnmFrclPACVaoIoP5b2f%2F86LS4xoCXNcdEEs1VJhW5slBALh0Ws8KJ"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '9a92647ced585c17-SJC'} -+-+- None
+Can't connect to wss://rpc.3dpass.org
+Connecting to  wss://rpc.3dpass.org
+⚠️ Can't connect by wss://rpc.3dpass.org, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 05 Dec 2025 09:07:27 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=rdVem5rY6MFwF2gaRIxlonjERQKuNRn1xuaLFzs4GphRlot06skAGnImQGLudYY%2FreUiOjBNoM%2Fgn%2F%2FGmIKBsNNCSeEf%2F6s7GBzFnzObuJ7gXgceXJ8QWBil2ItiY1Z4"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '9a9264af2bf89338-SJC'} -+-+- None
+Can't connect to wss://rpc.3dpass.org

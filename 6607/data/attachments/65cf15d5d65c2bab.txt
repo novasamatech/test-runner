@@ -1,0 +1,14 @@
+Connecting to  wss://rpc-polkadot-1.novasama-tech.org
+⚠️ Can't connect by wss://rpc-polkadot-1.novasama-tech.org, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 05 Dec 2025 09:06:20 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=1KWXtc5OEh5m%2FGfisao08rLBUsTi06AOwkncvgyG1kq8Gvpd1pVNecn9rJP4ISA6Py6zZNtuZC%2FfOZoqDTF%2B3%2Bk7nxHpeRq1YMZCOjMeySjRcvKlUbxHfERvYMKKwgSFjbvk62QhJ320sIekb6XwdZXC"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '9a92630b29f56c28-DFW'} -+-+- None
+Can't connect to wss://rpc-polkadot-1.novasama-tech.org
+Connecting to  wss://rpc-polkadot-2.novasama-tech.org
+⚠️ Can't connect by wss://rpc-polkadot-2.novasama-tech.org, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 05 Dec 2025 09:06:20 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=VULTTHFV02N2aO%2FQmi4WGfHqYSvTOVS32llFp2rBilUano5rtbVu7jN64fRdGvROm%2FJOn2tedTMisTWC872dvLixKhcApfs0cRtPdIRnrQPIuJi%2BL4wYNSJBLi5crI9bcS%2F%2BGnwNiPbO3%2Fyi8tHIbelE"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '9a92630cb9346c10-DFW'} -+-+- None
+Can't connect to wss://rpc-polkadot-2.novasama-tech.org
+Connecting to  wss://rpc.ibp.network/polkadot
+⚠️ Can't connect by wss://rpc.ibp.network/polkadot, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'content-length': '107', 'cache-control': 'no-cache', 'content-type': 'text/html'} -+-+- b'<html><body><h1>503 Service Unavailable</h1>\nNo server is available to handle this request.\n</body></html>\n'
+Can't connect to wss://rpc.ibp.network/polkadot
+Connecting to  wss://polkadot.dotters.network
+Connected to  wss://polkadot.dotters.network

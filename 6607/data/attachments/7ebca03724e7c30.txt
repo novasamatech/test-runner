@@ -1,0 +1,4 @@
+Connecting to  wss://rpc.matrix.blockchain.enjin.io
+⚠️ Can't connect by wss://rpc.matrix.blockchain.enjin.io, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 05 Dec 2025 09:07:30 GMT', 'content-type': 'text/html', 'content-length': '175', 'connection': 'keep-alive', 'set-cookie': '__cf_bm=jQFmf6E67a02.XhT2bWdB9RhA_upFfD8o4blAarmbtU-1764925650-1.0.1.1-SDip5Uqqqha3PN2daGH2egM0sZHhTdr0gTys2_xq5CpQVTNlCW8tbRO2U2cHIW0iWNEvsZG0PrUf9dsBboB87YGy_itlSCknEfxRHTVLIuc; path=/; expires=Fri, 05-Dec-25 09:37:30 GMT; domain=.enjin.io; HttpOnly; Secure', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '9a9264c5ebc24354-ORD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n'
+Can't connect to wss://rpc.matrix.blockchain.enjin.io

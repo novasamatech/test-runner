@@ -1,0 +1,10 @@
+Connecting to  wss://rpc-kusama-1.novasama-tech.org
+⚠️ Can't connect by wss://rpc-kusama-1.novasama-tech.org, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 05 Dec 2025 09:06:24 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=OAap2iAQTmq4k%2FMN8%2FGLkDVQ0IP0rReZ2RIN%2BTXOYgliohh8P4jthlpOu0S7AXwu2cmE5o4t2e9F5w%2Bl2PE%2FPIMyMljyoOTdydphzUNGeEskBMR4b0YsXxp3mj%2FnxopSD3sS4n6s9LDxIq9gnOyjJg%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '9a9263278d61c48f-ORD'} -+-+- None
+Can't connect to wss://rpc-kusama-1.novasama-tech.org
+Connecting to  wss://rpc-kusama-2.novasama-tech.org
+⚠️ Can't connect by wss://rpc-kusama-2.novasama-tech.org, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 05 Dec 2025 09:06:24 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=JXf8hrVMlLRSFVUEkVl4%2BMNrdzOeC3jeGnAG0KkGhX%2F63QhMpeQ1ySr46qED0dJQlCkaJNTsrykvhO4lnVGyy9zKb3mOnjm57Wp%2FmrGUlZ9Dk1O12oVjArCqQk3HT9v1QkVfqfE1PTkritJR74VbhA%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '9a926328d8b66b46-DFW'} -+-+- None
+Can't connect to wss://rpc-kusama-2.novasama-tech.org
+Connecting to  wss://rpc.ibp.network/kusama
+Connected to  wss://rpc.ibp.network/kusama

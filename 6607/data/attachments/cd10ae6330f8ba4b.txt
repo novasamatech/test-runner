@@ -1,0 +1,4 @@
+Connecting to  wss://rpc.relay.blockchain.enjin.io
+⚠️ Can't connect by wss://rpc.relay.blockchain.enjin.io, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 05 Dec 2025 09:07:36 GMT', 'content-type': 'text/html', 'content-length': '175', 'connection': 'keep-alive', 'set-cookie': '__cf_bm=SWLQDpkvwIfsenQ8.M8okod4jhUWQlupTvaalN4KdAU-1764925656-1.0.1.1-jDKX7teIQuX9G7sG1XU08HXMgOc63XG96C4icjy4TQtRsu3nOXqruzlvDQbgcJqs7V_sjUUdP36ExDzU4FviNUrgdHTkArdVw1fFn9xeUgE; path=/; expires=Fri, 05-Dec-25 09:37:36 GMT; domain=.enjin.io; HttpOnly; Secure', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '9a9264e86d9a10d3-ORD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n'
+Can't connect to wss://rpc.relay.blockchain.enjin.io

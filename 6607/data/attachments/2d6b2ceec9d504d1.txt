@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://services.tanssi-mainnet.network/tanssi, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 05 Dec 2025 09:10:20 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'server': 'cloudflare', 'cf-ray': '9a9268eb099d232a-ORD'} -+-+- None
+⚠️ Can't connect by wss://services.tanssi-mainnet.network/tanssi, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 05 Dec 2025 09:10:25 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'server': 'cloudflare', 'cf-ray': '9a92690bccabc48f-ORD'} -+-+- None

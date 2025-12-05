@@ -1,0 +1,8 @@
+Connecting to  wss://services.tanssi-mainnet.network/tanssi
+⚠️ Can't connect by wss://services.tanssi-mainnet.network/tanssi, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 05 Dec 2025 09:08:13 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'server': 'cloudflare', 'cf-ray': '9a9265cf78bd617c-ORD'} -+-+- None
+Can't connect to wss://services.tanssi-mainnet.network/tanssi
+Connecting to  wss://services.tanssi-mainnet.network/tanssi
+⚠️ Can't connect by wss://services.tanssi-mainnet.network/tanssi, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 05 Dec 2025 09:08:18 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'server': 'cloudflare', 'cf-ray': '9a9265f1f882b66c-DFW'} -+-+- None
+Can't connect to wss://services.tanssi-mainnet.network/tanssi
