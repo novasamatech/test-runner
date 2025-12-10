@@ -1,6 +1,0 @@
-⚠️ Can't connect by wss://rpc.helikon.io/phala, check it is available? 
- Handshake status 400 Bad request -+-+- {'content-length': '90', 'cache-control': 'no-cache', 'content-type': 'text/html', 'connection': 'close'} -+-+- b'<html><body><h1>400 Bad request</h1>\nYour browser sent an invalid request.\n</body></html>\n'
-⚠️ Can't connect by wss://rpc.helikon.io/phala, check it is available? 
- Handshake status 400 Bad request -+-+- {'content-length': '90', 'cache-control': 'no-cache', 'content-type': 'text/html', 'connection': 'close'} -+-+- b'<html><body><h1>400 Bad request</h1>\nYour browser sent an invalid request.\n</body></html>\n'
-⚠️ Can't connect by wss://rpc.helikon.io/phala, check it is available? 
- Handshake status 400 Bad request -+-+- {'content-length': '90', 'cache-control': 'no-cache', 'content-type': 'text/html', 'connection': 'close'} -+-+- b'<html><body><h1>400 Bad request</h1>\nYour browser sent an invalid request.\n</body></html>\n'
