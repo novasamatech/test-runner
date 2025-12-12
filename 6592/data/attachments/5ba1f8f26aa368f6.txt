@@ -1,1 +1,0 @@
-Connecting to  wss://wss.api.moonriver.moonbeam.network

@@ -1,0 +1,4 @@
+Connecting to  wss://rpc.dentnet.io/ws
+⚠️ Can't connect by wss://rpc.dentnet.io/ws, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Fri, 12 Dec 2025 15:07:50 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=KXaTDUIEoCqwIgzCrTkzo5gQIx%2Fjsdb%2BOYTrjsInqaYRPmiaOV6NzSxsfa%2B7pwQvPGvEhvLhrZisNIHPyWcZlZAAj83TOkGDfsyu%2FQir4KBOaoiVFkGM7fJfiNEH3h99"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '9ace22367c4503c2-SJC'} -+-+- b'error code: 502'
+Can't connect to wss://rpc.dentnet.io/ws
