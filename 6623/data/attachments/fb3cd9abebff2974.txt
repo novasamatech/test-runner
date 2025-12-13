@@ -1,0 +1,2 @@
+Connecting to  wss://rpc-kr.xode.net
+Can't connect to wss://rpc.basilisk.cloud
