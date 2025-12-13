@@ -1,0 +1,3 @@
+Connecting to  wss://polkadot-mythos-rpc.polkadot.io
+Connected to  wss://polkadot-mythos-rpc.polkadot.io
+Can't connect to wss://rpc.basilisk.cloud
