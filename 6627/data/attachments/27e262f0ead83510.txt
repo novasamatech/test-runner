@@ -1,0 +1,6 @@
+Connecting to  wss://kusama.rpc.robonomics.network/
+Connected to  wss://kusama.rpc.robonomics.network/
+Connecting to  wss://kusama.rpc.robonomics.network/
+Connected to  wss://kusama.rpc.robonomics.network/
+Connecting to  wss://kusama.rpc.robonomics.network/
+Connected to  wss://kusama.rpc.robonomics.network/
