@@ -1,0 +1,6 @@
+Connecting to  wss://rpc.darwinia.network
+⚠️ Can't connect by wss://rpc.darwinia.network, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Wed, 17 Dec 2025 15:07:02 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=okYaa3MFdhwE53DsYPZtqVaGemNClG%2BmL3ABCg%2Bw8WJGiG2JQqtrDJMX4qDJqFZzdhlvtYG%2B9EmrKXRhY0Nx5GNSyd88Ti63QnQLyZFZfSiVCg8nt1%2B9HNa5Cb9K7v3NfXNybajE2Q%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '9af753e57b8a05dc-IAD', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=1829&min_rtt=1749&rtt_var=713&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2839&recv_bytes=816&delivery_rate=1632933&cwnd=251&unsent_bytes=0&cid=b5ee10ad42825d08&ts=728&x=0"'} -+-+- b'error code: 502'
+Can't connect to wss://rpc.darwinia.network
+Connecting to  wss://rpc.darwinia.network
+Connected to  wss://rpc.darwinia.network
