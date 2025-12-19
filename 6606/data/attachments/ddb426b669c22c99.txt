@@ -1,8 +1,0 @@
-Connecting to  wss://rpc.3dpass.org
-⚠️ Can't connect by wss://rpc.3dpass.org, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'date': 'Thu, 04 Dec 2025 15:07:28 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=zOFojCtift1W5gyx20fJXBYPFu8Zw2ceLNNooMxUxktsSXUV5AlwCpS4z1nONfJ8KzBITzbJC6ZTZLbcpMjCsyzOyX9wujgVwo2u62pKAN8mnuW1Zvez1iZxajNYmgFx"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '9a8c36ab3b274556-DFW'} -+-+- None
-Can't connect to wss://rpc.3dpass.org
-Connecting to  wss://rpc.3dpass.org
-⚠️ Can't connect by wss://rpc.3dpass.org, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'date': 'Thu, 04 Dec 2025 15:07:34 GMT', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=mYhDUWqI3F3alX4e%2FR6sbPnJwi%2F9SEX6fl3TQZOPU%2FYakUavlWOLhuK18Ij19EajLVWAXAm576iZ6eaheSESVquIfOzaaWYRfS%2FQ86g9Z9Q0oW7dxdANoGj0%2B1xM5T6V"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '9a8c36d11dfb2231-ORD'} -+-+- None
-Can't connect to wss://rpc.3dpass.org
