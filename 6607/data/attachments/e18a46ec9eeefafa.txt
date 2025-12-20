@@ -1,4 +1,0 @@
-Connecting to  wss://rpc.jamton.network
-⚠️ Can't connect by wss://rpc.jamton.network, check it is available? 
- Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 05 Dec 2025 09:08:03 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=q2wJCYzUtzsLRx9klBQmwb1lEkypTvGnE2Ab4rgD3CU8oI0Mzbsa7MMEP5SYIy9L%2Fw%2FpDBsz61WxQWRg3ez7Vf7pWfMlqsoTPF4Fry%2BdMReodReiMX37N9Gt9G6jou8kQ8SV5Q%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '9a926593bc9d4e35-SJC'} -+-+- None
-Can't connect to wss://rpc.jamton.network

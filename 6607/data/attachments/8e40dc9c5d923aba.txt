@@ -1,6 +1,0 @@
-Connecting to  wss://rpc-hydra.novasama-tech.org
-⚠️ Can't connect by wss://rpc-hydra.novasama-tech.org, check it is available? 
- Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 05 Dec 2025 09:07:08 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=aYrlg8a84d9W22X1cef2kJS27kP0o5k92%2BzAxKbrHFqxDviBh15kNbe8ZVNkzEM%2Bn1BOh7255czM%2BecMH%2BcqPOmTUgZFV2qL%2FnL9pehBdWFvuE4%2F3vjgDpprgCUPKtJk4yPdd6CcuPtgIebmkg%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '9a92643ce977e20f-ORD'} -+-+- None
-Can't connect to wss://rpc-hydra.novasama-tech.org
-Connecting to  wss://rpc.hydradx.cloud
-Connected to  wss://rpc.hydradx.cloud

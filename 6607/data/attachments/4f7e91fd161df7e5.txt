@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://wss.api.moonriver.moonbeam.network, check it is available? 
- Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 05 Dec 2025 09:07:04 GMT', 'content-type': 'text/html', 'content-length': '175', 'connection': 'keep-alive', 'server': 'cloudflare', 'cf-ray': '9a92641f7c4e6725-DFW'} -+-+- b'<html>\r\n<head><title>500 Internal Server Error</title></head>\r\n<body>\r\n<center><h1>500 Internal Server Error</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n'

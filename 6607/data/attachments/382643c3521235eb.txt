@@ -1,6 +1,0 @@
-⚠️ Can't connect by wss://hyperbridge-nexus-rpc.blockops.network, check it is available? 
- Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 05 Dec 2025 09:09:50 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'server': 'cloudflare', 'cf-ray': '9a92682f29828462-SJC'} -+-+- None
-⚠️ Can't connect by wss://hyperbridge-nexus-rpc.blockops.network, check it is available? 
- Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 05 Dec 2025 09:09:55 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'server': 'cloudflare', 'cf-ray': '9a92685039faebf1-SJC'} -+-+- None
-⚠️ Can't connect by wss://hyperbridge-nexus-rpc.blockops.network, check it is available? 
- Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 05 Dec 2025 09:10:01 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'server': 'cloudflare', 'cf-ray': '9a926871de248462-SJC'} -+-+- None

@@ -1,4 +1,0 @@
-Connecting to  wss://rpc.3dpass.org
-⚠️ Can't connect by wss://rpc.3dpass.org, check it is available? 
- Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 05 Dec 2025 09:07:15 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=obdhqgVsPscHANUhnokMErczcXW6pDaS49LGTNVSG2sMtfwvRHNB8mcIKB9pEydYTFkpH%2FvGE4%2BwEnTR07GvzVGJawNGbTwjM%2FcIlYUeoqv%2FDlySibY6xW7qBWR31hhN"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '9a9264661cdd609d-IAD'} -+-+- None
-Can't connect to wss://rpc.3dpass.org

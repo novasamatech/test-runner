@@ -1,8 +1,0 @@
-Connecting to  wss://rpc.jamton.network
-⚠️ Can't connect by wss://rpc.jamton.network, check it is available? 
- Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 05 Dec 2025 09:07:59 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=gw38XZ%2BY6sDtCszSh3L1gqUoli%2BtF%2FkVa5jlL5fVg2Z%2By3RhJpuTY4e9dI1z%2B9FeJ9sVqaPs9M%2FnEIZYgSbzKPdP%2BOt7e704GMazhxaFNiq%2BPmmR3CmuzT6wNALRuv8xfSE9Lw%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '9a926578aa1a0256-ORD'} -+-+- None
-Can't connect to wss://rpc.jamton.network
-Connecting to  wss://rpc.jamton.network
-⚠️ Can't connect by wss://rpc.jamton.network, check it is available? 
- Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 05 Dec 2025 09:08:05 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=AvF1BFW6zguK5YwpBrwFqvaOPdhVVzN9GlcTjfT2UOwP%2FMckZtZ9RUixj8wjvDQGMwekaVCIKIGn%2FluFkfuKzPOiCT5e9wikmm6UseebCPQASz4bgvoTA02KvMrwgO68arriwA%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '9a92659c784922f1-ORD'} -+-+- None
-Can't connect to wss://rpc.jamton.network

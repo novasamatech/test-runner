@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://hyperbridge-nexus-rpc.blockops.network, check it is available? 
- Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 05 Dec 2025 09:09:47 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'server': 'cloudflare', 'cf-ray': '9a92681c294cc0b2-ORD'} -+-+- None
