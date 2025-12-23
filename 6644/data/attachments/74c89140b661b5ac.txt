@@ -1,0 +1,5 @@
+Connecting to  wss://sys.ibp.network/collectives-polkadot
+Can't connect to wss://rpc-para.ajuna.network
+Connecting to  wss://ajuna.ibp.network
+Connected to  wss://sys.ibp.network/collectives-polkadot
+Connected to  wss://ajuna.ibp.network
