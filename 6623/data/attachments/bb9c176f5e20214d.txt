@@ -1,2 +1,0 @@
-Connecting to  wss://entrypoint-finney.opentensor.ai:443
-Connected to  wss://entrypoint-finney.opentensor.ai:443
