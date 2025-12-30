@@ -1,0 +1,6 @@
+Connecting to  wss://ws.azero.dev
+Connected to  wss://ws.azero.dev
+Connecting to  wss://ws.azero.dev
+Connected to  wss://ws.azero.dev
+Connecting to  wss://ws.azero.dev
+Connected to  wss://ws.azero.dev

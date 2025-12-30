@@ -1,3 +1,0 @@
-Connecting to  wss://sys.ibp.network/coretime-polkadot
-Connected to  wss://sys.ibp.network/coretime-polkadot
-Can't connect to wss://rpc.basilisk.cloud

@@ -1,3 +1,0 @@
-Connecting to  wss://rpc.vara-network.io
-Connected to  wss://rpc.vara-network.io
-Can't connect to wss://rpc.basilisk.cloud

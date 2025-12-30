@@ -1,3 +1,0 @@
-Connecting to  wss://public-rpc.mainnet.aventus.io
-Connected to  wss://public-rpc.mainnet.aventus.io
-Can't connect to wss://rpc.basilisk.cloud
