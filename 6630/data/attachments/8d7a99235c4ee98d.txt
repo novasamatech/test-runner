@@ -1,6 +1,0 @@
-⚠️ Can't connect by wss://spiritnet.kilt.io/, check it is available? 
- [Errno 101] Network is unreachable
-⚠️ Can't connect by wss://spiritnet.kilt.io/, check it is available? 
- [Errno 101] Network is unreachable
-⚠️ Can't connect by wss://spiritnet.kilt.io/, check it is available? 
- [Errno 101] Network is unreachable
