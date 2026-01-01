@@ -1,0 +1,10 @@
+Connecting to  wss://rpc.xx.network
+⚠️ Can't connect by wss://rpc.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Thu, 01 Jan 2026 15:06:12 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=%2Bk1M%2F1aFPr3x9SmuvQkNh8r4Btw4Qj%2FeVixjYXiMJnRxKNKJcx8i0lQBQ%2Fhm1nfwl71WDZQfMuWU2N7asQjvO%2FAVxWXyZ2TGPRIvUZsR4Gri7G2QsRxZJaaGn2JsxwNRcA%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '9b72eb4e7e69cc3a-ORD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+⚠️ Can't connect by wss://rpc-hetzner.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Thu, 01 Jan 2026 15:06:13 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=rsYDQVZivvrT00uknx4Y1pJiy86tcYvexR7WQYcfiEQUlw3CHfKmVZilNRHvjljUhv7FReGCvSEnKfM%2FfKg1kynJ%2BqU0A7JhHpECzDGthCOiC%2FIgB5qnnmn8i65cgTgWTYiVCM4NrcZB"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '9b72eb56cdae9120-ORD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to wss://rpc-hetzner.xx.network
+Connecting to  wss://rpc.xx.network
+Connected to  wss://rpc.xx.network
