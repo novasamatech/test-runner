@@ -1,0 +1,4 @@
+Connecting to  wss://rpc.dentnet.io/ws
+Connected to  wss://rpc.dentnet.io/ws
+Connecting to  wss://rpc.dentnet.io/ws
+Connected to  wss://rpc.dentnet.io/ws
