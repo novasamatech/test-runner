@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://eu.bifrost-polkadot-rpc.liebi.com/ws, check it is available? 
- [Errno 111] Connection refused
