@@ -1,7 +1,0 @@
-Connecting to  wss://rpc.xx.network
-Connecting to  wss://rpc.xx.network
-Can't connect to wss://rpc.xx.network
-Connecting to  wss://rpc-hetzner.xx.network
-⚠️ Can't connect by wss://rpc-hetzner.xx.network, check it is available? 
- Handshake status 500 Internal Server Error -+-+- {'date': 'Tue, 30 Dec 2025 15:06:50 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=w8j%2BiNF56Kiruomy%2Fki0jbbs1kNHoX19y%2FYmANqRS5xfEJKrrc06n4SwVDp3IT5LYGCp4t5cbIxe33H4nceqKYRx4fkIRw8AfLL%2FAo604Waq%2FxC%2BMV0nOrPo41GQcNCkVC252bHuU4dT"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '9b627180db289db4-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
-Can't connect to wss://rpc-hetzner.xx.network
