@@ -1,3 +1,0 @@
-Connecting to  wss://rpc-pendulum.prd.pendulumchain.tech
-Connected to  wss://rpc-hetzner.xx.network
-Connected to  wss://rpc-pendulum.prd.pendulumchain.tech

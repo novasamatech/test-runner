@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://1rpc.io/dot, check it is available? 
- Handshake status 500 Internal Server Error -+-+- {'connection': 'keep-alive', 'date': 'Sat, 03 Jan 2026 15:05:44 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked'} -+-+- None
