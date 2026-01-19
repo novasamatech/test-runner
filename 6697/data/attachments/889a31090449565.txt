@@ -1,0 +1,5 @@
+Connecting to  wss://public-rpc.canary.acurast.com
+Connected to  wss://public-rpc.canary.acurast.com
+Connecting to  wss://public-rpc.canary.acurast.com
+Connected to  wss://public-rpc.canary.acurast.com
+Connecting to  wss://public-rpc.canary.acurast.com
