@@ -1,0 +1,4 @@
+Connecting to  wss://rpc.jamton.network
+Can't connect to wss://api-kusama.interlay.io/parachain
+Connecting to  wss://rpc.jamton.network
+Connected to  wss://rpc.jamton.network
