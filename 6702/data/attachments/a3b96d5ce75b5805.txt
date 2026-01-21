@@ -1,0 +1,11 @@
+Connecting to  wss://rpc.xx.network
+Connecting to  wss://rpc.xx.network
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+Can't connect to wss://rpc-hetzner.xx.network
+Connecting to  wss://rpc.xx.network
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+⚠️ Can't connect by wss://rpc-hetzner.xx.network, check it is available? 
+ Handshake status 525 None -+-+- {'date': 'Wed, 21 Jan 2026 15:11:27 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=EZf1Sr6f6wVCIfc6Zp07vl8qQ8FuhER0URmKQ0XgtQcZfphPeBFg02hvWN2VJdXldTzpGXDDNp8fD3iyFqGjiSwWe%2F4E%2FY%2B5ZMCaz21TJ3%2FFVFWsiTS3JxdmWk5j5FgF7g11j3TMWtam"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '9c17be82c9e3fa1a-SJC', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'error code: 525'
+Can't connect to wss://rpc-hetzner.xx.network
