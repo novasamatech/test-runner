@@ -1,5 +1,0 @@
-Connecting to  wss://ws.manta.systems
-Connected to  wss://ws.manta.systems
-Can't connect to wss://so.polkadex.ee
-Connecting to  wss://polkadex.public.curie.radiumblock.co/ws
-Can't connect to wss://polkadex.public.curie.radiumblock.co/ws
