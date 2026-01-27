@@ -1,0 +1,4 @@
+Connecting to  wss://public-rpc.mainnet.energywebx.com/
+Connected to  wss://public-rpc.mainnet.energywebx.com/
+Can't connect to wss://rpc-polkadot-1.novasama-tech.org
+Connecting to  wss://rpc-polkadot-2.novasama-tech.org
