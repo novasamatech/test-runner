@@ -1,0 +1,7 @@
+Connecting to  wss://crust-parachain.crustapps.net
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+Connected to  wss://crust-parachain.crustapps.net
+⚠️ Can't connect by wss://rpc-hetzner.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 30 Jan 2026 15:13:35 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=4Z5ceKB2pQQVhLAJJAVy4wtTVPebJ68GImOG0eMJ3lmW3LFog8d49nY3aGBnh8U6rqP7izvDpOX%2F6P%2BlfXmCDjjJXI5p8baI2TuhKTjG5mYX%2Bsbu7KsB4V2GJYvp%2BxYlndTf0JlY5I%2Bn"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '9c61ea01582e5eb1-ORD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to wss://rpc-hetzner.xx.network

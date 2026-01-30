@@ -1,0 +1,15 @@
+Connecting to  wss://rpc.xx.network
+⚠️ Can't connect by wss://rpc.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 30 Jan 2026 15:12:47 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=z%2F7kJdBAmicTOxnlOGxHyVjucQVUAa5sVQf7W8OaATjW7wLvXn7QaWG8%2Buyu4%2FdLeOL4q%2B%2FSa2VsrCMwR40ugFwMF82NgUN05nbU65Od0uZWzP4QsEOOb1aDzCPnEF78fg%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '9c61e8d3def3eada-ORD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+⚠️ Can't connect by wss://rpc-hetzner.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Fri, 30 Jan 2026 15:12:48 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=MDyZdgtw8rWrdDbFSDcAPM82EsmPFTO%2Fwa6MuWKl36K2i0%2Fv1jOKjl2RpYBfbtrQsvwR%2FQofuzvCgFqkEji2QoINo%2FnInE0OlHiig52526FL%2BfSOl%2FAfTxfu6J3yTZT%2F4eQ%2FEGW8fiak"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '9c61e8da6a1d5eb1-ORD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to wss://rpc-hetzner.xx.network
+Connecting to  wss://rpc.xx.network
+Connecting to  wss://rpc.xx.network
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+⚠️ Can't connect by wss://rpc-hetzner.xx.network, check it is available? 
+ Handshake status 525 None -+-+- {'date': 'Fri, 30 Jan 2026 15:13:15 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=9wZlq92n4pzPvARhruY1Zfp8w5Nivr%2F2YD8MpcfvHX4tkDpvS6nQLe6B6MCeOf5PK%2BFUFXoaNRAmZNj%2FlVxXv7KDHHABz40ejcVHmwz65%2F7GBhBBznhVf1AachbAUBIkHhspc2g1pthh"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '9c61e9869d935eb1-ORD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'error code: 525'
+Can't connect to wss://rpc-hetzner.xx.network
