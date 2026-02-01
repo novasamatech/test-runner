@@ -1,0 +1,8 @@
+Connecting to  wss://crab-rpc.darwinia.network/
+⚠️ Can't connect by wss://crab-rpc.darwinia.network/, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://crab-rpc.darwinia.network/
+Connecting to  wss://crab-rpc.darwinia.network/
+⚠️ Can't connect by wss://crab-rpc.darwinia.network/, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://crab-rpc.darwinia.network/
