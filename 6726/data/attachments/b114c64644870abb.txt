@@ -1,0 +1,7 @@
+Connecting to  wss://sys.ibp.network/coretime-kusama
+⚠️ Can't connect by wss://sys.ibp.network/coretime-kusama, check it is available? 
+ [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1017)
+Can't connect to wss://sys.ibp.network/coretime-kusama
+Connecting to  wss://coretime-kusama.dotters.network
+Connected to  wss://coretime-kusama.dotters.network
+Can't connect to wss://nodle-parachain.api.onfinality.io/public-ws
