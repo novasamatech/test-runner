@@ -1,0 +1,3 @@
+Connecting to  wss://rpc.tangle.tools
+Can't connect to wss://nodle-parachain.api.onfinality.io/public-ws
+Connected to  wss://rpc.tangle.tools
