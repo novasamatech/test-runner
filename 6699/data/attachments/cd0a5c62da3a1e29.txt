@@ -1,6 +1,0 @@
-Connecting to  wss://api.interlay.io/parachain
-Connecting to  wss://api.interlay.io/parachain
-Can't connect to wss://api.interlay.io/parachain
-Connecting to  wss://rpc-interlay.luckyfriday.io/
-Connected to  wss://rpc-interlay.luckyfriday.io/
-Connecting to  wss://api.interlay.io/parachain

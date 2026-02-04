@@ -1,0 +1,36 @@
+Connecting to  wss://quartz.unique.network
+⚠️ Can't connect by wss://quartz.unique.network, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Wed, 04 Feb 2026 09:16:59 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '9c8912852acf7e56-SJC'} -+-+- b'error code: 502'
+Can't connect to wss://quartz.unique.network
+Connecting to  wss://eu-ws-quartz.unique.network
+⚠️ Can't connect by wss://eu-ws-quartz.unique.network, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Wed, 04 Feb 2026 09:17:00 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '9c89128959e20d16-SJC'} -+-+- b'error code: 502'
+Can't connect to wss://eu-ws-quartz.unique.network
+Connecting to  wss://us-ws-quartz.unique.network
+⚠️ Can't connect by wss://us-ws-quartz.unique.network, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Wed, 04 Feb 2026 09:17:00 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '9c89128d69802516-SJC'} -+-+- b'error code: 502'
+Can't connect to wss://us-ws-quartz.unique.network
+Connecting to  wss://quartz.unique.network
+⚠️ Can't connect by wss://quartz.unique.network, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Wed, 04 Feb 2026 09:17:06 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '9c8912b1f9797e56-SJC'} -+-+- b'error code: 502'
+Can't connect to wss://quartz.unique.network
+Connecting to  wss://eu-ws-quartz.unique.network
+⚠️ Can't connect by wss://eu-ws-quartz.unique.network, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Wed, 04 Feb 2026 09:17:06 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '9c8912b40d1a0d16-SJC'} -+-+- b'error code: 502'
+Can't connect to wss://eu-ws-quartz.unique.network
+Connecting to  wss://us-ws-quartz.unique.network
+⚠️ Can't connect by wss://us-ws-quartz.unique.network, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Wed, 04 Feb 2026 09:17:07 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '9c8912b5fd6cf941-SJC'} -+-+- b'error code: 502'
+Can't connect to wss://us-ws-quartz.unique.network
+Connecting to  wss://quartz.unique.network
+⚠️ Can't connect by wss://quartz.unique.network, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Wed, 04 Feb 2026 09:17:13 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '9c8912d99b550d16-SJC'} -+-+- b'error code: 502'
+Can't connect to wss://quartz.unique.network
+Connecting to  wss://eu-ws-quartz.unique.network
+⚠️ Can't connect by wss://eu-ws-quartz.unique.network, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Wed, 04 Feb 2026 09:17:13 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '9c8912dd4de27e56-SJC'} -+-+- b'error code: 502'
+Can't connect to wss://eu-ws-quartz.unique.network
+Connecting to  wss://us-ws-quartz.unique.network
+⚠️ Can't connect by wss://us-ws-quartz.unique.network, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Wed, 04 Feb 2026 09:17:13 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'strict-transport-security': 'max-age=0; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '9c8912e0e979f941-SJC'} -+-+- b'error code: 502'
+Can't connect to wss://us-ws-quartz.unique.network
