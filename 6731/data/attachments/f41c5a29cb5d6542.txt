@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://rpc2-shadow.crust.network/, check it is available? 
+ scheme https is invalid
+⚠️ Can't connect by wss://rpc2-shadow.crust.network/, check it is available? 
+ scheme https is invalid

@@ -1,0 +1,10 @@
+Connecting to  wss://polkadot-people-rpc.polkadot.io
+⚠️ Can't connect by wss://polkadot-people-rpc.polkadot.io, check it is available? 
+ Handshake status 404 Not Found -+-+- {'date': 'Thu, 05 Feb 2026 09:18:19 GMT', 'content-type': 'text/plain; charset=utf-8', 'content-length': '19', 'connection': 'keep-alive', 'x-content-type-options': 'nosniff', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=NlZsCU7eZ0sUY3RqzyoENkVymWXdaH5OcwGP7PLkvS8PKW59WuozsRKcdh5vEb6UT9ksmxa6i1jyt5Am%2B2QU2qQ6THwmouzuJPb6KPQTs6lGGPo%2Bl9izL86%2BrqXD3Ft2cR1G0Fa76RBRZnk1ZNKMgJc%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=31536000; includeSubDomains; preload', 'server': 'cloudflare', 'cf-ray': '9c9151db8ab1c9b7-IAD'} -+-+- b'404 page not found\n'
+Can't connect to wss://polkadot-people-rpc.polkadot.io
+Connecting to  wss://sys.ibp.network/people-polkadot
+⚠️ Can't connect by wss://sys.ibp.network/people-polkadot, check it is available? 
+ [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1017)
+Can't connect to wss://sys.ibp.network/people-polkadot
+Connecting to  wss://people-polkadot.dotters.network
+Connected to  wss://people-polkadot.dotters.network

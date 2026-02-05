@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://public-rpc.mainnet.aventus.io, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Thu, 05 Feb 2026 09:21:18 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive'} -+-+- b'Too many connections. Please try again later.'
+⚠️ Can't connect by wss://public-rpc.mainnet.aventus.io, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Thu, 05 Feb 2026 09:21:24 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive'} -+-+- b'Too many connections. Please try again later.'
+⚠️ Can't connect by wss://public-rpc.mainnet.aventus.io, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Thu, 05 Feb 2026 09:21:31 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive'} -+-+- b'Too many connections. Please try again later.'
