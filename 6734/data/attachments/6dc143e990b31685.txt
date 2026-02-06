@@ -1,0 +1,7 @@
+Connecting to  wss://bifrost-polkadot.ibp.network
+Connected to  wss://bifrost-polkadot.ibp.network
+Can't connect to wss://so.polkadex.ee
+Connecting to  wss://polkadex.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://polkadex.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 523 None -+-+- {'date': 'Fri, 06 Feb 2026 15:17:47 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=VYAbQfPOObGT3jYBJ8KCmN4oTkpgGIGysBFfTdcD9sp3%2FAA0DgJ8PaT3%2BEfdLssbGHLxvOv9AyuFva1tYqufo0DB0OdV4fFhvosVtNeGITbkv9ywATqayqvGw381jIBJei1iZA%2BaXaZo%2FsZPo5afTQjw3%2FPhvQ%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '9c9b9dc78a46504c-LAX'} -+-+- b'error code: 523'
+Can't connect to wss://polkadex.public.curie.radiumblock.co/ws
