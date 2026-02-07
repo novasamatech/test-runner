@@ -1,0 +1,4 @@
+Connecting to  wss://avail.api.onfinality.io/public-ws
+Connected to  wss://avail.api.onfinality.io/public-ws
+Can't connect to wss://rpc-polkadot-1.novasama-tech.org
+Connecting to  wss://rpc-polkadot-2.novasama-tech.org

@@ -1,0 +1,5 @@
+Connecting to  wss://mainnet3.creditcoin.network
+Can't connect to wss://rpc-polkadot-2.novasama-tech.org
+Connecting to  wss://rpc.ibp.network/polkadot
+Connected to  wss://rpc.ibp.network/polkadot
+Connected to  wss://mainnet3.creditcoin.network
