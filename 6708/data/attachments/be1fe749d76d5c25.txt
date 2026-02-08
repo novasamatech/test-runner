@@ -1,4 +1,0 @@
-Connecting to  wss://rpc.vara-network.io
-⚠️ Can't connect by wss://rpc.vara-network.io, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'date': 'Sat, 24 Jan 2026 15:05:59 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=RQUZgDGLLCsiUfkhzxPU2WDaJZZEybjoohOwtOL9YrmDn9uxy4EbIamCunwn0K%2BqWI5pjK7Xm8Rq1X1faYq0g3JaWHVBT4Hzk5uSgQhBAF1yVxbxrYq0juiqC%2BJEKIeKjdLgyjI%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '9c306ea0f894c96b-IAD'} -+-+- b'error code: 1027'
-Can't connect to wss://rpc.vara-network.io
