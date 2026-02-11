@@ -1,3 +1,0 @@
-Connecting to  wss://kreivo.kippu.rocks/
-Connected to  wss://rpc-polkadot-2.novasama-tech.org
-Connected to  wss://kreivo.kippu.rocks/
