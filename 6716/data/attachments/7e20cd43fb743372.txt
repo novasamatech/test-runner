@@ -1,4 +1,0 @@
-Connecting to  wss://lite.sub.latent.to:443
-Connected to  wss://lite.sub.latent.to:443
-Connecting to  wss://lite.sub.latent.to:443
-Connected to  wss://lite.sub.latent.to:443
