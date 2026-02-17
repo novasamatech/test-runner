@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://1rpc.io/dot, check it is available? 
- Handshake status 503 Service Unavailable -+-+- {'date': 'Mon, 02 Feb 2026 09:19:34 GMT', 'content-type': 'text/plain', 'access-control-allow-origin': '*', 'connection': 'keep-alive', 'transfer-encoding': 'chunked'} -+-+- None
