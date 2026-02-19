@@ -1,6 +1,0 @@
-⚠️ Can't connect by wss://1rpc.io/dot, check it is available? 
- Expecting value: line 1 column 1 (char 0)
-⚠️ Can't connect by wss://1rpc.io/dot, check it is available? 
- Expecting value: line 1 column 1 (char 0)
-⚠️ Can't connect by wss://1rpc.io/dot, check it is available? 
- Handshake status 503 Service Unavailable -+-+- {'date': 'Wed, 04 Feb 2026 09:17:32 GMT', 'content-type': 'text/plain', 'access-control-allow-origin': '*', 'connection': 'keep-alive', 'transfer-encoding': 'chunked'} -+-+- None
