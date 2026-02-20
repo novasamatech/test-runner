@@ -1,0 +1,6 @@
+⚠️ Can't connect by wss://1rpc.io/ksm, check it is available? 
+ Expecting value: line 1 column 1 (char 0)
+⚠️ Can't connect by wss://1rpc.io/ksm, check it is available? 
+ Expecting value: line 1 column 1 (char 0)
+⚠️ Can't connect by wss://1rpc.io/ksm, check it is available? 
+ Expecting value: line 1 column 1 (char 0)
