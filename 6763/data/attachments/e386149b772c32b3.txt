@@ -1,0 +1,3 @@
+Connecting to  wss://rpc.shiden.astar.network
+Connecting to  wss://rpc.shiden.astar.network
+Connecting to  wss://rpc.shiden.astar.network
