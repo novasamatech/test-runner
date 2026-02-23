@@ -1,6 +1,0 @@
-Connecting to  wss://kusama-people-rpc.polkadot.io
-⚠️ Can't connect by wss://kusama-people-rpc.polkadot.io, check it is available? 
- Handshake status 404 Not Found -+-+- {'date': 'Sun, 08 Feb 2026 09:09:57 GMT', 'content-type': 'text/plain; charset=utf-8', 'content-length': '19', 'connection': 'keep-alive', 'x-content-type-options': 'nosniff', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=IdH5iDzP2G7uRjM4GCOsVcIixjp7gdWBt%2Bn8pKx1A%2BdMDE4DHH5QwnEA5mXh9%2FK5pXrFk47xHC3o%2FfYX%2Feb8XJTUKJIo8ALdF95XF6nFxn00wCZBYfiYLUwvM8VuDa4fQuu%2BjDiQkDf6ed8smFyT"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=31536000; includeSubDomains; preload', 'server': 'cloudflare', 'cf-ray': '9ca9fdb6df4b387a-IAD'} -+-+- b'404 page not found\n'
-Can't connect to wss://kusama-people-rpc.polkadot.io
-Connecting to  wss://sys.ibp.network/people-kusama
-Connected to  wss://sys.ibp.network/people-kusama
