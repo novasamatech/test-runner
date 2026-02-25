@@ -1,6 +1,0 @@
-⚠️ Can't connect by wss://avn-parachain.mainnet.aventus.io, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'date': 'Tue, 10 Feb 2026 09:25:16 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive'} -+-+- b'Too many connections. Please try again later.'
-⚠️ Can't connect by wss://avn-parachain.mainnet.aventus.io, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'date': 'Tue, 10 Feb 2026 09:25:22 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive'} -+-+- b'Too many connections. Please try again later.'
-⚠️ Can't connect by wss://avn-parachain.mainnet.aventus.io, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'date': 'Tue, 10 Feb 2026 09:25:28 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive'} -+-+- b'Too many connections. Please try again later.'
