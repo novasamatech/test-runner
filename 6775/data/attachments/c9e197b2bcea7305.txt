@@ -1,0 +1,16 @@
+Connecting to  wss://avn-parachain.mainnet.aventus.io
+⚠️ Can't connect by wss://avn-parachain.mainnet.aventus.io, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Fri, 27 Feb 2026 09:17:35 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to wss://avn-parachain.mainnet.aventus.io
+Connecting to  wss://public-rpc.mainnet.aventus.io
+⚠️ Can't connect by wss://public-rpc.mainnet.aventus.io, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Fri, 27 Feb 2026 09:17:36 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to wss://public-rpc.mainnet.aventus.io
+Connecting to  wss://avn-parachain.mainnet.aventus.io
+⚠️ Can't connect by wss://avn-parachain.mainnet.aventus.io, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Fri, 27 Feb 2026 09:17:42 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to wss://avn-parachain.mainnet.aventus.io
+Connecting to  wss://public-rpc.mainnet.aventus.io
+⚠️ Can't connect by wss://public-rpc.mainnet.aventus.io, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Fri, 27 Feb 2026 09:17:43 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to wss://public-rpc.mainnet.aventus.io
