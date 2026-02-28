@@ -1,4 +1,0 @@
-Connecting to  wss://sys.ibp.network/statemine
-Connected to  wss://sys.ibp.network/statemine
-Connecting to  wss://sys.ibp.network/statemine
-Connected to  wss://sys.ibp.network/statemine
