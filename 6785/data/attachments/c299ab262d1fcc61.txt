@@ -1,0 +1,5 @@
+Connecting to  wss://nodle-parachain.api.onfinality.io/public-ws
+Connecting to  wss://nodle-parachain.api.onfinality.io/public-ws
+Can't connect to wss://nodle-parachain.api.onfinality.io/public-ws
+Connecting to  wss://nodle-parachain.api.onfinality.io/public-ws
+Can't connect to wss://nodle-parachain.api.onfinality.io/public-ws
