@@ -1,5 +1,0 @@
-Connecting to  wss://rpc.laos.laosfoundation.io
-Can't connect to wss://rpc-hydra.novasama-tech.org
-Connecting to  wss://rpc.hydradx.cloud
-Connected to  wss://rpc.laos.laosfoundation.io
-Connected to  wss://rpc.hydradx.cloud
