@@ -1,6 +1,0 @@
-Connecting to  wss://avn-parachain.mainnet.aventus.io
-⚠️ Can't connect by wss://avn-parachain.mainnet.aventus.io, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'date': 'Wed, 25 Feb 2026 09:21:15 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive'} -+-+- b'Too many connections. Please try again later.'
-Can't connect to wss://avn-parachain.mainnet.aventus.io
-Connecting to  wss://public-rpc.mainnet.aventus.io
-Connected to  wss://public-rpc.mainnet.aventus.io
