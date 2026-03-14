@@ -1,0 +1,13 @@
+Connecting to  wss://rpc.tangle.tools
+Connecting to  wss://rpc.tangle.tools
+Can't connect to wss://rpc.shiden.astar.network
+Connecting to  wss://shiden-rpc.n.dwellir.com
+Can't connect to wss://shiden-rpc.n.dwellir.com
+Connecting to  wss://shiden.public.curie.radiumblock.co/ws
+Connected to  wss://shiden.public.curie.radiumblock.co/ws
+Connecting to  wss://rpc.tangle.tools
+Can't connect to wss://rpc.shiden.astar.network
+Connecting to  wss://shiden-rpc.n.dwellir.com
+Can't connect to wss://shiden-rpc.n.dwellir.com
+Connecting to  wss://shiden.public.curie.radiumblock.co/ws
+Connected to  wss://shiden.public.curie.radiumblock.co/ws
