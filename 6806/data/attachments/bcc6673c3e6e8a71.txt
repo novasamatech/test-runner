@@ -1,0 +1,2 @@
+Connecting to  wss://avn-parachain.mainnet.aventus.io
+Connected to  wss://avn-parachain.mainnet.aventus.io
