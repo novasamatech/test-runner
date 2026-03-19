@@ -1,3 +1,0 @@
-Connecting to  wss://explorer-rpc-ws.mainnet.stages.humanode.io
-Can't connect to wss://nodle-parachain.api.onfinality.io/public-ws
-Connected to  wss://explorer-rpc-ws.mainnet.stages.humanode.io
