@@ -1,0 +1,4 @@
+Connecting to  wss://rpc.mainnet.cere.network/ws
+Connected to  wss://rpc.mainnet.cere.network/ws
+Can't connect to wss://rpc-polkadot-1.novasama-tech.org
+Connecting to  wss://rpc-polkadot-2.novasama-tech.org
