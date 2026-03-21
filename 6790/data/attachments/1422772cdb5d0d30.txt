@@ -1,8 +1,0 @@
-Connecting to  wss://eu-ws.unique.network/
-Connecting to  wss://eu-ws.unique.network/
-Can't connect to wss://eu-ws.unique.network/
-Connecting to  wss://us-ws.unique.network/
-Connected to  wss://eu-ws.unique.network/
-Can't connect to wss://us-ws.unique.network/
-Connecting to  wss://asia-ws.unique.network/
-Connected to  wss://asia-ws.unique.network/
