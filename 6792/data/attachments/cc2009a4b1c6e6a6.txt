@@ -1,7 +1,0 @@
-Connecting to  wss://0.rpc.frequency.xyz
-Connected to  wss://0.rpc.frequency.xyz
-Can't connect to wss://rpc-kusama-1.novasama-tech.org
-Connecting to  wss://rpc-kusama-2.novasama-tech.org
-Can't connect to wss://rpc-kusama-2.novasama-tech.org
-Connecting to  wss://rpc.ibp.network/kusama
-Connected to  wss://rpc.ibp.network/kusama
