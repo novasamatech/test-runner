@@ -1,0 +1,3 @@
+Connecting to  wss://public-archive.mainnet.acurast.com
+Connected to  wss://public-archive.mainnet.acurast.com
+Can't connect to wss://rpc.tangle.tools
