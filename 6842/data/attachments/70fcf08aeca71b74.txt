@@ -1,0 +1,6 @@
+Connecting to  wss://kreivo.kippu.rocks/
+⚠️ Can't connect by wss://kreivo.kippu.rocks/, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'alt-svc': 'h3=":443"; ma=2592000', 'server': 'Caddy', 'date': 'Wed, 01 Apr 2026 15:32:53 GMT', 'content-length': '0'} -+-+- b''
+Can't connect to wss://kreivo.kippu.rocks/
+Connecting to  wss://kreivo.kippu.rocks/
+Connected to  wss://kreivo.kippu.rocks/

@@ -1,0 +1,7 @@
+Connecting to  wss://nexus.ibp.network
+Can't connect to wss://rpc-polkadot-1.novasama-tech.org
+Connecting to  wss://rpc-polkadot-2.novasama-tech.org
+Connected to  wss://nexus.ibp.network
+Can't connect to wss://rpc-polkadot-2.novasama-tech.org
+Connecting to  wss://rpc.ibp.network/polkadot
+Connected to  wss://rpc.ibp.network/polkadot
