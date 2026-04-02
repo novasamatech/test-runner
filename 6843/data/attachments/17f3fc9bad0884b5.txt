@@ -1,0 +1,4 @@
+Connecting to  wss://ws.manta.systems
+Connected to  wss://ws.manta.systems
+Can't connect to wss://rpc-polkadot-1.novasama-tech.org
+Connecting to  wss://rpc-polkadot-2.novasama-tech.org
