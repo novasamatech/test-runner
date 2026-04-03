@@ -1,3 +1,0 @@
-Connecting to  wss://sys.ibp.network/coretime-kusama
-Connected to  wss://rpc-hetzner.xx.network
-Connected to  wss://sys.ibp.network/coretime-kusama

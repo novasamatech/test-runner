@@ -1,4 +1,0 @@
-Connecting to  wss://rpc.tangle.tools
-Connecting to  wss://rpc.tangle.tools
-Connecting to  wss://rpc.tangle.tools
-Can't connect to wss://astar.public.curie.radiumblock.co/ws
