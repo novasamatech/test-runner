@@ -1,0 +1,2 @@
+Connecting to  wss://public-rpc.mainnet.energywebx.com/
+Connected to  wss://public-rpc.mainnet.energywebx.com/
