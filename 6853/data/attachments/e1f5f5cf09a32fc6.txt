@@ -1,0 +1,6 @@
+Connecting to  wss://rpc-hydra.novasama-tech.org
+Connecting to  wss://rpc-hydra.novasama-tech.org
+Connected to  wss://rpc-hydra.novasama-tech.org
+Can't connect to wss://rpc.hydradx.cloud
+Connecting to  wss://hydration.ibp.network
+Connected to  wss://hydration.ibp.network
