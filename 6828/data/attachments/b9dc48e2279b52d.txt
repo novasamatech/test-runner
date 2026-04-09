@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://1rpc.io/dot, check it is available? 
- Handshake status 521 None -+-+- {'date': 'Wed, 25 Mar 2026 15:29:07 GMT', 'content-type': 'text/plain; charset=UTF-8', 'connection': 'keep-alive', 'transfer-encoding': 'chunked'} -+-+- None
-⚠️ Can't connect by wss://1rpc.io/dot, check it is available? 
- Handshake status 521 None -+-+- {'date': 'Wed, 25 Mar 2026 15:29:13 GMT', 'content-type': 'text/plain; charset=UTF-8', 'connection': 'keep-alive', 'transfer-encoding': 'chunked'} -+-+- None
