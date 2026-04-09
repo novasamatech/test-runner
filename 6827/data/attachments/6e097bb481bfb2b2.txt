@@ -1,5 +1,0 @@
-Connecting to  wss://crust-parachain.crustapps.net
-Connected to  wss://crust-parachain.crustapps.net
-Can't connect to wss://rpc.xx.network
-Connecting to  wss://rpc-hetzner.xx.network
-Can't connect to wss://rpc-hetzner.xx.network
