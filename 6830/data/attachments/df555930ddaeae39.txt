@@ -1,7 +1,0 @@
-Connecting to  wss://rpc.relay.blockchain.enjin.io
-Connected to  wss://rpc.relay.blockchain.enjin.io
-Can't connect to wss://rpc-polkadot-1.novasama-tech.org
-Connecting to  wss://rpc-polkadot-2.novasama-tech.org
-Can't connect to wss://rpc-polkadot-2.novasama-tech.org
-Connecting to  wss://rpc.ibp.network/polkadot
-Connected to  wss://rpc.ibp.network/polkadot
