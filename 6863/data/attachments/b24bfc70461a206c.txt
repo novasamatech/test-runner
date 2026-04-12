@@ -1,0 +1,5 @@
+Connecting to  wss://rpc.laos.laosfoundation.io
+Can't connect to wss://rpc.hydradx.cloud
+Connecting to  wss://hydration.ibp.network
+Connected to  wss://hydration.ibp.network
+Connected to  wss://rpc.laos.laosfoundation.io
