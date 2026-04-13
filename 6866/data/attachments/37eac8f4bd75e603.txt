@@ -1,0 +1,5 @@
+Connecting to  wss://avn-parachain.mainnet.aventus.io
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+Can't connect to wss://rpc-hetzner.xx.network
+Connected to  wss://avn-parachain.mainnet.aventus.io
