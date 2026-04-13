@@ -1,4 +1,0 @@
-Connecting to  wss://services.tanssi-mainnet.network/tanssi
-Can't connect to wss://phala.public.curie.radiumblock.co/ws
-Can't connect to wss://phala.public.curie.radiumblock.co/ws
-Connected to  wss://services.tanssi-mainnet.network/tanssi
