@@ -1,0 +1,3 @@
+Connecting to  wss://sys.ibp.network/coretime-kusama
+Connected to  wss://shiden-rpc.n.dwellir.com
+Connected to  wss://sys.ibp.network/coretime-kusama
