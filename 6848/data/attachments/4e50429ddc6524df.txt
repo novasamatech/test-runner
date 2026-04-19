@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://ajuna.ibp.network, check it is available? 
- [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'ajuna.ibp.network'. (_ssl.c:1017)
