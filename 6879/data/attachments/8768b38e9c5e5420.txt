@@ -1,0 +1,3 @@
+Connecting to  wss://sys.ibp.network/coretime-polkadot
+Connected to  wss://phala.public.curie.radiumblock.co/ws
+Connected to  wss://sys.ibp.network/coretime-polkadot
