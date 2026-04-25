@@ -1,0 +1,5 @@
+Connecting to  wss://rpc.jamton.network
+Connected to  wss://rpc.jamton.network
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+Connected to  wss://phala.public.curie.radiumblock.co/ws
