@@ -1,0 +1,11 @@
+Connecting to  wss://nexus.ibp.network
+⚠️ Can't connect by wss://nexus.ibp.network, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'vary': 'origin, access-control-request-method, access-control-request-headers', 'access-control-allow-origin': '*', 'access-control-expose-headers': '*', 'content-length': '45', 'date': 'Sun, 26 Apr 2026 15:18:43 GMT', 'strict-transport-security': 'max-age=16000000; includeSubDomains; preload;'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to wss://nexus.ibp.network
+Connecting to  wss://nexus.dotters.network
+⚠️ Can't connect by wss://nexus.dotters.network, check it is available? 
+ [Errno -5] No address associated with hostname
+Can't connect to wss://nexus.dotters.network
+Connecting to  wss://hyperbridge-nexus-rpc.blockops.network
+Connecting to  wss://nexus.ibp.network
+Connected to  wss://nexus.ibp.network
