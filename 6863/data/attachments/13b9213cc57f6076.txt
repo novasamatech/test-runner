@@ -1,6 +1,0 @@
-Connecting to  wss://peaq-rpc.publicnode.com
-⚠️ Can't connect by wss://peaq-rpc.publicnode.com, check it is available? 
- Handshake status 200 OK -+-+- {'date': 'Sun, 12 Apr 2026 09:21:20 GMT', 'content-type': 'text/html; charset=utf-8', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cache-control': 's-maxage=60, stale-while-revalidate', 'vary': 'Accept-Encoding', 'x-dns-prefetch-control': 'off', 'x-download-options': 'noopen', 'x-envoy-upstream-service-time': '24', 'x-frame-options': 'SAMEORIGIN', 'x-nextjs-cache': 'STALE', 'x-permitted-cross-domain-policies': 'none', 'x-powered-by': 'Next.js', 'cf-cache-status': 'DYNAMIC', 'strict-transport-security': 'max-age=31536000; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'server': 'cloudflare', 'cf-ray': '9eb129048cbd78b1-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
-Can't connect to wss://peaq-rpc.publicnode.com
-Connecting to  wss://peaq-rpc.publicnode.com
-Connected to  wss://peaq-rpc.publicnode.com
