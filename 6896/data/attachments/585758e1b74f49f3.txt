@@ -1,0 +1,12 @@
+Connecting to  wss://rpc.joystream.org
+⚠️ Can't connect by wss://rpc.joystream.org, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Tue, 28 Apr 2026 15:51:41 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=FDLqLO4g%2FTX3GEwVxUMzgY9ufrU%2FNsOfUorA9p75%2FytxEQCNhm5GpMNfw%2FwBTZK3ratNvM%2Fg%2BxudDT%2BF8r5EnLkiDLJ4d4tK6xCu0PJI%2FJ0l9edUbM3N%2FGIh9kOSRNh8siuP"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '9f373ad1db6c1f8d-EWR'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to wss://rpc.joystream.org
+Connecting to  wss://rpc.joystream.org
+⚠️ Can't connect by wss://rpc.joystream.org, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Tue, 28 Apr 2026 15:51:47 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=MDdKHbo6FhF5HbsHvNG8tlB6WGEEa3F4%2B%2FJ%2FShSCR1cMKT%2BKKfyUeeM77Mnvqftfb9usZFGZLenyH%2BXKvIKdI3VRbn%2FWq%2BacFvUGRO%2BzQ8rfu%2BtWdo034d%2BpFeUZXN9qeAKa"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '9f373af66afe726f-EWR'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to wss://rpc.joystream.org
+Connecting to  wss://rpc.joystream.org
+⚠️ Can't connect by wss://rpc.joystream.org, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Tue, 28 Apr 2026 15:51:53 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=RuKix7qAsvYLmUnNlinJyO3AwhazgmLDip9MY6tKQjJfousiOlz%2BaQrbj7aaNpKaM1klP4WS7ZVBhsMLU052nhnWHy2ORjqAOLIZypjOTihnLrHzqdS%2FYGMr%2B61C0hYOweym"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '9f373b1b0f401f8d-EWR'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to wss://rpc.joystream.org
