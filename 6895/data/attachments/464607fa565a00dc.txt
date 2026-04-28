@@ -1,0 +1,5 @@
+Connecting to  wss://peaq-rpc.publicnode.com
+Connected to  wss://peaq-rpc.publicnode.com
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+Connected to  wss://phala.public.curie.radiumblock.co/ws
