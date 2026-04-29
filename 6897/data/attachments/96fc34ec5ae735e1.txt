@@ -1,0 +1,7 @@
+Connecting to  wss://sys.ibp.network/coretime-kusama
+Connecting to  wss://sys.ibp.network/coretime-kusama
+Connecting to  wss://sys.ibp.network/coretime-kusama
+Can't connect to wss://coretime-kusama.dotters.network
+Connecting to  wss://rpc-coretime-kusama.luckyfriday.io
+Connected to  wss://rpc-coretime-kusama.luckyfriday.io
+Connected to  wss://sys.ibp.network/coretime-kusama

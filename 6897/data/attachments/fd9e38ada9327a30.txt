@@ -1,0 +1,3 @@
+Connecting to  wss://sys.ibp.network/bridgehub-polkadot
+Connecting to  wss://sys.ibp.network/bridgehub-polkadot
+Connected to  wss://sys.ibp.network/bridgehub-polkadot

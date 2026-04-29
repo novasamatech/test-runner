@@ -1,0 +1,8 @@
+Connecting to  wss://rpc.tangle.tools
+⚠️ Can't connect by wss://rpc.tangle.tools, check it is available? 
+ Handshake status 403 Forbidden -+-+- {'date': 'Wed, 29 Apr 2026 09:47:02 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'vary': 'Accept-Encoding', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=qbkzDlBN6xA5YN5TOi6OhCMDGzlz71SqSdLKwXv48mjq0FDKJwVEyCchl15caE%2Fn%2BebihD6s8ZzvWtcJg1B4qKIBBuY28c8CkMHwl%2B6ZrhDpDwqtS8ASwjvrCJUi7nSbJ%2BU%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'strict-transport-security': 'max-age=31536000; includeSubDomains; preload', 'speculation-rules': '"/cdn-cgi/speculation"', 'expect-ct': 'max-age=86400, enforce', 'referrer-policy': 'same-origin', 'x-content-type-options': 'nosniff', 'x-frame-options': 'SAMEORIGIN', 'x-xss-protection': '1; mode=block', 'server': 'cloudflare', 'cf-ray': '9f3d61f9bf5ea230-SJC', 'alt-svc': 'h3=":443"; ma=86400', 'server-timing': 'cfL4;desc="?proto=TCP&rtt=2263&min_rtt=1240&rtt_var=1196&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2830&recv_bytes=808&delivery_rate=2303225&cwnd=52&unsent_bytes=0&cid=93706e6300136e1d&ts=2624&x=0"'} -+-+- b'error code: 1034'
+Can't connect to wss://rpc.tangle.tools
+Connecting to  wss://rpc.tangle.tools
+Can't connect to wss://sys.ibp.network/bridgehub-polkadot
+Connecting to  wss://bridge-hub-polkadot.dotters.network
+Connected to  wss://bridge-hub-polkadot.dotters.network
