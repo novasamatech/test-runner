@@ -1,0 +1,3 @@
+Connecting to  wss://rpc-polkadot-1.novasama-tech.org
+Connecting to  wss://rpc-polkadot-1.novasama-tech.org
+Connected to  wss://rpc-polkadot-1.novasama-tech.org
