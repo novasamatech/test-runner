@@ -1,3 +1,0 @@
-Connecting to  wss://explorer-rpc-ws.mainnet.stages.humanode.io
-Connected to  wss://phala.public.curie.radiumblock.co/ws
-Connected to  wss://explorer-rpc-ws.mainnet.stages.humanode.io
