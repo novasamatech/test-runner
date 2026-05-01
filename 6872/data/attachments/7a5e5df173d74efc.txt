@@ -1,3 +1,0 @@
-Connecting to  wss://services.tanssi-mainnet.network/tanssi
-Connected to  wss://astar-rpc.n.dwellir.com
-Connected to  wss://services.tanssi-mainnet.network/tanssi
