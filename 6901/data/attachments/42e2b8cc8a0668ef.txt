@@ -1,0 +1,5 @@
+Connecting to  wss://services.tanssi-mainnet.network/tanssi
+Connected to  wss://services.tanssi-mainnet.network/tanssi
+Can't connect to wss://sys.ibp.network/coretime-polkadot
+Connecting to  wss://coretime-polkadot.dotters.network
+Connected to  wss://coretime-polkadot.dotters.network

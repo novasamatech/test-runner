@@ -1,0 +1,6 @@
+Connecting to  wss://sys.ibp.network/coretime-polkadot
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+Connecting to  wss://sys.ibp.network/coretime-polkadot
+Connected to  wss://sys.ibp.network/coretime-polkadot
