@@ -1,0 +1,6 @@
+Connecting to  wss://sys.ibp.network/encointer-kusama
+Connected to  wss://sys.ibp.network/encointer-kusama
+Connecting to  wss://sys.ibp.network/encointer-kusama
+Connected to  wss://sys.ibp.network/encointer-kusama
+Connecting to  wss://sys.ibp.network/encointer-kusama
+Connected to  wss://sys.ibp.network/encointer-kusama
