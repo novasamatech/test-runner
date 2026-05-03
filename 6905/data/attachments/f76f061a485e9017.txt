@@ -1,0 +1,4 @@
+Connecting to  wss://sys.ibp.network/coretime-kusama
+Connected to  wss://sys.ibp.network/coretime-kusama
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws

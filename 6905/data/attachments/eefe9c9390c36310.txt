@@ -1,0 +1,8 @@
+Connecting to  wss://avail.api.onfinality.io/public-ws
+Connected to  wss://avail.api.onfinality.io/public-ws
+Can't connect to wss://hyperbridge-nexus-rpc.blockops.network
+Can't connect to wss://rpc.astar.network
+Connecting to  wss://astar-rpc.n.dwellir.com
+Can't connect to wss://astar-rpc.n.dwellir.com
+Connecting to  wss://astar.public.curie.radiumblock.co/ws
+Connected to  wss://astar.public.curie.radiumblock.co/ws
