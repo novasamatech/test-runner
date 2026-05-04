@@ -1,5 +1,0 @@
-Connecting to  wss://rpc-hydra.novasama-tech.org
-Connecting to  wss://rpc-hydra.novasama-tech.org
-Connected to  wss://rpc-hydra.novasama-tech.org
-Connecting to  wss://rpc-hydra.novasama-tech.org
-Connected to  wss://rpc-hydra.novasama-tech.org
