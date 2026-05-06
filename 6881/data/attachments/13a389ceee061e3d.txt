@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://1rpc.io/dot, check it is available? 
- Handshake status 404 Not Found -+-+- {'date': 'Tue, 21 Apr 2026 09:35:58 GMT', 'content-type': 'text/plain; charset=utf-8', 'connection': 'keep-alive', 'transfer-encoding': 'chunked'} -+-+- None
