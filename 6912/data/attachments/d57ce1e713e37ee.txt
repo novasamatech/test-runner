@@ -1,0 +1,4 @@
+Connecting to  wss://rpc.darwinia.network
+Connecting to  wss://rpc.darwinia.network
+Connected to  wss://rpc.darwinia.network
+Connecting to  wss://rpc.darwinia.network
