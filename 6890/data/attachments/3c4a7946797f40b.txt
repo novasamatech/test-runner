@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://nexus.ibp.network, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'content-type': 'text/plain', 'vary': 'origin, access-control-request-method, access-control-request-headers', 'access-control-allow-origin': '*', 'access-control-expose-headers': '*', 'content-length': '45', 'date': 'Sat, 25 Apr 2026 15:20:36 GMT', 'strict-transport-security': 'max-age=16000000; includeSubDomains; preload;'} -+-+- b'Too many connections. Please try again later.'
