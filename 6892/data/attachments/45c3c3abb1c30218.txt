@@ -1,3 +1,0 @@
-Connecting to  wss://mainnet.creditcoin.network/ws
-Connected to  wss://rpc-kusama-2.novasama-tech.org
-Connected to  wss://mainnet.creditcoin.network/ws
