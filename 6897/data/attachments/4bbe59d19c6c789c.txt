@@ -1,6 +1,0 @@
-Connecting to  wss://sys.ibp.network/bridgehub-kusama
-Connecting to  wss://sys.ibp.network/bridgehub-kusama
-Can't connect to wss://sys.ibp.network/bridgehub-kusama
-Connecting to  wss://bridge-hub-kusama.dotters.network
-Connected to  wss://sys.ibp.network/bridgehub-kusama
-Connected to  wss://bridge-hub-kusama.dotters.network
