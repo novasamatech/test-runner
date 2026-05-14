@@ -1,0 +1,4 @@
+Connecting to  wss://sys.ibp.network/coretime-kusama
+Connected to  wss://sys.ibp.network/coretime-kusama
+Can't connect to wss://rpc.shiden.astar.network
+Connecting to  wss://shiden-rpc.n.dwellir.com
