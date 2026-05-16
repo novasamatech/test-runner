@@ -1,0 +1,12 @@
+Connecting to  wss://rpc.xx.network
+Connecting to  wss://rpc.xx.network
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+Can't connect to wss://rpc-hetzner.xx.network
+Connecting to  wss://rpc.xx.network
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+Can't connect to wss://rpc-hetzner.xx.network
+Can't connect to wss://rpc-polkadot-1.novasama-tech.org
+Connecting to  wss://rpc-polkadot-2.novasama-tech.org
+Connected to  wss://rpc-polkadot-2.novasama-tech.org
