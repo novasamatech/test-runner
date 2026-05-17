@@ -1,1 +1,0 @@
-Connecting to  wss://sys.ibp.network/bridgehub-kusama

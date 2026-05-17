@@ -1,8 +1,0 @@
-Connecting to  wss://sys.ibp.network/coretime-kusama
-Can't connect to wss://sys.ibp.network/collectives-polkadot
-Connecting to  wss://collectives-polkadot.dotters.network
-Can't connect to wss://collectives-polkadot.dotters.network
-Connecting to  wss://collectives.public.curie.radiumblock.co/ws
-Connected to  wss://collectives.public.curie.radiumblock.co/ws
-Connecting to  wss://sys.ibp.network/coretime-kusama
-Connecting to  wss://sys.ibp.network/coretime-kusama
