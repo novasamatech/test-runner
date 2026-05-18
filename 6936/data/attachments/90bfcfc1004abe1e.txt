@@ -1,0 +1,3 @@
+Connecting to  wss://rpc.jamton.network
+Can't connect to wss://ipci.rpc.robonomics.network
+Connected to  wss://rpc.jamton.network

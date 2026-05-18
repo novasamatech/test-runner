@@ -1,0 +1,5 @@
+Connecting to  wss://rpc-pendulum.prd.pendulumchain.tech
+⚠️ Can't connect by wss://rpc-hetzner.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Mon, 18 May 2026 16:11:24 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=EputjVqmf4ePIFh88d11miVxDey3vRN4uQMklDEAMhfwB4natqaQWQnSBdZN8aov2Go%2FiLnezvd10B%2FJlI3yoajY5Yad9WHR1FEQe4AKvxUxHqbB3dLXUblbRAZktMfE%2F2KNGWWblkmk"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '9fdc23307f4fc095-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to wss://rpc-hetzner.xx.network
+Connected to  wss://rpc-pendulum.prd.pendulumchain.tech
