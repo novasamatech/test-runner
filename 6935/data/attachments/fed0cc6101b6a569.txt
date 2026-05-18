@@ -1,0 +1,4 @@
+Connecting to  wss://rpc.dentnet.io/ws
+Connected to  wss://phala.public.curie.radiumblock.co/ws
+Connected to  wss://rpc.dentnet.io/ws
+Can't connect to wss://hyperbridge-nexus-rpc.blockops.network
