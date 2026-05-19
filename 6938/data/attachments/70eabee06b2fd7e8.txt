@@ -1,0 +1,6 @@
+Connecting to  wss://crust-parachain.crustapps.net
+Connected to  wss://crust-parachain.crustapps.net
+Can't connect to wss://rpc-polkadot-1.novasama-tech.org
+Connecting to  wss://rpc-polkadot-2.novasama-tech.org
+Can't connect to wss://rpc-polkadot-2.novasama-tech.org
+Connecting to  wss://rpc.ibp.network/polkadot

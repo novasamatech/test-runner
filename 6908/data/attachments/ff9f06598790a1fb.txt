@@ -1,1 +1,0 @@
-Connecting to  wss://lite.sub.latent.to:443
