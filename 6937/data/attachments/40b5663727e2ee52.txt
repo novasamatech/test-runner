@@ -1,0 +1,6 @@
+Connecting to  wss://rpc-assethub.novasama-tech.org
+⚠️ Can't connect by wss://rpc-assethub.novasama-tech.org, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'date': 'Tue, 19 May 2026 10:18:45 GMT', 'content-type': 'text/plain; charset=utf-8', 'content-length': '20', 'connection': 'keep-alive', 'x-content-type-options': 'nosniff', 'cf-cache-status': 'BYPASS', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=0xgGB8vRbpN2bRjAwoQ7NX2ZCo233z2aDDFje2kXF83Qp7IlohTm6uDSTb37H5hCCj55Z%2FupSRhFQus8NcMs0cXuNgoVtcNe9y%2FDSx1dKdQ8lmK8v%2BdB3LokuSk3yCfvwyD59ZgDMX2O4hdHPEaGQw%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '9fe25c001f21d6b8-IAD'} -+-+- b'no available server\n'
+Can't connect to wss://rpc-assethub.novasama-tech.org
+Connecting to  wss://asset-hub-polkadot-rpc.n.dwellir.com
+Connected to  wss://asset-hub-polkadot-rpc.n.dwellir.com

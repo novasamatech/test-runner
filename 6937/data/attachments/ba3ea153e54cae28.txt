@@ -1,0 +1,10 @@
+Connecting to  wss://rpc-kusama-1.novasama-tech.org
+⚠️ Can't connect by wss://rpc-kusama-1.novasama-tech.org, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'date': 'Tue, 19 May 2026 10:18:53 GMT', 'content-type': 'text/plain; charset=utf-8', 'content-length': '20', 'connection': 'keep-alive', 'x-content-type-options': 'nosniff', 'cf-cache-status': 'BYPASS', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=k4ZjnAFw2X4hwP0OdDn%2B1g3bjOhuA1Rr9Mzk0vSQ4NiU8nF2yEOzMa4yHpMla3TDUhD%2FFWvJUPvQ0IDkVPxObXRhqj3wdvvTYexcAUuerW%2FHN%2BgiHQgaHIKMdd815FsLk2BvY3o%2B8Te13UDkCyME6w%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '9fe25c31d9890824-IAD'} -+-+- b'no available server\n'
+Can't connect to wss://rpc-kusama-1.novasama-tech.org
+Connecting to  wss://rpc-kusama-2.novasama-tech.org
+⚠️ Can't connect by wss://rpc-kusama-2.novasama-tech.org, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'date': 'Tue, 19 May 2026 10:18:53 GMT', 'content-type': 'text/plain; charset=utf-8', 'content-length': '20', 'connection': 'keep-alive', 'x-content-type-options': 'nosniff', 'cf-cache-status': 'BYPASS', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=70vTB9E1zu5y%2FRGSRXUQUO%2FVb3J4O0cdEaL3fUw3zXR%2BBkngQeW4fiBB31c%2BbBPiJewPr8B%2FQYCL3NFEgh5XioLGJwxSvC%2BUOBN%2FreMHLTw6wpjCXlTOUHMWS2Wn4sgAhiYax70GoYZwt67%2FKCiiBg%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '9fe25c3538458215-IAD'} -+-+- b'no available server\n'
+Can't connect to wss://rpc-kusama-2.novasama-tech.org
+Connecting to  wss://rpc.ibp.network/kusama
+Connected to  wss://rpc.ibp.network/kusama

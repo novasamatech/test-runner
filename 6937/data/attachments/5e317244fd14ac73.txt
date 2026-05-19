@@ -1,0 +1,7 @@
+Connecting to  wss://rpc-hydra.novasama-tech.org
+Connecting to  wss://rpc-hydra.novasama-tech.org
+⚠️ Can't connect by wss://rpc-hydra.novasama-tech.org, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'date': 'Tue, 19 May 2026 10:19:19 GMT', 'content-type': 'text/plain; charset=utf-8', 'content-length': '20', 'connection': 'keep-alive', 'x-content-type-options': 'nosniff', 'cf-cache-status': 'BYPASS', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=jxXvmlZ2ApM2W8%2B6pp7Ydq8OmXKwi%2FlXd4ydg%2F%2F%2FV5UKKRMgxA80AitAVrKLmuuDO2jWqlvMPvtmalfZFKDxZuwRjUhLKhs908OTLxgSSZLh%2FsaRwXZKHnHG1MV%2B9LLHlrwuMT86m2%2FpqdbUbQ%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '9fe25cd47a37f24a-IAD'} -+-+- b'no available server\n'
+Can't connect to wss://rpc-hydra.novasama-tech.org
+Connecting to  wss://rpc.hydradx.cloud
+Connected to  wss://rpc.hydradx.cloud

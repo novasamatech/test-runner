@@ -1,9 +1,0 @@
-Connecting to  wss://sys.ibp.network/coretime-polkadot
-Connecting to  wss://sys.ibp.network/coretime-polkadot
-Can't connect to wss://sys.ibp.network/coretime-polkadot
-Connecting to  wss://coretime-polkadot.dotters.network
-Can't connect to wss://coretime-polkadot.dotters.network
-Connecting to  wss://rpc-coretime-polkadot.luckyfriday.io
-Connected to  wss://rpc-coretime-polkadot.luckyfriday.io
-Connecting to  wss://sys.ibp.network/coretime-polkadot
-Connected to  wss://sys.ibp.network/coretime-polkadot
