@@ -1,6 +1,0 @@
-Connecting to  wss://lite.sub.latent.to:443
-Connecting to  wss://lite.sub.latent.to:443
-Connected to  wss://lite.sub.latent.to:443
-Can't connect to wss://lite.sub.latent.to:443
-Connecting to  wss://bittensor-finney.api.onfinality.io/public-ws
-Connected to  wss://bittensor-finney.api.onfinality.io/public-ws
