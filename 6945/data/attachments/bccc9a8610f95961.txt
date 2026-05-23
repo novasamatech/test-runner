@@ -1,0 +1,6 @@
+Connecting to  wss://rpc-assethub.novasama-tech.org
+⚠️ Can't connect by wss://rpc-assethub.novasama-tech.org, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Sat, 23 May 2026 09:36:51 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=ERQoFU1HK128G8LKQpJU%2BBSFTSSYjQ28%2BZli0Bp3rBlx9C%2BmvoiJWCsNNw7Mb6z9mH66JUrCSIuppVp%2F62u%2BkwecusK1BYfcGHC4hnvIIbSsUlT3vv3Yp7UYMaXErkannBlj3IM7FUozQCakeMx9gw%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a00314235cb1d674-IAD'} -+-+- b'error code: 502'
+Can't connect to wss://rpc-assethub.novasama-tech.org
+Connecting to  wss://asset-hub-polkadot-rpc.n.dwellir.com
+Connected to  wss://asset-hub-polkadot-rpc.n.dwellir.com

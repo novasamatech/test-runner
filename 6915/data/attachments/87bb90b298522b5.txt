@@ -1,8 +1,0 @@
-Connecting to  wss://ipci.rpc.robonomics.network
-Connecting to  wss://ipci.rpc.robonomics.network
-Can't connect to wss://rpc-polkadot-1.novasama-tech.org
-Connecting to  wss://rpc-polkadot-2.novasama-tech.org
-Can't connect to wss://rpc-polkadot-2.novasama-tech.org
-Connecting to  wss://rpc.ibp.network/polkadot
-Connected to  wss://rpc.ibp.network/polkadot
-Connecting to  wss://ipci.rpc.robonomics.network
