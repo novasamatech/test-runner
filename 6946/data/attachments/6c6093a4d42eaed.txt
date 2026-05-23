@@ -1,0 +1,7 @@
+Connecting to  wss://rpc.dentnet.io/ws
+Connected to  wss://rpc.dentnet.io/ws
+Can't connect to wss://rpc-assethub.novasama-tech.org
+Connecting to  wss://asset-hub-polkadot-rpc.n.dwellir.com
+Can't connect to wss://asset-hub-polkadot-rpc.n.dwellir.com
+Connecting to  wss://sys.ibp.network/asset-hub-polkadot
+Connected to  wss://sys.ibp.network/asset-hub-polkadot
