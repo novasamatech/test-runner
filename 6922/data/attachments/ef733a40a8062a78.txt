@@ -1,8 +1,0 @@
-Connecting to  wss://rpc.laos.laosfoundation.io
-⚠️ Can't connect by wss://rpc.laos.laosfoundation.io, check it is available? 
- Handshake status 503 Service Temporarily Unavailable -+-+- {'date': 'Mon, 11 May 2026 16:03:27 GMT', 'content-type': 'text/html', 'content-length': '190', 'connection': 'keep-alive', 'strict-transport-security': 'max-age=15724800; includeSubDomains'} -+-+- b'<html>\r\n<head><title>503 Service Temporarily Unavailable</title></head>\r\n<body>\r\n<center><h1>503 Service Temporarily Unavailable</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n'
-Can't connect to wss://rpc.laos.laosfoundation.io
-Connecting to  wss://rpc.laos.laosfoundation.io
-⚠️ Can't connect by wss://rpc.laos.laosfoundation.io, check it is available? 
- Handshake status 503 Service Temporarily Unavailable -+-+- {'date': 'Mon, 11 May 2026 16:03:34 GMT', 'content-type': 'text/html', 'content-length': '190', 'connection': 'keep-alive', 'strict-transport-security': 'max-age=15724800; includeSubDomains'} -+-+- b'<html>\r\n<head><title>503 Service Temporarily Unavailable</title></head>\r\n<body>\r\n<center><h1>503 Service Temporarily Unavailable</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n'
-Can't connect to wss://rpc.laos.laosfoundation.io

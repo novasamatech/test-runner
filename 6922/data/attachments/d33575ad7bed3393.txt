@@ -1,3 +1,0 @@
-self._target(*self._args, **self._kwargs)
-func_timeout.dafunc.FunctionTimedOut-5067911298940705350: Function create_connection_by_url (args=('wss://rpc.astar.network',)) (kwargs={}) timed out after 15.000000 seconds.
-
