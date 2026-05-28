@@ -1,1 +1,0 @@
-Timeout 15 when creating connection: wss://us.bifrost-rpc.liebi.com/ws
