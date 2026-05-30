@@ -1,0 +1,7 @@
+Connecting to  wss://rpc.laos.laosfoundation.io
+Connecting to  wss://rpc.laos.laosfoundation.io
+Can't connect to wss://rpc.shiden.astar.network
+Connecting to  wss://shiden-rpc.n.dwellir.com
+Can't connect to wss://shiden-rpc.n.dwellir.com
+Connecting to  wss://shiden.public.curie.radiumblock.co/ws
+Connected to  wss://shiden.public.curie.radiumblock.co/ws

@@ -1,0 +1,13 @@
+Connecting to  wss://rpc.laos.laosfoundation.io
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Sat, 30 May 2026 09:41:39 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=jY9nw4baroyreySsWF8HDxUnphJsu1VW%2F5UUo83UaBZh1kqM4UZRuMaXOMx%2BVhkpU1uqCvDvdzHZQVwi4bXWHnqo%2FNajzE6mFl%2FZoxduNL5DnkA5poHzd8Jljez8gXcgm%2FXqLHKKbXmmXDFJJ0NOUh8SGA%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a03cc8c9897dd011-SJC'} -+-+- b'error code: 502'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+Connecting to  wss://rpc.laos.laosfoundation.io
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Sat, 30 May 2026 09:41:59 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=oSUeTL4NbpNbvurLtnCYW5XdTAXtZub3T%2Fq4oJUJCydeoMa9Ws%2FJEotB%2FKqlkLKqWdbkN1N9VhwDMCvxTs%2BFQUwBKiDKjPG53dp4%2Fw1TT6nERk1vOLxnDRJUavGXUcAKmDFZLs6G90DFlnhtlng4NgdaQw%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a03cc946f81115b2-SJC'} -+-+- b'error code: 502'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+Connecting to  wss://rpc.laos.laosfoundation.io
