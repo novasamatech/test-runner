@@ -1,0 +1,12 @@
+Connecting to  wss://nexus.ibp.network
+⚠️ Can't connect by wss://nexus.ibp.network, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://nexus.ibp.network
+Connecting to  wss://nexus.dotters.network
+⚠️ Can't connect by wss://nexus.dotters.network, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://nexus.dotters.network
+Connecting to  wss://hyperbridge-nexus-rpc.blockops.network
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+Can't connect to wss://phala.public.curie.radiumblock.co/ws

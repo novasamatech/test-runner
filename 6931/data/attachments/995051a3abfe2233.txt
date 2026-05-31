@@ -1,4 +1,0 @@
-Connecting to  wss://rpc-assethub.novasama-tech.org
-Connecting to  wss://rpc-assethub.novasama-tech.org
-Connected to  wss://asset-hub-polkadot-rpc.n.dwellir.com
-Connected to  wss://rpc-assethub.novasama-tech.org
