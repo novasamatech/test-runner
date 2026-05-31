@@ -1,0 +1,36 @@
+Connecting to  wss://nexus.ibp.network
+⚠️ Can't connect by wss://nexus.ibp.network, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://nexus.ibp.network
+Connecting to  wss://nexus.dotters.network
+⚠️ Can't connect by wss://nexus.dotters.network, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://nexus.dotters.network
+Connecting to  wss://hyperbridge-nexus-rpc.blockops.network
+Connecting to  wss://nexus.ibp.network
+⚠️ Can't connect by wss://nexus.ibp.network, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://nexus.ibp.network
+Connecting to  wss://nexus.dotters.network
+⚠️ Can't connect by wss://nexus.dotters.network, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://nexus.dotters.network
+Connecting to  wss://hyperbridge-nexus-rpc.blockops.network
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Sun, 31 May 2026 15:33:18 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=YDJv2LWL%2F5XaN7ngPAADMi37Uz6Hu8%2BgnGuqE2rLFryZJX4ud548OpAbXP8obOrO85OsyfSZ7fIVB%2BdGA76oSKINmtcDN%2FwI9tIuwlN7wxzA63Aefo6VmfVu%2FW%2FBH11H3WatvCaJbj44QuU3ib5OsWXVOw%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a04709476fa5f579-SJC'} -+-+- b'error code: 502'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+Connecting to  wss://nexus.ibp.network
+⚠️ Can't connect by wss://nexus.ibp.network, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://nexus.ibp.network
+Connecting to  wss://nexus.dotters.network
+Can't connect to wss://hyperbridge-nexus-rpc.blockops.network
+⚠️ Can't connect by wss://nexus.dotters.network, check it is available? 
+ [Errno -5] No address associated with hostname
+Can't connect to wss://nexus.dotters.network
+Connecting to  wss://hyperbridge-nexus-rpc.blockops.network

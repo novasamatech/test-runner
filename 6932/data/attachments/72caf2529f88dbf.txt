@@ -1,3 +1,0 @@
-Connecting to Can't connect to wss://phala.public.curie.radiumblock.co/ws
- wss://mainnet3.creditcoin.network
-Connected to  wss://mainnet3.creditcoin.network
