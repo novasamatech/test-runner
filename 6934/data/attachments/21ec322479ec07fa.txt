@@ -1,8 +1,0 @@
-Connecting to  wss://so.polkadex.ee
-⚠️ Can't connect by wss://so.polkadex.ee, check it is available? 
- Handshake status 409 Conflict -+-+- {'date': 'Sun, 17 May 2026 15:25:47 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'close', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '9fd3a302ccc24b11-IAD'} -+-+- b'error code: 1001'
-Can't connect to wss://so.polkadex.ee
-Connecting to  wss://polkadex.public.curie.radiumblock.co/ws
-⚠️ Can't connect by wss://polkadex.public.curie.radiumblock.co/ws, check it is available? 
- Handshake status 523 None -+-+- {'date': 'Sun, 17 May 2026 15:25:47 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=wefpZeFXGxxYV3IM9HZGJRZ5smU7QJSwqjwCMXdzeg%2BHOt1WsWpk111ILTn0Oh2vKgFFs0UNydzmE0%2Fl58FDkCnuyV02F%2BHGxzXQlcxPOLUyJ%2FW5JCp%2Fh5N0NKABLZF%2BgBSRH0%2FYJ%2BpHZqFRnCsx2nN7cDMm0w%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': '9fd3a305c84681c7-IAD'} -+-+- b'error code: 523'
-Can't connect to wss://polkadex.public.curie.radiumblock.co/ws
