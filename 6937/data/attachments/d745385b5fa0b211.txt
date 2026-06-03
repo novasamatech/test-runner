@@ -1,5 +1,0 @@
-Connecting to  wss://rpc-polkadot-1.novasama-tech.org
-⚠️ Can't connect by wss://rpc-polkadot-1.novasama-tech.org, check it is available? 
- Handshake status 503 Service Unavailable -+-+- {'date': 'Tue, 19 May 2026 10:18:29 GMT', 'content-type': 'text/plain; charset=utf-8', 'content-length': '20', 'connection': 'keep-alive', 'x-content-type-options': 'nosniff', 'cf-cache-status': 'BYPASS', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=jE8WP%2Fi6gJCqcLjzSMoGwGlGDosH6dIUEpCh2%2FJDVw3Ryzcnf%2B2nl1GE6GE9kVHjoy2Os7xHkcRS8BKJi3f095Fq5k2b0CilTOscUmcipKcsVVxmvPWi18vNOjjtrh9Uj09KbZj5xFgxOf7otZPf4szL"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': '9fe25b9fbed4ec03-IAD'} -+-+- b'no available server\n'
-Can't connect to wss://rpc-polkadot-1.novasama-tech.org
-Connecting to  wss://rpc-polkadot-2.novasama-tech.org

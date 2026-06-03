@@ -1,0 +1,1 @@
+Connecting to  wss://krest.api.onfinality.io/public-ws'
