@@ -1,0 +1,3 @@
+Connecting to  wss://sys.ibp.network/collectives-polkadot
+Connected to  wss://sys.ibp.network/collectives-polkadot
+Can't connect to wss://zeitgeist.api.onfinality.io/public-ws
