@@ -1,0 +1,8 @@
+Connecting to  wss://krest.api.onfinality.io/public-ws'
+Connecting to  wss://krest.api.onfinality.io/public-ws'
+Can't connect to wss://krest.api.onfinality.io/public-ws'
+Connecting to  wss://krest.api.onfinality.io/public-ws'
+Can't connect to wss://krest.api.onfinality.io/public-ws'
+Can't connect to wss://rpc.shiden.astar.network
+Connecting to  wss://shiden-rpc.n.dwellir.com
+Connected to  wss://shiden-rpc.n.dwellir.com
