@@ -1,0 +1,7 @@
+Connecting to  wss://sys.ibp.network/coretime-kusama
+Connected to  wss://astar-rpc.n.dwellir.com
+⚠️ Can't connect by wss://sys.ibp.network/coretime-kusama, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'content-length': '107', 'cache-control': 'no-cache', 'content-type': 'text/html'} -+-+- b'<html><body><h1>503 Service Unavailable</h1>\nNo server is available to handle this request.\n</body></html>\n'
+Can't connect to wss://sys.ibp.network/coretime-kusama
+Connecting to  wss://coretime-kusama.dotters.network
+Connected to  wss://coretime-kusama.dotters.network
