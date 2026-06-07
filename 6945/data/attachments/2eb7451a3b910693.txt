@@ -1,5 +1,0 @@
-Connecting to  wss://services.tanssi-mainnet.network/tanssi
-Can't connect to wss://shiden-rpc.n.dwellir.com
-Connecting to  wss://shiden.public.curie.radiumblock.co/ws
-Connected to  wss://services.tanssi-mainnet.network/tanssi
-Connected to  wss://shiden.public.curie.radiumblock.co/ws
