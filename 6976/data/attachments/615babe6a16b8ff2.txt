@@ -1,0 +1,18 @@
+Connecting to  wss://kreivo.kippu.rocks/
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Sun, 07 Jun 2026 15:34:37 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=G8CFQGFinGWx59MgcjPo%2FcslAUcBW0vPAMlv5UWFYRZbjwEuak%2BO%2FBsVZhgP5qnonLPzTpNwQsRGQGGNXGKWF151S67vrFgme8il7acAGpBAkQsQYMGrz6smwtMAEAxr%2BKcu4YwGJw%2B4uryrLW2zF1u8aw%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a080b8d24bcbf151-ORD'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+Connecting to  wss://kreivo.kippu.rocks/
+Connecting to  wss://kreivo.kippu.rocks/
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Sun, 07 Jun 2026 15:35:17 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=j6geJ6aFBaNlXjm4c3Qh%2Fn7nhsQM0sF%2BwryhBkVSoUJWM%2BbyqWUb0vEAjkBPrf7NC%2FwH2UpHy8%2Fv7IbWq6VkwTf6yUo1sx1gBgJ5Il3rHJ4TndBoRcmtPA7Ii1swmeWM3Nh6uSDo48%2BB7ZIIcA9YRNTEwg%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a080b9cb29afeaf1-ORD'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Sun, 07 Jun 2026 15:35:17 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=WTY3xkWEvcnba4HhK1wHbAp4YjNNQA1fMyC2hxmjYUDI2FZdoT%2F2i781lywBjCLnV39v58tnmHgTA%2FGleqjiBwruBfDaPkn1s65kv6cW2LU%2FQceU%2B6rAFI75kMPBC5E1xS2z%2FaKUt2bxl6ufMDAv5sxcjA%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a080b9cd4a20f151-ORD'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
