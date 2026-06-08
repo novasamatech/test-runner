@@ -1,0 +1,13 @@
+Connecting to  wss://rpc.laos.laosfoundation.io
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Mon, 08 Jun 2026 10:40:49 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=LWh3HE4G4f11XXSfqSQcrkjCDr1SlnUGd6Fig9oksmuqGgRWES%2Fe7aG3rj%2FiG%2B%2F9Uw2Fu8INm63H3yOKaunPR4SjFzxklbdHT1yMFmUyhf3o97o%2BJRvsWbKKSSbYnrZOsmc4DI0NUHEV2ghmyleoii3T4A%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a08747d769010594-IAD'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+Connecting to  wss://rpc.laos.laosfoundation.io
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Mon, 08 Jun 2026 10:41:09 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=snL37qX2IJCKfmaBycH9G%2BtwerH3rzzuFzH0O1wEs%2FprakiWN3365Fup%2FAVlCae9fCg1w4AF4qVpnWylXcKjcJa2LhByrKse%2By9Ln6b9mLgQSgfU6Mcl1XkBKo8WLAAP0nCx%2B0xS0j7zObq%2BSTNDThno5w%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a0874854d9750594-IAD'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+Connecting to  wss://rpc.laos.laosfoundation.io
