@@ -1,0 +1,3 @@
+Connecting to  wss://mainnet3.creditcoin.network
+Connected to  wss://shiden.public.curie.radiumblock.co/ws
+Connected to  wss://mainnet3.creditcoin.network

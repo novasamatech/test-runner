@@ -1,0 +1,4 @@
+Connecting to  wss://krest.api.onfinality.io/public-ws'
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
