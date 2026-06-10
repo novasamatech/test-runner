@@ -1,0 +1,6 @@
+Connecting to  wss://sys.ibp.network/coretime-kusama
+⚠️ Can't connect by wss://sys.ibp.network/coretime-kusama, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://sys.ibp.network/coretime-kusama
+Connecting to  wss://coretime-kusama.dotters.network
+Connected to  wss://coretime-kusama.dotters.network
