@@ -1,0 +1,12 @@
+Connecting to  wss://rpc.laos.laosfoundation.io
+Can't connect to wss://rpc.astar.network
+Connecting to  wss://astar-rpc.n.dwellir.com
+Can't connect to wss://astar-rpc.n.dwellir.com
+Connecting to  wss://astar.public.curie.radiumblock.co/ws
+Connected to  wss://astar.public.curie.radiumblock.co/ws
+Connecting to  wss://rpc.laos.laosfoundation.io
+Can't connect to wss://rpc.astar.network
+Connecting to  wss://astar-rpc.n.dwellir.com
+Can't connect to wss://astar-rpc.n.dwellir.com
+Connecting to  wss://astar.public.curie.radiumblock.co/ws
+Connected to  wss://astar.public.curie.radiumblock.co/ws
