@@ -1,0 +1,2 @@
+Connecting to  wss://rpc.joystream.org
+Can't connect to wss://ipci.rpc.robonomics.network
