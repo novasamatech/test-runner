@@ -1,0 +1,3 @@
+Connecting to  wss://rpc.vara-network.io
+Can't connect to wss://zeitgeist.api.onfinality.io/public-ws
+Connected to  wss://rpc.vara-network.io

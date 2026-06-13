@@ -1,0 +1,4 @@
+Connecting to  wss://rpc.laos.laosfoundation.io
+Connected to  wss://astar.public.curie.radiumblock.co/ws
+Connecting to  wss://rpc.laos.laosfoundation.io
+Connecting to  wss://rpc.laos.laosfoundation.io
