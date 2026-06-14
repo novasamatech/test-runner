@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://unique.dotters.network, check it is available? 
- [Errno -2] Name or service not known
-⚠️ Can't connect by wss://unique.dotters.network, check it is available? 
- [Errno -5] No address associated with hostname

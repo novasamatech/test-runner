@@ -1,5 +1,0 @@
-Connecting to  wss://sys.ibp.network/coretime-kusama
-Can't connect to wss://shiden-rpc.n.dwellir.com
-Connecting to  wss://shiden.public.curie.radiumblock.co/ws
-Connected to  wss://sys.ibp.network/coretime-kusama
-Connected to  wss://shiden.public.curie.radiumblock.co/ws
