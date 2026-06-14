@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://hyperbridge-nexus-rpc.blockops.network, check it is available? 
- Handshake status 502 Bad Gateway -+-+- {'server': 'cloudflare', 'date': 'Sat, 30 May 2026 15:33:40 GMT', 'content-type': 'text/html', 'content-length': '155', 'connection': 'keep-alive', 'cf-ray': 'a03ecc39bae7dd56-ORD'} -+-+- b'<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n'

@@ -1,8 +1,0 @@
-Connecting to  wss://info.dbcwallet.io
-⚠️ Can't connect by wss://info.dbcwallet.io, check it is available? 
- [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1017)
-Can't connect to wss://info.dbcwallet.io
-Connecting to  wss://info.dbcwallet.io
-⚠️ Can't connect by wss://info.dbcwallet.io, check it is available? 
- [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1017)
-Can't connect to wss://info.dbcwallet.io
