@@ -1,3 +1,0 @@
-Connecting to  wss://mainnet.creditcoin.network/ws
-Can't connect to wss://ipci.rpc.robonomics.network
-Connected to  wss://mainnet.creditcoin.network/ws
