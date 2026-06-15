@@ -1,0 +1,6 @@
+Connecting to  wss://sys.ibp.network/encointer-kusama
+⚠️ Can't connect by wss://sys.ibp.network/encointer-kusama, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://sys.ibp.network/encointer-kusama
+Connecting to  wss://encointer-kusama.dotters.network
+Connected to  wss://encointer-kusama.dotters.network

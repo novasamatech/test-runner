@@ -1,0 +1,43 @@
+Connecting to  wss://nexus.ibp.network
+⚠️ Can't connect by wss://nexus.ibp.network, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://nexus.ibp.network
+Connecting to  wss://nexus.dotters.network
+⚠️ Can't connect by wss://nexus.dotters.network, check it is available? 
+ [Errno -5] No address associated with hostname
+Can't connect to wss://nexus.dotters.network
+Connecting to  wss://hyperbridge-nexus-rpc.blockops.network
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Mon, 15 Jun 2026 11:09:09 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=BFebxnvmMG8%2BJYv9N7FvN1V68fl0lQGBAAfUiTX4QUjMmZDmH37igb8B8rdjgSL%2FPLWRvfBUgsdejq%2BePHmBinMqpuMm9X%2Boiq8BRkwQ%2FVag5zyuYTw0Oh2FvXAHbQNZU7uAp8tUIS5jVZkboRf%2BvUkcLg%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a0c11ef3fd202039-IAD'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+Connecting to  wss://nexus.ibp.network
+⚠️ Can't connect by wss://nexus.ibp.network, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://nexus.ibp.network
+Connecting to  wss://nexus.dotters.network
+⚠️ Can't connect by wss://nexus.dotters.network, check it is available? 
+ [Errno -5] No address associated with hostname
+Can't connect to wss://nexus.dotters.network
+Connecting to  wss://hyperbridge-nexus-rpc.blockops.network
+Connecting to  wss://nexus.ibp.network
+Can't connect to wss://hyperbridge-nexus-rpc.blockops.network
+⚠️ Can't connect by wss://nexus.ibp.network, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://nexus.ibp.network
+Connecting to  wss://nexus.dotters.network
+⚠️ Can't connect by wss://nexus.dotters.network, check it is available? 
+ [Errno -5] No address associated with hostname
+Can't connect to wss://nexus.dotters.network
+Connecting to  wss://hyperbridge-nexus-rpc.blockops.network
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Mon, 15 Jun 2026 11:09:49 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=fD%2B2YUMhD1RVZzkiXxkjSB5r%2BLSl3DVZBzc6Qp0Wf%2FM8MHDh57cUNW0Cf5uM4YlFgC%2BmK85oKJGxoaB09bfDFL6%2ByZG9qy6PSmPPZHZQvwH8Z5uxdnFhTusAYo70NdfZIa6Chyg4CyNzzGVvpWSu6pPgsQ%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a0c11fefbcc682e6-IAD'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Mon, 15 Jun 2026 11:09:49 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=NIrheEyJ%2F2DG2FrIezb2mORZjPmQx%2FGjy9SSrEcSIVzfUzS4dvXvZgj3rZzUQSvQpky4RX7HoMxANOhyPGmjWuN2bhcXrouU21mcR3h7MRNfa5SVSYkXynY0RHbfQoNND9d9wdqJiFOSjhECBN6hEEmlig%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a0c11ff0e8af2039-IAD'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws

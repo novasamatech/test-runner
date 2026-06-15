@@ -1,5 +1,0 @@
-Connecting to  wss://rpc.jamton.network
-⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
- Handshake status 502 Bad Gateway -+-+- {'date': 'Sun, 31 May 2026 09:56:10 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=mzqt3Jh4yfZ2%2FpAbx9Owi4Y8m07op%2FrMiMfFAWJU4O275ZyjEXfdWlP4c%2FJFqktNfYS1UTZBg%2FO1k3Ky6o0LLPwFUNLPqEfs9MztaZ3A2QUpdPx3dG%2FC2Tf9hnVwWRZIqfElzt9uBHsyg4LQ8V72SdR%2FAg%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a0451b6d7f13473e-DFW'} -+-+- b'error code: 502'
-Can't connect to wss://phala.public.curie.radiumblock.co/ws
-Connected to  wss://rpc.jamton.network
