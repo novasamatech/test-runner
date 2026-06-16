@@ -1,3 +1,0 @@
-Connecting to  wss://sys.ibp.network/coretime-kusama
-Can't connect to wss://krest.api.onfinality.io/public-ws'
-Connected to  wss://sys.ibp.network/coretime-kusama

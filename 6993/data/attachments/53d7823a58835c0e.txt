@@ -1,0 +1,12 @@
+Connecting to  wss://rpc-para.ajuna.network
+⚠️ Can't connect by wss://rpc-para.ajuna.network, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'server': 'nginx/1.18.0 (Ubuntu)', 'date': 'Tue, 16 Jun 2026 10:39:33 GMT', 'content-type': 'text/html', 'content-length': '166', 'connection': 'keep-alive'} -+-+- b'<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.18.0 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n'
+Can't connect to wss://rpc-para.ajuna.network
+Connecting to  wss://ajuna.ibp.network
+⚠️ Can't connect by wss://ajuna.ibp.network, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://ajuna.ibp.network
+Connecting to  wss://ajuna.dotters.network
+⚠️ Can't connect by wss://ajuna.dotters.network, check it is available? 
+ [Errno -5] No address associated with hostname
+Can't connect to wss://ajuna.dotters.network

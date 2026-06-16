@@ -1,0 +1,5 @@
+Connecting to  wss://avail.api.onfinality.io/public-ws
+Connected to  wss://avail.api.onfinality.io/public-ws
+Can't connect to wss://astar.public.curie.radiumblock.co/ws
+Can't connect to wss://rpc.astar.network
+Connecting to  wss://astar-rpc.n.dwellir.com

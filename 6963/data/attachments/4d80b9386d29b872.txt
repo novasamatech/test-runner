@@ -1,5 +1,0 @@
-Connecting to  wss://rpc.jamton.network
-Can't connect to wss://astar-rpc.n.dwellir.com
-Connecting to  wss://astar.public.curie.radiumblock.co/ws
-Connected to  wss://rpc.jamton.network
-Connected to  wss://astar.public.curie.radiumblock.co/ws
