@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://1rpc.io/ksm, check it is available? 
- scheme https is invalid

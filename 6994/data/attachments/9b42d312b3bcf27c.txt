@@ -1,0 +1,7 @@
+Connecting to  wss://sys.ibp.network/collectives-polkadot
+Can't connect to wss://zeitgeist.api.onfinality.io/public-ws
+⚠️ Can't connect by wss://sys.ibp.network/collectives-polkadot, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://sys.ibp.network/collectives-polkadot
+Connecting to  wss://collectives-polkadot.dotters.network
+Connected to  wss://collectives-polkadot.dotters.network

@@ -1,5 +1,0 @@
-Connecting to  wss://explorer-rpc-ws.mainnet.stages.humanode.io
-⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
- Handshake status 530 None -+-+- {'date': 'Mon, 01 Jun 2026 16:55:47 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=eUCxYE4sPb7UKfN0qd7s5Jgsw55dwY1X3WGP3buhHH5r%2BIGJfoFp5AimkVx2RCAt%2BNqdB3dEjAApiS94mX5Dj8x3gMrAi5OInE8M0z0VIrOjrnOAwROC6fvpeEmbgcCuSWk%2B222OXWJJ5MGcEzWFIgY9CQ%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a04fbf7bdba8e5f7-IAD'} -+-+- b'error code: 1016'
-Can't connect to wss://phala.public.curie.radiumblock.co/ws
-Connected to  wss://explorer-rpc-ws.mainnet.stages.humanode.io
