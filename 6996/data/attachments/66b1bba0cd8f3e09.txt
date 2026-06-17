@@ -1,0 +1,3 @@
+Connecting to  wss://info.dbcwallet.io
+Connected to  wss://info.dbcwallet.io
+Can't connect to wss://hyperbridge-nexus-rpc.blockops.network

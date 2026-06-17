@@ -1,0 +1,13 @@
+Connecting to  wss://krest.api.onfinality.io/public-ws'
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Wed, 17 Jun 2026 16:19:40 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=lHVtnq%2Fj%2B47OOd9GkufkX94hRPfInKfrqyWmMSFPu57g2av40HPqZXtdOeOIuQn1PNhDKQLDZHD1LD%2Bn1RSyBcgKdNJqUchXDyqcGl4Nc7ktfs12Fkek8K6df%2F9u8LAQLMOyyQ6QqiuYBwG6CwUlhU7u5w%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a0d3608c69a2d690-IAD'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+Connecting to  wss://krest.api.onfinality.io/public-ws'
+Can't connect to wss://krest.api.onfinality.io/public-ws'
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Wed, 17 Jun 2026 16:19:59 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=dzeOWOvKCD4QomkiS4xDIP5Eq21em038R1lc0L%2FH8Tna%2F1rh1mhBeynzFGrPl9MKkeUS7M11zDWAX07wJDpgF1h5SpULeG%2FgTWPL8vrwB6adh1gXnHrNmB%2BsX53JPAw7b8GMYECMoNTH2JXH0N7rsOkatg%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a0d3610708a2d690-IAD'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws

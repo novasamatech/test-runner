@@ -1,0 +1,5 @@
+Connecting to  wss://rpc.vara-network.io
+Connected to  wss://rpc.vara-network.io
+Can't connect to wss://so.polkadex.ee
+Connecting to  wss://polkadex.public.curie.radiumblock.co/ws
+Can't connect to wss://polkadex.public.curie.radiumblock.co/ws

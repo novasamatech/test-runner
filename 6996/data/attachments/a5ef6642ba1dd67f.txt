@@ -1,0 +1,13 @@
+Connecting to  wss://bifrost-polkadot.ibp.network
+⚠️ Can't connect by wss://polkadex.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Wed, 17 Jun 2026 16:18:53 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=kDF9jAbLaiiL6L%2BuDYKdrUV%2BCn9TWMMX9wyTQYxH5BAlg%2FwPeawfMQu70h9%2Bjp2a5Za3kf7X5I%2FzoWLK%2BzV0ejXBS4A7bvZ8M%2Fy4I7OgK1v8DPkfD80L%2FIcQ7TivZHBq5CBBPFhoRrWJLncE9qdOAyONC%2FgDIA%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a0d35f6f1cf29d52-ORD'} -+-+- b'error code: 1016'
+Can't connect to wss://polkadex.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://bifrost-polkadot.ibp.network, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://bifrost-polkadot.ibp.network
+Connecting to  wss://bifrost-polkadot.dotters.network
+⚠️ Can't connect by wss://bifrost-polkadot.dotters.network, check it is available? 
+ [Errno -5] No address associated with hostname
+Can't connect to wss://bifrost-polkadot.dotters.network
+Connecting to  wss://hk.p.bifrost-rpc.liebi.com/ws
+Connected to  wss://hk.p.bifrost-rpc.liebi.com/ws
