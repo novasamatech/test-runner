@@ -1,0 +1,3 @@
+Connecting to  wss://rpc.laos.laosfoundation.io
+Connecting to  wss://rpc.laos.laosfoundation.io
+Can't connect to wss://shiden.public.curie.radiumblock.co/ws
