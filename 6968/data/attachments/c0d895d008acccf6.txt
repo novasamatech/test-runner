@@ -1,6 +1,0 @@
-Connecting to  wss://rpc.laos.laosfoundation.io
-Can't connect to wss://rpc.shiden.astar.network
-Connecting to  wss://shiden-rpc.n.dwellir.com
-Connected to  wss://shiden-rpc.n.dwellir.com
-Connecting to  wss://rpc.laos.laosfoundation.io
-Connecting to  wss://rpc.laos.laosfoundation.io
