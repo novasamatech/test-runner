@@ -1,3 +1,0 @@
-Connecting to  wss://sys.ibp.network/collectives-polkadot
-Connected to  wss://sys.ibp.network/collectives-polkadot
-Can't connect to wss://ipci.rpc.robonomics.network

@@ -1,2 +1,0 @@
-Connecting to  wss://avail.api.onfinality.io/public-ws
-Can't connect to wss://hyperbridge-nexus-rpc.blockops.network

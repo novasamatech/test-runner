@@ -1,0 +1,4 @@
+Connecting to  wss://wss.api.moonbeam.network
+Connected to  wss://wss.api.moonbeam.network
+Connecting to  wss://wss.api.moonbeam.network
+Connected to  wss://wss.api.moonbeam.network
