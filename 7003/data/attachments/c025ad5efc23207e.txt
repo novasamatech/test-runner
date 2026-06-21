@@ -1,0 +1,3 @@
+Connecting to  wss://mythos-rpc.dmarket.com
+Can't connect to wss://zeitgeist.api.onfinality.io/public-ws
+Connected to  wss://mythos-rpc.dmarket.com

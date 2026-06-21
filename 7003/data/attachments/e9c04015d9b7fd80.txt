@@ -1,0 +1,15 @@
+Connecting to  wss://sys.ibp.network/coretime-kusama
+⚠️ Can't connect by wss://sys.ibp.network/coretime-kusama, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://sys.ibp.network/coretime-kusama
+Connecting to  wss://coretime-kusama.dotters.network
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Sun, 21 Jun 2026 10:19:52 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=aZZhZJbinEBCG8BShwMiAGXDs5OA7IZ%2FX%2BdHTVxYj3Z8i2oo2GA%2FyNXM57rRYCIvVl55vZtYU5Ke%2BSZZEW339MDBP4ARvTdZLkpv90eLERFlbgBziC0mCQuD%2BTdw%2Bl3i4osjj3MEcXtk1No4PSKZ0Qc6Wg%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a0f24704893f2ae7-LAX'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://coretime-kusama.dotters.network, check it is available? 
+ [Errno -3] Temporary failure in name resolution
+Can't connect to wss://coretime-kusama.dotters.network
+Connecting to  wss://rpc-coretime-kusama.luckyfriday.io
+Connected to  wss://rpc-coretime-kusama.luckyfriday.io
