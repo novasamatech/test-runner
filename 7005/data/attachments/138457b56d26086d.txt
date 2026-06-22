@@ -1,0 +1,3 @@
+Connecting to  wss://krest.api.onfinality.io/public-ws'
+Can't connect to wss://collectives-polkadot.dotters.network
+Connecting to  wss://collectives.public.curie.radiumblock.co/ws

@@ -1,3 +1,0 @@
-Connecting to  wss://services.tanssi-mainnet.network/tanssi
-Connected to  wss://services.tanssi-mainnet.network/tanssi
-Can't connect to wss://hyperbridge-nexus-rpc.blockops.network
