@@ -1,5 +1,0 @@
-Connecting to  wss://kreivo.kippu.rocks/
-Connecting to  wss://kreivo.kippu.rocks/
-Can't connect to wss://rpc.astar.network
-Connecting to  wss://astar-rpc.n.dwellir.com
-Connected to  wss://astar-rpc.n.dwellir.com
