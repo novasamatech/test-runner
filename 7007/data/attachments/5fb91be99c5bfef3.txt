@@ -1,0 +1,41 @@
+Connecting to  wss://nexus.ibp.network
+⚠️ Can't connect by wss://nexus.ibp.network, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://nexus.ibp.network
+Connecting to  wss://nexus.dotters.network
+⚠️ Can't connect by wss://nexus.dotters.network, check it is available? 
+ [Errno -3] Temporary failure in name resolution
+Can't connect to wss://nexus.dotters.network
+Connecting to  wss://hyperbridge-nexus-rpc.blockops.network
+Connecting to  wss://nexus.ibp.network
+⚠️ Can't connect by wss://nexus.ibp.network, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://nexus.ibp.network
+Connecting to  wss://nexus.dotters.network
+⚠️ Can't connect by wss://nexus.dotters.network, check it is available? 
+ [Errno -3] Temporary failure in name resolution
+Can't connect to wss://nexus.dotters.network
+Connecting to  wss://hyperbridge-nexus-rpc.blockops.network
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Tue, 23 Jun 2026 10:20:11 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=8lxh6XAVEYIToJUDiFFzr%2BvH3X77%2FS6ICKqlma6z0ZD64QB78Qz%2FDhiJp2bF1G2%2Fwewvbui1bsf189lRHUeGprvBnyjLa9jvj%2Fd2gSsuUVOm5OEhFXVFCE3%2FP2C6Zp1TMPGsn4heaPPbrTxo0uueH1ky8w%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a102c23c0f925cfb-SJC'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Tue, 23 Jun 2026 10:20:12 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=d0yNILPr1tw88VTPw1ZCj%2FoDFr3hDaFsguv7nEbfr38ZUEaDulldgcB6A7toqcapkNDrxT9L4YZcvlHuuj7Epf1Qj44xc85NuuP2oAybWrQZ3LPC%2Fjzp9Aosz1TsB7sCA4ndy5Akxcaj6Pln8aBgt2hotg%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a102c23fb8461682-SJC'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+Connecting to  wss://nexus.ibp.network
+⚠️ Can't connect by wss://nexus.ibp.network, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://nexus.ibp.network
+Connecting to  wss://nexus.dotters.network
+Can't connect to wss://hyperbridge-nexus-rpc.blockops.network
+⚠️ Can't connect by wss://nexus.dotters.network, check it is available? 
+ [Errno -3] Temporary failure in name resolution
+Can't connect to wss://nexus.dotters.network
+Connecting to  wss://hyperbridge-nexus-rpc.blockops.network
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
