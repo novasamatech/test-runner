@@ -1,0 +1,10 @@
+Connecting to  wss://krest.api.onfinality.io/public-ws'
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Wed, 24 Jun 2026 15:50:30 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=%2FWnJ9p%2BTicMJJa3drxBh5bIHNV%2B4YHanQJDYYBOG1fq6ILl6m9k%2Fujy%2BFFoINBPM7nrqXhLugHFNk7u9OwsNJVsr3VS02UOT7WRUvGMtvnQl9h%2BavDu31RINdV%2FsM6mtyf5AtqCrcN1i6Y5aKGycLXn2Lw%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a10ce375ab236b29-DFW'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+Connecting to  wss://krest.api.onfinality.io/public-ws'
+Can't connect to wss://krest.api.onfinality.io/public-ws'
+Connecting to  wss://krest.api.onfinality.io/public-ws'
+Can't connect to wss://krest.api.onfinality.io/public-ws'

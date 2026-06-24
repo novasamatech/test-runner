@@ -1,0 +1,15 @@
+Connecting to  wss://sys.ibp.network/bridgehub-polkadot
+⚠️ Can't connect by wss://sys.ibp.network/bridgehub-polkadot, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://sys.ibp.network/bridgehub-polkadot
+Connecting to  wss://bridge-hub-polkadot.dotters.network
+⚠️ Can't connect by wss://bridge-hub-polkadot.dotters.network, check it is available? 
+ [Errno -3] Temporary failure in name resolution
+Can't connect to wss://bridge-hub-polkadot.dotters.network
+Connecting to  wss://dot-rpc.stakeworld.io/bridgehub
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+Connected to  wss://dot-rpc.stakeworld.io/bridgehub
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Wed, 24 Jun 2026 15:49:33 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=HYIcFQg57i41bHBjwfzBby01UDZRfYX0DSuWsdwiYvP67LqXk%2ByojbQTeuNHhmD2NXCmpt0yKpo8GKN0eHRgRtUIWlCn%2FLY4YcNb%2Bt099zYGSBH4hAbp6nd7TDxZN1jWpNnYPrTXzcud2zD%2FX3r5A2QlxA%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a10ce216190fce74-SJC'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws

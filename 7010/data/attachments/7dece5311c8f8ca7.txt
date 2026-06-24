@@ -1,0 +1,12 @@
+Connecting to  wss://nexus.ibp.network
+⚠️ Can't connect by wss://nexus.ibp.network, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://nexus.ibp.network
+Connecting to  wss://nexus.dotters.network
+Can't connect to wss://rpc.shiden.astar.network
+Connecting to  wss://shiden-rpc.n.dwellir.com
+Connected to  wss://shiden-rpc.n.dwellir.com
+⚠️ Can't connect by wss://nexus.dotters.network, check it is available? 
+ [Errno -3] Temporary failure in name resolution
+Can't connect to wss://nexus.dotters.network
+Connecting to  wss://hyperbridge-nexus-rpc.blockops.network
