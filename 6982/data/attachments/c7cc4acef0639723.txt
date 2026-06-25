@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://nexus.dotters.network, check it is available? 
- [Errno -5] No address associated with hostname

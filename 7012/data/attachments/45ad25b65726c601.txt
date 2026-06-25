@@ -1,0 +1,3 @@
+Connecting to  wss://services.tanssi-mainnet.network/tanssi
+Connected to  wss://services.tanssi-mainnet.network/tanssi
+Can't connect to wss://rpc-amplitude.pendulumchain.tech
