@@ -1,5 +1,0 @@
-Connecting to Can't connect to wss://astar-rpc.n.dwellir.com
-Connecting to  wss://astar.public.curie.radiumblock.co/ws
- wss://mainnet.creditcoin.network/ws
-Connected to  wss://mainnet.creditcoin.network/ws
-Connected to  wss://astar.public.curie.radiumblock.co/ws
