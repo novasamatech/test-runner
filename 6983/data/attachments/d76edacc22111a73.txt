@@ -1,3 +1,0 @@
-Connecting to  wss://rpc.matrix.blockchain.enjin.io
-Connected to  wss://rpc.matrix.blockchain.enjin.io
-Can't connect to wss://zeitgeist.api.onfinality.io/public-ws
