@@ -1,0 +1,2 @@
+Connecting to  wss://rpc.xx.network
+Can't connect to wss://zeitgeist.api.onfinality.io/public-ws
