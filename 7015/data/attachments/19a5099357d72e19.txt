@@ -1,0 +1,2 @@
+Connecting to  wss://rpc.laos.laosfoundation.io
+Can't connect to wss://astar.public.curie.radiumblock.co/ws
