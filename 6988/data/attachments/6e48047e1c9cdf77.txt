@@ -1,3 +1,0 @@
-Connecting to  wss://rpc.jamton.network
-Connecting to  wss://rpc.jamton.network
-Can't connect to wss://rpc.jamton.network
