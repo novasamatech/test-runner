@@ -1,3 +1,0 @@
-Connecting to  wss://krest.api.onfinality.io/public-ws'
-Connecting to  wss://krest.api.onfinality.io/public-ws'
-Can't connect to wss://krest.api.onfinality.io/public-ws'
