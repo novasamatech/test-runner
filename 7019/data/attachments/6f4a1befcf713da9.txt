@@ -1,0 +1,5 @@
+Connecting to  wss://public-rpc.canary.acurast.com
+Connected to  wss://public-rpc.canary.acurast.com
+Can't connect to wss://rpc.shiden.astar.network
+Connecting to  wss://shiden-rpc.n.dwellir.com
+Connected to  wss://shiden-rpc.n.dwellir.com
