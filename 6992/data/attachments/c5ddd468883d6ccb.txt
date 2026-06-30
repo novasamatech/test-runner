@@ -1,3 +1,0 @@
-Connecting to  wss://rpc.mainnet.cere.network/ws
-Can't connect to wss://phala.public.curie.radiumblock.co/ws
-Connected to  wss://rpc.mainnet.cere.network/ws

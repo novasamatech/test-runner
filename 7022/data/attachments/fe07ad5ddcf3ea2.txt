@@ -1,0 +1,7 @@
+Connecting to  wss://public-rpc.mainnet.energywebx.com/
+Can't connect to wss://zeitgeist.api.onfinality.io/public-ws
+Connected to  wss://public-rpc.mainnet.energywebx.com/
+Connecting to  wss://public-rpc.mainnet.energywebx.com/
+Connected to  wss://public-rpc.mainnet.energywebx.com/
+Connecting to  wss://public-rpc.mainnet.energywebx.com/
+Connected to  wss://public-rpc.mainnet.energywebx.com/

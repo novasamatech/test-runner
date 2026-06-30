@@ -1,0 +1,16 @@
+Connecting to  wss://public-rpc.mainnet.energywebx.com/
+Connected to  wss://public-rpc.mainnet.energywebx.com/
+Connecting to  wss://public-rpc.mainnet.energywebx.com/
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Tue, 30 Jun 2026 15:56:15 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=z3x5fMOREA3WlTIIkjwtTX60UFRvNY%2BtR%2Bdve0ayGZyG5Xiho4B4Hpb3zTUIoAv6F7bf2OCUHk1q7%2BAjOtrJvJU%2F0PvcMyjplFusSGo6CPaLYdY24S2FuE0giWSxtgmC42hgjo%2FhQFr8LHjqWKn4xRAllA%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a13e5c2189b5eb56-ORD'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Tue, 30 Jun 2026 15:56:15 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=fODG0ZiUVYeXDeAw28cI5EwGryUaxDWLXI66QFO5%2Fiyo2ehPspQy4vmjKoyCYr3L9v%2FJLhu%2BkQm1TL2k%2FO%2BW2B3H%2FAwg6pxXAdzRu1iDKB6KV82rJorxdOZVL8bCT%2BCdh1NuO5qrSYCDBSKl0cINe0JiNQ%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a13e5c23cd4553b3-ORD'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+Connected to  wss://public-rpc.mainnet.energywebx.com/
+Connecting to  wss://public-rpc.mainnet.energywebx.com/
+Connected to  wss://public-rpc.mainnet.energywebx.com/
