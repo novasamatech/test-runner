@@ -1,4 +1,0 @@
-Connecting to  wss://mainnet.ternoa.network
-⚠️ Can't connect by wss://mainnet.ternoa.network, check it is available? 
- [Errno 111] Connection refused
-Can't connect to wss://mainnet.ternoa.network
