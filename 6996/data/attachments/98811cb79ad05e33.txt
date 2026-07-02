@@ -1,7 +1,0 @@
-Connecting to  wss://parachain-rpc.origin-trail.network
-Connected to  wss://parachain-rpc.origin-trail.network
-Can't connect to wss://so.polkadex.ee
-Connecting to  wss://polkadex.public.curie.radiumblock.co/ws
-⚠️ Can't connect by wss://polkadex.public.curie.radiumblock.co/ws, check it is available? 
- Handshake status 530 None -+-+- {'date': 'Wed, 17 Jun 2026 16:19:07 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=6jNif9bWdRtx%2BTcbnNlOL9F9YrEkGF%2Bp2XsTdydtH9aF1YMNBHJxUk0%2FVIR175jFTbF9q2LTfURbeszA0IFbWKWpgjx3wbq2Y1bkFy4iyvcz%2B0BmbVydeUZjGZedIgXgT3307tPhhxrb9BXCCIyB6sdju%2FnUtg%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a0d35fc4da854780-DFW'} -+-+- b'error code: 1016'
-Can't connect to wss://polkadex.public.curie.radiumblock.co/ws

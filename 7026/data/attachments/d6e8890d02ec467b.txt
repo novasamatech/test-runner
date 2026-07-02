@@ -1,0 +1,15 @@
+Connecting to  wss://phala-rpc.n.dwellir.com
+⚠️ Can't connect by wss://phala-rpc.n.dwellir.com, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://phala-rpc.n.dwellir.com
+Connecting to  wss://api.phala.network/ws
+Connecting to  wss://phala-rpc.n.dwellir.com
+⚠️ Can't connect by wss://phala-rpc.n.dwellir.com, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://phala-rpc.n.dwellir.com
+Connecting to  wss://api.phala.network/ws
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Thu, 02 Jul 2026 15:49:22 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=1zrAjkF3x4w4RK5Sx%2FRQaZcMqQCX8KZsQdM5boOFfgOUqUnfL1PuazZeG4VneuCgsD8YWLu%2BMLKC%2B21gvIL3T0A7wrRPzOJ0sQl%2F1rznNR%2FnOvJEEZr7kmbaG3Hf1fUfnhcwNfAHjxhPdOP9UfL1r76%2FuA%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a14ecccc98eb679a-SJC'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
