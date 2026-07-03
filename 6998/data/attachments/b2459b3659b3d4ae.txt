@@ -1,5 +1,0 @@
-Connecting to  wss://rpc.laos.laosfoundation.io
-Connecting to  wss://rpc.laos.laosfoundation.io
-Can't connect to wss://api.phala.network/ws
-Connecting to  wss://phala.public.curie.radiumblock.co/ws
-Can't connect to wss://phala.public.curie.radiumblock.co/ws
