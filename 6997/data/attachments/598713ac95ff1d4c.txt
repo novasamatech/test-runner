@@ -1,7 +1,0 @@
-Connecting to  wss://rpc.jamton.network
-Can't connect to wss://rpc-sha-subscan.crustnetwork.xyz
-Connecting to  wss://rpc2-shadow.crust.network/
-Connected to  wss://rpc.jamton.network
-Can't connect to wss://rpc2-shadow.crust.network/
-Connecting to  wss://rpc-shadow.crust.network/
-Connected to  wss://rpc-shadow.crust.network/
