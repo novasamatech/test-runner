@@ -1,0 +1,6 @@
+Connecting to  wss://avn-parachain.mainnet.aventus.io
+Can't connect to wss://rpc.astar.network
+Connecting to  wss://astar-rpc.n.dwellir.com
+Connected to  wss://avn-parachain.mainnet.aventus.io
+Can't connect to wss://astar-rpc.n.dwellir.com
+Connecting to  wss://astar.public.curie.radiumblock.co/ws
