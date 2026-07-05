@@ -1,0 +1,8 @@
+Connecting to  wss://rpc.xx.network
+⚠️ Can't connect by wss://rpc.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Sun, 05 Jul 2026 15:29:18 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=7bT3H7PMIw83Y%2FnfRmw%2Fh2BNXVIE5Hch0SHkcoa5rCnaI0BKjpz6ycyD8pf9FunNDiTUMOc4LldTgP%2F%2Br%2Fay5RF9IEXhdY479sWG9R6T4cJxPDcJFxlbkMrKK3yfk2kf8g%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': 'a1676787cd7b02c8-ORD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+⚠️ Can't connect by wss://rpc-hetzner.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Sun, 05 Jul 2026 15:29:19 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=q4Lg%2Bbl3TMI8Rr%2Bkj9Ol73izl2BOYga8D5wyFBDKk6z7k9jtLcFBjyW9SUB8g%2FV7xvZX9Mxew%2ByLjnwql%2BG72mBMufHMJdbCI%2FMCf4%2Bn33kiwtVBfgDbxq0fZnlj%2B6KUVay%2BIlf%2Ba%2Fbl"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'server': 'cloudflare', 'cf-ray': 'a167678b9a45607c-ORD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to wss://rpc-hetzner.xx.network
