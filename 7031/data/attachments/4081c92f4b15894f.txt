@@ -1,0 +1,45 @@
+Connecting to  wss://sys.ibp.network/collectives-polkadot
+⚠️ Can't connect by wss://sys.ibp.network/collectives-polkadot, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://sys.ibp.network/collectives-polkadot
+Connecting to  wss://collectives-polkadot.dotters.network
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://collectives-polkadot.dotters.network, check it is available? 
+ [Errno -3] Temporary failure in name resolution
+Can't connect to wss://collectives-polkadot.dotters.network
+Connecting to  wss://collectives.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Sun, 05 Jul 2026 09:52:39 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=OfPkho1ZqgUny2X2%2FZyNZlbAPqLHz4hvb82B3wVIQN5nj3m8lJXiBQMyaJDn4JhFnLkZoE8fTRm6YqirdagOzoNcNbTOyIKWGxpI1EAvntlrg%2F0tzYQ9f8nawuFT47IFJfhdhyACcQA91DnbllT5QioBGQ%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a1657a651cb5ee24-ORD'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+Connecting to  wss://sys.ibp.network/collectives-polkadot
+⚠️ Can't connect by wss://sys.ibp.network/collectives-polkadot, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://sys.ibp.network/collectives-polkadot
+Connecting to  wss://collectives-polkadot.dotters.network
+⚠️ Can't connect by wss://collectives-polkadot.dotters.network, check it is available? 
+ [Errno -3] Temporary failure in name resolution
+Can't connect to wss://collectives-polkadot.dotters.network
+Connecting to  wss://collectives.public.curie.radiumblock.co/ws
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Sun, 05 Jul 2026 09:52:59 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=AgUX%2FWrSSCq2uU4zf1riK8DaJ7Ts0zyQzw1iJLdopcDrUfjJoX5yPd5jYzYmFa2hqqGhUJ0RhNnj9dDs3xNMo5RO9Ras%2BRBHR5bJRTcEG70fdb2i6qtzkBcA3PrdP8rQzqUiswb%2FjjzWN%2FB9oqaqtC6Tjg%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a1657ae1ecaf026c-ORD'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+Connecting to  wss://sys.ibp.network/collectives-polkadot
+⚠️ Can't connect by wss://sys.ibp.network/collectives-polkadot, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://sys.ibp.network/collectives-polkadot
+Connecting to  wss://collectives-polkadot.dotters.network
+Can't connect to wss://collectives.public.curie.radiumblock.co/ws
+Connecting to  wss://dot-rpc.stakeworld.io/collectives
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://collectives-polkadot.dotters.network, check it is available? 
+ [Errno -3] Temporary failure in name resolutionCan't connect to wss://dot-rpc.stakeworld.io/collectives
+Can't connect to 
+wss://collectives-polkadot.dotters.network
+Connecting to  wss://collectives.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Sun, 05 Jul 2026 09:53:19 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=72F0RDf%2F6pQS3SVkGehEl16rAhNt1Dp%2B1vUAbA2omb9MNCHwHKK2jbwAGNceKB2IfWuz9IFVNQQ%2Bfc4ntnGUfPn1qps9a9xlA0RlAS2Nz29T8m%2FBXvpRczk7f6lpZK8fwg%2BkhdOqKqw0p%2Fv28r69izw5vw%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a1657b617caa026c-ORD'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
