@@ -1,0 +1,7 @@
+Connecting to  wss://rpc.laos.laosfoundation.io
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Mon, 06 Jul 2026 16:11:26 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=hECwh73ISkaTIJkmc93Ue48asGTJPCJhreUY%2BICLkIEZNGZtZRxWiYHfwEBValXISOSS2%2BfBEecCOX6eldD1Rc3Z%2FsO%2BC%2FCztaUCx%2Fj31Zj9d0UVb%2BmuulJY9PWIIBhRDZa4nd%2BZRtXdAhN9Bs9EorXzsw%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a16fe2a19d18238b-SJC'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+Connecting to  wss://rpc.laos.laosfoundation.io
