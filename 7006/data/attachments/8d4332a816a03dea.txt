@@ -1,4 +1,0 @@
-Connecting to  wss://rpc.laos.laosfoundation.io
-Can't connect to wss://krest.api.onfinality.io/public-ws'
-Connecting to  wss://rpc.laos.laosfoundation.io
-Connecting to  wss://rpc.laos.laosfoundation.io
