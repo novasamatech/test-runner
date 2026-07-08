@@ -1,0 +1,45 @@
+Connecting to  wss://sys.ibp.network/collectives-polkadot
+⚠️ Can't connect by wss://sys.ibp.network/collectives-polkadot, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://sys.ibp.network/collectives-polkadot
+Connecting to  wss://collectives-polkadot.dotters.network
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Wed, 08 Jul 2026 15:48:44 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=k02T%2Fq70%2B3fAoaBoqwcuEtZ3lFk2IY2W6fdZlRRQXUoGCmVSYcZUcd1INyac7ShqIeQaUWaItGfVuAE2MhzcBoGX8%2BDCY%2BQZpbgEyqk4ETXTpr2HowdN6492vESHQjwKCyL8TExmP%2F8wEpT5veHtxaRPPg%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a1803c222ca610b2-ORD'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://collectives-polkadot.dotters.network, check it is available? 
+ [Errno -3] Temporary failure in name resolution
+Can't connect to wss://collectives-polkadot.dotters.network
+Connecting to  wss://collectives.public.curie.radiumblock.co/ws
+Connecting to  wss://sys.ibp.network/collectives-polkadot
+⚠️ Can't connect by wss://sys.ibp.network/collectives-polkadot, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://sys.ibp.network/collectives-polkadot
+Connecting to  wss://collectives-polkadot.dotters.network
+⚠️ Can't connect by wss://collectives-polkadot.dotters.network, check it is available? 
+ [Errno -3] Temporary failure in name resolution
+Can't connect to wss://collectives-polkadot.dotters.network
+Connecting to  wss://collectives.public.curie.radiumblock.co/ws
+Connecting to  wss://sys.ibp.network/collectives-polkadot
+⚠️ Can't connect by wss://sys.ibp.network/collectives-polkadot, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://sys.ibp.network/collectives-polkadot
+Connecting to  wss://collectives-polkadot.dotters.network
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Wed, 08 Jul 2026 15:49:23 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=27qYR6ryK%2BKKJRItspxtjTtkNxMNTnn44ASszD0PQrCBOvhBT7QXRrabd5qAGRKlSRXMC%2FmVyQ7Pp0s37i0%2BKhWglwRZ74dwP%2FcpkiCfH0H3MONJ8lvgQq9JoAsMpoj2nHIlC2J51DXOiUh43raoI4CpzA%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a1803d188a6e22e1-ORD'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Wed, 08 Jul 2026 15:49:24 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=OFovom1ZBq5jqN2Ye0FSKemNM3En5zecyXj1zoMSqJmX4JyrcXYc9fZo57yl3HFtY8q0UCDrTWMdj2i6oxnigxrkxqrHc1QRMlJ%2FgnRuhd%2BwDQP3d98qP%2Bohm00qRaUchKv52FZfRtAs39aLsqJ1LmmhdA%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a1803d1e384fe82c-ORD'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+Can't connect to wss://collectives.public.curie.radiumblock.co/ws
+Connecting to  wss://dot-rpc.stakeworld.io/collectives
+⚠️ Can't connect by wss://collectives-polkadot.dotters.network, check it is available? 
+ [Errno -3] Temporary failure in name resolution
+Can't connect to wss://collectives-polkadot.dotters.network
+Connecting to  wss://collectives.public.curie.radiumblock.co/ws
+Can't connect to wss://dot-rpc.stakeworld.io/collectives

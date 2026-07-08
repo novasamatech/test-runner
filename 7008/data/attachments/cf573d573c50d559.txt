@@ -1,5 +1,0 @@
-Connecting to  wss://rpc-sha-subscan.crustnetwork.xyz
-Can't connect to wss://zeitgeist.api.onfinality.io/public-ws
-Connecting to  wss://rpc-sha-subscan.crustnetwork.xyz
-Connected to  wss://rpc2-shadow.crust.network/
-Connecting to  wss://rpc-sha-subscan.crustnetwork.xyz
