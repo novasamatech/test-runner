@@ -1,0 +1,35 @@
+Connecting to  wss://sys.ibp.network/collectives-polkadot
+⚠️ Can't connect by wss://sys.ibp.network/collectives-polkadot, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://sys.ibp.network/collectives-polkadot
+Connecting to  wss://collectives-polkadot.dotters.network
+⚠️ Can't connect by wss://collectives-polkadot.dotters.network, check it is available? 
+ [Errno -3] Temporary failure in name resolution
+Can't connect to wss://collectives-polkadot.dotters.network
+Connecting to  wss://collectives.public.curie.radiumblock.co/ws
+Connecting to  wss://sys.ibp.network/collectives-polkadot
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://sys.ibp.network/collectives-polkadot, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://sys.ibp.network/collectives-polkadot
+Connecting to  wss://collectives-polkadot.dotters.network
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Sat, 11 Jul 2026 09:35:11 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=EgodAlQjvmGDavuAUCotKGIwyK9M%2FPdBhS3Qzn6N3lVK8N0doHF9lScEBgWHeXsO3iDh4QaU3av0crSMPppUwJiOgR1NOUX92gvcsnTDseFSBgy8%2Bi8GgIuX%2FiOWtRriVcf9Fufe93zh1Llo9%2B6h4pbG8Q%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a196d11118e0e612-SJC'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://collectives-polkadot.dotters.network, check it is available? 
+ [Errno -3] Temporary failure in name resolution
+Can't connect to wss://collectives-polkadot.dotters.network
+Connecting to  wss://collectives.public.curie.radiumblock.co/ws
+Connecting to  wss://sys.ibp.network/collectives-polkadot
+⚠️ Can't connect by wss://sys.ibp.network/collectives-polkadot, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://sys.ibp.network/collectives-polkadot
+Connecting to  wss://collectives-polkadot.dotters.network
+Can't connect to wss://collectives.public.curie.radiumblock.co/ws
+Connecting to  wss://dot-rpc.stakeworld.io/collectives
+Connected to  wss://dot-rpc.stakeworld.io/collectives
+⚠️ Can't connect by wss://collectives-polkadot.dotters.network, check it is available? 
+ [Errno -3] Temporary failure in name resolution
+Can't connect to wss://collectives-polkadot.dotters.network
+Connecting to  wss://collectives.public.curie.radiumblock.co/ws

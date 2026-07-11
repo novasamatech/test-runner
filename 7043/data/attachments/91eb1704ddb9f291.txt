@@ -1,0 +1,15 @@
+Connecting to  wss://sys.ibp.network/bridgehub-kusama
+⚠️ Can't connect by wss://sys.ibp.network/bridgehub-kusama, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://sys.ibp.network/bridgehub-kusama
+Connecting to  wss://bridge-hub-kusama.dotters.network
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Sat, 11 Jul 2026 09:35:13 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=TYK5Y1RsuIuN1g12fELy02HZHhYhWVl7r9nhhHovHxnMbB8ooU8ErdYEZx43mAm5IYgW%2FfS5Ii%2F7iddjvrh%2FYpNUj1DrDJmXkrLJ%2BsLvCuXx8Jm%2BvXyzU6kTv6r7nD3Gx%2BSU8wA2Qd7PibDqBJ5P0lDRDA%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a196d11fccdc17d8-SJC'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://bridge-hub-kusama.dotters.network, check it is available? 
+ [Errno -3] Temporary failure in name resolution
+Can't connect to wss://bridge-hub-kusama.dotters.network
+Connecting to  wss://ksm-rpc.stakeworld.io/bridgehub
+Connected to  wss://ksm-rpc.stakeworld.io/bridgehub
