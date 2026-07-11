@@ -1,0 +1,4 @@
+⚠️ Can't connect by wss://services.tanssi-mainnet.network/tanssi, check it is available? 
+ [Errno -2] Name or service not known
+⚠️ Can't connect by wss://services.tanssi-mainnet.network/tanssi, check it is available? 
+ [Errno -2] Name or service not known
