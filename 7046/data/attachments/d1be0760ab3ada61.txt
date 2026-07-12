@@ -1,0 +1,40 @@
+Connecting to  wss://sys.ibp.network/collectives-polkadot
+⚠️ Can't connect by wss://sys.ibp.network/collectives-polkadot, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://sys.ibp.network/collectives-polkadot
+Connecting to  wss://collectives-polkadot.dotters.network
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://collectives-polkadot.dotters.network, check it is available? 
+ [Errno -3] Temporary failure in name resolution
+Can't connect to wss://collectives-polkadot.dotters.network
+Connecting to  wss://collectives.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Sun, 12 Jul 2026 15:25:24 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=%2F%2B2RDC8Rzr9BmiR5%2FGE5mY%2BhaW3bP5PEm7JN%2BqPv3D6UVq799AAL%2BJ2AbSsSJb2cgW1A5w781HKN4J3wdylLp3YFrmciVm2kYhuEH9%2FN2WYQ%2Fy0yFGRAObHzvyRNtgSyI6RQkSYrZ0h4nBWvtdsdwtD6HQ%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a1a10f73db4de5b2-IAD'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+Connecting to  wss://sys.ibp.network/collectives-polkadot
+⚠️ Can't connect by wss://sys.ibp.network/collectives-polkadot, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://sys.ibp.network/collectives-polkadot
+Connecting to  wss://collectives-polkadot.dotters.network
+⚠️ Can't connect by wss://collectives-polkadot.dotters.network, check it is available? 
+ [Errno -3] Temporary failure in name resolution
+Can't connect to wss://collectives-polkadot.dotters.network
+Connecting to  wss://collectives.public.curie.radiumblock.co/ws
+Connecting to  wss://sys.ibp.network/collectives-polkadot
+⚠️ Can't connect by wss://sys.ibp.network/collectives-polkadot, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://sys.ibp.network/collectives-polkadot
+Connecting to  wss://collectives-polkadot.dotters.network
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Sun, 12 Jul 2026 15:25:57 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=3QzK1k2kNAWI1gIqj3WcpHQQJlwWZaX7aahqYskGxCS%2FZRLOiu79mFcAawHHs5icsTAxdHwTtCaz9yIKZ7a%2BguNI8x23IgJZETKBqMbh37sgs4cH4kVC6udZUvOCxP%2F%2FOxChoqpX%2B%2Fx4WT0BlRlCZyj83g%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a1a11044fb4be53f-IAD'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+Can't connect to wss://collectives.public.curie.radiumblock.co/ws
+Connecting to  wss://dot-rpc.stakeworld.io/collectives
+Can't connect to wss://dot-rpc.stakeworld.io/collectives
+⚠️ Can't connect by wss://collectives-polkadot.dotters.network, check it is available? 
+ [Errno -3] Temporary failure in name resolution
+Can't connect to wss://collectives-polkadot.dotters.network
+Connecting to  wss://collectives.public.curie.radiumblock.co/ws

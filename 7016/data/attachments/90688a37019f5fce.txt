@@ -1,7 +1,0 @@
-Connecting to  wss://rpc.matrix.blockchain.enjin.io
-Connected to  wss://rpc.matrix.blockchain.enjin.io
-Can't connect to wss://api.phala.network/ws
-Connecting to  wss://phala.public.curie.radiumblock.co/ws
-⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
- Handshake status 530 None -+-+- {'date': 'Sat, 27 Jun 2026 15:31:39 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=oGh4V9NH07Jo6qYBxF4x%2FyDP1lDc1xUprJCyH66gwrqEWKq%2BiMlQmEuA8jr7JPl8uwfzg0w2c47lmCkrg3IYPlTOPpxLx%2FsVlKSB4KU0GDJPbkE6%2BAoBktvGvVeLBcKeTJYMPffelhOggCIQipMND2zx3w%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a1257ffcfa9933e1-IAD'} -+-+- b'error code: 1016'
-Can't connect to wss://phala.public.curie.radiumblock.co/ws

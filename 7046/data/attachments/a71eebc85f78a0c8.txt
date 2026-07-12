@@ -1,0 +1,3 @@
+Connecting to  wss://avn-parachain.mainnet.aventus.io
+Connected to  wss://rpc-hetzner.xx.network
+Connected to  wss://avn-parachain.mainnet.aventus.io

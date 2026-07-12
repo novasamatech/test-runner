@@ -1,0 +1,17 @@
+Connecting to  wss://phala-rpc.n.dwellir.com
+⚠️ Can't connect by wss://phala-rpc.n.dwellir.com, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://phala-rpc.n.dwellir.com
+Connecting to  wss://api.phala.network/ws
+Connecting to  wss://phala-rpc.n.dwellir.com
+⚠️ Can't connect by wss://phala-rpc.n.dwellir.com, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://phala-rpc.n.dwellir.com
+Connecting to  wss://api.phala.network/ws
+⚠️ Can't connect by wss://api.phala.network/ws, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'server': 'cloudflare', 'date': 'Sun, 12 Jul 2026 15:24:33 GMT', 'content-type': 'text/html', 'content-length': '155', 'connection': 'keep-alive', 'cf-ray': 'a1a10e073955ea3a-IAD'} -+-+- b'<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n'
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Sun, 12 Jul 2026 15:24:33 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=xLmTB8kl8K4CIDdv7dEvofpbAr%2B7vsfD9i7tZPB5jWFjiYut09bLUsLhRsbysnRdReQR09KhBsnoO6A1h0oGNhxbFCy8cIXWSBD7h1vhRQGSZ7NBTjdo0bUZNhrEWijFSq0xshxGKdhbp25SrnSieOFfAw%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a1a10e358fa1e5b2-IAD'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
