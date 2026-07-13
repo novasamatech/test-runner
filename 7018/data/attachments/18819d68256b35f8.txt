@@ -1,5 +1,0 @@
-Connecting to  wss://kreivo.kippu.rocks/
-Can't connect to wss://hk.p.bifrost-rpc.liebi.com/ws
-Connecting to  wss://eu.bifrost-polkadot-rpc.liebi.com/ws
-Can't connect to wss://eu.bifrost-polkadot-rpc.liebi.com/ws
-Connected to  wss://kreivo.kippu.rocks/
