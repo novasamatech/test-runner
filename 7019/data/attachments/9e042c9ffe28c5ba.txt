@@ -1,3 +1,0 @@
-Connecting to  wss://rpc-para.ajuna.network
-Connected to  wss://rpc-para.ajuna.network
-Can't connect to wss://zeitgeist.api.onfinality.io/public-ws
