@@ -1,6 +1,0 @@
-Connecting to  wss://0.rpc.frequency.xyz
-Connected to  wss://0.rpc.frequency.xyz
-Can't connect to wss://rpc.shiden.astar.network
-Connecting to  wss://shiden-rpc.n.dwellir.com
-Can't connect to wss://shiden-rpc.n.dwellir.com
-Connecting to  wss://shiden.public.curie.radiumblock.co/ws
