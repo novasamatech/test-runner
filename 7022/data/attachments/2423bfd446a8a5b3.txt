@@ -1,9 +1,0 @@
-Connecting to  wss://rpc.joystream.org
-Can't connect to wss://zeitgeist.api.onfinality.io/public-ws
-⚠️ Can't connect by wss://rpc.joystream.org, check it is available? 
- [Errno -2] Name or service not known
-Can't connect to wss://rpc.joystream.org
-Connecting to  wss://rpc.joystream.org
-⚠️ Can't connect by wss://rpc.joystream.org, check it is available? 
- [Errno -2] Name or service not known
-Can't connect to wss://rpc.joystream.org
