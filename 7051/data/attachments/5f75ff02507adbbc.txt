@@ -1,0 +1,5 @@
+Connecting to  wss://explorer-rpc-ws.mainnet.stages.humanode.io
+Connected to  wss://explorer-rpc-ws.mainnet.stages.humanode.io
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+Can't connect to wss://phala.public.curie.radiumblock.co/ws

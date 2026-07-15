@@ -1,7 +1,0 @@
-Connecting to  wss://ws.manta.systems
-Connected to  wss://ws.manta.systems
-Can't connect to wss://api.phala.network/ws
-Connecting to  wss://phala.public.curie.radiumblock.co/ws
-⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
- Handshake status 530 None -+-+- {'date': 'Tue, 30 Jun 2026 10:16:59 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=Cz9J8U18%2Bgs7VZAqRnzEdjaxKeOxySCHHa0iD%2BMijN84hhasskSgfLhv8MH2zSaNvrXyB5lkh9V6pvenirblOHUkjWUYUT%2F7YQrBT4sqTCXAqiHGeF12BtTptdORvbELd95hfd2IZxBQcEI2IrH6tlBvMQ%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a13c6b2a48a2c79e-SJC'} -+-+- b'error code: 1016'
-Can't connect to wss://phala.public.curie.radiumblock.co/ws

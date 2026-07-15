@@ -1,0 +1,7 @@
+Connecting to  wss://kreivo.kippu.rocks/
+Can't connect to wss://astar-rpc.n.dwellir.com
+Connecting to  wss://astar.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://astar.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 521 None -+-+- {'date': 'Wed, 15 Jul 2026 09:41:45 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=j6S%2Fv%2BvDqDEQJLVxnoBk3IHMIq7ab6rTMo%2BjxWF7Gm%2Bpu8Di7uDIgSqPCyomfvjAnoSGJJzlbT5RpzvuWib2Y1LiVZiK%2BsJtu0QbzRKHBwQhp16hRi6%2BqgXtd7fxoBYeURUVGudDygsqiKBgQ2MaO%2BTLKg%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a1b7d02e58d1cf15-SJC'} -+-+- b'error code: 521'
+Can't connect to wss://astar.public.curie.radiumblock.co/ws
+Connected to  wss://kreivo.kippu.rocks/

@@ -1,0 +1,9 @@
+Connecting to  wss://public-rpc.canary.acurast.com
+Connected to  wss://public-rpc.canary.acurast.com
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Wed, 15 Jul 2026 09:41:41 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=RbwtGypO5fy7YZE2zgYeu1ADcMZPbQyRKehisxXZtrP%2F%2B4m58NrN9b6QPzSgKyhvuc7LCchG7%2BwueZSv%2F4o4cCLhNYw%2F4a7y7sEyk%2BnyIYk73ls9paH7HHasIsDf82meFW2mkVpTf7%2FghWNCaj2D%2FJo1QQ%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a1b7d016e91a17f0-SJC'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+Can't connect to wss://rpc.astar.network
+Connecting to  wss://astar-rpc.n.dwellir.com
