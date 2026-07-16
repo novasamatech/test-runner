@@ -1,6 +1,0 @@
-Connecting to  wss://westend-rpc.polkadot.io
-Connecting to  wss://westend-rpc.polkadot.io
-Connected to  wss://westend-rpc.polkadot.io
-Connecting to  wss://westend-rpc.polkadot.io
-Connected to  wss://westend-rpc.polkadot.io
-Can't connect to wss://westend.public.curie.radiumblock.co/ws

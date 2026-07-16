@@ -1,7 +1,0 @@
-Connecting to  wss://crust-parachain.crustapps.net
-Connected to  wss://crust-parachain.crustapps.net
-Can't connect to wss://api.phala.network/ws
-Connecting to  wss://phala.public.curie.radiumblock.co/ws
-⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
- Handshake status 530 None -+-+- {'date': 'Wed, 01 Jul 2026 10:25:08 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=QbGpBL%2B5u%2Fe3Qgfik%2B2Kzc2c%2BZjVgTcYKBlP0%2B3isyJs8WncDTPmiOpHB%2F%2FKg3FqjFS7zDjkBL4ZSQIaTUi3vNeFB%2BWzIzGPha3nh0IgVfxSW3%2FqrBW4JRrmDSrFhnogRv8Rzm3%2BDQsx02%2BbiIeoaOxNXQ%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a144b47d285d31f4-SJC'} -+-+- b'error code: 1016'
-Can't connect to wss://phala.public.curie.radiumblock.co/ws
