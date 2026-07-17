@@ -1,8 +1,0 @@
-Connecting to  wss://public-rpc.canary.acurast.com
-Can't connect to wss://api.phala.network/ws
-Connecting to  wss://phala.public.curie.radiumblock.co/ws
-Can't connect to wss://api.phala.network/ws
-Connecting to  wss://phala.public.curie.radiumblock.co/ws
-Connected to  wss://public-rpc.canary.acurast.com
-Can't connect to wss://phala.public.curie.radiumblock.co/ws
-Can't connect to wss://phala.public.curie.radiumblock.co/ws
