@@ -1,3 +1,0 @@
-Connecting to  wss://avail.api.onfinality.io/public-ws
-Can't connect to wss://rpc-amplitude.pendulumchain.tech
-Connected to  wss://avail.api.onfinality.io/public-ws

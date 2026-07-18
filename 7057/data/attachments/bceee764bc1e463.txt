@@ -1,0 +1,15 @@
+Connecting to  wss://services.tanssi-mainnet.network/tanssi
+⚠️ Can't connect by wss://services.tanssi-mainnet.network/tanssi, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://services.tanssi-mainnet.network/tanssi
+Connecting to  wss://services.tanssi-mainnet.network/tanssi
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://services.tanssi-mainnet.network/tanssi, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://services.tanssi-mainnet.network/tanssi
+Connecting to  wss://services.tanssi-mainnet.network/tanssi
+⚠️ Can't connect by wss://services.tanssi-mainnet.network/tanssi, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://services.tanssi-mainnet.network/tanssi
