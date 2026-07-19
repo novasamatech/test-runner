@@ -1,5 +1,0 @@
-Connecting to  wss://zeitgeist.api.onfinality.io/public-ws
-Connecting to  wss://zeitgeist.api.onfinality.io/public-ws
-Can't connect to wss://zeitgeist.api.onfinality.io/public-ws
-Connecting to  wss://zeitgeist.api.onfinality.io/public-ws
-Can't connect to wss://zeitgeist.api.onfinality.io/public-ws
