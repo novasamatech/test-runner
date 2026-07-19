@@ -1,0 +1,5 @@
+Connecting to  wss://info.dbcwallet.io
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Sun, 19 Jul 2026 09:38:23 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=8V52cFZrT2kXLkXOAGWuZN18uxBb2oKPxipz7dlzgpJlrJLDhxaaIpNjyo5cF1rE23Y9Hq5d6xky2kwow9J08zCynEgBeDyhuJZCvcFM%2FkoXM1b74uBYxGJHBydPYknAmJ%2FyzDgvXhWD9JH4exWAeUTbzA%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a1d8c0c34b28e542-DFW'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+Connected to  wss://info.dbcwallet.io
