@@ -1,0 +1,7 @@
+Connecting to  wss://rpc.dentnet.io/ws
+Connected to  wss://rpc.dentnet.io/ws
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 None -+-+- {'date': 'Tue, 21 Jul 2026 09:53:45 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=7lkkg6IRa5O19wCT1Z9R6kZ%2BPmi7y%2FQxCGGkqLrhP6VDOxW796j8ZXryGVvmaJoT%2FqjNNRCiykWfwcbGTd8%2BJ8k6UCCH3jAgQXu0HUnAq6sCy8S%2F9C5ZeMPuRYYEgiAbVQC%2F9SAMRhS7QN%2Fwta5HmdbHhg%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a1e95202fa6d90ac-IAD'} -+-+- b'error code: 1016'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
