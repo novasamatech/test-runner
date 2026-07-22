@@ -1,2 +1,0 @@
-Connecting to  wss://rpc.laos.laosfoundation.io
-Connecting to  wss://rpc.laos.laosfoundation.io

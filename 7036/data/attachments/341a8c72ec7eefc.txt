@@ -1,3 +1,0 @@
-Connecting to  wss://lite.sub.latent.to:443
-Connected to  wss://lite.sub.latent.to:443
-Can't connect to wss://rpc-shadow.crust.network/

@@ -1,0 +1,5 @@
+Connecting to  wss://rpc.mainnet.cere.network/ws
+Connected to  wss://rpc.mainnet.cere.network/ws
+Can't connect to wss://rpc.shiden.astar.network
+Connecting to  wss://shiden-rpc.n.dwellir.com
+Connected to  wss://shiden-rpc.n.dwellir.com
