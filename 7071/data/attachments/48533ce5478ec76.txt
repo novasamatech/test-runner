@@ -1,0 +1,5 @@
+Connecting to  wss://info.dbcwallet.io
+Connected to  wss://info.dbcwallet.io
+Can't connect to wss://rpc-anchor-1-mainnet-az-ue1.giantprotocol.org:443
+Connecting to  wss://rpc-anchor-2-mainnet-az-ue1.giantprotocol.org:443
+Connected to  wss://rpc-anchor-2-mainnet-az-ue1.giantprotocol.org:443
