@@ -1,3 +1,0 @@
-Connecting to  wss://public-rpc.canary.acurast.com
-Connected to  wss://shiden-rpc.n.dwellir.com
-Connected to  wss://public-rpc.canary.acurast.com

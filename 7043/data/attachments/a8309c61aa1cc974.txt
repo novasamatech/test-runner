@@ -1,4 +1,0 @@
-Connecting to  wss://rpc.relay.blockchain.enjin.io
-Connected to  wss://rpc.relay.blockchain.enjin.io
-Can't connect to wss://rpc.shiden.astar.network
-Connecting to  wss://shiden-rpc.n.dwellir.com

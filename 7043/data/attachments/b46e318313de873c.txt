@@ -1,5 +1,0 @@
-Connecting to  wss://mainnet.creditcoin.network/ws
-⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
- Handshake status 530 None -+-+- {'date': 'Sat, 11 Jul 2026 09:35:57 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=D0zKPlzY0y3R2oeYwlHOIpQDzAgjA7Zy4l8gYqd%2FK7aSHRzKKC9X2xbNCTUeWqTXAfoV9jIbAibGRLzppbOkUt%2BR877vp42vdRKlcyBTWmhRDTKDCTAGAfwybS45favEYlmToPYggkso2GlfU9APffpNhA%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a196d22e19a1ace8-MSP'} -+-+- b'error code: 1016'
-Can't connect to wss://phala.public.curie.radiumblock.co/ws
-Connected to  wss://mainnet.creditcoin.network/ws
