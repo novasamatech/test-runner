@@ -1,7 +1,0 @@
-Connecting to  wss://avail.api.onfinality.io/public-ws
-Connected to  wss://avail.api.onfinality.io/public-ws
-Can't connect to wss://api.phala.network/ws
-Connecting to  wss://phala.public.curie.radiumblock.co/ws
-⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
- Handshake status 530 None -+-+- {'date': 'Sat, 11 Jul 2026 15:25:11 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=XDPuyOEnQcNjPApDjdb9rXGzlZ6ZGJhPZ4WDoprmzv4sb%2FAdN3SiH0Lb5sdFZiPn5KU7emeJ5cJ0eB7qaflIhZlz0TTBdemclRVSVB8ptjxoS4vaG2dtdF8VXtID6X%2BMB50DqUiRDlgW65fqYsFtUG%2BM5Q%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a198d1c4ac227d12-SJC'} -+-+- b'error code: 1016'
-Can't connect to wss://phala.public.curie.radiumblock.co/ws
