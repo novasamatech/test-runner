@@ -1,3 +1,0 @@
-Can't connect to wss://phala.public.curie.radiumblock.co/ws
-Connecting to  wss://rpc.dentnet.io/ws
-Connected to  wss://rpc.dentnet.io/ws
