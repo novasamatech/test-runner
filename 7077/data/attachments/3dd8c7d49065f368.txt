@@ -1,0 +1,7 @@
+Connecting to  wss://rpc.joystream.org
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 <none> -+-+- {'date': 'Tue, 28 Jul 2026 09:55:42 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '17', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'x-frame-options': 'SAMEORIGIN', 'server': 'cloudflare', 'cf-ray': 'a223027db8d4c321-LAX'} -+-+- b'error code: 1016\n'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://rpc.joystream.org, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://rpc.joystream.org

@@ -1,9 +1,0 @@
-Connecting to  wss://rpc.laos.laosfoundation.io
-Can't connect to wss://collectives.public.curie.radiumblock.co/ws
-Connecting to  wss://dot-rpc.stakeworld.io/collectives
-Connected to  wss://dot-rpc.stakeworld.io/collectives
-Connecting to  wss://rpc.laos.laosfoundation.io
-Can't connect to wss://collectives.public.curie.radiumblock.co/ws
-Connecting to  wss://dot-rpc.stakeworld.io/collectives
-Can't connect to wss://dot-rpc.stakeworld.io/collectives
-Connecting to  wss://rpc.laos.laosfoundation.io
