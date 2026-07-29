@@ -1,0 +1,5 @@
+Connecting to  wss://explorer-rpc-ws.mainnet.stages.humanode.io
+Can't connect to wss://rpc.astar.network
+Connecting to  wss://astar-rpc.n.dwellir.com
+Connected to  wss://astar-rpc.n.dwellir.com
+Connected to  wss://explorer-rpc-ws.mainnet.stages.humanode.io
