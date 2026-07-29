@@ -1,0 +1,3 @@
+Connecting to  wss://public-rpc.mainnet.energywebx.com/
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+Connected to  wss://public-rpc.mainnet.energywebx.com/

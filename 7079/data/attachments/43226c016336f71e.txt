@@ -1,0 +1,3 @@
+Connecting to  wss://mythos-rpc.dmarket.com
+Connected to  wss://mythos-rpc.dmarket.com
+Can't connect to wss://shiden.public.curie.radiumblock.co/ws
