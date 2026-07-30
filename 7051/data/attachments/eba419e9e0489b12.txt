@@ -1,4 +1,0 @@
-Connecting to  wss://ws.manta.systems
-Connected to  wss://ws.manta.systems
-Can't connect to wss://rpc.astar.network
-Connecting to  wss://astar-rpc.n.dwellir.com
