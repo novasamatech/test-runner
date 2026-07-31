@@ -1,0 +1,4 @@
+Connecting to  wss://avail.api.onfinality.io/public-ws
+Can't connect to wss://shiden-rpc.n.dwellir.com
+Connecting to  wss://shiden.public.curie.radiumblock.co/ws
+Connected to  wss://avail.api.onfinality.io/public-ws
