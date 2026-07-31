@@ -1,9 +1,0 @@
-Connecting to  wss://ws.manta.systems
-Can't connect to wss://rpc.astar.network
-Connecting to  wss://astar-rpc.n.dwellir.com
-Connected to  wss://ws.manta.systems
-Can't connect to wss://astar-rpc.n.dwellir.com
-Connecting to  wss://astar.public.curie.radiumblock.co/ws
-⚠️ Can't connect by wss://astar.public.curie.radiumblock.co/ws, check it is available? 
- Handshake status 521 None -+-+- {'date': 'Wed, 15 Jul 2026 15:35:20 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '15', 'connection': 'keep-alive', 'report-to': '{"endpoints":[{"url":"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=WRXdCMHSXbVHp2DyTFzyopjzKKxq7qZh8YxjxxsDxmVwNoE%2F%2FIiOx4QhzFoj2cp%2FfrTgtZ0XjFeSl4YSuwj%2BtY17383AGnVYRNwXMQUDY8n%2FP8aqFYN923W5rTf%2BhxI5kephmzDPWZnGt6eg11J5tSAHYA%3D%3D"}],"group":"cf-nel","max_age":604800}', 'nel': '{"success_fraction":0,"report_to":"cf-nel","max_age":604800}', 'x-frame-options': 'SAMEORIGIN', 'referrer-policy': 'same-origin', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'server': 'cloudflare', 'cf-ray': 'a1b9d61d9f94581c-SJC'} -+-+- b'error code: 521'
-Can't connect to wss://astar.public.curie.radiumblock.co/ws

@@ -1,3 +1,0 @@
-Connecting to  wss://rpc.mainnet.cere.network/ws
-Connected to  wss://rpc.mainnet.cere.network/ws
-Can't connect to wss://shiden.public.curie.radiumblock.co/ws
