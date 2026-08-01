@@ -1,0 +1,14 @@
+Connecting to  wss://bifrost-polkadot.ibp.network
+⚠️ Can't connect by wss://bifrost-polkadot.ibp.network, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://bifrost-polkadot.ibp.network
+Connecting to  wss://bifrost-polkadot.dotters.network
+⚠️ Can't connect by wss://bifrost-polkadot.dotters.network, check it is available? 
+ [Errno -3] Temporary failure in name resolution
+Can't connect to wss://bifrost-polkadot.dotters.network
+Connecting to  wss://hk.p.bifrost-rpc.liebi.com/ws
+Connected to  wss://hk.p.bifrost-rpc.liebi.com/ws
+Can't connect to wss://rpc.shiden.astar.network
+Connecting to  wss://shiden-rpc.n.dwellir.com
+Can't connect to wss://shiden-rpc.n.dwellir.com
+Connecting to  wss://shiden.public.curie.radiumblock.co/ws

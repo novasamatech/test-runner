@@ -1,0 +1,4 @@
+Connecting to  wss://info.dbcwallet.io
+Connected to  wss://info.dbcwallet.io
+Can't connect to wss://rpc.shiden.astar.network
+Can't connect to wss://shiden.public.curie.radiumblock.co/wsConnecting to  wss://shiden-rpc.n.dwellir.com
