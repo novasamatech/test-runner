@@ -1,0 +1,4 @@
+Connecting to  wss://so.polkadex.ee
+Connected to  wss://so.polkadex.ee
+Can't connect to wss://api.phala.network/ws
+Connecting to  wss://phala.public.curie.radiumblock.co/ws
