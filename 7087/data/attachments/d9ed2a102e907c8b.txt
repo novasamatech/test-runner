@@ -1,0 +1,8 @@
+Connecting to  wss://peaq-rpc.publicnode.com
+Can't connect to wss://rpc.astar.network
+Connecting to  wss://astar-rpc.n.dwellir.com
+Can't connect to wss://astar.public.curie.radiumblock.co/ws
+Connected to  wss://peaq-rpc.publicnode.com
+Can't connect to wss://astar-rpc.n.dwellir.com
+Connecting to  wss://astar.public.curie.radiumblock.co/ws
+Can't connect to wss://astar.public.curie.radiumblock.co/ws

@@ -1,0 +1,3 @@
+Connecting to  wss://nexus.rpc.polytope.technology
+Connected to  wss://shiden-rpc.n.dwellir.com
+Connected to  wss://nexus.rpc.polytope.technology
