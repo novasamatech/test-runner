@@ -1,0 +1,20 @@
+Connecting to  wss://bifrost-polkadot.ibp.network
+⚠️ Can't connect by wss://bifrost-polkadot.ibp.network, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://bifrost-polkadot.ibp.network
+Connecting to  wss://bifrost-polkadot.dotters.network
+⚠️ Can't connect by wss://bifrost-polkadot.dotters.network, check it is available? 
+ [Errno -3] Temporary failure in name resolution
+Can't connect to wss://bifrost-polkadot.dotters.network
+Connecting to  wss://hk.p.bifrost-rpc.liebi.com/ws
+Connected to  wss://hk.p.bifrost-rpc.liebi.com/ws
+Connecting to  wss://bifrost-polkadot.ibp.network
+⚠️ Can't connect by wss://bifrost-polkadot.ibp.network, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://bifrost-polkadot.ibp.network
+Connecting to  wss://bifrost-polkadot.dotters.network
+⚠️ Can't connect by wss://bifrost-polkadot.dotters.network, check it is available? 
+ [Errno -3] Temporary failure in name resolution
+Can't connect to wss://bifrost-polkadot.dotters.network
+Connecting to  wss://hk.p.bifrost-rpc.liebi.com/ws
+Connected to  wss://hk.p.bifrost-rpc.liebi.com/ws
