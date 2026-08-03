@@ -1,0 +1,20 @@
+Connecting to  wss://sys.ibp.network/encointer-kusama
+⚠️ Can't connect by wss://sys.ibp.network/encointer-kusama, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://sys.ibp.network/encointer-kusama
+Connecting to  wss://encointer-kusama.dotters.network
+⚠️ Can't connect by wss://encointer-kusama.dotters.network, check it is available? 
+ [Errno -3] Temporary failure in name resolution
+Can't connect to wss://encointer-kusama.dotters.network
+Connecting to  wss://api.kusama.encointer.org
+Can't connect to wss://api.kusama.encointer.org
+Connecting to  wss://sys.ibp.network/encointer-kusama
+⚠️ Can't connect by wss://sys.ibp.network/encointer-kusama, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://sys.ibp.network/encointer-kusama
+Connecting to  wss://encointer-kusama.dotters.network
+⚠️ Can't connect by wss://encointer-kusama.dotters.network, check it is available? 
+ [Errno -3] Temporary failure in name resolution
+Can't connect to wss://encointer-kusama.dotters.network
+Connecting to  wss://api.kusama.encointer.org
+Connected to  wss://api.kusama.encointer.org
