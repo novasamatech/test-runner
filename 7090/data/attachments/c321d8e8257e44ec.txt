@@ -1,0 +1,5 @@
+Connecting to  wss://parachain-rpc.origin-trail.network
+⚠️ Can't connect by wss://phala.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 <none> -+-+- {'date': 'Mon, 03 Aug 2026 15:54:44 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '17', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'x-frame-options': 'SAMEORIGIN', 'server': 'cloudflare', 'cf-ray': 'a25680a9a87f24a5-DEN'} -+-+- b'error code: 1016\n'
+Can't connect to wss://phala.public.curie.radiumblock.co/ws
+Connected to  wss://parachain-rpc.origin-trail.network
