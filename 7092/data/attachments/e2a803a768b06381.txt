@@ -1,0 +1,15 @@
+Connecting to  wss://rpc-sha-subscan.crustnetwork.xyz
+⚠️ Can't connect by wss://rpc-sha-subscan.crustnetwork.xyz, check it is available? 
+ Handshake status 525 <none> -+-+- {'date': 'Tue, 04 Aug 2026 15:49:22 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'server-timing': 'cfEdge;dur=541,cfOrigin;dur=0', 'x-frame-options': 'SAMEORIGIN', 'server': 'cloudflare', 'cf-ray': 'a25eb629babdeb35-SJC', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'error code: 525\n'
+Can't connect to wss://rpc-sha-subscan.crustnetwork.xyz
+Connecting to  wss://rpc2-shadow.crust.network/
+Connecting to  wss://rpc-sha-subscan.crustnetwork.xyz
+⚠️ Can't connect by wss://rpc-sha-subscan.crustnetwork.xyz, check it is available? 
+ Handshake status 525 <none> -+-+- {'date': 'Tue, 04 Aug 2026 15:49:41 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'server-timing': 'cfEdge;dur=199,cfOrigin;dur=0', 'x-frame-options': 'SAMEORIGIN', 'server': 'cloudflare', 'cf-ray': 'a25eb6a75dc5eb35-SJC', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'error code: 525\n'
+Can't connect to wss://rpc-sha-subscan.crustnetwork.xyz
+Connecting to  wss://rpc2-shadow.crust.network/
+Connecting to  wss://rpc-sha-subscan.crustnetwork.xyz
+⚠️ Can't connect by wss://rpc-sha-subscan.crustnetwork.xyz, check it is available? 
+ Handshake status 525 <none> -+-+- {'date': 'Tue, 04 Aug 2026 15:50:02 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'server-timing': 'cfEdge;dur=539,cfOrigin;dur=0', 'x-frame-options': 'SAMEORIGIN', 'server': 'cloudflare', 'cf-ray': 'a25eb7252c64eb35-SJC', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'error code: 525\n'
+Can't connect to wss://rpc-sha-subscan.crustnetwork.xyz
+Connecting to  wss://rpc2-shadow.crust.network/

@@ -1,0 +1,5 @@
+Connecting to  wss://rpc-hydra.novasama-tech.org
+Connected to  wss://rpc-hydra.novasama-tech.org
+Can't connect to wss://rpc2-shadow.crust.network/
+Connecting to  wss://rpc-shadow.crust.network/
+Can't connect to wss://rpc-shadow.crust.network/
