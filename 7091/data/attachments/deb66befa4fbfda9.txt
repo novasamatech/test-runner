@@ -1,0 +1,12 @@
+Connecting to  wss://rpc.tangle.tools
+⚠️ Can't connect by wss://rpc.tangle.tools, check it is available? 
+ Handshake status 521 <none> -+-+- {'date': 'Tue, 04 Aug 2026 09:57:42 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'server-timing': 'cfEdge;dur=174,cfOrigin;dur=0', 'x-frame-options': 'SAMEORIGIN', 'expect-ct': 'max-age=86400, enforce', 'x-content-type-options': 'nosniff', 'x-xss-protection': '1; mode=block', 'server': 'cloudflare', 'cf-ray': 'a25cb30ea8a76f97-LAX', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'error code: 521\n'
+Can't connect to wss://rpc.tangle.tools
+Connecting to  wss://rpc.tangle.tools
+⚠️ Can't connect by wss://rpc.tangle.tools, check it is available? 
+ Handshake status 521 <none> -+-+- {'date': 'Tue, 04 Aug 2026 09:57:49 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'server-timing': 'cfEdge;dur=344,cfOrigin;dur=0', 'x-frame-options': 'SAMEORIGIN', 'expect-ct': 'max-age=86400, enforce', 'x-content-type-options': 'nosniff', 'x-xss-protection': '1; mode=block', 'server': 'cloudflare', 'cf-ray': 'a25cb33489f6481d-LAX', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'error code: 521\n'
+Can't connect to wss://rpc.tangle.tools
+Connecting to  wss://rpc.tangle.tools
+⚠️ Can't connect by wss://rpc.tangle.tools, check it is available? 
+ Handshake status 521 <none> -+-+- {'date': 'Tue, 04 Aug 2026 09:57:55 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'server-timing': 'cfEdge;dur=163,cfOrigin;dur=0', 'x-frame-options': 'SAMEORIGIN', 'expect-ct': 'max-age=86400, enforce', 'x-content-type-options': 'nosniff', 'x-xss-protection': '1; mode=block', 'server': 'cloudflare', 'cf-ray': 'a25cb35b696f481d-LAX', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'error code: 521\n'
+Can't connect to wss://rpc.tangle.tools

@@ -1,3 +1,0 @@
-Connecting to  wss://mythos-rpc.dmarket.com
-Connected to  wss://mythos-rpc.dmarket.com
-Connected to  wss://shiden-rpc.n.dwellir.com
