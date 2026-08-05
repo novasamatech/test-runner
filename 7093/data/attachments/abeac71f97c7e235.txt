@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://collectives.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 521 <none> -+-+- {'date': 'Wed, 05 Aug 2026 10:01:20 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'x-frame-options': 'SAMEORIGIN', 'server': 'cloudflare', 'cf-ray': 'a264f5bcecd5579a-IAD'} -+-+- b'error code: 521\n'

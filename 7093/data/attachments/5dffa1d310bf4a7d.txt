@@ -1,0 +1,13 @@
+Connecting to  wss://nodle-parachain.api.onfinality.io/public-ws
+⚠️ Can't connect by wss://nodle-parachain.api.onfinality.io/public-ws, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://nodle-parachain.api.onfinality.io/public-ws
+Connecting to  wss://nodle-parachain.api.onfinality.io/public-ws
+⚠️ Can't connect by wss://nodle-parachain.api.onfinality.io/public-ws, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://nodle-parachain.api.onfinality.io/public-ws
+Connecting to  wss://nodle-parachain.api.onfinality.io/public-ws
+Connected to  wss://shiden-rpc.n.dwellir.com
+⚠️ Can't connect by wss://nodle-parachain.api.onfinality.io/public-ws, check it is available? 
+ [Errno -2] Name or service not known
+Can't connect to wss://nodle-parachain.api.onfinality.io/public-ws
