@@ -1,5 +1,0 @@
-Connecting to  wss://nexus.rpc.polytope.technology
-Connected to  wss://nexus.rpc.polytope.technology
-Can't connect to wss://rpc.shiden.astar.network
-Connecting to  wss://shiden-rpc.n.dwellir.com
-Connected to  wss://shiden-rpc.n.dwellir.com
