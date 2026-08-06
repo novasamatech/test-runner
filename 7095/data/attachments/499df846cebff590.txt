@@ -1,0 +1,4 @@
+Connecting to  wss://info.dbcwallet.io
+Connected to  wss://info.dbcwallet.io
+Can't connect to wss://rpc2-shadow.crust.network/
+Connecting to  wss://rpc-shadow.crust.network/

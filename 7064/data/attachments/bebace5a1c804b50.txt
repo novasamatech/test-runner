@@ -1,4 +1,0 @@
-Connecting to  wss://rpc.astar.network
-Connecting to  wss://rpc.astar.network
-Connecting to  wss://rpc.astar.network
-Connected to  wss://rpc.astar.network
