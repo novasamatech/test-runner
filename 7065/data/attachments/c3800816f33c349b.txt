@@ -1,4 +1,0 @@
-Connecting to  wss://nexus.rpc.polytope.technology
-Connected to  wss://nexus.rpc.polytope.technology
-Can't connect to wss://api.phala.network/ws
-Connecting to  wss://phala.public.curie.radiumblock.co/ws
