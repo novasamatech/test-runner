@@ -1,9 +1,0 @@
-Connecting to  wss://explorer-rpc-ws.mainnet.stages.humanode.io
-Connected to  wss://explorer-rpc-ws.mainnet.stages.humanode.io
-Can't connect to wss://rpc.astar.network
-Connecting to  wss://astar-rpc.n.dwellir.com
-Can't connect to wss://astar-rpc.n.dwellir.com
-Connecting to  wss://astar.public.curie.radiumblock.co/ws
-⚠️ Can't connect by wss://astar.public.curie.radiumblock.co/ws, check it is available? 
- Handshake status 523 <none> -+-+- {'date': 'Fri, 24 Jul 2026 15:33:33 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'x-frame-options': 'SAMEORIGIN', 'server': 'cloudflare', 'cf-ray': 'a203fbe57fa79bd3-IAD'} -+-+- b'error code: 523\n'
-Can't connect to wss://astar.public.curie.radiumblock.co/ws
