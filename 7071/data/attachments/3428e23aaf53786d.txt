@@ -1,5 +1,0 @@
-Connecting to  wss://rpc-anchor-1-mainnet-az-ue1.giantprotocol.org:443
-Can't connect to wss://rpc.shiden.astar.network
-Connecting to  wss://shiden-rpc.n.dwellir.com
-Can't connect to wss://shiden-rpc.n.dwellir.com
-Connecting to  wss://shiden.public.curie.radiumblock.co/ws

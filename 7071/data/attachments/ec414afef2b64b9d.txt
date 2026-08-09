@@ -1,5 +1,0 @@
-Connecting to  wss://public-archive.mainnet.acurast.com
-Can't connect to wss://collectives.public.curie.radiumblock.co/ws
-Connecting to  wss://dot-rpc.stakeworld.io/collectives
-Connected to  wss://public-archive.mainnet.acurast.com
-Can't connect to wss://dot-rpc.stakeworld.io/collectives

@@ -1,5 +1,0 @@
-Connecting to  wss://public-rpc.mainnet.energywebx.com/
-Connected to  wss://public-rpc.mainnet.energywebx.com/
-Can't connect to wss://rpc-anchor-1-mainnet-az-ue1.giantprotocol.org:443
-Connecting to  wss://rpc-anchor-2-mainnet-az-ue1.giantprotocol.org:443
-Connected to  wss://rpc-anchor-2-mainnet-az-ue1.giantprotocol.org:443
