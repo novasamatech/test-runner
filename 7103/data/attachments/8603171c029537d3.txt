@@ -1,0 +1,6 @@
+Connecting to  wss://mainnet3.creditcoin.network
+Connected to  wss://mainnet3.creditcoin.network
+Connecting to  wss://mainnet3.creditcoin.network
+Connected to  wss://mainnet3.creditcoin.network
+Connecting to  wss://mainnet3.creditcoin.network
+Connected to  wss://mainnet3.creditcoin.network
