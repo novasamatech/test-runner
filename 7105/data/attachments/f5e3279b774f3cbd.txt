@@ -1,0 +1,36 @@
+Connecting to  wss://rpc-sha-subscan.crustnetwork.xyz
+⚠️ Can't connect by wss://rpc-sha-subscan.crustnetwork.xyz, check it is available? 
+ Handshake status 525 <none> -+-+- {'date': 'Tue, 11 Aug 2026 09:22:41 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'server-timing': 'cfEdge;dur=676,cfOrigin;dur=0', 'x-frame-options': 'SAMEORIGIN', 'server': 'cloudflare', 'cf-ray': 'a2962d5a5e78ff48-MSP', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'error code: 525\n'
+Can't connect to wss://rpc-sha-subscan.crustnetwork.xyz
+Connecting to  wss://rpc2-shadow.crust.network/
+⚠️ Can't connect by wss://rpc2-shadow.crust.network/, check it is available? 
+ Handshake status 200 OK -+-+- {'date': 'Tue, 11 Aug 2026 09:22:43 GMT', 'content-length': '0', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'nel': '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}', 'server-timing': 'cfEdge;dur=14,cfOrigin;dur=2116', 'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=PkfqkrDn5foeIi4Bi6aAd1CsXXUPeOns7IbALIlVHALAIMfGqcT8QK%2FMqRby7GeWxv%2FB9p48CCPFkMHMQBBpviT2rUfUWO36LDnR5Errq3Ic7XgylkB9homYmvj5sfI6pjDh%2Bk4sJChjSTkV"}]}', 'server': 'cloudflare', 'cf-ray': 'a2962d602aaeacd8-MSP', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b''
+Can't connect to wss://rpc2-shadow.crust.network/
+Connecting to  wss://rpc-shadow.crust.network/
+⚠️ Can't connect by wss://rpc-shadow.crust.network/, check it is available? 
+ Handshake status 200 OK -+-+- {'date': 'Tue, 11 Aug 2026 09:22:45 GMT', 'content-length': '0', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'nel': '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}', 'server-timing': 'cfEdge;dur=12,cfOrigin;dur=2091', 'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=tncdSxzyyknksws%2FrQnyF%2F%2F%2FuD4Pz9hclfBODTmcmgDktxYLUWEzmXMAcg5zT2eWRGSMTSyaux4M6%2BVd2adHptAFFZk0eCsgl0mgo48c1qGUXV9CAbfDG9ssCeHsFAUIV%2BbSP294vUhAVjk%3D"}]}', 'server': 'cloudflare', 'cf-ray': 'a2962d6efb8ac75d-MSP', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b''
+Can't connect to wss://rpc-shadow.crust.network/
+Connecting to  wss://rpc-sha-subscan.crustnetwork.xyz
+⚠️ Can't connect by wss://rpc-sha-subscan.crustnetwork.xyz, check it is available? 
+ Handshake status 525 <none> -+-+- {'date': 'Tue, 11 Aug 2026 09:22:51 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'server-timing': 'cfEdge;dur=720,cfOrigin;dur=0', 'x-frame-options': 'SAMEORIGIN', 'server': 'cloudflare', 'cf-ray': 'a2962d9cdc96a201-MSP', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'error code: 525\n'
+Can't connect to wss://rpc-sha-subscan.crustnetwork.xyz
+Connecting to  wss://rpc2-shadow.crust.network/
+⚠️ Can't connect by wss://rpc2-shadow.crust.network/, check it is available? 
+ Handshake status 200 OK -+-+- {'date': 'Tue, 11 Aug 2026 09:22:55 GMT', 'content-length': '0', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'nel': '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}', 'server-timing': 'cfEdge;dur=179,cfOrigin;dur=2899', 'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=lD3%2FL4QjnSvbrFjuuraIZIQ6EJtFpBGGEr5clnJloqRxW0V5nHJGf4rqOL15lurgAFSiSIJ5XuWzjCryRaVWmDGq%2FwxZB%2FIhjkl0afkShAhPG%2BEOBkRMsjq7qjks3X6SkOjxznZHSWc2TSwR"}]}', 'server': 'cloudflare', 'cf-ray': 'a2962da2a9a9acd8-MSP', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b''
+Can't connect to wss://rpc2-shadow.crust.network/
+Connecting to  wss://rpc-shadow.crust.network/
+⚠️ Can't connect by wss://rpc-shadow.crust.network/, check it is available? 
+ Handshake status 200 OK -+-+- {'date': 'Tue, 11 Aug 2026 09:22:57 GMT', 'content-length': '0', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'nel': '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}', 'server-timing': 'cfEdge;dur=16,cfOrigin;dur=2115', 'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=aq4tEpWGPc1M7zxVyxNc7pThVydBliSzH0Kemt106tz5ywfUF9RFOyQYrXe%2BOfw3Wy9dEI2ATzAF2RCCqw6aHl0ROFUiIvUD9uIys3AKZ8LuiVaIvgAGVM%2Bn0t6FXyJ6%2Fzubm4NxGtyXnEw%3D"}]}', 'server': 'cloudflare', 'cf-ray': 'a2962db73c2aacd0-MSP', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b''
+Can't connect to wss://rpc-shadow.crust.network/
+Connecting to  wss://rpc-sha-subscan.crustnetwork.xyz
+⚠️ Can't connect by wss://rpc-sha-subscan.crustnetwork.xyz, check it is available? 
+ Handshake status 525 <none> -+-+- {'date': 'Tue, 11 Aug 2026 09:23:02 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'server-timing': 'cfEdge;dur=348,cfOrigin;dur=0', 'x-frame-options': 'SAMEORIGIN', 'server': 'cloudflare', 'cf-ray': 'a2962de53d4fa201-MSP', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'error code: 525\n'
+Can't connect to wss://rpc-sha-subscan.crustnetwork.xyz
+Connecting to  wss://rpc2-shadow.crust.network/
+⚠️ Can't connect by wss://rpc2-shadow.crust.network/, check it is available? 
+ Handshake status 200 OK -+-+- {'date': 'Tue, 11 Aug 2026 09:23:05 GMT', 'content-length': '0', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'nel': '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}', 'server-timing': 'cfEdge;dur=7,cfOrigin;dur=2073', 'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=9gVOZHeZsdhrF4%2BLHaeQlCj5IHUWIRHSmNcjq2rtt0w4232tExtWUdpRhnLhuLqe7YClWfpF1dkmMIDsb%2BtiqHIj8s6BdSmXUY7Vdt94e%2FC6nKscRVI7bHnooSHLSNCvlJMDNd3X4Vd4oPjs"}]}', 'server': 'cloudflare', 'cf-ray': 'a2962de8b884acd0-MSP', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b''
+Can't connect to wss://rpc2-shadow.crust.network/
+Connecting to  wss://rpc-shadow.crust.network/
+⚠️ Can't connect by wss://rpc-shadow.crust.network/, check it is available? 
+ Handshake status 200 OK -+-+- {'date': 'Tue, 11 Aug 2026 09:23:07 GMT', 'content-length': '0', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'nel': '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}', 'server-timing': 'cfEdge;dur=8,cfOrigin;dur=2338', 'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=UTiWgvbKBurcSi9%2FHr%2B29%2Bl9Isqp8Lne5y0Xt%2FQULy3nj3W8nmpAvKsjl%2B0X6csy1G0UcWvNm%2ByVhXvj5okxIrg4HBZImijukP8gH5MLHHbJ9JijYSkPUG5dGj5rkusJMdtttBCICVFQ1Ag%3D"}]}', 'server': 'cloudflare', 'cf-ray': 'a2962df72ad0acd8-MSP', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b''
+Can't connect to wss://rpc-shadow.crust.network/

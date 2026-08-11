@@ -1,0 +1,12 @@
+Connecting to  wss://rpc-sha-subscan.crustnetwork.xyz
+⚠️ Can't connect by wss://rpc-sha-subscan.crustnetwork.xyz, check it is available? 
+ Handshake status 525 <none> -+-+- {'date': 'Tue, 11 Aug 2026 09:22:44 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'server-timing': 'cfEdge;dur=583,cfOrigin;dur=0', 'x-frame-options': 'SAMEORIGIN', 'server': 'cloudflare', 'cf-ray': 'a2962d705c377d9d-LAX', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'error code: 525\n'
+Can't connect to wss://rpc-sha-subscan.crustnetwork.xyz
+Connecting to  wss://rpc2-shadow.crust.network/
+⚠️ Can't connect by wss://rpc2-shadow.crust.network/, check it is available? 
+ Handshake status 200 OK -+-+- {'date': 'Tue, 11 Aug 2026 09:22:46 GMT', 'content-length': '0', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'nel': '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}', 'server-timing': 'cfEdge;dur=13,cfOrigin;dur=1867', 'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2BVe9ZOg%2FmoqJuAY6CfkWC8zMNfBBB%2B7cl13S%2FH%2BcNborqdS3%2BMgy5QYaEnfBCZ1oEDIuwkZfr5z5sHKQR%2FWIEn0Q87VXu4SeqcVn6QnPrHG2Qz8WbTpUYYke4l3atXncoYAvbV42jV20VWV4"}]}', 'server': 'cloudflare', 'cf-ray': 'a2962d764c3f566d-LAX', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b''
+Can't connect to wss://rpc2-shadow.crust.network/
+Connecting to  wss://rpc-shadow.crust.network/
+⚠️ Can't connect by wss://rpc-shadow.crust.network/, check it is available? 
+ Handshake status 200 OK -+-+- {'date': 'Tue, 11 Aug 2026 09:22:49 GMT', 'content-length': '0', 'connection': 'keep-alive', 'cf-cache-status': 'DYNAMIC', 'nel': '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}', 'server-timing': 'cfEdge;dur=12,cfOrigin;dur=2056', 'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Dpq02i3y6QJw0tubSbwtpfYf6xpPRXVVOT88wr0eaVNjA3tBbjR9iggAVi3g7liburOODYdNZW2lJLcwmrfQeHf2hBCNxmgBKEXld1CECDWcLv9i8FZIYLsfuTat2rcXgw5R3J%2BUmKrwpfk%3D"}]}', 'server': 'cloudflare', 'cf-ray': 'a2962d836a0849d4-LAX', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b''
+Can't connect to wss://rpc-shadow.crust.network/

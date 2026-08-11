@@ -1,5 +1,0 @@
-Connecting to  wss://mainnet3.creditcoin.network
-Connected to  wss://mainnet3.creditcoin.network
-Can't connect to wss://collectives.public.curie.radiumblock.co/ws
-Connecting to  wss://dot-rpc.stakeworld.io/collectives
-Can't connect to
