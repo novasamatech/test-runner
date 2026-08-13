@@ -1,4 +1,0 @@
-Connecting to  wss://rpc.relay.blockchain.enjin.io
-Connected to  wss://rpc.relay.blockchain.enjin.io
-Connecting to  wss://rpc.relay.blockchain.enjin.io
-Connected to  wss://rpc.relay.blockchain.enjin.io
