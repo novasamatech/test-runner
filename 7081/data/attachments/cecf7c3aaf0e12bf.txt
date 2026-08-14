@@ -1,2 +1,0 @@
-Connecting to  wss://eu-ws.unique.network/
-Connected to  wss://eu-ws.unique.network/
