@@ -1,8 +1,0 @@
-Connecting to  wss://crust-parachain.crustapps.net
-⚠️ Can't connect by wss://crust-parachain.crustapps.net, check it is available? 
- Handshake status 502 Bad Gateway -+-+- {'date': 'Wed, 29 Jul 2026 15:40:18 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'server-timing': 'cfEdge;dur=13,cfOrigin;dur=567', 'x-frame-options': 'SAMEORIGIN', 'server': 'cloudflare', 'cf-ray': 'a22d38a2ffe71421-SEA', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'error code: 502\n'
-Can't connect to wss://crust-parachain.crustapps.net
-Connecting to  wss://crust-parachain.crustapps.net
-⚠️ Can't connect by wss://crust-parachain.crustapps.net, check it is available? 
- Handshake status 502 Bad Gateway -+-+- {'date': 'Wed, 29 Jul 2026 15:40:24 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'server-timing': 'cfEdge;dur=14,cfOrigin;dur=622', 'x-frame-options': 'SAMEORIGIN', 'server': 'cloudflare', 'cf-ray': 'a22d38c84f02b9a4-SEA', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'error code: 502\n'
-Can't connect to wss://crust-parachain.crustapps.net
