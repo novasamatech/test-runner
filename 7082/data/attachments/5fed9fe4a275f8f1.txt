@@ -1,2 +1,0 @@
-⚠️ Can't connect by wss://moonriver.public.curie.radiumblock.co/ws, check it is available? 
- Handshake status 530 <none> -+-+- {'date': 'Thu, 30 Jul 2026 15:40:53 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '17', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'x-frame-options': 'SAMEORIGIN', 'server': 'cloudflare', 'cf-ray': 'a23576ddcd1af9a7-IAD'} -+-+- b'error code: 1016\n'
