@@ -1,7 +1,0 @@
-Connecting to  wss://info.dbcwallet.io
-Connected to  wss://info.dbcwallet.io
-Can't connect to wss://rpc.astar.network
-Connecting to  wss://astar-rpc.n.dwellir.com
-Can't connect to wss://astar-rpc.n.dwellir.com
-Connecting to  wss://astar.public.curie.radiumblock.co/ws
-Can't connect to wss://astar.public.curie.radiumblock.co/ws

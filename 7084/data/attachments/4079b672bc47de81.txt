@@ -1,4 +1,0 @@
-Connecting to  wss://nexus.rpc.polytope.technology
-Can't connect to wss://astar-rpc.n.dwellir.com
-Connecting to  wss://astar.public.curie.radiumblock.co/ws
-Connected to  wss://nexus.rpc.polytope.technology
