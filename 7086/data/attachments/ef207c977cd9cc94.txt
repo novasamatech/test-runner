@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://rpc.p3d.top, check it is available? 
- [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1017)
-⚠️ Can't connect by wss://rpc.p3d.top, check it is available? 
- [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1017)
