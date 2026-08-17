@@ -1,6 +1,0 @@
-Connecting to  wss://kreivo.kippu.rocks/
-Connected to  wss://kreivo.kippu.rocks/
-Can't connect to wss://rpc.astar.network
-Connecting to  wss://astar-rpc.n.dwellir.com
-Can't connect toCan't connect to wss://astar-rpc.n.dwellir.com
-Connecting to  wss://astar.public.curie.radiumblock.co/ws
