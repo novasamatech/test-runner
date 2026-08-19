@@ -1,4 +1,0 @@
-Connecting to  wss://crust-parachain.crustapps.net
-⚠️ Can't connect by wss://crust-parachain.crustapps.net, check it is available? 
- Handshake status 502 Bad Gateway -+-+- {'date': 'Mon, 03 Aug 2026 15:54:20 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'server-timing': 'cfEdge;dur=15,cfOrigin;dur=380', 'x-frame-options': 'SAMEORIGIN', 'server': 'cloudflare', 'cf-ray': 'a2568011898a356a-ORD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'error code: 502\n'
-Can't connect to wss://crust-parachain.crustapps.net
