@@ -1,3 +1,0 @@
-Connecting to  wss://nexus.rpc.polytope.technology
-Can't connect to wss://rpc-amplitude.pendulumchain.tech
-Connected to  wss://nexus.rpc.polytope.technology
