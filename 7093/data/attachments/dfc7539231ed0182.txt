@@ -1,2 +1,0 @@
-Connecting to  wss://rpc-amplitude.pendulumchain.tech
-Connecting to  wss://rpc-amplitude.pendulumchain.tech

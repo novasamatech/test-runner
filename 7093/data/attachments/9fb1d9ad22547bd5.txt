@@ -1,4 +1,0 @@
-Connecting to  wss://rpc.laos.laosfoundation.io
-⚠️ Can't connect by wss://rpc.laos.laosfoundation.io, check it is available? 
- [Errno 111] Connection refused
-Can't connect to wss://rpc.laos.laosfoundation.io
