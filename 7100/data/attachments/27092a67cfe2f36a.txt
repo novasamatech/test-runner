@@ -1,6 +1,0 @@
-⚠️ Can't connect by wss://node-sparrow-1.sparrow.shadow-senate.com, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'access-control-allow-origin': '*', 'access-control-expose-headers': '*', 'content-length': '45', 'content-type': 'text/plain', 'date': 'Sat, 08 Aug 2026 15:11:43 GMT', 'vary': 'origin, access-control-request-method, access-control-request-headers'} -+-+- b'Too many connections. Please try again later.'
-⚠️ Can't connect by wss://node-sparrow-1.sparrow.shadow-senate.com, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'access-control-allow-origin': '*', 'access-control-expose-headers': '*', 'content-length': '45', 'content-type': 'text/plain', 'date': 'Sat, 08 Aug 2026 15:11:49 GMT', 'vary': 'origin, access-control-request-method, access-control-request-headers'} -+-+- b'Too many connections. Please try again later.'
-⚠️ Can't connect by wss://node-sparrow-1.sparrow.shadow-senate.com, check it is available? 
- Handshake status 429 Too Many Requests -+-+- {'access-control-allow-origin': '*', 'access-control-expose-headers': '*', 'content-length': '45', 'content-type': 'text/plain', 'date': 'Sat, 08 Aug 2026 15:11:55 GMT', 'vary': 'origin, access-control-request-method, access-control-request-headers'} -+-+- b'Too many connections. Please try again later.'
