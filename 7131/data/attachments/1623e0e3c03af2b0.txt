@@ -1,0 +1,6 @@
+Connecting to  wss://lite.sub.latent.to:443
+⚠️ Can't connect by wss://lite.sub.latent.to:443, check it is available? 
+ Handshake status 525 <none> -+-+- {'date': 'Mon, 24 Aug 2026 09:18:38 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'server-timing': 'cfEdge;dur=27,cfOrigin;dur=0', 'x-frame-options': 'SAMEORIGIN', 'server': 'cloudflare', 'cf-ray': 'a3014554d8b9c609-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'error code: 525\n'
+Can't connect to wss://lite.sub.latent.to:443
+Connecting to  wss://bittensor-finney.api.onfinality.io/public-ws
+Connected to  wss://bittensor-finney.api.onfinality.io/public-ws
