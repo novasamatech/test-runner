@@ -1,3 +1,0 @@
-Connecting to  wss://nexus.rpc.polytope.technology
-Connected to  wss://nexus.rpc.polytope.technology
-Connecting to  wss://nexus.rpc.polytope.technology
