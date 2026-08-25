@@ -1,6 +1,0 @@
-Connecting to  wss://hk.p.bifrost-rpc.liebi.com/ws
-Connected to  wss://hk.p.bifrost-rpc.liebi.com/ws
-Connecting to  wss://hk.p.bifrost-rpc.liebi.com/ws
-Connected to  wss://hk.p.bifrost-rpc.liebi.com/ws
-Connecting to  wss://hk.p.bifrost-rpc.liebi.com/ws
-Connected to  wss://hk.p.bifrost-rpc.liebi.com/ws
