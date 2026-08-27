@@ -1,0 +1,8 @@
+Connecting to  wss://kreivo.kippu.rocks/
+⚠️ Can't connect by wss://kreivo.kippu.rocks/, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Thu, 27 Aug 2026 12:32:49 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'server-timing': 'cfEdge;dur=20,cfOrigin;dur=134', 'x-frame-options': 'SAMEORIGIN', 'server': 'cloudflare', 'cf-ray': 'a31b19e6ef9bd567-LAX', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'error code: 502\n'
+Can't connect to wss://kreivo.kippu.rocks/
+Connecting to  wss://kreivo.kippu.rocks/
+⚠️ Can't connect by wss://kreivo.kippu.rocks/, check it is available? 
+ Handshake status 502 Bad Gateway -+-+- {'date': 'Thu, 27 Aug 2026 12:32:55 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'server-timing': 'cfEdge;dur=8,cfOrigin;dur=151', 'x-frame-options': 'SAMEORIGIN', 'server': 'cloudflare', 'cf-ray': 'a31b1a09ed8734db-LAX', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'error code: 502\n'
+Can't connect to wss://kreivo.kippu.rocks/
