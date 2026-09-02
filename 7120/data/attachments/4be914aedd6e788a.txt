@@ -1,8 +1,0 @@
-Connecting to  wss://public-rpc.mainnet.energywebx.com/
-⚠️ Can't connect by wss://public-rpc.mainnet.energywebx.com/, check it is available? 
- Handshake status 502 Bad Gateway -+-+- {'date': 'Tue, 18 Aug 2026 15:10:34 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'server-timing': 'cfEdge;dur=15,cfOrigin;dur=274', 'x-frame-options': 'SAMEORIGIN', 'server': 'cloudflare', 'cf-ray': 'a2d1d896ccc18062-IAD'} -+-+- b'error code: 502\n'
-Can't connect to wss://public-rpc.mainnet.energywebx.com/
-Connecting to  wss://public-rpc.mainnet.energywebx.com/
-⚠️ Can't connect by wss://public-rpc.mainnet.energywebx.com/, check it is available? 
- Handshake status 502 Bad Gateway -+-+- {'date': 'Tue, 18 Aug 2026 15:10:39 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'server-timing': 'cfEdge;dur=24,cfOrigin;dur=93', 'x-frame-options': 'SAMEORIGIN', 'server': 'cloudflare', 'cf-ray': 'a2d1d8ba6d6a255f-IAD'} -+-+- b'error code: 502\n'
-Can't connect to wss://public-rpc.mainnet.energywebx.com/
