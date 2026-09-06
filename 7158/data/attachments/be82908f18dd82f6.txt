@@ -1,0 +1,2 @@
+Connecting to  wss://polkadot-people-rpc.polkadot.io
+Connected to  wss://polkadot-people-rpc.polkadot.io
