@@ -1,0 +1,8 @@
+Connecting to  wss://kreivo.kippu.rocks/
+⚠️ Can't connect by wss://kreivo.kippu.rocks/, check it is available? 
+ Handshake status 526 <none> -+-+- {'date': 'Wed, 09 Sep 2026 09:13:50 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'server-timing': 'cfEdge;dur=165,cfOrigin;dur=0', 'x-frame-options': 'SAMEORIGIN', 'server': 'cloudflare', 'cf-ray': 'a385144a0aba3167-SEA', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'error code: 526\n'
+Can't connect to wss://kreivo.kippu.rocks/
+Connecting to  wss://kreivo.kippu.rocks/
+⚠️ Can't connect by wss://kreivo.kippu.rocks/, check it is available? 
+ Handshake status 526 <none> -+-+- {'date': 'Wed, 09 Sep 2026 09:13:56 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'server-timing': 'cfEdge;dur=191,cfOrigin;dur=0', 'x-frame-options': 'SAMEORIGIN', 'server': 'cloudflare', 'cf-ray': 'a385146cbc5de3a4-SEA', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'error code: 526\n'
+Can't connect to wss://kreivo.kippu.rocks/

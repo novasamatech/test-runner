@@ -1,2 +1,0 @@
-Connecting to  wss://api.kusama.encointer.org
-Connected to  wss://api.kusama.encointer.org

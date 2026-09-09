@@ -1,0 +1,6 @@
+Connecting to  wss://rpc.astar.network
+⚠️ Can't connect by wss://rpc.astar.network, check it is available? 
+ [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1017)
+Can't connect to wss://rpc.astar.network
+Connecting to  wss://astar-rpc.n.dwellir.com
+Connected to  wss://astar-rpc.n.dwellir.com
