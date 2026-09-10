@@ -1,2 +1,0 @@
-Connecting to  wss://ws.manta.systems
-Connected to  wss://ws.manta.systems
