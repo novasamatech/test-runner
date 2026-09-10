@@ -1,0 +1,12 @@
+Connecting to  wss://kreivo.kippu.rocks/
+⚠️ Can't connect by wss://kreivo.kippu.rocks/, check it is available? 
+ Handshake status 526 <none> -+-+- {'date': 'Thu, 10 Sep 2026 09:13:32 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'server-timing': 'cfEdge;dur=156,cfOrigin;dur=0', 'x-frame-options': 'SAMEORIGIN', 'server': 'cloudflare', 'cf-ray': 'a38d5136390fa171-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'error code: 526\n'
+Can't connect to wss://kreivo.kippu.rocks/
+Connecting to  wss://kreivo.kippu.rocks/
+⚠️ Can't connect by wss://kreivo.kippu.rocks/, check it is available? 
+ Handshake status 526 <none> -+-+- {'date': 'Thu, 10 Sep 2026 09:13:37 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'server-timing': 'cfEdge;dur=157,cfOrigin;dur=0', 'x-frame-options': 'SAMEORIGIN', 'server': 'cloudflare', 'cf-ray': 'a38d515ae8283c60-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'error code: 526\n'
+Can't connect to wss://kreivo.kippu.rocks/
+Connecting to  wss://kreivo.kippu.rocks/
+⚠️ Can't connect by wss://kreivo.kippu.rocks/, check it is available? 
+ Handshake status 526 <none> -+-+- {'date': 'Thu, 10 Sep 2026 09:13:43 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'server-timing': 'cfEdge;dur=50,cfOrigin;dur=0', 'x-frame-options': 'SAMEORIGIN', 'server': 'cloudflare', 'cf-ray': 'a38d517ecc8aa171-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'error code: 526\n'
+Can't connect to wss://kreivo.kippu.rocks/
