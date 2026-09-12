@@ -1,0 +1,2 @@
+Connecting to  wss://info.dbcwallet.io
+Connected to  wss://info.dbcwallet.io
