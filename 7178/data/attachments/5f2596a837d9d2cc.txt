@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://rpc-people-polkadot.luckyfriday.io, check it is available? 
+ Connection to remote host was lost.
