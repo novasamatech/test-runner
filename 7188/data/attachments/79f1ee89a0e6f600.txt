@@ -1,0 +1,1 @@
+Timeout 15 when creating connection: wss://shiden.public.curie.radiumblock.co/ws
