@@ -1,0 +1,2 @@
+Connecting to  wss://kusama-people-rpc.polkadot.io
+Connected to  wss://kusama-people-rpc.polkadot.io
