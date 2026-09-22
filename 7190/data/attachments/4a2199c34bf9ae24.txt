@@ -1,0 +1,6 @@
+Connecting to  wss://rpc-coretime-kusama.luckyfriday.io
+⚠️ Can't connect by wss://rpc-coretime-kusama.luckyfriday.io, check it is available? 
+ Connection to remote host was lost.
+Can't connect to wss://rpc-coretime-kusama.luckyfriday.io
+Connecting to  wss://kusama-coretime-rpc.polkadot.io
+Connected to  wss://kusama-coretime-rpc.polkadot.io
