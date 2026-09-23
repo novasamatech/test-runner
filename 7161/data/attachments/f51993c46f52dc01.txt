@@ -1,2 +1,0 @@
-Connecting to  wss://archive.parachain.curioinvest.com
-Connected to  wss://archive.parachain.curioinvest.com
