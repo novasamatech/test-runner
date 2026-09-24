@@ -1,2 +1,0 @@
-Connecting to  wss://basilisk-rpc.n.dwellir.com
-Connected to  wss://basilisk-rpc.n.dwellir.com
