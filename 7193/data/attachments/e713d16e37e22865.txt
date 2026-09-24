@@ -1,0 +1,16 @@
+Connecting to  wss://rpc.xx.network
+⚠️ Can't connect by wss://rpc.xx.network, check it is available? 
+ Handshake status 525 <none> -+-+- {'date': 'Thu, 24 Sep 2026 09:13:42 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'x-frame-options': 'SAMEORIGIN', 'server': 'cloudflare', 'cf-ray': 'a400acb7da43207e-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'error code: 525\n'
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+⚠️ Can't connect by wss://rpc-hetzner.xx.network, check it is available? 
+ Handshake status 525 <none> -+-+- {'date': 'Thu, 24 Sep 2026 09:13:43 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '16', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'x-frame-options': 'SAMEORIGIN', 'server': 'cloudflare', 'cf-ray': 'a400acbc2a3b89b1-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'error code: 525\n'
+Can't connect to wss://rpc-hetzner.xx.network
+Connecting to  wss://rpc.xx.network
+⚠️ Can't connect by wss://rpc.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Thu, 24 Sep 2026 09:13:48 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'server': 'cloudflare', 'nel': '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}', 'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=G3GF9GfdpmttV8FraVUXku6cZ06fKrL3CLIQahxVToxQ2r31oiv5lj4VGXA8UyVY2jVtejHrY1gyQjRu6lVZnqTajdQrv12u8E4IRDxigbVMFvGwAQbZAFiDtqgptY0SJQ%3D%3D"}]}', 'cf-cache-status': 'DYNAMIC', 'cf-ray': 'a400acde5b61207e-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to wss://rpc.xx.network
+Connecting to  wss://rpc-hetzner.xx.network
+⚠️ Can't connect by wss://rpc-hetzner.xx.network, check it is available? 
+ Handshake status 500 Internal Server Error -+-+- {'date': 'Thu, 24 Sep 2026 09:13:49 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'server': 'cloudflare', 'nel': '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=dSv3TxvOlCjbCX9Amkmh1oAHc0SwiSVJYjPdi%2B%2B4r8NssAOv0IYIsoLyVRh9EuJSEDRcrp7BeXUPJfmTzrxKR1EoWPg8Xhex%2BZ1%2BlYZNKKmEWC8%2Bk328etdqJHCX1AQYkD5m%2B%2FFXYs4Z"}]}', 'cf-ray': 'a400ace07a29e53f-IAD', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- None
+Can't connect to wss://rpc-hetzner.xx.network

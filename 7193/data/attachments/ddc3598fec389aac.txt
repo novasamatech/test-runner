@@ -1,0 +1,6 @@
+Connecting to  wss://peaq-rpc.publicnode.com
+⚠️ Can't connect by wss://peaq-rpc.publicnode.com, check it is available? 
+ Connection to remote host was lost.
+Can't connect to wss://peaq-rpc.publicnode.com
+Connecting to  wss://peaq-rpc.publicnode.com
+Connected to  wss://peaq-rpc.publicnode.com
