@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://hk.p.bifrost-rpc.liebi.com/ws, check it is available? 
- [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1017)
-⚠️ Can't connect by wss://hk.p.bifrost-rpc.liebi.com/ws, check it is available? 
- [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1017)

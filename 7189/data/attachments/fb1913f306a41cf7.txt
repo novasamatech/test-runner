@@ -1,2 +1,0 @@
-Connecting to  wss://apps-rpc.polkadot.io
-Connected to  wss://apps-rpc.polkadot.io
