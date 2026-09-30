@@ -1,3 +1,0 @@
-Connecting to  wss://mainnet.creditcoin.network/ws
-Connecting to  wss://mainnet.creditcoin.network/ws
-Connecting to  wss://mainnet.creditcoin.network/ws
