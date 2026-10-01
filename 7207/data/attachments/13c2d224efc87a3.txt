@@ -1,0 +1,6 @@
+Connecting to  wss://api.kusama.encointer.org
+⚠️ Can't connect by wss://api.kusama.encointer.org, check it is available? 
+ [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1017)
+Can't connect to wss://api.kusama.encointer.org
+Connecting to  wss://encointer-kusama.rotko.net
+Connected to  wss://encointer-kusama.rotko.net
