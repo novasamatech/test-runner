@@ -1,0 +1,2 @@
+⚠️ Can't connect by wss://1.rpc.frequency.xyz, check it is available? 
+ [Errno -3] Temporary failure in name resolution
