@@ -1,0 +1,8 @@
+Connecting to  wss://archive.parachain.curioinvest.com
+⚠️ Can't connect by wss://archive.parachain.curioinvest.com, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'date': 'Wed, 07 Oct 2026 09:15:19 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cache-control': 'no-cache', 'cf-cache-status': 'DYNAMIC', 'nel': '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}', 'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=bDTSxmPXPUZcm7JWY%2Fut58KwREKzMzCK%2FsXtec%2FpulB%2Br8y6SdV5BPBUL%2BbhIlzbTiNvPXs1YEbPPWFqhayj6Fx7BKqE6QvJNKgmpa1JJUxbYwDgwC5fn%2FCEi%2F4vpODg309uV5UhfWVUe3HLABf0ST1oJQ%3D%3D"}]}', 'server': 'cloudflare', 'cf-ray': 'a46bccf51e1e72cd-AMS'} -+-+- None
+Can't connect to wss://archive.parachain.curioinvest.com
+Connecting to  wss://parachain.curioinvest.com/
+⚠️ Can't connect by wss://parachain.curioinvest.com/, check it is available? 
+ Handshake status 503 Service Unavailable -+-+- {'date': 'Wed, 07 Oct 2026 09:15:20 GMT', 'content-type': 'text/html', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'cache-control': 'no-cache', 'cf-cache-status': 'DYNAMIC', 'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=OJjNAtziUuR9MEUjnqsYpHcRt8Igcryj0GS05%2BodyQIDaDw3Pvtv8xvSLQ%2FWKuGJJLcDFDNDMp0LnGvDU2KM3KPmGRtBC4m%2Bgrd%2BUniV12NL0GONCRPzEVkeWMoMl9iJ9YQcEbDJ2T1bzqg%3D"}]}', 'nel': '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}', 'server': 'cloudflare', 'cf-ray': 'a46bccf99d85cd64-LHR'} -+-+- None
+Can't connect to wss://parachain.curioinvest.com/
