@@ -1,0 +1,2 @@
+Connecting to  wss://hydration-rpc.n.dwellir.com
+Connected to  wss://hydration-rpc.n.dwellir.com
