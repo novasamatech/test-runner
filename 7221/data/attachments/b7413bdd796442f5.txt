@@ -1,0 +1,2 @@
+Connecting to  wss://asset-hub-polkadot-rpc.n.dwellir.com
+Connected to  wss://asset-hub-polkadot-rpc.n.dwellir.com
