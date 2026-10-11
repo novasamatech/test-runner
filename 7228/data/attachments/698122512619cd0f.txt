@@ -1,0 +1,2 @@
+Connecting to  wss://collectives.public.curie.radiumblock.co/ws
+Connecting to  wss://collectives.public.curie.radiumblock.co/ws
