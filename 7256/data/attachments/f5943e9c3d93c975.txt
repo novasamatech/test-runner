@@ -1,2 +1,0 @@
-Connecting to  wss://apps-kusama-rpc.polkadot.io
-Connected to  wss://apps-kusama-rpc.polkadot.io
