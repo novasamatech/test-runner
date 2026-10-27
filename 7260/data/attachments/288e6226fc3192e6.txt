@@ -1,0 +1,6 @@
+Connecting to  wss://public-archive.mainnet.acurast.com
+Connected to  wss://public-archive.mainnet.acurast.com
+Connecting to  wss://public-archive.mainnet.acurast.com
+Connected to  wss://public-archive.mainnet.acurast.com
+Connecting to  wss://public-archive.mainnet.acurast.com
+Connected to  wss://public-archive.mainnet.acurast.com

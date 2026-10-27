@@ -1,0 +1,6 @@
+Connecting to  wss://rpc-pendulum.prd.pendulumchain.tech
+Connected to  wss://rpc-pendulum.prd.pendulumchain.tech
+Connecting to  wss://rpc-pendulum.prd.pendulumchain.tech
+Connected to  wss://rpc-pendulum.prd.pendulumchain.tech
+Connecting to  wss://rpc-pendulum.prd.pendulumchain.tech
+Connected to  wss://rpc-pendulum.prd.pendulumchain.tech
