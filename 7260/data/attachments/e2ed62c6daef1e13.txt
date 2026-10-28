@@ -1,4 +1,0 @@
-Connecting to  wss://mainnet.ternoa.network
-Connected to  wss://mainnet.ternoa.network
-Connecting to  wss://mainnet.ternoa.network
-Connected to  wss://mainnet.ternoa.network

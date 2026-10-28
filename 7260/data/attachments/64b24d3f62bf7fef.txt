@@ -1,6 +1,0 @@
-Connecting to  wss://rpc.litentry-parachain.litentry.io
-Connected to  wss://rpc.litentry-parachain.litentry.io
-Connecting to  wss://rpc.litentry-parachain.litentry.io
-Connected to  wss://rpc.litentry-parachain.litentry.io
-Connecting to  wss://rpc.litentry-parachain.litentry.io
-Connected to  wss://rpc.litentry-parachain.litentry.io
