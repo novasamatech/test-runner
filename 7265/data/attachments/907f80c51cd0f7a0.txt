@@ -1,4 +1,0 @@
-⚠️ Can't connect by wss://hydration.rotko.net, check it is available? 
- [Errno 101] Network is unreachable
-⚠️ Can't connect by wss://hydration.rotko.net, check it is available? 
- [Errno 101] Network is unreachable
