@@ -1,0 +1,2 @@
+Connecting to  wss://dot-rpc.stakeworld.io/bridgehub
+Connected to  wss://dot-rpc.stakeworld.io/bridgehub
