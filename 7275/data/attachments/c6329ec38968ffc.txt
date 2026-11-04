@@ -1,0 +1,2 @@
+Connecting to  wss://parachain-rpc.origin-trail.network
+Connected to  wss://parachain-rpc.origin-trail.network
