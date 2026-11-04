@@ -1,0 +1,6 @@
+Connecting to  wss://westend-rpc.polkadot.io
+Connected to  wss://westend-rpc.polkadot.io
+Connecting to  wss://westend-rpc.polkadot.io
+Connected to  wss://westend-rpc.polkadot.io
+Connecting to  wss://westend-rpc.polkadot.io
+Connected to  wss://westend-rpc.polkadot.io
