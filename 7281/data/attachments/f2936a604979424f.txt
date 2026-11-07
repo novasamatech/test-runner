@@ -1,0 +1,2 @@
+Connecting to  wss://mythos-rpc.dmarket.com
+Connected to  wss://mythos-rpc.dmarket.com
