@@ -1,0 +1,2 @@
+Connecting to  wss://so.polkadex.ee
+Connected to  wss://so.polkadex.ee
