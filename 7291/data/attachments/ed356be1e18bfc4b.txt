@@ -1,0 +1,2 @@
+Connecting to  wss://mainnet-rpc.polymesh.network
+Connected to  wss://mainnet-rpc.polymesh.network
