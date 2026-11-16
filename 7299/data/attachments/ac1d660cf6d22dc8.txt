@@ -1,0 +1,18 @@
+Connecting to  wss://so.polkadex.ee
+⚠️ Can't connect by wss://so.polkadex.ee, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Mon, 16 Nov 2026 09:11:43 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'server': 'cloudflare', 'nel': '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}', 'vary': 'origin, access-control-request-method, access-control-request-headers', 'access-control-allow-origin': '*', 'access-control-expose-headers': '*', 'cf-cache-status': 'DYNAMIC', 'strict-transport-security': 'max-age=0', 'server-timing': 'cfEdge;dur=24,cfOrigin;dur=502', 'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=pzU9C7VawaXyHadEjc2VsQ6ZqYdcrIGKoyn5mTXwWXw%2BXriYYyCZpDF59OG73%2BHWFORdn731aSm%2FzjzHNQgc87xc8ae%2FuyfPPrKRMRld59fZMn%2F%2BNEmQBJiqxqen2kAi8A%3D%3D"}]}', 'cf-ray': 'a5b55eb06f67de42-SJC', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to wss://so.polkadex.ee
+Connecting to  wss://polkadex.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://polkadex.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 <none> -+-+- {'date': 'Mon, 16 Nov 2026 09:11:44 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '17', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'server-timing': 'cfEdge;dur=6,cfOrigin;dur=0', 'x-frame-options': 'SAMEORIGIN', 'server': 'cloudflare', 'cf-ray': 'a5b55eb5cee69881-SJC', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'error code: 1016\n'
+Can't connect to wss://polkadex.public.curie.radiumblock.co/ws
+Connecting to  wss://so.polkadex.ee
+⚠️ Can't connect by wss://so.polkadex.ee, check it is available? 
+ Handshake status 429 Too Many Requests -+-+- {'date': 'Mon, 16 Nov 2026 09:11:50 GMT', 'content-type': 'text/plain', 'content-length': '45', 'connection': 'keep-alive', 'server': 'cloudflare', 'nel': '{"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}', 'vary': 'origin, access-control-request-method, access-control-request-headers', 'access-control-allow-origin': '*', 'access-control-expose-headers': '*', 'cf-cache-status': 'DYNAMIC', 'strict-transport-security': 'max-age=0', 'server-timing': 'cfEdge;dur=23,cfOrigin;dur=506', 'report-to': '{"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=HWVfnqPopZphWPcg5tY0P7R6PHpwi2573iYhvZHeN0BApK1l0iOiArrvWVBM3HHgFq2fI7Q%2B%2FDyxsqVUDucdmeV2kFuNdz5AXgC85kXbyIG4TCFQd5kx%2F4ztwZx3JLfF5Q%3D%3D"}]}', 'cf-ray': 'a5b55ed79e7e7ad6-SJC', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'Too many connections. Please try again later.'
+Can't connect to wss://so.polkadex.ee
+Connecting to  wss://polkadex.public.curie.radiumblock.co/ws
+⚠️ Can't connect by wss://polkadex.public.curie.radiumblock.co/ws, check it is available? 
+ Handshake status 530 <none> -+-+- {'date': 'Mon, 16 Nov 2026 09:11:50 GMT', 'content-type': 'text/plain; charset=UTF-8', 'content-length': '17', 'connection': 'keep-alive', 'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0', 'expires': 'Thu, 01 Jan 1970 00:00:01 GMT', 'referrer-policy': 'same-origin', 'server-timing': 'cfEdge;dur=16,cfOrigin;dur=0', 'x-frame-options': 'SAMEORIGIN', 'server': 'cloudflare', 'cf-ray': 'a5b55edc6f9498ce-SJC', 'alt-svc': 'h3=":443"; ma=86400'} -+-+- b'error code: 1016\n'
+Can't connect to wss://polkadex.public.curie.radiumblock.co/ws
+Connecting to  wss://so.polkadex.ee
+Connected to  wss://so.polkadex.ee
