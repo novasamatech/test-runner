@@ -1,2 +1,0 @@
-Connecting to  wss://rpc.matrix.blockchain.enjin.io
-Connected to  wss://rpc.matrix.blockchain.enjin.io

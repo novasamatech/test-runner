@@ -1,1 +1,0 @@
-Timeout 15 when creating connection: wss://people-polkadot.public.curie.radiumblock.co/ws
