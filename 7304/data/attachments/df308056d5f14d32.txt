@@ -1,0 +1,2 @@
+Connecting to  wss://rpc-coretime-kusama.luckyfriday.io
+Connected to  wss://rpc-coretime-kusama.luckyfriday.io
