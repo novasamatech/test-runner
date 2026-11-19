@@ -1,0 +1,2 @@
+Connecting to  wss://ksm-rpc.stakeworld.io/bridgehub
+Connected to  wss://ksm-rpc.stakeworld.io/bridgehub
