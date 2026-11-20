@@ -1,0 +1,2 @@
+Connecting to  wss://rpc.mainnet.cere.network/ws
+Connected to  wss://rpc.mainnet.cere.network/ws
