@@ -1,0 +1,4 @@
+Connecting to  wss://polkadot.rpc.robonomics.network/
+Connected to  wss://polkadot.rpc.robonomics.network/
+Connecting to  wss://polkadot.rpc.robonomics.network/
+Connected to  wss://polkadot.rpc.robonomics.network/
