@@ -1,0 +1,2 @@
+Connecting to  wss://rpc-para.ajuna.network
+Connected to  wss://rpc-para.ajuna.network
