@@ -1,0 +1,2 @@
+Connecting to  wss://rpc.vara-network.io
+Connected to  wss://rpc.vara-network.io
