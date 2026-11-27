@@ -1,0 +1,2 @@
+Connecting to  wss://peaq-rpc.publicnode.com
+Connected to  wss://peaq-rpc.publicnode.com
